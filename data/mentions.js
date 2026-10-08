@@ -8,7 +8,8 @@ window.SWASTIKA = {
    "Bikash Ranjan Bhattacharya",
    "Mohammad Salim",
    "Satarup Ghosh",
-   "Minakshi Mukherjee"
+   "Minakshi Mukherjee",
+   "Dipsita Dhar"
   ]
  },
  "mentions": [
@@ -63,7 +64,7 @@ window.SWASTIKA = {
   {
    "leader": "Dipsita Dhar",
    "leader_bn": "দীপ্সিতা ধর",
-   "featured": false,
+   "featured": true,
    "issue": "20260817",
    "date": "2026-08-17",
    "label": "",
@@ -415,7 +416,7 @@ window.SWASTIKA = {
   {
    "leader": "Dipsita Dhar",
    "leader_bn": "দীপ্সিতা ধর",
-   "featured": false,
+   "featured": true,
    "issue": "20260608",
    "date": "2026-06-08",
    "label": "",
@@ -1279,7 +1280,7 @@ window.SWASTIKA = {
   {
    "leader": "Dipsita Dhar",
    "leader_bn": "দীপ্সিতা ধর",
-   "featured": false,
+   "featured": true,
    "issue": "20251201",
    "date": "2025-12-01",
    "label": "",
@@ -2287,7 +2288,7 @@ window.SWASTIKA = {
   {
    "leader": "Dipsita Dhar",
    "leader_bn": "দীপ্সিতা ধর",
-   "featured": false,
+   "featured": true,
    "issue": "20250505",
    "date": "2025-05-05",
    "label": "",
