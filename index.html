@@ -182,7 +182,7 @@ footer{color:var(--muted);font-size:12.5px;padding:24px 0 40px;border-top:1px so
         (g.status === "auto" ? `<span class="tag auto">auto-detected · not yet checked</span>` : "");
       const pages = g.leaders.map(x => x.mention_pages)[0];
       h += `<article class="card">
-        <div class="date">${f.d}<small>${f.y}</small></div>
+        <div class="date">${g.label ? esc(g.label) : f.d}<small>${f.y}</small></div>
         <div>
           <p class="head bn">${esc(g.heading)}</p>
           <div class="meta"><span class="bn">${esc(g.author)}</span>${g.author ? " · " : ""}mentioned on p. ${esc(pages)}${g.article_pages && g.article_pages !== String(g.page) ? ` · article pp. ${esc(g.article_pages)}` : ""}</div>
