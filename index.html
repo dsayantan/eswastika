@@ -1,0 +1,202 @@
+<!doctype html>
+<html lang="bn">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Swastika Watch</title>
+<meta name="description" content="Index of CPIM leaders mentioned in the RSS weekly Swastika, with links to the exact page on eswastika.com.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Bengali:wght@400;600;700&family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#f6f4f1; --surface:#ffffff; --ink:#1d1b19; --muted:#6b6560; --line:#e4dfd8;
+  --accent:#b3261e; --accent-soft:#fbe9e7; --chip:#efebe6; --auto:#8a5a00; --auto-soft:#fff4dc;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#151413; --surface:#1f1d1b; --ink:#eeeae5; --muted:#a39d96; --line:#33302c;
+    --accent:#ff8a80; --accent-soft:#3a1f1d; --chip:#2a2725; --auto:#f0c060; --auto-soft:#33291a;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#151413; --surface:#1f1d1b; --ink:#eeeae5; --muted:#a39d96; --line:#33302c;
+  --accent:#ff8a80; --accent-soft:#3a1f1d; --chip:#2a2725; --auto:#f0c060; --auto-soft:#33291a;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.55 Inter,"Noto Sans Bengali",system-ui,sans-serif}
+.bn{font-family:"Noto Sans Bengali",Inter,sans-serif}
+.wrap{max-width:1040px;margin:0 auto;padding:0 16px}
+header{padding:32px 0 16px}
+h1{margin:0;font-size:28px;letter-spacing:-.01em}
+h1 span{color:var(--accent)}
+.sub{color:var(--muted);margin:6px 0 0;max-width:720px}
+.stats{display:flex;gap:12px;flex-wrap:wrap;margin:20px 0 4px}
+.stat{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:10px 14px;min-width:120px}
+.stat b{display:block;font-size:22px}
+.stat small{color:var(--muted)}
+.controls{position:sticky;top:0;z-index:5;background:var(--bg);padding:12px 0;border-bottom:1px solid var(--line)}
+.chips{display:flex;gap:8px;flex-wrap:wrap}
+.chip{border:1px solid var(--line);background:var(--chip);color:var(--ink);border-radius:999px;padding:6px 12px;cursor:pointer;font:inherit;font-size:13px}
+.chip[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:#fff}
+.chip .n{opacity:.7;margin-left:4px}
+.chip.feat{font-weight:600}
+.row2{display:flex;gap:8px;margin-top:10px;flex-wrap:wrap}
+input[type=search],select{font:inherit;padding:8px 10px;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--ink)}
+input[type=search]{flex:1;min-width:180px}
+.more{background:none;border:0;color:var(--accent);cursor:pointer;font:inherit;font-size:13px;padding:6px 4px}
+main{padding:16px 0 48px}
+.month{margin:22px 0 8px;font-size:13px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted)}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:14px 16px;margin-bottom:10px;display:grid;grid-template-columns:96px 1fr auto;gap:14px;align-items:start}
+.date{font-weight:600;font-size:14px}
+.date small{display:block;color:var(--muted);font-weight:400}
+.head{font-size:17px;font-weight:600;line-height:1.4;margin:0}
+.meta{color:var(--muted);font-size:13px;margin-top:2px}
+.note{font-size:13.5px;margin-top:6px}
+.tags{display:flex;gap:6px;flex-wrap:wrap;margin-top:8px}
+.tag{background:var(--accent-soft);color:var(--accent);border-radius:6px;padding:2px 8px;font-size:12.5px}
+.tag.other{background:var(--chip);color:var(--ink)}
+.tag.auto{background:var(--auto-soft);color:var(--auto)}
+a.open{white-space:nowrap;text-decoration:none;background:var(--ink);color:var(--bg);border-radius:8px;padding:8px 12px;font-size:13px;font-weight:600}
+a.open:hover{background:var(--accent);color:#fff}
+.empty{color:var(--muted);padding:40px 0;text-align:center}
+footer{color:var(--muted);font-size:12.5px;padding:24px 0 40px;border-top:1px solid var(--line)}
+@media (max-width:640px){
+  .card{grid-template-columns:1fr;gap:6px}
+  .date{display:flex;gap:8px;align-items:baseline}
+  a.open{justify-self:start}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Swastika <span>Watch</span></h1>
+    <p class="sub">Every article in the RSS weekly <span class="bn">স্বস্তিকা</span> that names a CPIM leader, with the heading, author and a link that opens the exact page on <a href="https://www.eswastika.com/" target="_blank" rel="noopener">eswastika.com</a>.</p>
+    <div class="stats" id="stats"></div>
+  </header>
+</div>
+<div class="controls">
+  <div class="wrap">
+    <div class="chips" id="chips"></div>
+    <div class="row2">
+      <input type="search" id="q" placeholder="Search heading, author, note…" aria-label="Search">
+      <select id="year" aria-label="Year"></select>
+      <select id="status" aria-label="Status">
+        <option value="">All entries</option>
+        <option value="verified">Verified only</option>
+        <option value="auto">New / unverified</option>
+      </select>
+    </div>
+  </div>
+</div>
+<div class="wrap">
+  <main id="list"></main>
+  <footer id="foot"></footer>
+</div>
+<script src="data/mentions.js"></script>
+<script>
+(function(){
+  const D = window.SWASTIKA || {meta:{}, mentions:[]};
+  const M = D.mentions, meta = D.meta;
+  const featured = meta.featured || [];
+  const state = {leader: "__featured", q: "", year: "", status: "", showAll: false};
+  const bnNum = s => String(s).replace(/\d/g, d => "০১২৩৪৫৬৭৮৯"[d]);
+  const fmt = iso => {
+    if (!/^\d{4}-\d\d-\d\d$/.test(iso)) return {d: iso, y: ""};
+    const dt = new Date(iso + "T00:00:00");
+    return {d: dt.toLocaleDateString("en-GB", {day: "numeric", month: "short"}), y: dt.getFullYear()};
+  };
+  const esc = s => String(s || "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+
+  // counts per leader (articles)
+  const counts = {};
+  M.forEach(m => counts[m.leader] = (counts[m.leader] || 0) + 1);
+  const others = Object.keys(counts).filter(l => !featured.includes(l)).sort((a,b) => counts[b]-counts[a]);
+
+  // stats
+  const featArticles = new Set(M.filter(m => m.featured).map(m => m.issue + m.heading)).size;
+  document.getElementById("stats").innerHTML =
+    `<div class="stat"><b>${meta.issues_scanned || "–"}</b><small>issues searched</small></div>` +
+    featured.map(l => `<div class="stat"><b>${counts[l] || 0}</b><small>${esc(l)}</small></div>`).join("") +
+    `<div class="stat"><b>${new Set(M.map(m => m.issue + m.heading)).size}</b><small>articles in total</small></div>`;
+
+  // year select
+  const years = [...new Set(M.map(m => m.date.slice(0,4)).filter(y => /^\d{4}$/.test(y)))].sort().reverse();
+  const ys = document.getElementById("year");
+  ys.innerHTML = `<option value="">All years</option>` + years.map(y => `<option>${y}</option>`).join("");
+
+  function chips(){
+    const mk = (val, label, n, cls) =>
+      `<button class="chip ${cls||""}" data-v="${esc(val)}" aria-pressed="${state.leader===val}">${esc(label)}${n!=null?`<span class="n">${n}</span>`:""}</button>`;
+    let h = mk("__featured", "Key leaders", null, "feat") + mk("", "Everyone", null);
+    h += featured.map(l => mk(l, l, counts[l] || 0, "feat")).join("");
+    const shown = state.showAll ? others : others.slice(0, 4);
+    h += shown.map(l => mk(l, l, counts[l])).join("");
+    if (others.length > 4) h += `<button class="more" id="more">${state.showAll ? "Fewer" : "+" + (others.length - 4) + " more"}</button>`;
+    const el = document.getElementById("chips");
+    el.innerHTML = h;
+    el.querySelectorAll(".chip").forEach(b => b.onclick = () => { state.leader = b.dataset.v; chips(); render(); });
+    const mo = document.getElementById("more");
+    if (mo) mo.onclick = () => { state.showAll = !state.showAll; chips(); };
+  }
+
+  function render(){
+    const q = state.q.trim().toLowerCase();
+    let rows = M.filter(m =>
+      (state.leader === "" || (state.leader === "__featured" ? m.featured : m.leader === state.leader)) &&
+      (!state.year || m.date.startsWith(state.year)) &&
+      (!state.status || m.status === state.status) &&
+      (!q || [m.heading, m.author, m.note, m.leader, m.leader_bn].join(" ").toLowerCase().includes(q)));
+    // group by article
+    const groups = new Map();
+    rows.forEach(m => {
+      const k = m.issue + "|" + m.heading;
+      if (!groups.has(k)) groups.set(k, {...m, leaders: [], notes: []});
+      const g = groups.get(k);
+      g.leaders.push(m);
+      if (m.note && !g.notes.includes(m.note)) g.notes.push(m.note);
+      if (m.page < g.page) g.page = m.page;
+    });
+    // all leaders named in that article (for context tags)
+    const allIn = {};
+    M.forEach(m => { const k = m.issue + "|" + m.heading; (allIn[k] = allIn[k] || new Set()).add(m.leader); });
+
+    const list = document.getElementById("list");
+    if (!groups.size) { list.innerHTML = `<p class="empty">No articles match these filters.</p>`; return; }
+    let h = "", lastMonth = "";
+    [...groups.values()].sort((a,b) => (b.date + String(1000-b.page).padStart(4,"0")).localeCompare(a.date + String(1000-a.page).padStart(4,"0")))
+    .forEach(g => {
+      const month = /^\d{4}-\d\d/.test(g.date) ? new Date(g.date + "T00:00:00").toLocaleDateString("en-GB", {month: "long", year: "numeric"}) : "Special issues";
+      if (month !== lastMonth) { h += `<div class="month">${month}</div>`; lastMonth = month; }
+      const f = fmt(g.date);
+      const k = g.issue + "|" + g.heading;
+      const tags = [...allIn[k]].map(l => `<span class="tag ${featured.includes(l) ? "" : "other"}">${esc(l)}</span>`).join("") +
+        (g.status === "auto" ? `<span class="tag auto">auto-detected · not yet checked</span>` : "");
+      const pages = g.leaders.map(x => x.mention_pages)[0];
+      h += `<article class="card">
+        <div class="date">${f.d}<small>${f.y}</small></div>
+        <div>
+          <p class="head bn">${esc(g.heading)}</p>
+          <div class="meta"><span class="bn">${esc(g.author)}</span>${g.author ? " · " : ""}mentioned on p. ${esc(pages)}${g.article_pages && g.article_pages !== String(g.page) ? ` · article pp. ${esc(g.article_pages)}` : ""}</div>
+          ${g.notes.length ? `<div class="note">${esc(g.notes.join(" / "))}</div>` : ""}
+          <div class="tags">${tags}</div>
+        </div>
+        <a class="open" href="https://www.eswastika.com/${esc(g.pdf)}#page=${g.page}" target="_blank" rel="noopener" title="Open ${esc(g.pdf)} at page ${g.page}">Open p. ${g.page} ↗</a>
+      </article>`;
+    });
+    list.innerHTML = h;
+  }
+
+  document.getElementById("q").oninput = e => { state.q = e.target.value; render(); };
+  ys.onchange = e => { state.year = e.target.value; render(); };
+  document.getElementById("status").onchange = e => { state.status = e.target.value; render(); };
+  document.getElementById("foot").innerHTML =
+    `Covers issues ${esc(meta.first_issue)} to ${esc(meta.last_issue)}. Updated ${esc(meta.generated)}; refreshed every Sunday. ` +
+    `Pages were OCR'd and each verified entry was checked against the page image. Entries marked “auto-detected” come from the weekly run and are pending review. ` +
+    `“Open” links point to the original PDF on eswastika.com; most browsers jump to the page shown.`;
+  chips(); render();
+})();
+</script>
+</body>
+</html>
