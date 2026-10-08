@@ -61,8 +61,15 @@ a.open{white-space:nowrap;text-decoration:none;background:var(--ink);color:var(-
 a.open:hover{background:var(--accent);color:#fff}
 .empty{color:var(--muted);padding:40px 0;text-align:center}
 footer{color:var(--muted);font-size:12.5px;padding:24px 0 40px;border-top:1px solid var(--line)}
+.card>div{min-width:0}
+.head,.note,.meta{overflow-wrap:anywhere}
+.chip{max-width:100%}
 @media (max-width:640px){
-  .card{grid-template-columns:1fr;gap:6px}
+  .stats{display:grid;grid-template-columns:repeat(2,minmax(0,1fr))}
+  .stat{min-width:0}
+  .stat small{overflow-wrap:anywhere}
+  .card{grid-template-columns:minmax(0,1fr);gap:6px}
+  input[type=search]{min-width:0;flex-basis:100%}
   .date{display:flex;gap:8px;align-items:baseline}
   a.open{justify-self:start}
 }
