@@ -1,9 +1,9 @@
 window.SWASTIKA = {
  "meta": {
-  "generated": "2026-10-11",
-  "issues_scanned": 98,
+  "generated": "2026-11-01",
+  "issues_scanned": 99,
   "first_issue": "20250106",
-  "last_issue": "20260928",
+  "last_issue": "20261102",
   "featured": [
    "Bikash Ranjan Bhattacharya",
    "Mohammad Salim",
@@ -13,6 +13,22 @@ window.SWASTIKA = {
   ]
  },
  "mentions": [
+  {
+   "leader": "Bikash Ranjan Bhattacharya",
+   "leader_bn": "বিকাশরঞ্জন ভট্টাচার্য",
+   "featured": true,
+   "issue": "20261102",
+   "date": "2026-11-02",
+   "label": "",
+   "pdf": "20261102.pdf",
+   "page": 7,
+   "mention_pages": "7",
+   "article_pages": "7",
+   "heading": "শুভেন্দু হতে পারলেন না",
+   "author": "",
+   "note": "Auto-detected; heading is the first line OCR'd on this page. Context: …াল পানিশমেন্টের হুশিয়ারি দিয়েছিলেন।  আপনার সমর্থক আইনজীবী বিকাশরঞ্জন “এনকাউন্টার করে মেরে ফেলা হলো, উদ্দেশ্য হচ্ছে সমস্ত তথ্য লো…",
+   "status": "auto"
+  },
   {
    "leader": "Abdur Rezzak Mollah",
    "leader_bn": "আবদুর রেজ্জাক মোল্লা",
