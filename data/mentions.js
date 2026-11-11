@@ -1,6 +1,6 @@
 window.SWASTIKA = {
  "meta": {
-  "generated": "2026-11-01",
+  "generated": "2026-11-11",
   "issues_scanned": 99,
   "first_issue": "20250106",
   "last_issue": "20261102",
@@ -27,7 +27,9 @@ window.SWASTIKA = {
    "heading": "শুভেন্দু হতে পারলেন না",
    "author": "",
    "note": "Auto-detected; heading is the first line OCR'd on this page. Context: …াল পানিশমেন্টের হুশিয়ারি দিয়েছিলেন।  আপনার সমর্থক আইনজীবী বিকাশরঞ্জন “এনকাউন্টার করে মেরে ফেলা হলো, উদ্দেশ্য হচ্ছে সমস্ত তথ্য লো…",
-   "status": "auto"
+   "status": "auto",
+   "label_bn": "",
+   "note_bn": "স্বয়ংক্রিয়ভাবে শনাক্ত; শিরোনাম হল এই পৃষ্ঠার প্রথম ওসিআর-করা লাইন। প্রসঙ্গ: …াল পানিশমেন্টের হুশিয়ারি দিয়েছিলেন।  আপনার সমর্থক আইনজীবী বিকাশরঞ্জন “এনকাউন্টার করে মেরে ফেলা হলো, উদ্দেশ্য হচ্ছে সমস্ত তথ্য লো…"
   },
   {
    "leader": "Abdur Rezzak Mollah",
@@ -43,7 +45,9 @@ window.SWASTIKA = {
    "heading": "গোহত্যা ও তথাকথিত বঙ্গীয় বিপ্লবীকুল",
    "author": "ড. বাপ্পাদিত্য মাইতি (বিশেষ নিবন্ধ)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Sitaram Yechury",
@@ -59,7 +63,9 @@ window.SWASTIKA = {
    "heading": "কেসের চিকিৎসা! ২০০১ সালে ভোলা দ্বীপে! আপনারা ভাবেন",
    "author": "",
    "note": "Auto-detected; heading is the first line OCR'd on this page. Context: …লাম। যাই হোক,     সেসব ভালো-মন্দ অনেক কথা । মোটমাট যারা লুকিয়েচুরিয়ে গেলাম। তাদের সঙ্গেই এ দেশের মাটিতে পা রাখলাম। রেখেই দল থ…",
-   "status": "auto"
+   "status": "auto",
+   "label_bn": "পূজা বিশেষ সংখ্যা",
+   "note_bn": "স্বয়ংক্রিয়ভাবে শনাক্ত; শিরোনাম হল এই পৃষ্ঠার প্রথম ওসিআর-করা লাইন। প্রসঙ্গ: …লাম। যাই হোক,     সেসব ভালো-মন্দ অনেক কথা । মোটমাট যারা লুকিয়েচুরিয়ে গেলাম। তাদের সঙ্গেই এ দেশের মাটিতে পা রাখলাম। রেখেই দল থ…"
   },
   {
    "leader": "Sitaram Yechury",
@@ -75,11 +81,13 @@ window.SWASTIKA = {
    "heading": "কেসের চিকিৎসা! ২০০১ সালে ভোলা দ্বীপে! আপনারা ভাবেন",
    "author": "",
    "note": "Auto-detected; heading is the first line OCR'd on this page. Context: …লাম। যাই হোক,     সেসব ভালো-মন্দ অনেক কথা । মোটমাট যারা লুকিয়েচুরিয়ে গেলাম। তাদের সঙ্গেই এ দেশের মাটিতে পা রাখলাম। রেখেই দল থ…",
-   "status": "auto"
+   "status": "auto",
+   "label_bn": "পূজা বিশেষ সংখ্যা",
+   "note_bn": "স্বয়ংক্রিয়ভাবে শনাক্ত; শিরোনাম হল এই পৃষ্ঠার প্রথম ওসিআর-করা লাইন। প্রসঙ্গ: …লাম। যাই হোক,     সেসব ভালো-মন্দ অনেক কথা । মোটমাট যারা লুকিয়েচুরিয়ে গেলাম। তাদের সঙ্গেই এ দেশের মাটিতে পা রাখলাম। রেখেই দল থ…"
   },
   {
    "leader": "Saira Shah Halim",
-   "leader_bn": "",
+   "leader_bn": "সাইরা শাহ হালিম",
    "featured": false,
    "issue": "puja2026",
    "date": "2026-09-25",
@@ -91,11 +99,13 @@ window.SWASTIKA = {
    "heading": "বলবে না। বেড়াতে এসেছি।” অনি-বিনির দ্বৈত কণ্ঠে শাসন।",
    "author": "",
    "note": "Auto-detected; heading is the first line OCR'd on this page. Context: …া করত, তারা সব চমৎকার মেয়ে ছিল। কত বন্ধু ছিল আমার, বিলকিস, সায়রা, ফতিমা, হাসিনা । এখনো কয়েকটা নাম মনে আছে। আমি তো     স্বস্…",
-   "status": "auto"
+   "status": "auto",
+   "label_bn": "পূজা বিশেষ সংখ্যা",
+   "note_bn": "স্বয়ংক্রিয়ভাবে শনাক্ত; শিরোনাম হল এই পৃষ্ঠার প্রথম ওসিআর-করা লাইন। প্রসঙ্গ: …া করত, তারা সব চমৎকার মেয়ে ছিল। কত বন্ধু ছিল আমার, বিলকিস, সায়রা, ফতিমা, হাসিনা । এখনো কয়েকটা নাম মনে আছে। আমি তো     স্বস্…"
   },
   {
    "leader": "Saira Shah Halim",
-   "leader_bn": "",
+   "leader_bn": "সাইরা শাহ হালিম",
    "featured": false,
    "issue": "puja2026a",
    "date": "2026-09-25",
@@ -107,7 +117,9 @@ window.SWASTIKA = {
    "heading": "বলবে না। বেড়াতে এসেছি।” অনি-বিনির দ্বৈত কণ্ঠে শাসন।",
    "author": "",
    "note": "Auto-detected; heading is the first line OCR'd on this page. Context: …া করত, তারা সব চমৎকার মেয়ে ছিল। কত বন্ধু ছিল আমার, বিলকিস, সায়রা, ফতিমা, হাসিনা । এখনো কয়েকটা নাম মনে আছে। আমি তো     স্বস্…",
-   "status": "auto"
+   "status": "auto",
+   "label_bn": "পূজা বিশেষ সংখ্যা",
+   "note_bn": "স্বয়ংক্রিয়ভাবে শনাক্ত; শিরোনাম হল এই পৃষ্ঠার প্রথম ওসিআর-করা লাইন। প্রসঙ্গ: …া করত, তারা সব চমৎকার মেয়ে ছিল। কত বন্ধু ছিল আমার, বিলকিস, সায়রা, ফতিমা, হাসিনা । এখনো কয়েকটা নাম মনে আছে। আমি তো     স্বস্…"
   },
   {
    "leader": "Jyoti Basu",
@@ -123,7 +135,9 @@ window.SWASTIKA = {
    "heading": "অস্টশক্তির ইতিকথা",
    "author": "",
    "note": "Auto-detected; heading is the first line OCR'd on this page. Context: …উনিস্টদের আন্ডারগ্রাউন্ড কার্যকলাপ এবং রক্তদান বিতর্ক নিয়ে জ্যোতি বসুর নিজস্ব অভিজ্ঞতা।  Basu Jyoti. Memoirs : A Political Autobi…",
-   "status": "auto"
+   "status": "auto",
+   "label_bn": "পূজা বিশেষ সংখ্যা",
+   "note_bn": "স্বয়ংক্রিয়ভাবে শনাক্ত; শিরোনাম হল এই পৃষ্ঠার প্রথম ওসিআর-করা লাইন। প্রসঙ্গ: …উনিস্টদের আন্ডারগ্রাউন্ড কার্যকলাপ এবং রক্তদান বিতর্ক নিয়ে জ্যোতি বসুর নিজস্ব অভিজ্ঞতা।  Basu Jyoti. Memoirs : A Political Autobi…"
   },
   {
    "leader": "Jyoti Basu",
@@ -139,7 +153,9 @@ window.SWASTIKA = {
    "heading": "এবং এক বছরের জন্য ব্রাঞ্চ লেভেলে নির্বাসিত করে। পরবতীতে",
    "author": "",
    "note": "Auto-detected; heading is the first line OCR'd on this page. Context: …উনিস্টদের আন্ডারগ্রাউন্ড কার্যকলাপ এবং রক্তদান বিতর্ক নিয়ে জ্যোতি বসুর নিজস্ব অভিজ্ঞতা।  Basu Jyoti. Memoirs : A Political Autobi…",
-   "status": "auto"
+   "status": "auto",
+   "label_bn": "পূজা বিশেষ সংখ্যা",
+   "note_bn": "স্বয়ংক্রিয়ভাবে শনাক্ত; শিরোনাম হল এই পৃষ্ঠার প্রথম ওসিআর-করা লাইন। প্রসঙ্গ: …উনিস্টদের আন্ডারগ্রাউন্ড কার্যকলাপ এবং রক্তদান বিতর্ক নিয়ে জ্যোতি বসুর নিজস্ব অভিজ্ঞতা।  Basu Jyoti. Memoirs : A Political Autobi…"
   },
   {
    "leader": "Jyoti Basu",
@@ -155,7 +171,9 @@ window.SWASTIKA = {
    "heading": "মুখ্যমন্ত্রীর ‘শিল্পে ভরিয়ে দেব’ উক্তি রাজ্যের মানুষের মনে আশা জোগাচ্ছে",
    "author": "মণীন্দ্রনাথ সাহা",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Anil Biswas",
@@ -171,7 +189,9 @@ window.SWASTIKA = {
    "heading": "পশ্চিমবঙ্গে অনুপ্রবেশ-বিরোধী আন্দোলন",
    "author": "সুভাষ চক্রবর্তী (বিশেষ প্রতিবেদন)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Dipsita Dhar",
@@ -187,7 +207,9 @@ window.SWASTIKA = {
    "heading": "বৈদেশিক মদতের চিত্রনাট্য",
    "author": "অর্ণব কুমার দে",
    "note": "'Recently defeated CPIM leader Dipsita Dhar' named among backers of the 'Cockroach Janata Party'",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": "'কক্রোচ জনতা পার্টি'-র সমর্থকদের মধ্যে 'সদ্য পরাজিত সিপিআই(এম) নেত্রী দীপ্সিতা ধর'-এর নাম উল্লেখ"
   },
   {
    "leader": "Buddhadeb Bhattacharjee",
@@ -203,7 +225,9 @@ window.SWASTIKA = {
    "heading": "তসলিমা নাসরিন: ফিরে দেখা, নতুন কথা",
    "author": "বিশেষ প্রতিবেদন",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -219,7 +243,9 @@ window.SWASTIKA = {
    "heading": "হিন্দু বাঙ্গালি! তুমি তোমার রক্ষাকর্তাকে ভুলো না",
    "author": "শিবেন্দ্র ত্রিপাঠী (উত্তর সম্পাদকীয়)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -235,7 +261,9 @@ window.SWASTIKA = {
    "heading": "পশ্চিমবঙ্গে এনকাউন্টার অপরাধীদের কাছে শুভ সংকেত নয়",
    "author": "মণীন্দ্রনাথ সাহা (বিশেষ নিবন্ধ)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Bikash Ranjan Bhattacharya",
@@ -251,7 +279,9 @@ window.SWASTIKA = {
    "heading": "পশ্চিমবঙ্গে এনকাউন্টার অপরাধীদের কাছে শুভ সংকেত নয়",
    "author": "মণীন্দ্রনাথ সাহা (বিশেষ নিবন্ধ)",
    "note": "Quotes Bikash Ranjan's comments shedding tears for the accused 'Prabhas'",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": "অভিযুক্ত 'প্রভাস'-এর জন্য চোখের জল ফেলে বিকাশ রঞ্জনের করা মন্তব্য উদ্ধৃত করা হয়েছে"
   },
   {
    "leader": "Bikash Ranjan Bhattacharya",
@@ -267,7 +297,9 @@ window.SWASTIKA = {
    "heading": "বারুইপুরের সত্য : লাহেক আলির গ্রেপ্তার ও কমরেডদের খসে পড়া মুখোশ",
    "author": "বিপ্লব বিকাশ (প্রাসঙ্গিকী)",
    "note": "'Alimuddin's comrade Bikash Ranjan certified as gentleman' the accused in the Baruipur case",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": "বারুইপুর মামলার অভিযুক্ত সম্পর্কে 'আলিমুদ্দিনের কমরেড বিকাশরঞ্জন ভদ্রলোক বলে সার্টিফিকেট দিলেন'"
   },
   {
    "leader": "Mohammad Salim",
@@ -283,7 +315,9 @@ window.SWASTIKA = {
    "heading": "বারুইপুরের সত্য : লাহেক আলির গ্রেপ্তার ও কমরেডদের খসে পড়া মুখোশ",
    "author": "বিপ্লব বিকাশ (প্রাসঙ্গিকী)",
    "note": "'CPIM state secretary Md Salim took to the field' protesting the accused's encounter death",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": "অভিযুক্তের এনকাউন্টারে মৃত্যুর প্রতিবাদে 'সিপিআই(এম) রাজ্য সম্পাদক মহম্মদ সেলিম পথে নামলেন'"
   },
   {
    "leader": "Jyoti Basu",
@@ -299,7 +333,9 @@ window.SWASTIKA = {
    "heading": "বারুইপুরের সত্য : লাহেক আলির গ্রেপ্তার ও কমরেডদের খসে পড়া মুখোশ",
    "author": "বিপ্লব বিকাশ (প্রাসঙ্গিকী)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Buddhadeb Bhattacharjee",
@@ -315,7 +351,9 @@ window.SWASTIKA = {
    "heading": "পেট্রাপোলে জিএসটি প্রতারণা",
    "author": "",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Bikash Ranjan Bhattacharya",
@@ -331,7 +369,9 @@ window.SWASTIKA = {
    "heading": "পুরীধামে শ্রীশ্রীজগন্নাথদেবের রথযাত্রা বন্ধ থাকার পর্ব ভারতের ইতিহাসের অজ্ঞাত অধ্যায়",
    "author": "দীপক বিশ্বাস (উত্তর সম্পাদকীয়)",
    "note": "Quotes 'Left leader and lawyer Bikash Ranjan' remark on 500 years of Islamic rule as an example of Left anti-Hindu stance",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": "বামপন্থী নেতা ও আইনজীবী বিকাশ রঞ্জনের ৫০০ বছরের ইসলামি শাসন নিয়ে মন্তব্যকে বামপন্থীদের হিন্দুবিরোধী অবস্থানের উদাহরণ হিসেবে উদ্ধৃত করা হয়েছে"
   },
   {
    "leader": "Jyoti Basu",
@@ -347,7 +387,9 @@ window.SWASTIKA = {
    "heading": "আলোর দিশারি ডঃ শ্যামাপ্রসাদ মুখোপাধ্যায়",
    "author": "কল্যাণ ভঞ্জ চৌধুরী (প্রচ্ছদ নিবন্ধ)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -363,7 +405,9 @@ window.SWASTIKA = {
    "heading": "বঙ্গভূমি ত্বয়া হিন্দুভূমে",
    "author": "নির্মাল্য মুখোপাধ্যায়",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -379,7 +423,9 @@ window.SWASTIKA = {
    "heading": "কমরেড! হাসান সুরাবর্দির গুণগান না গোপাল মুখার্জির অবদান : কার সঙ্গে আপনারা?",
    "author": "বিপ্লব বিকাশ (প্রাসঙ্গিকী)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -395,7 +441,9 @@ window.SWASTIKA = {
    "heading": "প্রাক্তন মুখ্যমন্ত্রী মমতা ব্যানার্জির নেতাজী ‘ভ্যানিশ’-এর নেপথ্য রহস্য",
    "author": "ড. জয়ন্ত চৌধুরী (বিশেষ নিবন্ধ)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Buddhadeb Bhattacharjee",
@@ -411,7 +459,9 @@ window.SWASTIKA = {
    "heading": "প্রাক্তন মুখ্যমন্ত্রী মমতা ব্যানার্জির নেতাজী ‘ভ্যানিশ’-এর নেপথ্য রহস্য",
    "author": "ড. জয়ন্ত চৌধুরী (বিশেষ নিবন্ধ)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Bikash Ranjan Bhattacharya",
@@ -427,7 +477,9 @@ window.SWASTIKA = {
    "heading": "পশ্চিম-বাংলাদেশ হওয়া থেকে বেঁচে গেল পশ্চিমবঙ্গ",
    "author": "অমিত কুমার চৌধুরী",
    "note": "'CPIM's Bikash-babu eats beef in public, calls Kumbh Mela blind superstition'",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": "'সিপিআই(এম)-এর বিকাশবাবু প্রকাশ্যে গোমাংস খান, কুম্ভমেলাকে অন্ধ কুসংস্কার বলেন'"
   },
   {
    "leader": "Buddhadeb Bhattacharjee",
@@ -443,7 +495,9 @@ window.SWASTIKA = {
    "heading": "ভারতে জনবিন্যাস পরিবর্তনের বিষয়টি সঙ্ঘ ও স্বস্তিকা পত্রিকাই জনসমক্ষে এনেছে",
    "author": "রতন শারদা (অতিথি কলম)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -459,7 +513,9 @@ window.SWASTIKA = {
    "heading": "সাত দশকের কুশাসনের বেড়া ভেঙে এগোনোর লক্ষ্য বলছে কিন্তু দিচ্ছে কি?",
    "author": "নির্মাল্য মুখোপাধ্যায়",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Buddhadeb Bhattacharjee",
@@ -475,7 +531,9 @@ window.SWASTIKA = {
    "heading": "সাত দশকের কুশাসনের বেড়া ভেঙে এগোনোর লক্ষ্য বলছে কিন্তু দিচ্ছে কি?",
    "author": "নির্মাল্য মুখোপাধ্যায়",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -491,7 +549,9 @@ window.SWASTIKA = {
    "heading": "বাঙ্গালি হিন্দুর ত্রাতা পশ্চিমবঙ্গের স্রষ্টা ড. শ্যামাপ্রসাদ",
    "author": "নন্দলাল ভট্টাচার্য (প্রচ্ছদ নিবন্ধ)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Buddhadeb Bhattacharjee",
@@ -507,7 +567,9 @@ window.SWASTIKA = {
    "heading": "এখনো কানে বাজে অভিষেক ব্যানার্জির সেই দাম্ভিক ভাষণ",
    "author": "চিত্রপত্র",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -523,7 +585,9 @@ window.SWASTIKA = {
    "heading": "পশ্চিমবঙ্গ দিবস",
    "author": "সম্পাদকীয়",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Dipsita Dhar",
@@ -539,7 +603,9 @@ window.SWASTIKA = {
    "heading": "শয়তানেরা ঘুমায় না, শয়তানির মূল্য মৃত্যু",
    "author": "শিবেন্দ্র ত্রিপাঠী (বিশেষ নিবন্ধ)",
    "note": "Listed: Dipsita–Minakshi–Satarup–Srijan–Kalatan 'production must stop forever'",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": "তালিকাভুক্ত: দীপশিখা–মীনাক্ষী–শতরূপ–সৃজন–কলাতন 'উৎপাদন চিরতরে বন্ধ করতে হবে'"
   },
   {
    "leader": "Srijan Bhattacharya",
@@ -555,7 +621,9 @@ window.SWASTIKA = {
    "heading": "শয়তানেরা ঘুমায় না, শয়তানির মূল্য মৃত্যু",
    "author": "শিবেন্দ্র ত্রিপাঠী (বিশেষ নিবন্ধ)",
    "note": "Same list",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": "একই তালিকা"
   },
   {
    "leader": "Kalatan Dasgupta",
@@ -571,7 +639,9 @@ window.SWASTIKA = {
    "heading": "শয়তানেরা ঘুমায় না, শয়তানির মূল্য মৃত্যু",
    "author": "শিবেন্দ্র ত্রিপাঠী (বিশেষ নিবন্ধ)",
    "note": "Same list",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": "একই তালিকা"
   },
   {
    "leader": "Minakshi Mukherjee",
@@ -587,7 +657,9 @@ window.SWASTIKA = {
    "heading": "শয়তানেরা ঘুমায় না, শয়তানির মূল্য মৃত্যু",
    "author": "শিবেন্দ্র ত্রিপাঠী (বিশেষ নিবন্ধ)",
    "note": "'If Satarup–Minakshi have such sympathy…'; listed among young CPIM faces",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": "'সত্যরূপ–মীনাক্ষীর যদি এতই দরদ…'; সিপিআই(এম)-এর তরুণ মুখদের তালিকায় উল্লেখ"
   },
   {
    "leader": "Bikash Ranjan Bhattacharya",
@@ -603,7 +675,9 @@ window.SWASTIKA = {
    "heading": "শয়তানেরা ঘুমায় না, শয়তানির মূল্য মৃত্যু",
    "author": "শিবেন্দ্র ত্রিপাঠী (বিশেষ নিবন্ধ)",
    "note": "'Comrade Bikash Ranjan stood in court to save…'; 'Bikash-babu–Satarup–Minakshi jumping around for Muslim votes'",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": "'কমরেড বিকাশরঞ্জন বাঁচাতে আদালতে দাঁড়ালেন…'; 'মুসলিম ভোটের জন্য বিকাশবাবু–সত্যরূপ–মীনাক্ষীর লম্ফঝম্প'"
   },
   {
    "leader": "Satarup Ghosh",
@@ -619,7 +693,9 @@ window.SWASTIKA = {
    "heading": "শয়তানেরা ঘুমায় না, শয়তানির মূল্য মৃত্যু",
    "author": "শিবেন্দ্র ত্রিপাঠী (বিশেষ নিবন্ধ)",
    "note": "Satarup's 'BJP will never come to power' remark mocked; named with Bikash and Minakshi",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": "শতরূপের 'বিজেপি কখনও ক্ষমতায় আসবে না' মন্তব্য নিয়ে বিদ্রূপ; বিকাশ ও মীনাক্ষীর সঙ্গে উল্লেখ"
   },
   {
    "leader": "Bikash Ranjan Bhattacharya",
@@ -635,7 +711,9 @@ window.SWASTIKA = {
    "heading": "অবশেষে পুলিশের জালে পলাতক বিডিও",
    "author": "সংবাদ প্রতিক্রিয়া (news)",
    "note": "CPIM leader and lawyer Bikash Ranjan represented the arrested 'Howrah don'; called it a 'professional matter'",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": "সিপিআই(এম) নেতা ও আইনজীবী বিকাশ রঞ্জন গ্রেপ্তার হওয়া 'হাওড়ার ডন'-এর হয়ে সওয়াল করেছেন; একে তিনি 'পেশাগত বিষয়' বলে উল্লেখ করেছেন"
   },
   {
    "leader": "Bikash Ranjan Bhattacharya",
@@ -651,7 +729,9 @@ window.SWASTIKA = {
    "heading": "ভারতের কমিউনিস্ট চরিত্র",
    "author": "তারক সাহা (মতামত)",
    "note": "CPIM leader-lawyer Bikash Ranjan filed vakalatnama for a Trinamool figure despite fighting recruitment-scam cases; pull quote on him taking Debangshu's brief",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": "নিয়োগ দুর্নীতির মামলায় লড়াই করা সত্ত্বেও সিপিআই(এম) নেতা-আইনজীবী বিকাশ রঞ্জন এক তৃণমূল নেতার হয়ে ওকালতনামা দাখিল করেছেন; দেবাংশুর মামলা নেওয়া নিয়ে তাঁর সম্পর্কে একটি উদ্ধৃতি-বাক্সও রয়েছে"
   },
   {
    "leader": "Jyoti Basu",
@@ -667,7 +747,9 @@ window.SWASTIKA = {
    "heading": "স্বখাত সলিলে ডুবেছেন তৃণমূলনেত্রী ডুবিয়েছিলেন রাজ্যটিকেও",
    "author": "উত্তর সম্পাদকীয়",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Buddhadeb Bhattacharjee",
@@ -683,7 +765,9 @@ window.SWASTIKA = {
    "heading": "স্বখাত সলিলে ডুবেছেন তৃণমূলনেত্রী ডুবিয়েছিলেন রাজ্যটিকেও",
    "author": "উত্তর সম্পাদকীয়",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Satarup Ghosh",
@@ -699,7 +783,9 @@ window.SWASTIKA = {
    "heading": "‘কালো রাতি গেল ঘুচে…’?",
    "author": "অমিত দাস (মতামত)",
    "note": "'However much Satarup Ghosh roars… the fish-fry was eaten by CPIM'",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": "'সত্যরূপ ঘোষ যতই গর্জন করুন… ফিশ ফ্রাই খেয়ে গেল সিপিআই(এম)'"
   },
   {
    "leader": "Prakash Karat",
@@ -715,7 +801,9 @@ window.SWASTIKA = {
    "heading": "এবারের নির্বাচনে বিজেপির জয় হিন্দুত্বের জয়",
    "author": "তারক সাহা (বিশেষ রচনা)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -731,7 +819,9 @@ window.SWASTIKA = {
    "heading": "বাম শাসনে পশ্চিমবঙ্গে শিল্পের অন্তর্জলি: রাজ্যকে শিল্পবান্ধব করে তোলা নতুন সরকারের কাছে বড়ো চ্যালেঞ্জ",
    "author": "কুণাল চট্টোপাধ্যায়",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Pinarayi Vijayan",
@@ -747,7 +837,9 @@ window.SWASTIKA = {
    "heading": "জাগ্রত জনতার অংশগ্রহণে রাহুমুক্ত বঙ্গভূমি",
    "author": "খগেন্দ্রনাথ মণ্ডল",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Bikash Ranjan Bhattacharya",
@@ -763,7 +855,9 @@ window.SWASTIKA = {
    "heading": "তৃণমূল লিগ মার্কসবাদী",
    "author": "সুন্দর মৌলিকের চিঠি (column)",
    "note": "Open letter to Mamata: 'you are making Satarup, Bikash Ranjan your agents'; 'beside you in court is Bikash'; 'you chose Bikash Ranjan right, he is more secular than you'",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": "মমতার উদ্দেশে খোলা চিঠি: 'আপনি সাতরূপ, বিকাশরঞ্জনকে নিজের এজেন্ট বানাচ্ছেন'; 'আদালতে আপনার পাশে বিকাশ'; 'আপনি বিকাশরঞ্জনকে ঠিকই বেছেছেন, সে আপনার চেয়েও বেশি ধর্মনিরপেক্ষ'"
   },
   {
    "leader": "Satarup Ghosh",
@@ -779,7 +873,9 @@ window.SWASTIKA = {
    "heading": "তৃণমূল লিগ মার্কসবাদী",
    "author": "সুন্দর মৌলিকের চিঠি (column)",
    "note": "'in Tiljala Satarup [works] for you' — CPIM leaders cast as Trinamool's agents",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": "'তিলজলায় সত্যরূপ তোমার জন্য [কাজ করে]' — সিপিআই(এম) নেতাদের তৃণমূলের এজেন্ট হিসেবে চিত্রিত করা হয়েছে"
   },
   {
    "leader": "Jyoti Basu",
@@ -795,7 +891,9 @@ window.SWASTIKA = {
    "heading": "নবনির্বাচিত রাজ্য সরকারের কী কী করণীয়",
    "author": "বিশ্বদেব চট্টোপাধ্যায় (প্রচ্ছদ নিবন্ধ)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Pinarayi Vijayan",
@@ -811,7 +909,9 @@ window.SWASTIKA = {
    "heading": "আজ পশ্চিমবঙ্গ জিতেছে, আগামীতে কেরলম জিতবে",
    "author": "সোমনাথ গোস্বামী",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -827,7 +927,9 @@ window.SWASTIKA = {
    "heading": "সাধুসন্তদের ওপর আক্রমণ প্রমাণ করল রাজ্য সরকার হিন্দু বিদ্বেষী",
    "author": "মণীন্দ্রনাথ সাহা",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -843,7 +945,9 @@ window.SWASTIKA = {
    "heading": "দেশের নিরাপত্তার বিষয়ে অজিত দোভালের মুসলমান সম্প্রদায়ের উদ্দেশ্যে বার্তা কি পরিবর্তনের ইঙ্গিত?",
    "author": "অমল গুপ্ত (মতামত)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Buddhadeb Bhattacharjee",
@@ -859,7 +963,9 @@ window.SWASTIKA = {
    "heading": "দেশের নিরাপত্তার বিষয়ে অজিত দোভালের মুসলমান সম্প্রদায়ের উদ্দেশ্যে বার্তা কি পরিবর্তনের ইঙ্গিত?",
    "author": "অমল গুপ্ত (মতামত)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Bikash Ranjan Bhattacharya",
@@ -875,7 +981,9 @@ window.SWASTIKA = {
    "heading": "বঙ্গের ঐতিহ্য ও সংস্কৃতি ধ্বংসকারী বামপন্থীদের চিরতরে নির্মূল করতে হবে",
    "author": "শিবেন্দ্র ত্রিপাঠী",
    "note": "Pull quote: Bikash Ranjan and Subodh Sarkar \"ate beef on the street to prove Left virginity\"",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": "উদ্ধৃতাংশ: বিকাশ রঞ্জন ও সুবোধ সরকার \"বামপন্থী কুমারীত্ব প্রমাণ করতে রাস্তায় গোমাংস খেয়েছিলেন\""
   },
   {
    "leader": "Mohammad Salim",
@@ -891,7 +999,9 @@ window.SWASTIKA = {
    "heading": "বঙ্গের ঐতিহ্য ও সংস্কৃতি ধ্বংসকারী বামপন্থীদের চিরতরে নির্মূল করতে হবে",
    "author": "শিবেন্দ্র ত্রিপাঠী",
    "note": "Same pull quote: dared not feed pork to Md Salim",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": "একই উদ্ধৃতি: মহম্মদ সেলিমকে শূকরের মাংস খাওয়ানোর সাহস দেখায়নি"
   },
   {
    "leader": "Jyoti Basu",
@@ -907,7 +1017,9 @@ window.SWASTIKA = {
    "heading": "বঙ্গের ঐতিহ্য ও সংস্কৃতি ধ্বংসকারী বামপন্থীদের চিরতরে নির্মূল করতে হবে",
    "author": "শিবেন্দ্র ত্রিপাঠী",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Buddhadeb Bhattacharjee",
@@ -923,7 +1035,9 @@ window.SWASTIKA = {
    "heading": "বঙ্গের ঐতিহ্য ও সংস্কৃতি ধ্বংসকারী বামপন্থীদের চিরতরে নির্মূল করতে হবে",
    "author": "শিবেন্দ্র ত্রিপাঠী",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Sujan Chakraborty",
@@ -939,7 +1053,9 @@ window.SWASTIKA = {
    "heading": "বঙ্গের ঐতিহ্য ও সংস্কৃতি ধ্বংসকারী বামপন্থীদের চিরতরে নির্মূল করতে হবে",
    "author": "শিবেন্দ্র ত্রিপাঠী",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Abdur Rezzak Mollah",
@@ -955,7 +1071,9 @@ window.SWASTIKA = {
    "heading": "বঙ্গের ঐতিহ্য ও সংস্কৃতি ধ্বংসকারী বামপন্থীদের চিরতরে নির্মূল করতে হবে",
    "author": "শিবেন্দ্র ত্রিপাঠী",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -971,7 +1089,9 @@ window.SWASTIKA = {
    "heading": "বাঙ্গালির আত্মবলোকন: অতীত, বর্তমান ও ভবিষ্যৎ",
    "author": "",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Pratikur Rahaman",
@@ -987,7 +1107,9 @@ window.SWASTIKA = {
    "heading": "পরিবর্তনের এক সুবর্ণ সুযোগ বাঙালির সামনে",
    "author": "রবিশঙ্কর চট্টোপাধ্যায় (বিশেষ নিবন্ধ)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Abdur Rezzak Mollah",
@@ -1003,7 +1125,9 @@ window.SWASTIKA = {
    "heading": "পরিবর্তনের এক সুবর্ণ সুযোগ বাঙালির সামনে",
    "author": "রবিশঙ্কর চট্টোপাধ্যায় (বিশেষ নিবন্ধ)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -1019,7 +1143,9 @@ window.SWASTIKA = {
    "heading": "মাওমুক্ত ভারতের লক্ষ্যে মাওবাদী লালসন্ত্রাস এখন লালগড়েও খাদের কিনারায়",
    "author": "দুর্গাপদ ঘোষ (বিশেষ প্রতিবেদন)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -1035,7 +1161,9 @@ window.SWASTIKA = {
    "heading": "‘যে পথ দিয়ে পাঠান এসেছিল’",
    "author": "নির্মাল্য মুখোপাধ্যায়",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -1051,7 +1179,9 @@ window.SWASTIKA = {
    "heading": "শুধু খিদিরপুর নয়, বালিগঞ্জও : কলকাতার ‘মিনি পাকিস্তান’ হয়ে ওঠা এক প্রবল অশনিসংকেত",
    "author": "",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -1067,7 +1197,9 @@ window.SWASTIKA = {
    "heading": "ছাব্বিশের নির্বাচন: পশ্চিমবঙ্গের অর্থনীতির এক নির্ণায়ক সন্ধিক্ষণ—পুনর্জাগরণ কিংবা ধ্বংসাবশেষ",
    "author": "সোমনাথ গোস্বামী (উত্তর সম্পাদকীয়)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Buddhadeb Bhattacharjee",
@@ -1083,7 +1215,9 @@ window.SWASTIKA = {
    "heading": "ছাব্বিশের নির্বাচন: পশ্চিমবঙ্গের অর্থনীতির এক নির্ণায়ক সন্ধিক্ষণ—পুনর্জাগরণ কিংবা ধ্বংসাবশেষ",
    "author": "সোমনাথ গোস্বামী (উত্তর সম্পাদকীয়)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -1099,7 +1233,9 @@ window.SWASTIKA = {
    "heading": "‘ভালো বাঙ্গালি খারাপ বাঙ্গালি’",
    "author": "নির্মাল্য মুখোপাধ্যায়",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Pratikur Rahaman",
@@ -1115,7 +1251,9 @@ window.SWASTIKA = {
    "heading": "এসআইআর-এর পূর্বাভাস ভোট ডাকাতির জারিজুরি শেষ",
    "author": "শিবেন্দ্র ত্রিপাঠী (প্রচ্ছদ নিবন্ধ)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -1131,7 +1269,9 @@ window.SWASTIKA = {
    "heading": "সিপিআই(এম) গণতন্ত্রের বুলি আওড়ায়, অথচ ওরাই আমায় পঙ্গু করে দিয়েছে : সদানন্দন মাস্টার",
    "author": "প্রণবজ্যোতি ভট্টাচার্য (বিশেষ নিবন্ধ)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Buddhadeb Bhattacharjee",
@@ -1147,7 +1287,9 @@ window.SWASTIKA = {
    "heading": "সিপিআই(এম) গণতন্ত্রের বুলি আওড়ায়, অথচ ওরাই আমায় পঙ্গু করে দিয়েছে : সদানন্দন মাস্টার",
    "author": "প্রণবজ্যোতি ভট্টাচার্য (বিশেষ নিবন্ধ)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Buddhadeb Bhattacharjee",
@@ -1163,7 +1305,9 @@ window.SWASTIKA = {
    "heading": "পশ্চিমবঙ্গে খারেজি মাদ্রাসা জেহাদি তৈরির কারখানা",
    "author": "অরুণ চক্রবর্তী (মতামত)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -1179,7 +1323,9 @@ window.SWASTIKA = {
    "heading": "‘খেলা ভাঙার খেলা’",
    "author": "নির্মাল্য মুখোপাধ্যায়",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -1195,7 +1341,9 @@ window.SWASTIKA = {
    "heading": "কমিউনিস্টদের বিশ্বাসঘাতকতা: মরিচঝাঁপির গণহত্যা",
    "author": "গোপাল চক্রবর্তী (বিশেষ নিবন্ধ)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -1211,7 +1359,9 @@ window.SWASTIKA = {
    "heading": "ব্যক্তি বা রাজনৈতিক দল গণতন্ত্রের থেকে অধিক শক্তিশালী হলে তা অতীব বিপজ্জনক",
    "author": "নির্মাল্য মুখোপাধ্যায়",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Buddhadeb Bhattacharjee",
@@ -1227,7 +1377,9 @@ window.SWASTIKA = {
    "heading": "ব্যক্তি বা রাজনৈতিক দল গণতন্ত্রের থেকে অধিক শক্তিশালী হলে তা অতীব বিপজ্জনক",
    "author": "নির্মাল্য মুখোপাধ্যায়",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Prakash Karat",
@@ -1243,7 +1395,9 @@ window.SWASTIKA = {
    "heading": "ব্যক্তি বা রাজনৈতিক দল গণতন্ত্রের থেকে অধিক শক্তিশালী হলে তা অতীব বিপজ্জনক",
    "author": "নির্মাল্য মুখোপাধ্যায়",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Mohammad Salim",
@@ -1259,7 +1413,9 @@ window.SWASTIKA = {
    "heading": "আইপ্যাক কর্তার বাড়ি থেকে ‘সবুজ ফাইল’ নিয়ে কেন পালালেন মুখ্যমন্ত্রী?",
    "author": "প্রণবজ্যোতি ভট্টাচার্য (বিশেষ নিবন্ধ)",
    "note": "Quotes Salim, 'CPIM state secretary', questioning how the CM walked off with files during the ED raid on I-PAC",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": "আই-প্যাকে ইডি তল্লাশির সময় মুখ্যমন্ত্রী কীভাবে ফাইল নিয়ে বেরিয়ে গেলেন, সিপিআই(এম) রাজ্য সম্পাদক সেলিমের সেই প্রশ্ন উদ্ধৃত করা হয়েছে"
   },
   {
    "leader": "Jyoti Basu",
@@ -1275,7 +1431,9 @@ window.SWASTIKA = {
    "heading": "‘বাংলাকে গুজরাট হতে দেব না’ চাইলেও গুজরাট হতে পারবেন কি?",
    "author": "সোমনাথ গোস্বামী",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Buddhadeb Bhattacharjee",
@@ -1291,7 +1449,9 @@ window.SWASTIKA = {
    "heading": "‘বাংলাকে গুজরাট হতে দেব না’ চাইলেও গুজরাট হতে পারবেন কি?",
    "author": "সোমনাথ গোস্বামী",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Mohammad Salim",
@@ -1307,7 +1467,9 @@ window.SWASTIKA = {
    "heading": "ভারত-বিরোধিতা, আক্রমণ, লাভজেহাদ, অনুপ্রবেশ—সবেতেই বামপন্থীরা গিরগিটি",
    "author": "রাজ্যচিত্র",
    "note": "'It may be natural for Md Salim, but Satarup, Minakshi, Sayan, Srijan, Dipsita are educated…'",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": "'মহম্মদ সেলিমের পক্ষে স্বাভাবিক হতে পারে, কিন্তু সত্যরূপ, মীনাক্ষী, সায়ন, সৃজন, দীপ্সিতারা তো শিক্ষিত…'"
   },
   {
    "leader": "Satarup Ghosh",
@@ -1323,7 +1485,9 @@ window.SWASTIKA = {
    "heading": "ভারত-বিরোধিতা, আক্রমণ, লাভজেহাদ, অনুপ্রবেশ—সবেতেই বামপন্থীরা গিরগিটি",
    "author": "রাজ্যচিত্র",
    "note": "Named with Minakshi, Sayan, Srijan and Dipsita as educated leaders who still back the line",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": "মীনাক্ষী, সায়ন, সৃজন ও দীপ্সিতার সঙ্গে শিক্ষিত নেতা হিসেবে উল্লিখিত, যাঁরা তবুও এই লাইনকে সমর্থন করেন"
   },
   {
    "leader": "Minakshi Mukherjee",
@@ -1339,7 +1503,9 @@ window.SWASTIKA = {
    "heading": "ভারত-বিরোধিতা, আক্রমণ, লাভজেহাদ, অনুপ্রবেশ—সবেতেই বামপন্থীরা গিরগিটি",
    "author": "রাজ্যচিত্র",
    "note": "Named with Satarup, Sayan, Srijan and Dipsita",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": "শতরূপ, সায়ন, সৃজন ও দীপ্সিতার সঙ্গে উল্লিখিত"
   },
   {
    "leader": "Buddhadeb Bhattacharjee",
@@ -1355,11 +1521,13 @@ window.SWASTIKA = {
    "heading": "ভারত-বিরোধিতা, আক্রমণ, লাভজেহাদ, অনুপ্রবেশ—সবেতেই বামপন্থীরা গিরগিটি",
    "author": "রাজ্যচিত্র",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Sayandeep Mitra",
-   "leader_bn": "",
+   "leader_bn": "সায়ন্দীপ মিত্র",
    "featured": false,
    "issue": "20251201",
    "date": "2025-12-01",
@@ -1371,7 +1539,9 @@ window.SWASTIKA = {
    "heading": "ভারত-বিরোধিতা, আক্রমণ, লাভজেহাদ, অনুপ্রবেশ—সবেতেই বামপন্থীরা গিরগিটি",
    "author": "রাজ্যচিত্র",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Srijan Bhattacharya",
@@ -1387,7 +1557,9 @@ window.SWASTIKA = {
    "heading": "ভারত-বিরোধিতা, আক্রমণ, লাভজেহাদ, অনুপ্রবেশ—সবেতেই বামপন্থীরা গিরগিটি",
    "author": "রাজ্যচিত্র",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Dipsita Dhar",
@@ -1403,7 +1575,9 @@ window.SWASTIKA = {
    "heading": "ভারত-বিরোধিতা, আক্রমণ, লাভজেহাদ, অনুপ্রবেশ—সবেতেই বামপন্থীরা গিরগিটি",
    "author": "রাজ্যচিত্র",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -1419,7 +1593,9 @@ window.SWASTIKA = {
    "heading": "‘দিব্যজ্ঞান নয়, কাণ্ডজ্ঞান চাই’",
    "author": "নারায়ণ শংকর দাশ",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Abdur Rezzak Mollah",
@@ -1435,7 +1611,9 @@ window.SWASTIKA = {
    "heading": "তৃণমূলি বেশে কমিউনিস্টরা",
    "author": "",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Buddhadeb Bhattacharjee",
@@ -1451,7 +1629,9 @@ window.SWASTIKA = {
    "heading": "সাচার কমিটির রিপোর্ট পশ্চিমবঙ্গকে ভীষণভাবে ক্ষতিগ্রস্ত করেছে",
    "author": "",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "M A Baby",
@@ -1467,7 +1647,9 @@ window.SWASTIKA = {
    "heading": "জাতীয়তাবাদীদের ঐক্যই বাঁচাতে পারে বাঙ্গালি হিন্দুর অবশিষ্ট মাটি",
    "author": "চিঠিপত্র",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Buddhadeb Bhattacharjee",
@@ -1483,7 +1665,9 @@ window.SWASTIKA = {
    "heading": "নাগরাকাটায় আক্রান্ত বিজেপির সাংসদ ও বিধায়ক : সংখ্যা ও তথ্যভিত্তিক কারণ অনুসন্ধান",
    "author": "দেবযানী ভট্টাচার্য (প্রচ্ছদ নিবন্ধ)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -1499,7 +1683,9 @@ window.SWASTIKA = {
    "heading": "ভাষাহীন বিপদ আর আপদ উদ্ভূত ফসল নির্মমতার কবে পতন?: অবৈধ জনপ্রিয়তা",
    "author": "নির্মাল্য মুখোপাধ্যায়",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Bikash Ranjan Bhattacharya",
@@ -1515,7 +1701,9 @@ window.SWASTIKA = {
    "heading": "এসএসসি পরীক্ষা নেওয়া হলো, স্বচ্ছ হলো কি?",
    "author": "বিশ্বপ্রিয় দাস",
    "note": "'A remark by lawyer Bikash Ranjan Bhattacharya has gone viral' on the SSC re-examination",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": "এসএসসি পুনঃপরীক্ষা নিয়ে 'আইনজীবী বিকাশরঞ্জন ভট্টাচার্যের একটি মন্তব্য ভাইরাল হয়েছে'"
   },
   {
    "leader": "Jyoti Basu",
@@ -1531,7 +1719,9 @@ window.SWASTIKA = {
    "heading": "গৃহমন্ত্রীর ‘মুণ্ডচ্ছেদ’-এর বার্তা: মহুয়া মৈত্রের পশ্চাতে কাহারা?",
    "author": "বিশেষ প্রতিবেদন",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Buddhadeb Bhattacharjee",
@@ -1547,7 +1737,9 @@ window.SWASTIKA = {
    "heading": "গৃহমন্ত্রীর ‘মুণ্ডচ্ছেদ’-এর বার্তা: মহুয়া মৈত্রের পশ্চাতে কাহারা?",
    "author": "বিশেষ প্রতিবেদন",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -1563,7 +1755,9 @@ window.SWASTIKA = {
    "heading": "মুখ্যমন্ত্রী কেন মানছেন না যে চাইলেই ভোটার বা নাগরিক হওয়া যায় না: শিশুসুলভ",
    "author": "নির্মাল্য মুখোপাধ্যায়",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -1579,7 +1773,9 @@ window.SWASTIKA = {
    "heading": "শিক্ষাবিদ শ্যামাপ্রসাদ",
    "author": "ড. বাপ্পাদিত্য মাইতি (প্রবন্ধ, শারদীয়া সংখ্যা)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "পূজা বিশেষ সংখ্যা",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -1595,7 +1791,9 @@ window.SWASTIKA = {
    "heading": "এক উদ্বাস্তু বাঙ্গালির মনের ব্যথা",
    "author": "ওম প্রকাশ ঘোষ রায় (আত্মকথা)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -1611,7 +1809,9 @@ window.SWASTIKA = {
    "heading": "জাতীয় নির্বাচন কমিশনের ভোটার তালিকা বিশেষ নিবিড় সংশোধনের কর্মসূচিতে সমস্ত নাগরিকের সহায়তা করা উচিত",
    "author": "প্রচ্ছদ নিবন্ধ",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -1627,7 +1827,9 @@ window.SWASTIKA = {
    "heading": "পশ্চিমবঙ্গের ক্ষেত্রে সমগ্র নির্বাচনী প্রক্রিয়ায় সংস্কার আশু প্রয়োজন",
    "author": "",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Buddhadeb Bhattacharjee",
@@ -1643,7 +1845,9 @@ window.SWASTIKA = {
    "heading": "সম্পদ হরণকারী শাসকের চেয়ে শাসক-হন্তা কেন প্রিয়?: তৃণমূলি দুর্যোধন",
    "author": "নির্মাল্য মুখোপাধ্যায়",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -1659,7 +1863,9 @@ window.SWASTIKA = {
    "heading": "নবান্ন অভিযানের জবাবে : ৭ জানুয়ারি বনাম ৯ আগস্ট",
    "author": "ড. চন্দ্রশেখর মণ্ডল (মতামত)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Buddhadeb Bhattacharjee",
@@ -1675,7 +1881,9 @@ window.SWASTIKA = {
    "heading": "নবান্ন অভিযানের জবাবে : ৭ জানুয়ারি বনাম ৯ আগস্ট",
    "author": "ড. চন্দ্রশেখর মণ্ডল (মতামত)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -1691,7 +1899,9 @@ window.SWASTIKA = {
    "heading": "নির্বাচন কমিশনের সদর্থক ভূমিকা ভারতীয় গণতন্ত্রকে শক্তিশালী করবে",
    "author": "খগেন্দ্রনাথ মণ্ডল (উত্তর সম্পাদকীয়)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -1707,7 +1917,9 @@ window.SWASTIKA = {
    "heading": "বাঙ্গালির ভুলে থাকা নিরাপত্তাহীনতাকে ভোটের পসরা করছেন মুখ্যমন্ত্রী: অবাক ‘বাংলা’",
    "author": "নির্মাল্য মুখোপাধ্যায়",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Buddhadeb Bhattacharjee",
@@ -1723,7 +1935,9 @@ window.SWASTIKA = {
    "heading": "বাঙ্গালির ভুলে থাকা নিরাপত্তাহীনতাকে ভোটের পসরা করছেন মুখ্যমন্ত্রী: অবাক ‘বাংলা’",
    "author": "নির্মাল্য মুখোপাধ্যায়",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Minakshi Mukherjee",
@@ -1739,7 +1953,9 @@ window.SWASTIKA = {
    "heading": "আরজি কর থেকে ল' কলেজ : পশ্চিমবঙ্গ কি কিছু শিখেছে?",
    "author": "বিপ্লব বিকাশ (প্রাসঙ্গিকী)",
    "note": "'Minakshi Mukherjee went on Facebook Live the day before the Nabanna Abhijan telling people not to join'",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": "'নবান্ন অভিযানের আগের দিন ফেসবুক লাইভে এসে মীনাক্ষী মুখোপাধ্যায় মানুষকে যোগ না দিতে বলেছিলেন'"
   },
   {
    "leader": "Jyoti Basu",
@@ -1755,7 +1971,9 @@ window.SWASTIKA = {
    "heading": "ভোটার তালিকা সংশোধনে পশ্চিমবঙ্গ সরকারের আপত্তি কেন?",
    "author": "প্রচ্ছদ নিবন্ধ",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -1771,7 +1989,9 @@ window.SWASTIKA = {
    "heading": "অনুপ্রবেশকারীদের চিহ্নিত ও বিতাড়নের উদ্দেশ্যে অবিলম্বে এনআরসি-র প্রয়োজন",
    "author": "রবীন্দ্রনাথ দত্ত (বিশেষ নিবন্ধ)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -1787,7 +2007,9 @@ window.SWASTIKA = {
    "heading": "কাদের মমতা ব্যানার্জি ‘বাঙ্গালি’ বলছেন? এরাই তো কালনেমি সেজে হিন্দুধর্মের অবমাননা করছে",
    "author": "সুদীপনারায়ণ ঘোষ (বিশেষ নিবন্ধ)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -1803,7 +2025,9 @@ window.SWASTIKA = {
    "heading": "মমতা ব্যানার্জি কি আল্লাদুরাই আর অভিষেক ছাই ফেলতে ভাঙা কুলো?: জতুগৃহ তৃণমূল",
    "author": "নির্মাল্য মুখোপাধ্যায়",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Buddhadeb Bhattacharjee",
@@ -1819,7 +2043,9 @@ window.SWASTIKA = {
    "heading": "মমতা ব্যানার্জি কি আল্লাদুরাই আর অভিষেক ছাই ফেলতে ভাঙা কুলো?: জতুগৃহ তৃণমূল",
    "author": "নির্মাল্য মুখোপাধ্যায়",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -1835,7 +2061,9 @@ window.SWASTIKA = {
    "heading": "দেশের ঐক্য ও অখণ্ডতার পক্ষে বিপজ্জনক",
    "author": "সম্পাদকীয়",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Buddhadeb Bhattacharjee",
@@ -1851,7 +2079,9 @@ window.SWASTIKA = {
    "heading": "দেশের ঐক্য ও অখণ্ডতার পক্ষে বিপজ্জনক",
    "author": "সম্পাদকীয়",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -1867,7 +2097,9 @@ window.SWASTIKA = {
    "heading": "ভারতের স্বাধীনতা আন্দোলন: বঙ্গের অবদান, বাঙ্গালির প্রাপ্তি",
    "author": "শিবেন্দ্র ত্রিপাঠী (প্রচ্ছদ নিবন্ধ)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Buddhadeb Bhattacharjee",
@@ -1883,7 +2115,9 @@ window.SWASTIKA = {
    "heading": "ভারতের স্বাধীনতা আন্দোলন: বঙ্গের অবদান, বাঙ্গালির প্রাপ্তি",
    "author": "শিবেন্দ্র ত্রিপাঠী (প্রচ্ছদ নিবন্ধ)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -1899,7 +2133,9 @@ window.SWASTIKA = {
    "heading": "বাঙ্গালির এক মৃত্যুপরোয়ানা",
    "author": "",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Buddhadeb Bhattacharjee",
@@ -1915,7 +2151,9 @@ window.SWASTIKA = {
    "heading": "বাঙ্গালির এক মৃত্যুপরোয়ানা",
    "author": "",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -1931,7 +2169,9 @@ window.SWASTIKA = {
    "heading": "পশ্চিমবঙ্গের গরিব, অনগ্রসর হিন্দুসমাজের উপর হওয়া অবিচার বন্ধ করার সময় এসেছে",
    "author": "সুদীপ্ত গুহ (প্রচ্ছদ নিবন্ধ)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Buddhadeb Bhattacharjee",
@@ -1947,7 +2187,9 @@ window.SWASTIKA = {
    "heading": "পশ্চিমবঙ্গের গরিব, অনগ্রসর হিন্দুসমাজের উপর হওয়া অবিচার বন্ধ করার সময় এসেছে",
    "author": "সুদীপ্ত গুহ (প্রচ্ছদ নিবন্ধ)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Abdur Rezzak Mollah",
@@ -1963,7 +2205,9 @@ window.SWASTIKA = {
    "heading": "পশ্চিমবঙ্গের গরিব, অনগ্রসর হিন্দুসমাজের উপর হওয়া অবিচার বন্ধ করার সময় এসেছে",
    "author": "সুদীপ্ত গুহ (প্রচ্ছদ নিবন্ধ)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Buddhadeb Bhattacharjee",
@@ -1979,7 +2223,9 @@ window.SWASTIKA = {
    "heading": "সেকুলার রাজনীতির নোংরা খেলায় হিন্দু ওবিসি সংরক্ষণ গুমরে কাঁদে",
    "author": "সিদ্ধানন্দ পুরকাইত (প্রচ্ছদ নিবন্ধ)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Bikash Ranjan Bhattacharya",
@@ -1995,11 +2241,13 @@ window.SWASTIKA = {
    "heading": "ত্রিপুরার পর পশ্চিমবঙ্গে ইতিহাসের পুনরাবৃত্তি: শিক্ষকের কান্নায় কি ডুববে মমতার সিংহাসন?",
    "author": "বিশেষ প্রতিবেদন",
    "note": "Cites the Trinamool line that Suvendu and 'CPIM's Bikash Bhattacharya' conspired to cost teachers their jobs",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": "তৃণমূলের বক্তব্য উদ্ধৃত করা হয়েছে যে শুভেন্দু ও 'সিপিআই(এম)-এর বিকাশ ভট্টাচার্য' ষড়যন্ত্র করে শিক্ষকদের চাকরি খাইয়েছেন"
   },
   {
    "leader": "Manik Sarkar",
-   "leader_bn": "",
+   "leader_bn": "মানিক সরকার",
    "featured": false,
    "issue": "20250714",
    "date": "2025-07-14",
@@ -2011,7 +2259,9 @@ window.SWASTIKA = {
    "heading": "ত্রিপুরার পর পশ্চিমবঙ্গে ইতিহাসের পুনরাবৃত্তি: শিক্ষকের কান্নায় কি ডুববে মমতার সিংহাসন?",
    "author": "বিশেষ প্রতিবেদন",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -2027,7 +2277,9 @@ window.SWASTIKA = {
    "heading": "কামদুনি থেকে কসবা তৃণমূলের কসাইখানায় আর কতদিন কোরবানি?: কসাইবঙ্গ",
    "author": "নির্মাল্য মুখোপাধ্যায়",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -2043,7 +2295,9 @@ window.SWASTIKA = {
    "heading": "শ্যামাপ্রসাদ মুখোপাধ্যায় পশ্চিমবঙ্গের জনক",
    "author": "বটু কৃষ্ণ হালদার (বিশেষ নিবন্ধ)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -2059,7 +2313,9 @@ window.SWASTIKA = {
    "heading": "পশ্চিমবঙ্গে জেহাদিদের ভয়ে পুলিশ নিজেই আজ আতঙ্কিত",
    "author": "মণীন্দ্রনাথ সাহা (উত্তর সম্পাদকীয়)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Buddhadeb Bhattacharjee",
@@ -2075,7 +2331,9 @@ window.SWASTIKA = {
    "heading": "১৬ দিনে কর্ণের পতন, আর ১৫ বছরে মমতার? দীঘার সার্কাসেই তৃণমূলনেত্রীর রথচক্রগ্রাস",
    "author": "নির্মাল্য মুখোপাধ্যায়",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Buddhadeb Bhattacharjee",
@@ -2091,7 +2349,9 @@ window.SWASTIKA = {
    "heading": "খানিক নীরবতা পালন করুন দিদি",
    "author": "সুন্দর মৌলিকের চিঠি",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Buddhadeb Bhattacharjee",
@@ -2107,7 +2367,9 @@ window.SWASTIKA = {
    "heading": "নরেন্দ্র মোদী নেতৃত্বাধীন সরকারের এগারো বছর: বস্তুগত পরিবর্তনের সঙ্গে সঙ্গে ভাবনারও পরিবর্তন",
    "author": "বিমলশঙ্কর নন্দ (প্রচ্ছদ নিবন্ধ)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -2123,7 +2385,9 @@ window.SWASTIKA = {
    "heading": "২০২৬-এর ভোটে তৃণমূলের বড়ো দুর্বলতা ‘মুখ আর মুখ’-এর লড়াই: ‘টেক অফ’",
    "author": "নির্মাল্য মুখোপাধ্যায়",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Buddhadeb Bhattacharjee",
@@ -2139,7 +2403,9 @@ window.SWASTIKA = {
    "heading": "২০২৬-এর ভোটে তৃণমূলের বড়ো দুর্বলতা ‘মুখ আর মুখ’-এর লড়াই: ‘টেক অফ’",
    "author": "নির্মাল্য মুখোপাধ্যায়",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Buddhadeb Bhattacharjee",
@@ -2155,7 +2421,9 @@ window.SWASTIKA = {
    "heading": "বাসব অতি সুবোধ বালক: মাকু-পাকু-সেকু-নেকুদের চোখে জল",
    "author": "পিনাকপাণি ঘোষ (প্রচ্ছদ নিবন্ধ)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Buddhadeb Bhattacharjee",
@@ -2171,7 +2439,9 @@ window.SWASTIKA = {
    "heading": "দেশের উন্নয়নের পথে বাধা মাওবাদ: অপারেশন ব্ল্যাক ফরেস্ট একটি সঠিক পদক্ষেপ",
    "author": "প্রচ্ছদ নিবন্ধ",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -2187,7 +2457,9 @@ window.SWASTIKA = {
    "heading": "জেহাদি আক্রমণের কবলে পশ্চিমবঙ্গের মুর্শিদাবাদ",
    "author": "ড. বিনয়ভূষণ দাশ (উত্তর সম্পাদকীয়)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Buddhadeb Bhattacharjee",
@@ -2203,7 +2475,9 @@ window.SWASTIKA = {
    "heading": "জেহাদি আক্রমণের কবলে পশ্চিমবঙ্গের মুর্শিদাবাদ",
    "author": "ড. বিনয়ভূষণ দাশ (উত্তর সম্পাদকীয়)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Surjya Kanta Mishra",
@@ -2219,11 +2493,13 @@ window.SWASTIKA = {
    "heading": "জেহাদি আক্রমণের কবলে পশ্চিমবঙ্গের মুর্শিদাবাদ",
    "author": "ড. বিনয়ভূষণ দাশ (উত্তর সম্পাদকীয়)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Benoy Konar",
-   "leader_bn": "",
+   "leader_bn": "বিনয় কোনার",
    "featured": false,
    "issue": "20250609",
    "date": "2025-06-09",
@@ -2235,7 +2511,9 @@ window.SWASTIKA = {
    "heading": "‘কাঁচায় না নুইলে বাঁশ’: পাপোশ পুলিশ",
    "author": "নির্মাল্য মুখোপাধ্যায়",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Mohammad Salim",
@@ -2251,7 +2529,9 @@ window.SWASTIKA = {
    "heading": "ধর্ম হিংসা তথৈব চ : রাষ্ট্ররক্ষার মন্ত্র",
    "author": "বিপ্লব বিকাশ (প্রাসঙ্গিকী)",
    "note": "Salim sought 'de-escalation' at Tagore's birth anniversary after Operation Sindoor",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": "অপারেশন সিঁদুরের পর ঠাকুরের জন্মজয়ন্তীতে সেলিমের 'উত্তেজনা প্রশমনের' আর্জি"
   },
   {
    "leader": "Jyoti Basu",
@@ -2267,7 +2547,9 @@ window.SWASTIKA = {
    "heading": "সেকুলারিজম ছুঁড়ে ফেলে সন্ত্রাসবাদীদের পরিচয় জেনে নিক ভারতবাসী",
    "author": "শিবেন্দ্র ত্রিপাঠী (প্রচ্ছদ নিবন্ধ)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Biman Bose",
@@ -2283,7 +2565,9 @@ window.SWASTIKA = {
    "heading": "সেকুলারিজম ছুঁড়ে ফেলে সন্ত্রাসবাদীদের পরিচয় জেনে নিক ভারতবাসী",
    "author": "শিবেন্দ্র ত্রিপাঠী (প্রচ্ছদ নিবন্ধ)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Mohammad Salim",
@@ -2299,7 +2583,9 @@ window.SWASTIKA = {
    "heading": "সেকুলারিজম ছুঁড়ে ফেলে সন্ত্রাসবাদীদের পরিচয় জেনে নিক ভারতবাসী",
    "author": "শিবেন্দ্র ত্রিপাঠী (প্রচ্ছদ নিবন্ধ)",
    "note": "'Md Salim says the BJP is responsible for terrorism'",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": "'সন্ত্রাসবাদের জন্য বিজেপি দায়ী, বললেন মহম্মদ সেলিম'"
   },
   {
    "leader": "Jyoti Basu",
@@ -2315,7 +2601,9 @@ window.SWASTIKA = {
    "heading": "সন্ত্রাসীর ধর্ম আড়াল করতে ব্যস্ত ছদ্ম ধর্মনিরপেক্ষবাদীরা",
    "author": "ড. রাজলক্ষ্মী বসু (উত্তর সম্পাদকীয়)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -2331,11 +2619,13 @@ window.SWASTIKA = {
    "heading": "হিংসার উৎকট উৎসবে ত্রস্ত পশ্চিমবঙ্গের হিন্দুরা",
    "author": "মণীন্দ্রনাথ সাহা (প্রচ্ছদ নিবন্ধ)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Kanti Ganguly",
-   "leader_bn": "",
+   "leader_bn": "কান্তি গঙ্গোপাধ্যায়",
    "featured": false,
    "issue": "20250505",
    "date": "2025-05-05",
@@ -2347,7 +2637,9 @@ window.SWASTIKA = {
    "heading": "হিংসার উৎকট উৎসবে ত্রস্ত পশ্চিমবঙ্গের হিন্দুরা",
    "author": "মণীন্দ্রনাথ সাহা (প্রচ্ছদ নিবন্ধ)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Mohammad Salim",
@@ -2363,7 +2655,9 @@ window.SWASTIKA = {
    "heading": "মুর্শিদাবাদ জেলা—জেহাদি প্রসারণবাদের ধারাবাহিক পরীক্ষাগার",
    "author": "ড. বিনয়ভূষণ দাশ (প্রচ্ছদ নিবন্ধ)",
    "note": "'CPIM leader Md Salim hid their identity, claimed they were stopping the riot' (Murshidabad)",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": "'সিপিআই(এম) নেতা মহম্মদ সেলিম পরিচয় লুকিয়ে দাঙ্গা থামাচ্ছেন বলে দাবি করেছিলেন' (মুর্শিদাবাদ)"
   },
   {
    "leader": "Minakshi Mukherjee",
@@ -2379,7 +2673,9 @@ window.SWASTIKA = {
    "heading": "মুর্শিদাবাদ জেলা—জেহাদি প্রসারণবাদের ধারাবাহিক পরীক্ষাগার",
    "author": "ড. বিনয়ভূষণ দাশ (প্রচ্ছদ নিবন্ধ)",
    "note": "'Where are CPIM leaders Minakshi, Dipsita, Sujan, Pratikur during this persecution of Hindus?'",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": "'হিন্দুদের উপর এই নির্যাতনের সময় সিপিআই(এম) নেতা মীনাক্ষী, দীপ্সিতা, সুজন, প্রতীকুররা কোথায়?'"
   },
   {
    "leader": "Pratikur Rahaman",
@@ -2395,7 +2691,9 @@ window.SWASTIKA = {
    "heading": "মুর্শিদাবাদ জেলা—জেহাদি প্রসারণবাদের ধারাবাহিক পরীক্ষাগার",
    "author": "ড. বিনয়ভূষণ দাশ (প্রচ্ছদ নিবন্ধ)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Dipsita Dhar",
@@ -2411,7 +2709,9 @@ window.SWASTIKA = {
    "heading": "মুর্শিদাবাদ জেলা—জেহাদি প্রসারণবাদের ধারাবাহিক পরীক্ষাগার",
    "author": "ড. বিনয়ভূষণ দাশ (প্রচ্ছদ নিবন্ধ)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Sujan Chakraborty",
@@ -2427,7 +2727,9 @@ window.SWASTIKA = {
    "heading": "মুর্শিদাবাদ জেলা—জেহাদি প্রসারণবাদের ধারাবাহিক পরীক্ষাগার",
    "author": "ড. বিনয়ভূষণ দাশ (প্রচ্ছদ নিবন্ধ)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -2443,11 +2745,13 @@ window.SWASTIKA = {
    "heading": "মুর্শিদাবাদ জেলা—জেহাদি প্রসারণবাদের ধারাবাহিক পরীক্ষাগার",
    "author": "ড. বিনয়ভূষণ দাশ (প্রচ্ছদ নিবন্ধ)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Hannan Mollah",
-   "leader_bn": "",
+   "leader_bn": "হান্নান মোল্লা",
    "featured": false,
    "issue": "20250428",
    "date": "2025-04-28",
@@ -2459,7 +2763,9 @@ window.SWASTIKA = {
    "heading": "দিদির ওয়াকফ ইতিহাস জানলে চোখে জল এসে যাবে",
    "author": "সুন্দর মৌলিকের চিঠি",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -2475,7 +2781,9 @@ window.SWASTIKA = {
    "heading": "বহিরাগত জঙ্গি নিয়ে খেলার মাশুল গুনতেই হবে ‘পুলিশমন্ত্রী’ মমতাকে: শাক দিয়ে মাছ",
    "author": "নির্মাল্য মুখোপাধ্যায়",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Buddhadeb Bhattacharjee",
@@ -2491,7 +2799,9 @@ window.SWASTIKA = {
    "heading": "পেশাদারিত্বের কাছে নতজানু মহত্ত্বের পাগলামিতে মত্ত মমতা: চার্জশিট",
    "author": "নির্মাল্য মুখোপাধ্যায়",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -2507,7 +2817,9 @@ window.SWASTIKA = {
    "heading": "যাদবপুর বিশ্ববিদ্যালয়ে বাম ও অতিবামপন্থী ছাত্র সংগঠনের অন্ধকার দিকগুলি ঠিক কি রকম",
    "author": "দেবজিৎ সরকার (প্রচ্ছদ নিবন্ধ)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Buddhadeb Bhattacharjee",
@@ -2523,7 +2835,9 @@ window.SWASTIKA = {
    "heading": "এবার যাদবপুরের আরবান নকশালদের বিরুদ্ধেই হোক ‘হোক কলরব’",
    "author": "প্রচ্ছদ নিবন্ধ",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Pinarayi Vijayan",
@@ -2539,7 +2853,9 @@ window.SWASTIKA = {
    "heading": "কেরালায় সরকারি মদতে জঙ্গি সংগঠনের নাম নতুন, কাজ পুরাতন",
    "author": "",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Mohammad Salim",
@@ -2555,7 +2871,9 @@ window.SWASTIKA = {
    "heading": "যতো ধর্মস্ততো জয়ঃ",
    "author": "নির্মাল্য মুখোপাধ্যায়",
    "note": "'The Left's Muslim leader Md Salim' wanted to file a police complaint against Suvendu",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": "শুভেন্দুর বিরুদ্ধে পুলিশে অভিযোগ দায়ের করতে চেয়েছিলেন 'বামপন্থীদের মুসলিম নেতা মহম্মদ সেলিম'"
   },
   {
    "leader": "Buddhadeb Bhattacharjee",
@@ -2571,7 +2889,9 @@ window.SWASTIKA = {
    "heading": "রাষ্ট্রবিরোধীদের কুনাট্য",
    "author": "সম্পাদকীয়",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Bikash Ranjan Bhattacharya",
@@ -2587,7 +2907,9 @@ window.SWASTIKA = {
    "heading": "মহাকুম্ভকে অসম্মান করে নিজেদের স্বরূপ উন্মোচন করেছে রাষ্ট্রবিরোধীরা",
    "author": "মণীন্দ্রনাথ সাহা (প্রচ্ছদ নিবন্ধ)",
    "note": "Quotes 'the all-knowing CPIM leader' questioning the Kumbh fire",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": "কুম্ভে অগ্নিকাণ্ড নিয়ে প্রশ্ন তোলা 'সর্বজ্ঞ সিপিআই(এম) নেতা'কে উদ্ধৃত করা হয়েছে"
   },
   {
    "leader": "Bikash Ranjan Bhattacharya",
@@ -2603,7 +2925,9 @@ window.SWASTIKA = {
    "heading": "প্রয়াগরাজ মহাকুম্ভমেলায় কে কী পেলেন?",
    "author": "শিবেন্দ্র ত্রিপাঠী (উত্তর সম্পাদকীয়)",
    "note": "Mocks 'communist leader Bikash Bhattacharya' for magnifying a small fire at the Kumbh",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": "কুম্ভে একটি ছোট আগুনকে বড় করে দেখানোর জন্য 'কমিউনিস্ট নেতা বিকাশ ভট্টাচার্য'-কে ব্যঙ্গ করা হয়েছে"
   },
   {
    "leader": "Brinda Karat",
@@ -2619,7 +2943,9 @@ window.SWASTIKA = {
    "heading": "বৃন্দা কারাতের হিন্দু ব্যাখ্যান",
    "author": "শিবেন্দ্র ত্রিপাঠী (মতামত)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -2635,7 +2961,9 @@ window.SWASTIKA = {
    "heading": "বেহাল বঙ্গ বন্ধক রেখে কপট পাশা খেলছেন মুখ্যমন্ত্রী: শকুনির পাশা",
    "author": "নির্মাল্য মুখোপাধ্যায়",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Bikash Ranjan Bhattacharya",
@@ -2651,7 +2979,9 @@ window.SWASTIKA = {
    "heading": "শাসকদলের মদতে পশ্চিমবঙ্গ এখন জেহাদিদের স্বর্গরাজ্য",
    "author": "ড. রমা বন্দ্যোপাধ্যায় (বিশেষ নিবন্ধ)",
    "note": "'Bikash Bhattacharya, Subodh Sarkar… eat beef to show secularism'",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": "'ধর্মনিরপেক্ষতা দেখাতে গোমাংস খান বিকাশ ভট্টাচার্য, সুবোধ সরকাররা…'"
   },
   {
    "leader": "Mohammad Salim",
@@ -2667,7 +2997,9 @@ window.SWASTIKA = {
    "heading": "শাসকদলের মদতে পশ্চিমবঙ্গ এখন জেহাদিদের স্বর্গরাজ্য",
    "author": "ড. রমা বন্দ্যোপাধ্যায় (বিশেষ নিবন্ধ)",
    "note": "'They would never dare feed pork to communist leader Md Salim'",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": "'কমিউনিস্ট নেতা মহম্মদ সেলিমকে শুয়োরের মাংস খাওয়ানোর সাহস ওরা কখনও দেখাবে না'"
   },
   {
    "leader": "Bikash Ranjan Bhattacharya",
@@ -2683,7 +3015,9 @@ window.SWASTIKA = {
    "heading": "হিন্দুবিদ্বেষী বিকাশ-খাড়গেরা যেন শ্রীচৈতন্য যুগের জগাই-মাধাই",
    "author": "শিবেন্দ্র ত্রিপাঠী (মতামত)",
    "note": "Named in the headline; attacks his question blaming the government for the Maha Kumbh fire",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": "শিরোনামে উল্লিখিত; মহাকুম্ভের অগ্নিকাণ্ডের জন্য সরকারকে দায়ী করে তাঁর প্রশ্নের সমালোচনা করা হয়েছে"
   },
   {
    "leader": "Buddhadeb Bhattacharjee",
@@ -2699,7 +3033,9 @@ window.SWASTIKA = {
    "heading": "অভয়ার বাবা-মায়ের মুখ্যমন্ত্রীর পদত্যাগ চাওয়া কী অন্যায়?",
    "author": "বিশ্বপ্রিয় দাস (মতামত)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -2715,7 +3051,9 @@ window.SWASTIKA = {
    "heading": "অপারেশন মরিচঝাঁপি : সিপিএমের এক কলঙ্কিত অধ্যায়",
    "author": "অধ্যাপক গোপাল চক্রবর্তী (বিশেষ নিবন্ধ)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -2731,7 +3069,9 @@ window.SWASTIKA = {
    "heading": "অস্বাস্থ্যকর পরিবেশ কি আদৌ কাটবে: কার পাপে?",
    "author": "নির্মাল্য মুখোপাধ্যায়",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Bikash Ranjan Bhattacharya",
@@ -2747,7 +3087,9 @@ window.SWASTIKA = {
    "heading": "ভাববার মতো কিছু কথা",
    "author": "অমিত চৌধুরী (ভাবনাচিন্তা)",
    "note": "Numbered list: 'Comrade Bikash Bhattacharya' eats beef to prove he is secular",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": "ক্রমিক তালিকা: 'কমরেড বিকাশ ভট্টাচার্য' নিজেকে ধর্মনিরপেক্ষ প্রমাণ করতে গোমাংস খান"
   },
   {
    "leader": "Mohammad Salim",
@@ -2763,7 +3105,9 @@ window.SWASTIKA = {
    "heading": "ভাববার মতো কিছু কথা",
    "author": "অমিত চৌধুরী (ভাবনাচিন্তা)",
    "note": "Same list: 'nobody ever fed Salim pork'",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": "একই তালিকা: 'সেলিমকে কেউ কখনও শূকরের মাংস খাওয়ায়নি'"
   },
   {
    "leader": "Jyoti Basu",
@@ -2779,7 +3123,9 @@ window.SWASTIKA = {
    "heading": "নেতাজী জয়ন্তীতে ক্ষমা চাইতে কমিউনিস্টরা, কংগ্রেসের বোধোদয় কবে হবে?",
    "author": "ড. জয়ন্ত চৌধুরী (উত্তর সম্পাদকীয়)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Buddhadeb Bhattacharjee",
@@ -2795,7 +3141,9 @@ window.SWASTIKA = {
    "heading": "নেতাজী জয়ন্তীতে ক্ষমা চাইতে কমিউনিস্টরা, কংগ্রেসের বোধোদয় কবে হবে?",
    "author": "ড. জয়ন্ত চৌধুরী (উত্তর সম্পাদকীয়)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Pinarayi Vijayan",
@@ -2811,7 +3159,9 @@ window.SWASTIKA = {
    "heading": "সততার ধ্বজাধারী কমিউনিস্টরা আকণ্ঠ দুর্নীতিতে জড়িত",
    "author": "সুদীপনারায়ণ ঘোষ (বিশেষ নিবন্ধ)",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Jyoti Basu",
@@ -2827,7 +3177,9 @@ window.SWASTIKA = {
    "heading": "সিপিএমের পতন নিশ্চিত করেছিল নিঃশব্দ পুলিশ বিদ্রোহ: সরছে পুলিশ কাঁপছে মমতা",
    "author": "নির্মাল্য মুখোপাধ্যায়",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   },
   {
    "leader": "Buddhadeb Bhattacharjee",
@@ -2843,7 +3195,9 @@ window.SWASTIKA = {
    "heading": "সিপিএমের পতন নিশ্চিত করেছিল নিঃশব্দ পুলিশ বিদ্রোহ: সরছে পুলিশ কাঁপছে মমতা",
    "author": "নির্মাল্য মুখোপাধ্যায়",
    "note": "",
-   "status": "verified"
+   "status": "verified",
+   "label_bn": "",
+   "note_bn": ""
   }
  ]
 };

@@ -30,7 +30,10 @@ window.HINDUTVA = {
       "issue": "20260330",
       "page": 37
      }
-    ]
+    ],
+    "name_bn": "আরএসএসের শতবর্ষ সম্পর্ক কর্মসূচি: ভাগবতের বঙ্গ সফর, বিশিষ্টজনদের সঙ্গে বৈঠক এবং গৃহ/জন সম্পর্ক",
+    "org_bn": "আরএসএস",
+    "description_bn": "ভাগবতের ২০২৫ সালের ডিসেম্বরের সফর (শিলিগুড়িতে যুব সম্মেলন, কলকাতায় বক্তৃতামালা ও প্রশ্নোত্তর)-এর পর বর্ধমান ও হুগলি জুড়ে হোসাবালে, অরুণ কুমার ও পূর্বাঞ্চলের কার্যকর্তাদের ভাষণসহ শতবর্ষের 'বিশিষ্ট নাগরিক' সম্মেলন অনুষ্ঠিত হয়। জাতীয় স্তরে বাড়ি বাড়ি যোগাযোগ ১০ কোটিরও বেশি পরিবারে পৌঁছেছে বলে দাবি করা হয়েছে, এবং বছরের সমাপ্তি হয় ভাগবতের বিজয়াদশমীর ভাষণে।"
    },
    {
     "name": "Centenary Hindu Sammelans",
@@ -53,7 +56,10 @@ window.HINDUTVA = {
       "issue": "20261102",
       "page": 44
      }
-    ]
+    ],
+    "name_bn": "শতবর্ষ হিন্দু সম্মেলনগুলি",
+    "org_bn": "আরএসএস",
+    "description_bn": "গীতাপাঠ, শান্তি যজ্ঞ ও ভারত সেবাশ্রম সঙ্ঘের সন্ন্যাসীদের উপস্থিতিতে বাংলা জুড়ে হিন্দু সম্মেলন অনুষ্ঠিত হয়েছে, যার মধ্যে ছিল বিরাটি, রামপুরহাট (প্রায় ১০,০০০ উপস্থিত), গাজোল, পাটুলি ও বেলেঘাটা। সমাপনী প্রতিবেদনে চূড়ান্ত হিসাব ছিল সারা দেশে ৩৪,১৮৭টি মণ্ডলস্তরের হিন্দু সম্মেলন।"
    },
    {
     "name": "Panch Parivartan (five transformations)",
@@ -76,7 +82,10 @@ window.HINDUTVA = {
       "issue": "20261102",
       "page": 45
      }
-    ]
+    ],
+    "name_bn": "পঞ্চ পরিবর্তন",
+    "org_bn": "আরএসএস",
+    "description_bn": "শতবর্ষের সামাজিক কর্মসূচির মধ্যে রয়েছে স্ব-বোধ ('স্ব'), নাগরিক কর্তব্য, পরিবার প্রবোধন, সামাজিক সম্প্রীতি ও পরিবেশ। তারকেশ্বরে ব্রাহ্মণ ভোজনের পরিবর্তে শিশুভোজ, বৃক্ষরোপণ ও পরিবার প্রবোধন সভার মতো অনুষ্ঠানের মাধ্যমে এর প্রচার হয়েছে, আর ভাগবত বলেছেন এটি এক বছরের কর্মসূচি নয়, অভ্যাসে পরিণত হতে হবে।"
    },
    {
     "name": "Protests over persecution of Hindus in Bangladesh",
@@ -99,7 +108,10 @@ window.HINDUTVA = {
       "issue": "20260525",
       "page": 20
      }
-    ]
+    ],
+    "name_bn": "বাংলাদেশে হিন্দুদের উপর নির্যাতনের বিরুদ্ধে বিক্ষোভ",
+    "org_bn": "হিন্দু জাগরণ মঞ্চ / বিশ্ব হিন্দু পরিষদ / বজরং দল",
+    "description_bn": "কলকাতায় বাংলাদেশ উপ-उচ্চায়ুক্তের দপ্তর অভিমুখে শুভেন্দু অধিকারীর যোগদানে মিছিল পুলিশের লাঠিচার্জ ও ১৯ জনের গ্রেফতারিতে শেষ হয়। দিল্লিতে বিশ্ব হিন্দু পরিষদ–বজরং দলের বিক্ষোভকারীরা মুহাম্মদ ইউনূসের কুশপুত্তলিকা পোড়ান, এরপর নাগরিকদের আরও মিছিল হয়। দীপু চন্দ্র দাসের হত্যা এবং চিন্ময় কৃষ্ণ দাসের কারাবাস বারবার কেন্দ্রবিন্দুতে ছিল।"
    },
    {
     "name": "VHP Samajik Samarasata campaign (Tulsi Pujan, Ravidas Jayanti, seva in Dalit settlements)",
@@ -122,7 +134,10 @@ window.HINDUTVA = {
       "issue": "20260713",
       "page": 27
      }
-    ]
+    ],
+    "name_bn": "বিশ্ব হিন্দু পরিষদের সামাজিক সমরসতা অভিযান (তুলসী পুজো, রবিদাস জয়ন্তী, দলিত বস্তিতে সেবা)",
+    "org_bn": "বিশ্ব হিন্দু পরিষদ",
+    "description_bn": "২৫ ডিসেম্বর পালিত সপ্তম বর্ষের তুলসী পূজন দিবসকে বড়দিনের 'নরম ধর্মান্তরণের' পাল্টা হিসেবে তুলে ধরা হয়েছে। এই অভিযানে রবিদাস জয়ন্তী পালন ও একটি ডোম বসতিতে সেবাকাজও রয়েছে, যাকে জাতিভেদ নির্বিশেষে হিন্দু সমাজের ঐক্য হিসেবে উপস্থাপন করা হয়েছে।"
    },
    {
     "name": "Election mobilisation: SIR backing, 'safe polls' demands and 100% voting appeals",
@@ -145,7 +160,10 @@ window.HINDUTVA = {
       "issue": "20260511",
       "page": 5
      }
-    ]
+    ],
+    "name_bn": "নির্বাচনী প্রচার: এসআইআর-এর প্রতি সমর্থন, 'নিরাপদ ভোট'-এর দাবি ও শতভাগ ভোটদানের আহ্বান",
+    "org_bn": "স্বস্তিকার সম্পাদকীয় নীতি / বুদ্ধিজীবী ও পেশাজীবী মঞ্চ / সঙ্ঘ-অনুপ্রাণিত স্বেচ্ছাসেবকরা",
+    "description_bn": "একটি মঞ্চ ৩৫৫/৩৫৬ ধারা অথবা নির্বাচন কমিশনের নিয়ন্ত্রণে ভোট করার দাবি জানিয়েছে। সম্পাদকীয়তে 'হিন্দু সমাজকে বাঁচাতে' ১০০ শতাংশ ভোটদানের আহ্বান জানানো হয়েছে এবং টালিগঞ্জে একটি পরিবার-সম্মেলনে একটি 'জাতীয়তাবাদী' দলের জয়ের আহ্বান জানানো হয়েছে। ভোট-পরবর্তী সম্পাদকীয়তে মাসের পর মাস বাড়ি বাড়ি গিয়ে প্রচারকারী স্বেচ্ছাসেবকদের ধন্যবাদ জানানো হয়েছে।"
    },
    {
     "name": "BJP Parivartan Sankalp Yatra and Brigade rally",
@@ -156,7 +174,10 @@ window.HINDUTVA = {
       "issue": "20260323",
       "page": 7
      }
-    ]
+    ],
+    "name_bn": "বিজেপির পরিবর্তন সংকল্প যাত্রা ও ব্রিগেড সমাবেশ",
+    "org_bn": "বিজেপি",
+    "description_bn": "১ মার্চ কোচবিহার থেকে এবং ২ মার্চ রায়দিঘি থেকে শুরু হওয়া যাত্রাটি দুর্নীতি, অনুপ্রবেশ ও উন্নয়নের বিষয়ে চলে। এর সমাপ্তি হয় মোদির ১৪ মার্চের ব্রিগেড সমাবেশে, যেখানে পত্রিকাটির দাবি, ১০ লক্ষের বেশি মানুষ এসেছিলেন এবং তৃণমূলের 'গুন্ডা ও জেহাদিরা' তাতে আক্রমণ চালিয়েছে।"
    },
    {
     "name": "Sri Ram Mahotsav (statewide Ram Navami)",
@@ -179,7 +200,10 @@ window.HINDUTVA = {
       "issue": "20260413",
       "page": 28
      }
-    ]
+    ],
+    "name_bn": "শ্রীরাম মহোৎসব (রাজ্যব্যাপী রামনবমী)",
+    "org_bn": "বিশ্ব হিন্দু পরিষদ, বজরং দল, আরএসএস, এবিভিপি ও বিএমএস-এর সঙ্গে রামনবমী উদ্‌যাপন সমিতি",
+    "description_bn": "২৫ মার্চ থেকে ২ এপ্রিল পর্যন্ত উদ্‌যাপন চলে, প্রায় ৪,০০০ শোভাযাত্রা হয় (পত্রিকার দাবি, ৩ কোটি হিন্দু অংশ নিয়েছেন), যাতে বিজেপি প্রার্থীরা ও শুভেন্দু অধিকারী যোগ দেন। এবিভিপি যাদবপুর ও কলকাতা বিশ্ববিদ্যালয়ে রাম পুজো করে; পত্রিকার অভিযোগ, রঘুনাথগঞ্জ, পুরুলিয়া ও নলহাটিতে 'জেহাদি' হামলা হয়েছে।"
    },
    {
     "name": "Vande Mataram 150th anniversary",
@@ -202,7 +226,10 @@ window.HINDUTVA = {
       "issue": "20260921",
       "page": 23
      }
-    ]
+    ],
+    "name_bn": "বন্দে মাতরমের ১৫০তম বার্ষিকী",
+    "org_bn": "সংস্কার ভারতী (আরএসএস-এর সঙ্গে এবং পরে রাজ্য সরকারের সঙ্গে)",
+    "description_bn": "১৫০তম বর্ষ উপলক্ষে গণসংগীত, আলোচনাসভা ও সাংস্কৃতিক অনুষ্ঠান হয়, যার মধ্যে ছিল সংস্কার ভারতীর তিনদিনের অনুষ্ঠান ও ভিক্টোরিয়া মেমোরিয়ালে একটি অনুষ্ঠান। নির্বাচনের পর নতুন সরকার স্কুল ও মাদ্রাসায় সম্পূর্ণ গান গাওয়া বাধ্যতামূলক করে।"
    },
    {
     "name": "Paschimbanga Dibas (20 June) and Syama Prasad Mukherjee's 125th birth anniversary",
@@ -225,7 +252,10 @@ window.HINDUTVA = {
       "issue": "20260727",
       "page": 28
      }
-    ]
+    ],
+    "name_bn": "পশ্চিমবঙ্গ দিবস (২০ জুন) ও শ্যামাপ্রসাদ মুখোপাধ্যায়ের ১২৫তম জন্মবার্ষিকী",
+    "org_bn": "স্বস্তিকা / সংস্কার ভারতী / বিজেপি-ঘনিষ্ঠ সংগঠন / রাজ্য সরকার",
+    "description_bn": "২০ জুনকে শ্যামাপ্রসাদের হিন্দু আবাসভূমি অর্জনের দিন হিসেবে সরকারি স্বীকৃতি দেওয়ার প্রচার, যা হাওড়া, শিলিগুড়ি ও কলেজ স্কোয়ারে পালিত হয়েছে। এরপর একটি পূর্ণাঙ্গ বিশেষ সংখ্যা, রাজ্য সরকার-নির্দেশিত স্মরণ পক্ষ এবং মূর্তি উন্মোচন হয়েছে।"
    },
    {
     "name": "Sangh Shiksha Vargs and cadre training",
@@ -248,7 +278,10 @@ window.HINDUTVA = {
       "issue": "20260928",
       "page": 30
      }
-    ]
+    ],
+    "name_bn": "সঙ্ঘ শিক্ষা বর্গ ও কার্যকর্তা প্রশিক্ষণ",
+    "org_bn": "আরএসএস / বিশ্ব হিন্দু পরিষদ / হিন্দু জাগরণ মঞ্চ",
+    "description_bn": "নির্বাচনের পর বঙ্গের তিনটি প্রান্তের প্রশিক্ষণ শিবির (১৬১, ২৮৭ ও ১৭৭ জন প্রশিক্ষণার্থী, এবং ১৯৬ জন প্রশিক্ষণার্থীর একটি বিশেষ বর্গ) এবং নাগপুর ও সম্বলপুরে কার্যকর্তা বিকাশ বর্গ অনুষ্ঠিত হয়। এরপর শিলিগুড়িতে বিশ্ব হিন্দু পরিষদ উত্তরবঙ্গ পরিষদ বর্গ ও হিন্দু জাগরণ মঞ্চের অভ্যাস বর্গ হয়।"
    },
    {
     "name": "Jadavpur University campaign",
@@ -271,7 +304,10 @@ window.HINDUTVA = {
       "issue": "20260921",
       "page": 48
      }
-    ]
+    ],
+    "name_bn": "যাদবপুর বিশ্ববিদ্যালয় অভিযান",
+    "org_bn": "স্বস্তিকা / এবিভিপি / রাজ্য সরকার (মুখ্যমন্ত্রী শুভেন্দু অধিকারী)",
+    "description_bn": "বামপন্থী ছাত্র সংগঠনগুলির সঙ্গে সংঘর্ষের পর পত্রিকাটি বিশ্ববিদ্যালয়ের নাম পরিবর্তন করে 'শ্রী অরবিন্দ বিশ্ববিদ্যালয়' রাখার দাবি জানায়। এরপর মুখ্যমন্ত্রী ১০,০০০ কণ্ঠে বন্দে মাতরম অনুষ্ঠান ও ক্যাম্পাস পর্যন্ত 'গেরুয়া সম্মান যাত্রা'র নেতৃত্ব দেন এবং সেখানে গীতা ও হনুমান চালিসা পাঠের ঘোষণা করেন।"
    },
    {
     "name": "Akhand Bharat Sankalp Diwas and Bharat Mata pujas",
@@ -290,7 +326,10 @@ window.HINDUTVA = {
       "issue": "20260907",
       "page": 29
      }
-    ]
+    ],
+    "name_bn": "অখণ্ড ভারত সংকল্প দিবস ও ভারতমাতা পূজা",
+    "org_bn": "আরএসএস / বিশ্ব হিন্দু পরিষদ / স্থানীয় সমিতিগুলি",
+    "description_bn": "১৪ আগস্ট বেলঘাটায় তিরঙ্গা যাত্রা এবং বেগরি ও দমদমে ভারত মাতা পূজা ও রাষ্ট্রধর্ম সভার মাধ্যমে পালিত হয়, যেখানে আরএসএস কার্যকারিণী সদস্য অদ্বৈতচরণ দত্ত বক্তব্য রাখেন। পত্রিকাটি জানায়, স্বয়ংসেবকরা ১৯৪৭ সাল থেকে প্রতি বছর এই দিনটি পালন করে আসছেন।"
    },
    {
     "name": "State patronage of Sangh causes: Loktantra Senani honours and state Raksha Bandhan",
@@ -313,7 +352,10 @@ window.HINDUTVA = {
       "issue": "20261102",
       "page": 28
      }
-    ]
+    ],
+    "name_bn": "সঙ্ঘের উদ্দেশ্যে রাজ্যের পৃষ্ঠপোষকতা: লোকতন্ত্র সেনানী সম্মান ও রাজ্যস্তরে রাখীবন্ধন",
+    "org_bn": "আরএসএস-সংশ্লিষ্ট সংগঠনগুলির সঙ্গে পশ্চিমবঙ্গ সরকার",
+    "description_bn": "নতুন সরকার জরুরি অবস্থার সময়কার ৩২৫ জন কারাবরণকারীকে, যাঁদের অধিকাংশই স্বয়ংসেবক বলে বর্ণনা করা হয়েছে, মাসিক ১০,০০০ টাকা সম্মানভাতা দিয়ে সম্মানিত করেছে এবং রাখি উদযাপনকে সমর্থন জানিয়েছে। মুখ্যমন্ত্রী আরএসএসের কেশব স্মৃতি ভবনের উদ্বোধনে উপস্থিত ছিলেন এবং স্বস্তিকাকে দৈনিক করার পরামর্শ দেন।"
    }
   ],
   "propaganda": [
@@ -342,7 +384,10 @@ window.HINDUTVA = {
       "page": 3,
       "heading": "বাংলাদেশে সরকারের পরিবর্তন হয় ঠিকই, কিন্তু সংখ্যালঘু হিন্দুদের ভাগ্য পরিবর্তন হয় না"
      }
-    ]
+    ],
+    "theme_bn": "বাংলাদেশ, বাংলার দর্পণ",
+    "line_bn": "বাংলাদেশে হিন্দুদের হত্যা ইঙ্গিত দেয়, তোষণের রাজনীতির অধীনে পশ্চিমবঙ্গের হিন্দুদের জন্য কী অপেক্ষা করছে।",
+    "how_bn": "দীপু চন্দ্র দাসের গণপিটুনিতে হত্যার মতো অত্যাচারগুলিকে মুর্শিদাবাদ, মেটিয়াবুরুজ এবং সরস্বতী পুজোয় বিধিনিষেধের সঙ্গে যুক্ত করা হয়েছে। নীরব থাকার জন্য বামপন্থী, তৃণমূল ও ধর্মনিরপেক্ষ বুদ্ধিজীবীদের দায়ী করা হয়েছে।"
    },
    {
     "theme": "Infiltration, demography and the SIR",
@@ -369,7 +414,10 @@ window.HINDUTVA = {
       "page": 8,
       "heading": "ভারতে জনবিন্যাস পরিবর্তনের বিষয়টি সঙ্ঘ ও স্বস্তিকা পত্রিকাই জনসমক্ষে এনেছে"
      }
-    ]
+    ],
+    "theme_bn": "অনুপ্রবেশ, জনবিন্যাস ও এসআইআর",
+    "line_bn": "অবৈধ বাংলাদেশি ও রোহিঙ্গা মুসলমানরা ভোটার তালিকা ফুলিয়ে তুলছে এবং বাংলার জনবিন্যাস বদলে দিচ্ছে, তাই এসআইআর সাংবিধানিক শুদ্ধিকরণ।",
+    "how_bn": "মালদহ ও মুর্শিদাবাদে কেন্দ্রীভূত নাম বাদের সংখ্যা (৬০ লক্ষ, পরে ৯০.৬ লক্ষ) প্রমাণ হিসেবে উল্লেখ করা হয়েছে। তৃণমূল এবং তার আগে বামফ্রন্টের বিরুদ্ধে অনুপ্রবেশকারীদের জন্য ভুয়ো নথি তৈরির অভিযোগ আনা হয়েছে।"
    },
    {
     "theme": "TMC as anti-Hindu appeasement regime",
@@ -396,7 +444,10 @@ window.HINDUTVA = {
       "page": 17,
       "heading": "সাধুসন্তদের ওপর আক্রমণ প্রমাণ করল রাজ্য সরকার হিন্দু বিদ্বেষী"
      }
-    ]
+    ],
+    "theme_bn": "তৃণমূল হিন্দুবিরোধী তোষণকারী শাসনব্যবস্থা হিসেবে",
+    "line_bn": "মমতা বন্দ্যোপাধ্যায়ের সরকার একটি আইনহীন, হিন্দুবিরোধী শাসন, যা মুসলিম ভোটব্যাঙ্ক তোষণের ভিত্তিতে চলে।",
+    "how_bn": "পত্রিকা মাদ্রাসায় বরাদ্দ, সাধুদের উপর হামলা, উৎসবে নিষেধাজ্ঞা এবং 'মিনি পাকিস্তান' এলাকার উল্লেখ করেছে। তৃণমূলের শাসনকে 'মাৎস্যন্যায়' বলা হয়েছে, যা বামপন্থীদের লাল সন্ত্রাসকেও ছাড়িয়ে গেছে।"
    },
    {
     "theme": "The election as a Hindu survival war",
@@ -423,7 +474,10 @@ window.HINDUTVA = {
       "page": 48,
       "heading": "একটা ছোটো ভুল আবার বাঙ্গালিকে দেশভাগের মতো অভিজ্ঞতার সম্মুখীন করবে না তো?"
      }
-    ]
+    ],
+    "theme_bn": "হিন্দুর অস্তিত্ব রক্ষার যুদ্ধ হিসেবে নির্বাচন",
+    "line_bn": "২০২৬ সালের বিধানসভা নির্বাচন বাংলার হিন্দুদের অস্তিত্ব রক্ষার জীবন-মরণ লড়াই।",
+    "how_bn": "সম্পাদকীয়গুলিতে ১০০ শতাংশ ভোট ও হিন্দু ঐক্যের আহ্বান জানিয়ে সতর্ক করা হয়েছে যে একটি 'ছোট ভুল' আরও একটি দেশভাগ ডেকে আনতে পারে। পত্রিকাটি একে 'ধর্মযুদ্ধ'-এর আগে 'শেষ ট্রেন' বলে উল্লেখ করেছে।"
    },
    {
     "theme": "Victory as Hindu 'second independence'",
@@ -450,7 +504,10 @@ window.HINDUTVA = {
       "page": 5,
       "heading": "এই “যোগক্ষেম” রক্ষা করিতেই হইবে"
      }
-    ]
+    ],
+    "theme_bn": "হিন্দুদের 'দ্বিতীয় স্বাধীনতা' হিসেবে বিজয়",
+    "line_bn": "বিজেপির জয় হিন্দুত্বের জয় এবং বাংলার দ্বিতীয় স্বাধীনতা, যাকে এখন হিন্দুদের রক্ষা করতে হবে।",
+    "how_bn": "এটিকে প্রথম ঐক্যবদ্ধ হিন্দু ভোট এবং সংঘের কয়েক দশকের কাজের ফল হিসেবে তুলে ধরা হয়েছে, যেখানে ৮২০ বছরেরও বেশি পরে 'হিন্দু শাসন' ফিরে এসেছে। পাঠকদের বলা হয়েছে বামপন্থী, জিহাদি ও তৃণমূলের অবশিষ্টাংশের হাত থেকে এই 'যোগক্ষেম' রক্ষা করতে।"
    },
    {
     "theme": "The Left as violent and to be eliminated",
@@ -477,7 +534,10 @@ window.HINDUTVA = {
       "page": 10,
       "heading": "শয়তানেরা ঘুমায় না, শয়তানির মূল্য মৃত্যু"
      }
-    ]
+    ],
+    "theme_bn": "বামপন্থীরা হিংসাত্মক এবং তাদের নির্মূল করা উচিত",
+    "line_bn": "সিপিআই(এম)-এর ৩৪ বছর ছিল 'লাল সন্ত্রাস', এবং এখন বামপন্থীদের বাংলা থেকে নিশ্চিহ্ন করতে হবে।",
+    "how_bn": "এতে মরিচঝাঁপি, সাঁইবাড়ি, বিজন সেতু, নন্দীগ্রাম এবং বাংলা ও কেরলে স্বয়ংসেবকদের উপর হামলার উল্লেখ আছে। বক্তব্য ক্রমশ চড়ে গিয়ে 'নির্মূল'-এর ডাক, 'বামমুক্ত' রাজ্য এবং নাম উল্লেখ করা ছাত্র কর্মীদের বিরুদ্ধে হুমকিতে পৌঁছেছে।"
    },
    {
     "theme": "Left–Islamist nexus",
@@ -499,7 +559,10 @@ window.HINDUTVA = {
       "page": 3,
       "heading": "মুসলমান ভোটে প্রাণ স্পন্দন শুরু হয়েছে সিপিএমের"
      }
-    ]
+    ],
+    "theme_bn": "বাম–ইসলামপন্থী আঁতাত",
+    "line_bn": "বামপন্থী ও ইসলামি মৌলবাদ একই মুদ্রার দুই পিঠ।",
+    "how_bn": "পত্রিকার বক্তব্য, সিপিআই(এম) মুসলিম ভোটব্যাঙ্ক রাজনীতির পথিকৃৎ, 'উম্মাহ'র জন্য ইরানের সমর্থনে মিছিল করেছে এবং মুসলিম ভোট ও আইএসএফের মাধ্যমে নিজেকে পুনরুজ্জীবিত করছে।"
    },
    {
     "theme": "Communists as historical traitors",
@@ -526,7 +589,10 @@ window.HINDUTVA = {
       "page": 4,
       "heading": "দেশভাগের চক্রান্ত : অধিকারী থিসিস (১৯৪২)"
      }
-    ]
+    ],
+    "theme_bn": "ঐতিহাসিক বিশ্বাসঘাতক হিসেবে কমিউনিস্টরা",
+    "line_bn": "কমিউনিস্টরা নেতাজিকে কলঙ্কিত করে, ভারত ছাড়ো আন্দোলনের বিরোধিতা করে, পাকিস্তানকে সমর্থন করে এবং ১৯৬২ সালে চিনের পক্ষ নিয়ে স্বাধীনতা সংগ্রামের সঙ্গে বিশ্বাসঘাতকতা করেছে।",
+    "how_bn": "ইতিহাসবিষয়ক লেখাগুলিতে 'পিপলস ওয়ার' কার্টুন, জোশী–ম্যাক্সওয়েল চুক্তি ও অধিকারী থিসিসের উল্লেখ আছে। বলা হয়েছে, মার্কসবাদী ঐতিহাসিকরা '৮০০ বছরের ইসলামি নিপীড়ন'-সহ এই সবকিছু চেপে গেছেন।"
    },
    {
     "theme": "West Bengal as a 'Hindu homeland'",
@@ -553,7 +619,10 @@ window.HINDUTVA = {
       "page": 5,
       "heading": "শ্যামাপ্রসাদ শাশ্বত, চির অম্লান"
      }
-    ]
+    ],
+    "theme_bn": "'হিন্দু বাসভূমি' হিসেবে পশ্চিমবঙ্গ",
+    "line_bn": "শ্যামাপ্রসাদ মুখোপাধ্যায় বাঙালি হিন্দুদের আশ্রয়স্থল হিসেবে পশ্চিমবঙ্গ গড়েছিলেন, এবং এখন লক্ষ্য হিন্দু বাসভূমি প্রতিষ্ঠা করা।",
+    "how_bn": "পত্রিকার অভিযোগ, কংগ্রেস, বামপন্থী ও তৃণমূল তাঁকে মুছে দিয়েছে; তারা ২০ জুনকে সরকারি 'পশ্চিমবঙ্গ দিবস' করার দাবি জানিয়েছে এবং ১৯৪৬ সালের কলকাতা ও নোয়াখালিকে দেশভাগের প্রয়োজনীয়তার প্রমাণ হিসেবে উল্লেখ করেছে।"
    },
    {
     "theme": "Reclaiming Bengali identity as Hindu",
@@ -580,7 +649,10 @@ window.HINDUTVA = {
       "page": 39,
       "heading": "বাঙ্গালিয়ানা কাম্য কিন্তু ভারতীয়ত্বকে অস্বীকার করে নয়"
      }
-    ]
+    ],
+    "theme_bn": "হিন্দু হিসেবে বাঙালি পরিচয়ের পুনরুদ্ধার",
+    "line_bn": "বাঙালি সংস্কৃতি মূলে হিন্দু, আর কমিউনিস্ট, 'ধর্মনিরপেক্ষতাবাদী' ও মুঘল কৃতিত্ব আরোপ তা চুরি করেছে।",
+    "how_bn": "পত্রিকার যুক্তি, বাংলা সনের প্রবর্তক আকবর নন, শশাঙ্ক; দোল 'অবাঙালি' নয়; রাম-উপাসনা বাংলার নিজস্ব; এবং রবীন্দ্রনাথ ছিলেন হিন্দু জাতীয়তার এক 'ভারত-ঋষি'।"
    },
    {
     "theme": "Foreign 'deep state' and campus 'urban Naxals'",
@@ -607,7 +679,10 @@ window.HINDUTVA = {
       "page": 11,
       "heading": "দিমাগি নকশাল : জাতির জীবনের ক্যানসার"
      }
-    ]
+    ],
+    "theme_bn": "বিদেশি 'ডিপ স্টেট' ও ক্যাম্পাসের 'আরবান নকশাল'",
+    "line_bn": "বিদেশি শক্তি, এনজিও ও বিরোধীরা দেশপ্রেমী সরকারগুলির বিরুদ্ধে 'শাসন-পরিবর্তন' ঘটাতে ছাত্র আন্দোলনকে ব্যবহার করছে।",
+    "how_bn": "'ককরোচ' আন্দোলন ও এফসিআরএ-বিরোধী বিক্ষোভকে উপসাগরীয় অর্থায়ন, মাওবাদী ও পাকিস্তানি হ্যান্ডলের সঙ্গে যুক্ত করা হয়েছে। যাদবপুরকে 'দিমাগি নকশাল'দের আস্তানা এবং দেশের পক্ষে 'ক্যানসার' বলে আখ্যা দেওয়া হয়েছে।"
    },
    {
     "theme": "Conversion and 'love jihad'",
@@ -634,54 +709,86 @@ window.HINDUTVA = {
       "page": 11,
       "heading": "বিদেশি অনুদান (সংশোধনী) বিল ২০২৬ : সার্বভৌমত্বের পাঁচিল"
      }
-    ]
+    ],
+    "theme_bn": "ধর্মান্তরণ ও 'লাভ জিহাদ'",
+    "line_bn": "হিন্দু মেয়েরা ও আদিবাসীরা 'লাভ জিহাদ' ও বিদেশি অর্থে ধর্মান্তরণের লক্ষ্যবস্তু, যা ধর্মনিরপেক্ষতা উপেক্ষা করে।",
+    "how_bn": "পত্রিকা 'লাভ জেহাদ' নিয়ে প্রচ্ছদ কাহিনি করেছে এবং হিন্দু মেয়েদের উপেক্ষা করার জন্য ধর্মনিরপেক্ষতার সমালোচনা করেছে। গ্রামসভার মিশনারি-নিষেধাজ্ঞা নিয়ে সুপ্রিম কোর্টের রায়কে সমর্থন করেছে, ধর্মান্তরিত আদিবাসীদের তফসিলি উপজাতি মর্যাদা হারানোর দাবি জানিয়েছে এবং ধর্মান্তরের অর্থায়নের বিরুদ্ধে এফসিআরএ সংশোধনীকে সমর্থন করেছে।"
    }
   ],
   "timeline": [
    {
     "month": "January 2026",
-    "highlights": "Victory-lap coverage of Bhagwat's Bengal tour and of Bangladesh Hindu persecution protests (20260105). There is a Netaji special attacking Congress and the Communists (20260119) and a Republic Day issue on Congress 'abusing' the Constitution, framing 2026 as a vote against Muslim appeasement (20260126)."
+    "highlights": "Victory-lap coverage of Bhagwat's Bengal tour and of Bangladesh Hindu persecution protests (20260105). There is a Netaji special attacking Congress and the Communists (20260119) and a Republic Day issue on Congress 'abusing' the Constitution, framing 2026 as a vote against Muslim appeasement (20260126).",
+    "month_bn": "জানুয়ারি ২০২৬",
+    "highlights_bn": "ভাগবতের বঙ্গ সফর এবং বাংলাদেশে হিন্দু নির্যাতনের বিরুদ্ধে বিক্ষোভের বিজয়োল্লাসমূলক প্রতিবেদন (২০২৬-০১-০৫ সংখ্যা)। কংগ্রেস ও কমিউনিস্টদের আক্রমণ করে নেতাজি বিশেষ সংখ্যা (১৯ জানুয়ারি সংখ্যা) এবং সংবিধানকে কংগ্রেসের 'অবমাননা' নিয়ে প্রজাতন্ত্র দিবসের সংখ্যা, যেখানে ২০২৬-কে মুসলিম তোষণের বিরুদ্ধে ভোট হিসেবে তুলে ধরা হয়েছে (২৬ জানুয়ারি সংখ্যা)।"
    },
    {
     "month": "February 2026",
-    "highlights": "Centenary Hindu Sammelans and distinguished-citizens' meets spread across districts. The paper presses the SIR line against TMC 'anarchy' (20260202) and attacks the CPIM through Marichjhapi and Sadanandan Master (20260202, 20260216), alongside Union Budget praise (20260209)."
+    "highlights": "Centenary Hindu Sammelans and distinguished-citizens' meets spread across districts. The paper presses the SIR line against TMC 'anarchy' (20260202) and attacks the CPIM through Marichjhapi and Sadanandan Master (20260202, 20260216), alongside Union Budget praise (20260209).",
+    "month_bn": "ফেব্রুয়ারি ২০২৬",
+    "highlights_bn": "বিভিন্ন জেলায় শতবর্ষ হিন্দু সম্মেলন ও বিশিষ্ট নাগরিকদের সভা ছড়িয়ে পড়ে। পত্রিকা তৃণমূলের 'অরাজকতা'র বিরুদ্ধে এসআইআর-এর পক্ষে সওয়াল করে (২ ফেব্রুয়ারি সংখ্যা) এবং মরিচঝাঁপি ও সদানন্দ মাস্টারের প্রসঙ্গ তুলে সিপিআই(এম)-কে আক্রমণ করে (২ ফেব্রুয়ারি, ১৬ ফেব্রুয়ারি সংখ্যা); পাশাপাশি কেন্দ্রীয় বাজেটের প্রশংসাও রয়েছে (৯ ফেব্রুয়ারি সংখ্যা)।"
    },
    {
     "month": "March 2026",
-    "highlights": "Coverage turns to Bangladesh's post-election BNP government and the SIR deletions (20260309, 20260316). Then the BJP Parivartan Sankalp Yatra and Brigade rally, 'Mini Pakistan' warnings, the RSS Pratinidhi Sabha report, and the election framed as an escape from a Hindu 'existential crisis' with Suvendu as 'the face of Bengal' (20260323, 20260330)."
+    "highlights": "Coverage turns to Bangladesh's post-election BNP government and the SIR deletions (20260309, 20260316). Then the BJP Parivartan Sankalp Yatra and Brigade rally, 'Mini Pakistan' warnings, the RSS Pratinidhi Sabha report, and the election framed as an escape from a Hindu 'existential crisis' with Suvendu as 'the face of Bengal' (20260323, 20260330).",
+    "month_bn": "২০২৬ সালের মার্চ",
+    "highlights_bn": "আলোচনা ঘুরে যায় নির্বাচনের পর বাংলাদেশের বিএনপি সরকার এবং এসআইআর-এ নাম বাদ পড়ার প্রসঙ্গে (২০ মার্চ... "
    },
    {
     "month": "April 2026",
-    "highlights": "Pre-election specials: 'save Hindu society' and 100% voting (20260406), and an explicit call to vote BJP and 'eradicate' the Left (20260413). Also Sri Ram Mahotsav with about 4,000 processions (20260413), and 'Left = Islamic extremism' plus 'last train' rhetoric (20260420, 20260427)."
+    "highlights": "Pre-election specials: 'save Hindu society' and 100% voting (20260406), and an explicit call to vote BJP and 'eradicate' the Left (20260413). Also Sri Ram Mahotsav with about 4,000 processions (20260413), and 'Left = Islamic extremism' plus 'last train' rhetoric (20260420, 20260427).",
+    "month_bn": "এপ্রিল ২০২৬",
+    "highlights_bn": "নির্বাচনপূর্ব বিশেষ সংখ্যা: 'হিন্দু সমাজকে বাঁচান' ও ১০০ শতাংশ ভোটদান (৬ এপ্রিল সংখ্যা), এবং বিজেপিকে ভোট দেওয়া ও বামপন্থীদের 'নির্মূল' করার স্পষ্ট আহ্বান (১৩ এপ্রিল সংখ্যা)। এছাড়া প্রায় ৪,০০০ শোভাযাত্রাসহ শ্রীরাম মহোৎসব (১৩ এপ্রিল সংখ্যা), এবং 'বামপন্থা = ইসলামি উগ্রপন্থা' ও 'শেষ ট্রেন' বাগাড়ম্বর (২০ এপ্রিল সংখ্যা, ২৭ এপ্রিল সংখ্যা)।"
    },
    {
     "month": "May 2026",
-    "highlights": "The BJP win (207 seats) is hailed as a 'second independence' and a Hindu 'dharmayuddha', with the Election Commission as 'man of the series' (20260511). Suvendu Adhikari is sworn in, and the paper says the Hindu awakening began in North Bengal and calls Kerala the next target (20260518, 20260525)."
+    "highlights": "The BJP win (207 seats) is hailed as a 'second independence' and a Hindu 'dharmayuddha', with the Election Commission as 'man of the series' (20260511). Suvendu Adhikari is sworn in, and the paper says the Hindu awakening began in North Bengal and calls Kerala the next target (20260518, 20260525).",
+    "month_bn": "২০২৬ সালের মে",
+    "highlights_bn": "বিজেপির জয়কে (২০৭ আসন) 'দ্বিতীয় স্বাধীনতা' ও হিন্দুর 'ধর্মযুদ্ধ' বলে অভিনন্দন জানানো হয়েছে এবং নির্বাচন কমিশনকে 'ম্যান অফ দ্য সিরিজ' বলা হয়েছে (১১ মে সংখ্যা)। শুভেন্দু অধিকারী শপথ নিয়েছেন; পত্রিকার মতে হিন্দু জাগরণ উত্তরবঙ্গ থেকে শুরু হয়েছে এবং কেরলকে পরবর্তী লক্ষ্য বলা হয়েছে (১৮ মে সংখ্যা, ২৫ মে সংখ্যা)।"
    },
    {
     "month": "June 2026",
-    "highlights": "A Savarkar special and Sangh Shiksha Vargs (20260601) are followed by calls to purge the Left from campuses (20260608). Then the Paschimbanga Dibas campaign (20260615), Shivaji 'Hindu Samrajya' framing with demography-committee vindication (20260622), and Yoga Day in Kolkata (20260629)."
+    "highlights": "A Savarkar special and Sangh Shiksha Vargs (20260601) are followed by calls to purge the Left from campuses (20260608). Then the Paschimbanga Dibas campaign (20260615), Shivaji 'Hindu Samrajya' framing with demography-committee vindication (20260622), and Yoga Day in Kolkata (20260629).",
+    "month_bn": "জুন ২০২৬",
+    "highlights_bn": "একটি সাভারকর বিশেষ সংখ্যা ও সঙ্ঘ শিক্ষা বর্গ (১ জুন সংখ্যা)-এর পর ক্যাম্পাস থেকে বামপন্থীদের বিতাড়নের ডাক (৮ জুন সংখ্যা)। তারপর পশ্চিমবঙ্গ দিবস প্রচার (১৫ জুন সংখ্যা), শিবাজির 'হিন্দু সাম্রাজ্য' ভাবনা ও জনবিন্যাস কমিটির যথার্থতা প্রতিপাদন (২২ জুন সংখ্যা), এবং কলকাতায় যোগ দিবস (২৯ জুন সংখ্যা)।"
    },
    {
     "month": "July 2026",
-    "highlights": "A Syama Prasad 'Hindu homeland' special (20260706) and Rath Yatra issue with demands to strip converted tribals of ST status (20260713). The paper praises the Gunda Daman law and calls for a UCC (20260720), and runs Guru Purnima and Panch Parivartan pieces (20260727)."
+    "highlights": "A Syama Prasad 'Hindu homeland' special (20260706) and Rath Yatra issue with demands to strip converted tribals of ST status (20260713). The paper praises the Gunda Daman law and calls for a UCC (20260720), and runs Guru Purnima and Panch Parivartan pieces (20260727).",
+    "month_bn": "জুলাই ২০২৬",
+    "highlights_bn": "শ্যামাপ্রসাদের 'হিন্দু homeland' বিশেষ সংখ্যা (৬ জুলাই) এবং রথযাত্রা সংখ্যা, যেখানে ধর্মান্তরিত আদিবাসীদের তফসিলি উপজাতি মর্যাদা কেড়ে নেওয়ার দাবি তোলা হয়েছে (১৩ জুলাই)। পত্রিকাটি গুন্ডা দমন আইনের প্রশংসা করেছে এবং অভিন্ন দেওয়ানি বিধির দাবি জানিয়েছে (২০ জুলাই), আর গুরু পূর্ণিমা ও পঞ্চ পরিবর্তন বিষয়ক লেখা ছাপিয়েছে (২৭ জুলাই)।"
    },
    {
     "month": "August 2026",
-    "highlights": "Churka Murmu martyr cult (20260803) and Akhand Bharat and anti-Communist history on Independence Day (20260810). Then the 'deep state'/'Cockroach' conspiracy line (20260817), Loktantra Senani honours and state-backed Raksha Bandhan (20260824), and FCRA and Jadavpur attacks (20260831)."
+    "highlights": "Churka Murmu martyr cult (20260803) and Akhand Bharat and anti-Communist history on Independence Day (20260810). Then the 'deep state'/'Cockroach' conspiracy line (20260817), Loktantra Senani honours and state-backed Raksha Bandhan (20260824), and FCRA and Jadavpur attacks (20260831).",
+    "month_bn": "আগস্ট ২০২৬",
+    "highlights_bn": "চুরকা মুর্মুর শহিদ-আরাধনা (৩ আগস্ট সংখ্যা) এবং স্বাধীনতা দিবসে অখণ্ড ভারত ও কমিউনিস্ট-বিরোধী ইতিহাস (১০ আগস্ট সংখ্যা)। এরপর 'ডিপ স্টেট'/'ককরোচ' ষড়যন্ত্র তত্ত্ব (১৭ আগস্ট সংখ্যা), লোকতন্ত্র সেনানী সম্মাননা ও রাজ্য সরকার-সমর্থিত রাখিবন্ধন (২৪ আগস্ট সংখ্যা) এবং এফসিআরএ ও যাদবপুরে হামলা (৩১ আগস্ট সংখ্যা)।"
    },
    {
     "month": "September 2026",
-    "highlights": "An editorial demands Jadavpur be renamed 'Sri Aurobindo University' (20260907). The 100-days special celebrates the government, including the CM-led Vande Mataram and Gerua Samman Yatra at Jadavpur (20260921), and the paper praises Modi's BRICS summit (20260928)."
+    "highlights": "An editorial demands Jadavpur be renamed 'Sri Aurobindo University' (20260907). The 100-days special celebrates the government, including the CM-led Vande Mataram and Gerua Samman Yatra at Jadavpur (20260921), and the paper praises Modi's BRICS summit (20260928).",
+    "month_bn": "সেপ্টেম্বর ২০২৬",
+    "highlights_bn": "একটি সম্পাদকীয়তে যাদবপুরের নাম 'শ্রী অরবিন্দ বিশ্ববিদ্যালয়' রাখার দাবি জানানো হয়েছে (৭ সেপ্টেম্বর সংখ্যা)। ১০০ দিনের বিশেষ সংখ্যায় সরকারের উদযাপন করা হয়েছে, যার মধ্যে যাদবপুরে মুখ্যমন্ত্রীর নেতৃত্বে বন্দে মাতরম ও গেরুয়া সম্মান যাত্রা রয়েছে (২১ সেপ্টেম্বর সংখ্যা), এবং পত্রিকাটি মোদির ব্রিকস সম্মেলনের প্রশংসা করেছে (২৮ সেপ্টেম্বর সংখ্যা)।"
    },
    {
     "month": "October 2026",
-    "highlights": "Durga Puja specials mix devotion with Bharat Mata theology, Bangladesh persecution fiction, an 'East Khorasan' dystopia with a 'containment and rollback' call, and anti-Communist history (puja2026a, puja2026c, puja2026d)."
+    "highlights": "Durga Puja specials mix devotion with Bharat Mata theology, Bangladesh persecution fiction, an 'East Khorasan' dystopia with a 'containment and rollback' call, and anti-Communist history (puja2026a, puja2026c, puja2026d).",
+    "month_bn": "অক্টোবর ২০২৬",
+    "highlights_bn": "দুর্গাপূজার বিশেষ সংখ্যাগুলিতে ভক্তির সঙ্গে ভারতমাতা-তত্ত্ব, বাংলাদেশে নির্যাতনের কাল্পনিক কাহিনি, 'পূর্ব খোরাসান' নামে একটি ডিসটোপিয়া ও 'কন্টেইনমেন্ট ও রোলব্যাক'-এর ডাক এবং কমিউনিস্ট-বিরোধী ইতিহাস মিশিয়ে দেওয়া হয়েছে (পূজা সংখ্যা ক, পূজা সংখ্যা গ, পূজা সংখ্যা ঘ)।"
    },
    {
     "month": "November 2026",
-    "highlights": "The Diwali issue reports the CM at the RSS Keshab Smriti Bhavan opening and Swastika's own event, endorses backlash against Left book stalls, and carries Bhagwat's Vijayadashami address closing the centenary year (20261102)."
+    "highlights": "The Diwali issue reports the CM at the RSS Keshab Smriti Bhavan opening and Swastika's own event, endorses backlash against Left book stalls, and carries Bhagwat's Vijayadashami address closing the centenary year (20261102).",
+    "month_bn": "নভেম্বর ২০২৬",
+    "highlights_bn": "দীপাবলি সংখ্যায় আরএসএসের কেশব স্মৃতি ভবনের উদ্বোধনে এবং স্বস্তিকার নিজস্ব অনুষ্ঠানে মুখ্যমন্ত্রীর উপস্থিতির খবর রয়েছে, বামপন্থী বইয়ের স্টলের বিরুদ্ধে প্রতিক্রিয়াকে সমর্থন করা হয়েছে, এবং শতবর্ষ সমাপ্তির বিজয়াদশমী ভাষণে ভাগবতের বক্তব্য ছাপা হয়েছে (২ নভেম্বর সংখ্যা)।"
    }
+  ],
+  "summary_bn": [
+   "স্বস্তিকার ২০২৬ সালের সংখ্যাগুলিতে পশ্চিমবঙ্গে আরএসএসের শতবর্ষের বছরের বিবরণ রয়েছে। বছরের শুরুতেই সরসঙ্ঘচালক মোহন ভাগবতের ২০২৫ সালের ১৮–২১ ডিসেম্বরের বঙ্গ সফর: শিলিগুড়িতে প্রায় ৭,৫০০ জনের যুব সম্মেলন এবং সায়েন্স সিটিতে ১,৬০০-র বেশি আমন্ত্রিতের জন্য 'বিশিষ্ট নাগরিক' বক্তৃতামালা। পত্রিকার ভাষায় তিনি বাংলায় 'এলেন, দেখলেন, জয় করলেন' (৫ জানুয়ারি সংখ্যা, পৃ. ৫, ২৩, ২৮–২৯)। সারা বছর ধরে শতবর্ষের নানা কর্মসূচির ধারাবাহিক খবর প্রকাশিত হয়েছে। এর মধ্যে রয়েছে বিরাটি, রামপুরহাট, মালদহ, গাজোল, পাটুলি, শিবপুর, চন্দ্রকোনা রোড ও বেলেঘাটায় হিন্দু সম্মেলন (২ ফেব্রুয়ারি সংখ্যা, পৃ. ২৩; ৯ ফেব্রুয়ারি সংখ্যা, পৃ. ২৪, ২৭; ১৬ ফেব্রুয়ারি সংখ্যা, পৃ. ২৪–২৬; ৯ মার্চ সংখ্যা, পৃ. ২৭)। বর্ধমান, শ্রীরামপুর, চুঁচুড়া, সিমলাগড় ও পুরুলিয়ায় বিশিষ্ট নাগরিকদের সম্মেলনও হয়েছে (৯ ফেব্রুয়ারি সংখ্যা, পৃ. ২৩; ৯ মার্চ সংখ্যা, পৃ. ২৮–২৯), এবং পাঁচ দফা 'পঞ্চ পরিবর্তন' কর্মসূচি বারবার তুলে ধরা হয়েছে (৫ জানুয়ারি সংখ্যা, পৃ. ৩১; ২০ এপ্রিল সংখ্যা, পৃ. ৮; ২৭ জুলাই সংখ্যা, পৃ. ৪৭)। সর্বভারতীয় চিত্র পাওয়া যায় প্রতিনিধি সভার প্রতিবেদনে: গৃহ সম্পর্ক কর্মসূচিতে ৩.৮৯ লক্ষ গ্রামের ১০ কোটিরও বেশি পরিবারে পৌঁছানো এবং প্রায় ২৩,১৪৩টি গ্রামীণ ও ১৩,৯০৫টি শহুরে হিন্দু সম্মেলন (৩০ মার্চ সংখ্যা, পৃ. ৩৭)। ভাগবতের বিজয়াদশমীর ভাষণের মাধ্যমে শতবর্ষের বছর শেষ হয়, যেখানে জন সম্পর্কের হিসাব দেওয়া হয়েছে: ৪,৬১,৫২৭টি গ্রাম, ৩৪,১৮৭টি মণ্ডল হিন্দু সম্মেলন এবং প্রায় ৩৯ লক্ষ যুবকের কাছে পৌঁছানো (২ নভেম্বর সংখ্যা, পৃ. ৪৩–৪৪)।",
+   "জানুয়ারি থেকে মার্চের গোড়া পর্যন্ত সময়টি নির্বাচনের প্রস্তুতিপর্ব, যা পরস্পর যুক্ত তিনটি ধারায় গড়া। প্রথমটি বাংলাদেশে হিন্দু নিপীড়ন, যার কেন্দ্রে দীপু চন্দ্র দাসের গণপিটুনিতে মৃত্যু। পত্রিকা হিন্দু জাগরণ মঞ্চ ও বিশ্ব হিন্দু পরিষদের পথ-প্রতিবাদের খবর দিয়েছে এবং সাধুদের উপর কলকাতা পুলিশের লাঠিচার্জের নিন্দা করেছে (৫ জানুয়ারি সংখ্যা, পৃ. ৯, ৪৪–৪৫)। তাদের যুক্তি, তৃণমূলের 'তুষ্টিকরণ'-এর ফলে পশ্চিমবঙ্গের হিন্দুদেরও একই পরিণতি হবে (১২ জানুয়ারি সংখ্যা, পৃ. ৫, ৩৮)। দ্বিতীয়টি নির্বাচন কমিশনের এসআইআর ভোটার তালিকা সংশোধনের জোরালো সমর্থন, যাকে অবৈধ বাংলাদেশি ও রোহিঙ্গা ভোটার বাদ দেওয়ার প্রক্রিয়া হিসেবে তুলে ধরা হয়েছে। পত্রিকার দাবি, প্রায় ৬০ লক্ষ বাদের বেশিরভাগই মালদা ও মুর্শিদাবাদ থেকে (৫ জানুয়ারি সংখ্যা, পৃ. ৬; ২ মার্চ সংখ্যা, পৃ. ৯, ১১; ১৬ মার্চ সংখ্যা, পৃ. ৫)। তৃতীয়টি কংগ্রেস ও কমিউনিস্টদের বিরুদ্ধে ইতিহাসনির্ভর আক্রমণ, যার ভিত্তি: কমিউনিস্টদের নেতাজিকে 'কুইসলিং' বলা (১৯ জানুয়ারি সংখ্যা, পৃ. ৫), নেহরু, সোমনাথ ও জরুরি অবস্থার সময়কার ৪২তম সংশোধনী (২৬ জানুয়ারি সংখ্যা, পৃ. ৫, ৯, ৪৫), মরিচঝাঁপি (২ ফেব্রুয়ারি সংখ্যা, পৃ. ৩৫) এবং কেরলের সাংসদ সদানন্দন মাস্টারের পা সিপিআই(এম) কর্মীদের হাতে কাটা যাওয়া (১৬ ফেব্রুয়ারি সংখ্যা, পৃ. ১৮)। এর পাশাপাশি রয়েছে কেন্দ্রীয় বাজেট নিয়ে মোদী সরকারের প্রশংসাসূচক লেখা (৯ ফেব্রুয়ারি সংখ্যা, পৃ. ৫) এবং মাদ্রাসা বরাদ্দ নিয়ে তৃণমূলের বাজেটের সমালোচনা, যেখানে সিপিআই(এম)-কে মুসলিম ভোটব্যাঙ্ক রাজনীতির সূচনাকারী বলা হয়েছে (১৬ ফেব্রুয়ারি সংখ্যা, পৃ. ৯)।",
+   "মার্চের মাঝামাঝি থেকে এপ্রিল পর্যন্ত পত্রিকাটি প্রচারের মুখপত্র হয়ে ওঠে। এটি বিজেপির পরিবর্তন সংকল্প যাত্রা কভার করে এবং দাবি করে মোদীর ব্রিগেড সমাবেশে ১০ লক্ষের বেশি মানুষ এসেছিলেন (২৩ মার্চ সংখ্যা, পৃ. ৭)। এটি কলকাতার 'মিনি পাকিস্তান' হয়ে ওঠার বিষয়ে সতর্ক করে (২৩ মার্চ সংখ্যা, পৃ. ৩) এবং নির্বাচনকে হিন্দু সমাজকে 'অস্তিত্বের সংকট' থেকে মুক্ত বা রক্ষা করার নির্বাচন বলে অভিহিত করে (৩০ মার্চ সংখ্যা, পৃ. ১৭; ৬ এপ্রিল সংখ্যা, পৃ. ৫)। এটি শুভেন্দু অধিকারীকে 'পশ্চিমবঙ্গের মুখ' হিসেবে তুলে ধরে (৩০ মার্চ সংখ্যা, পৃ. ১৯), একটি 'লাভ জেহাদ' প্রচ্ছদ কাহিনি ছাপে (৬ এপ্রিল সংখ্যা, পৃ. ১৭) এবং ১০০% ভোটদানের আহ্বান জানায়। বাংলা নববর্ষ সংখ্যা বাঙালি পরিচয়কে হিন্দু পরিচয় হিসেবে নতুন করে উপস্থাপন করে: কথিত কমিউনিস্ট-আরোপিত আকবরের কৃতিত্বের বিপরীতে রাজা শশাঙ্ককে বঙ্গাব্দের প্রতিষ্ঠাতা বলা হয়। একই সংখ্যা খোলাখুলি ভোটারদের শ্যামাপ্রসাদের জনসংঘের উত্তরসূরি হিসেবে বিজেপিকে বেছে নিতে বলে এবং বামপন্থীদের 'চিরতরে উচ্ছেদ' করার আহ্বান জানায় (১৩ এপ্রিল সংখ্যা, পৃ. ৫, ১৬, ৩৪–৩৫)। এর রামনবমী কভারেজ ৩ কোটি অংশগ্রহণকারী ও প্রায় ৪,০০০ শোভাযাত্রার দাবি করে, যেখানে বিজেপি প্রার্থীরাও যোগ দেন, এবং 'জেহাদিদের' হামলার খবর দেয় (১৩ এপ্রিল সংখ্যা, পৃ. ২৪–২৮)। ভোটগ্রহণের ঠিক আগে এটি বামপন্থীদের ইসলামি উগ্রপন্থার সমতুল্য করে (২০ এপ্রিল সংখ্যা, পৃ. ৩৬) এবং ভোটকে হিন্দুদের জন্য 'শেষ ট্রেন' ও 'ধর্মযুদ্ধ' হিসেবে উপস্থাপন করে (২৭ এপ্রিল সংখ্যা, পৃ. ২৭)।",
+   "বিজেপির জয়ের পর পত্রিকাটি ফলাফলকে বাংলার 'দ্বিতীয় স্বাধীনতা' বলে অভিহিত করেছে। পত্রিকার ভাষায়, এর মধ্য দিয়ে ৩৪ বছরের বামশাসন ও ১৫ বছরের তৃণমূলের কুশাসনের অবসান ঘটল (২০ মে সংখ্যা নয়, ১১ মে সংখ্যা, পৃ. ৫)। পত্রিকাটি একে এক 'ধর্মযুদ্ধ' হিসেবেও তুলে ধরেছে, যেখানে প্রথমবার ৭০% হিন্দু একজোট হয়ে ভোট দিয়েছেন, যা ৮৫ বছরের সংঘ-কাজের ফল (১১ মে সংখ্যা, পৃ. ১২)। প্রায় ৯০.৬ লক্ষ নাম বাদ দেওয়া এসআইআর-এর জন্য নির্বাচন কমিশনকে 'সিরিজের সেরা' আখ্যা দেওয়া হয়েছে (১১ মে সংখ্যা, পৃ. ১৩), এবং তৃণমূলের ৪০.৮০% ভোটের বিপরীতে ২০৭টি আসন ও ৪৫.৮৪% ভোটের হিস্যার কথা জানানো হয়েছে (১৮ মে সংখ্যা, পৃ. ১৮)। সুর দ্রুত কঠোর হয়ে ওঠে এবং সংহতি ও প্রতিশোধের দিকে যায়। একটি লেখায় বিশ্ববিদ্যালয় ক্যাম্পাসগুলিকে বামেদের 'অভয়ারণ্য' বলা হয়েছে, যা সাফ করতে হবে, এবং বামপন্থী ছাত্রনেতাদের 'মৃত্যু' বা 'শেষ গন্তব্য'-এর হুমকি দেওয়া হয়েছে (৮ জুন সংখ্যা, পৃ. ১০)। পত্রিকাটি সাভারকর ও শিবাজির 'হিন্দু সাম্রাজ্য' বিশেষ সংখ্যা প্রকাশ করেছে (১ জুন সংখ্যা, পৃ. ৫; ২২ জুন সংখ্যা, পৃ. ৫, ১১–১৪)। তারা ২০ জুনকে 'পশ্চিমবঙ্গ দিবস' হিসেবে পালনের প্রচারও চালিয়েছে, যা শ্যামাপ্রসাদ মুখোপাধ্যায়ের 'হিন্দু homeland'-কে স্মরণ করায় (১৫ জুন সংখ্যা, পৃ. ৫, ১৪, ১৬; ৬ জুলাই সংখ্যা, পৃ. ৬), এবং কেন্দ্র জনবিন্যাস কমিটি গঠন করলে নিজেদের দাবি প্রমাণিত হয়েছে বলে দাবি করেছে (২২ জুন সংখ্যা, পৃ. ৮)।",
+   "জুলাই থেকে পত্রিকাটি মুখ্যমন্ত্রী শুভেন্দু অধিকারীর সরকারের আদর্শগত সহযোগীর মতো পাঠ হয়। এটি গুন্ডা দমন আইনের প্রশংসা করে (২০ জুলাই সংখ্যা, পৃ. ৫, ৪৪), জরুরি অবস্থার সময়কার 'লোকতন্ত্র সেনানী'-দের রাজ্য-সম্মান—যাঁদের বেশিরভাগই স্বয়ংসেবক বলে বর্ণিত—সমর্থন করে (২৪ আগস্ট সংখ্যা, পৃ. ২৩, ৩৬) এবং রাজ্য-পৃষ্ঠপোষকতায় রক্ষাবন্ধনের প্রশংসা করে (২৪ আগস্ট সংখ্যা, পৃ. ৫)। স্কুল ও মাদ্রাসায় সম্পূর্ণ বন্দে মাতরম বাধ্যতামূলক করা, একটি রাস্তা থেকে সুরাবর্দির নাম সরানো এবং ইসকনের মিড-ডে মিল পরিচালনাকেও এটি স্বাগত জানায় (২১ সেপ্টেম্বর সংখ্যা, পৃ. ২৩)। নতুন শত্রুও আকার নেয়: বিদেশি 'ডিপ স্টেট' ও 'ককরোচ' যুব আন্দোলন (১৭ আগস্ট সংখ্যা, পৃ. ৫, ১২, ৪৭) এবং ধর্মান্তরের সঙ্গে যুক্ত এফসিআরএ-বিরোধীরা (৩১ আগস্ট সংখ্যা, পৃ. ৫, ১১)। সবার ওপরে, যাদবপুর বিশ্ববিদ্যালয়কে 'শ্রী অরবিন্দ বিশ্ববিদ্যালয়' নামকরণের দাবিতে একটি সম্পাদকীয় প্রকাশিত হয় (৭ সেপ্টেম্বর সংখ্যা, পৃ. ৫)। এরপর মুখ্যমন্ত্রী সেখানে ১০,০০০ কণ্ঠের বন্দে মাতরম অনুষ্ঠান ও 'গেরুয়া সম্মান যাত্রা'-র নেতৃত্ব দেন (২১ সেপ্টেম্বর সংখ্যা, পৃ. ৪৭–৪৮)। মুখ্যমন্ত্রী আরএসএসের কেশব স্মৃতি ভবনের উদ্বোধনে উপস্থিত ছিলেন এবং স্বস্তিকার নিজস্ব অনুষ্ঠানে তাকে সম্মানিত করেন (২ নভেম্বর সংখ্যা, পৃ. ২৪, ২৮)। পূজা সংখ্যাগুলি এই অবস্থানকে আরও এগিয়ে নিয়ে যায়—'পূর্ব খোরাসান' হিসেবে বাংলাদেশের এক ডিস্টোপিয়া এবং হিন্দুদের 'কন্টেইনমেন্ট ও রোলব্যাক'-এর আহ্বান পর্যন্ত (পূজা সংখ্যা গ, পৃ. ৪)।"
   ]
  },
  "issues": [
@@ -699,7 +806,13 @@ window.HINDUTVA = {
      "where": "New Town, Kolkata",
      "when": "23 September",
      "page": 24,
-     "detail": "Vastu puja and homa yajna were held for the doorway-opening of the Dr Hedgewar Smarak Samiti's 'Keshab Smriti' Seva Bhavan. Chief Minister Suvendu Adhikari attended, offered flowers to portraits of Bharat Mata, Doctorji and Guruji, and joined the rituals. Sah-Sarkaryavah Ramdatt Chakradhar and other RSS office-bearers were on stage."
+     "detail": "Vastu puja and homa yajna were held for the doorway-opening of the Dr Hedgewar Smarak Samiti's 'Keshab Smriti' Seva Bhavan. Chief Minister Suvendu Adhikari attended, offered flowers to portraits of Bharat Mata, Doctorji and Guruji, and joined the rituals. Sah-Sarkaryavah Ramdatt Chakradhar and other RSS office-bearers were on stage.",
+     "title_bn": "কেশব স্মৃতি ভবনের উদ্বোধন (বাস্তুপুজো ও হোম)",
+     "org_bn": "আরএসএস",
+     "type_bn": "অন্যান্য",
+     "where_bn": "নিউ টাউন, কলকাতা",
+     "when_bn": "২৩ সেপ্টেম্বর",
+     "detail_bn": "ডাঃ হেডগেওয়ার স্মারক সমিতির 'কেশব স্মৃতি' সেবা ভবনের দ্বারোদ্ঘাটন উপলক্ষে বাস্তুপুজো ও হোম যজ্ঞ অনুষ্ঠিত হয়। মুখ্যমন্ত্রী শুভেন্দু অধিকারী উপস্থিত থেকে ভারত মাতা, ডাক্তারজী ও গুরুজীর প্রতিকৃতিতে পুষ্পার্পণ করেন এবং আচার-অনুষ্ঠানে অংশ নেন। মঞ্চে সহ-সরকার্যবাহ রামদত্ত চক্রধর ও আরএসএসের অন্যান্য পদাধিকারীরা ছিলেন।"
     },
     {
      "title": "Formal inauguration of Keshab Smriti Bhavan",
@@ -708,7 +821,13 @@ window.HINDUTVA = {
      "where": "New Town, Kolkata",
      "when": "26 September",
      "page": 24,
-     "detail": "Sarkaryavah Dattatreya Hosabale formally inaugurated the building, which will serve as a modern office, library and training centre and a hub for seva activities."
+     "detail": "Sarkaryavah Dattatreya Hosabale formally inaugurated the building, which will serve as a modern office, library and training centre and a hub for seva activities.",
+     "title_bn": "কেশব স্মৃতি ভবনের আনুষ্ঠানিক উদ্বোধন",
+     "org_bn": "আরএসএস",
+     "type_bn": "অন্যান্য",
+     "where_bn": "নিউ টাউন, কলকাতা",
+     "when_bn": "২৬ সেপ্টেম্বর",
+     "detail_bn": "সরকার্যবাহ দত্তাত্রেয় হোসবালে আনুষ্ঠানিকভাবে ভবনটির উদ্বোধন করেন, যা আধুনিক কার্যালয়, গ্রন্থাগার ও প্রশিক্ষণ কেন্দ্র এবং সেবামূলক কাজের কেন্দ্র হিসেবে ব্যবহৃত হবে।"
     },
     {
      "title": "Presentation of Swastika special issue '100 days of the new West Bengal government' to the Chief Minister",
@@ -717,7 +836,13 @@ window.HINDUTVA = {
      "where": "Kolkata",
      "when": "23 September",
      "page": 24,
-     "detail": "Swastika co-editor Sukesh Chandra Mandal handed the Chief Minister a special issue on the 100 days of the new government's achievements, and the Chief Minister praised it highly."
+     "detail": "Swastika co-editor Sukesh Chandra Mandal handed the Chief Minister a special issue on the 100 days of the new government's achievements, and the Chief Minister praised it highly.",
+     "title_bn": "নতুন পশ্চিমবঙ্গ সরকারের '১০০ দিন' স্বস্তিকা বিশেষ সংখ্যা মুখ্যমন্ত্রীকে প্রদান",
+     "org_bn": "অন্যান্য: স্বস্তিকা পত্রিকা",
+     "type_bn": "অন্যান্য",
+     "where_bn": "কলকাতা",
+     "when_bn": "২৩ সেপ্টেম্বর",
+     "detail_bn": "স্বস্তিকার সহ-সম্পাদক সুকেশ চন্দ্র মণ্ডল মুখ্যমন্ত্রীর হাতে নতুন সরকারের ১০০ দিনের সাফল্য নিয়ে একটি বিশেষ সংখ্যা তুলে দেন এবং মুখ্যমন্ত্রী তার ভূয়সী প্রশংসা করেন।"
     },
     {
      "title": "Swastika felicitation event with Chief Minister (cover artist Ajit Kumar Bhakat honoured)",
@@ -726,7 +851,13 @@ window.HINDUTVA = {
      "where": "Kolkata",
      "when": "",
      "page": 28,
-     "detail": "The Chief Minister honoured Swastika's long-time cover artist and technology collaborator Ajit Bhakat. He also suggested a 5-6 hour discussion on rebuilding West Bengal, and said he would like Swastika to move toward daily newspaper format. Several MLAs and ministers attended, including Rudranil Ghosh, Tapas Roy and Kalyan Chakraborty. The newly published special issue was distributed to all attendees."
+     "detail": "The Chief Minister honoured Swastika's long-time cover artist and technology collaborator Ajit Bhakat. He also suggested a 5-6 hour discussion on rebuilding West Bengal, and said he would like Swastika to move toward daily newspaper format. Several MLAs and ministers attended, including Rudranil Ghosh, Tapas Roy and Kalyan Chakraborty. The newly published special issue was distributed to all attendees.",
+     "title_bn": "মুখ্যমন্ত্রীর উপস্থিতিতে স্বস্তিকার সংবর্ধনা অনুষ্ঠান (প্রচ্ছদশিল্পী অজিত কুমার ভকত সম্মানিত)",
+     "org_bn": "অন্যান্য: স্বস্তিকা পত্রিকা",
+     "type_bn": "সম্মেলন",
+     "where_bn": "কলকাতা",
+     "when_bn": "",
+     "detail_bn": "মুখ্যমন্ত্রী স্বস্তিকার দীর্ঘদিনের প্রচ্ছদশিল্পী ও প্রযুক্তি-সহযোগী অজিত ভকতকে সম্মান জানিয়েছেন। তিনি পশ্চিমবঙ্গ পুনর্গঠন নিয়ে ৫-৬ ঘণ্টার একটি আলোচনার প্রস্তাবও দেন এবং বলেন, স্বস্তিকা দৈনিক সংবাদপত্রের ধাঁচের দিকে এগোক, এটা তিনি চান। রুদ্রনীল ঘোষ, তপস রায় ও কল্যাণ চক্রবর্তী সহ বেশ কয়েকজন বিধায়ক ও মন্ত্রী উপস্থিত ছিলেন। সদ্য প্রকাশিত বিশেষ সংখ্যাটি সব উপস্থিতজনের হাতে তুলে দেওয়া হয়।"
     },
     {
      "title": "Flood relief in Bhutni, Malda",
@@ -735,7 +866,13 @@ window.HINDUTVA = {
      "where": "Manikchak block, Malda",
      "when": "",
      "page": 28,
-     "detail": "Swayamsevaks, through the Gour Sanskriti Utthan Trust, sent a team of 7 doctors from Malda Medical College to treat flood victims. They also distributed baby food, bleaching powder and mosquito nets."
+     "detail": "Swayamsevaks, through the Gour Sanskriti Utthan Trust, sent a team of 7 doctors from Malda Medical College to treat flood victims. They also distributed baby food, bleaching powder and mosquito nets.",
+     "title_bn": "মালদার ভুটনিতে বন্যাত্রাণ",
+     "org_bn": "আরএসএস",
+     "type_bn": "সেবা/ত্রাণ",
+     "where_bn": "মানিকচক ব্লক, মালদা",
+     "when_bn": "",
+     "detail_bn": "স্বয়ংসেবকরা গৌড় সংস্কৃতি উত্থান ট্রাস্টের মাধ্যমে মালদহ মেডিকেল কলেজের ৭ জন চিকিৎসকের একটি দল বন্যার্তদের চিকিৎসার জন্য পাঠিয়েছেন। তাঁরা শিশুখাদ্য, ব্লিচিং পাউডার ও মশারিও বিতরণ করেছেন।"
     },
     {
      "title": "Centenary year programmes concluded; Vijayadashami utsav (Nagpur)",
@@ -744,7 +881,13 @@ window.HINDUTVA = {
      "where": "Nagpur",
      "when": "Vijayadashami",
      "page": 43,
-     "detail": "A year of centenary programmes ended with the Vijayadashami festival, with Mohan Bhagwat's address. Programmes in the centenary year included 'Panch Parivartan' and the Sant Ravidas 650th birth anniversary year."
+     "detail": "A year of centenary programmes ended with the Vijayadashami festival, with Mohan Bhagwat's address. Programmes in the centenary year included 'Panch Parivartan' and the Sant Ravidas 650th birth anniversary year.",
+     "title_bn": "শতবর্ষের কর্মসূচি সমাপ্ত; বিজয়াদশমী উৎসব (নাগপুর)",
+     "org_bn": "আরএসএস",
+     "type_bn": "শতবর্ষ",
+     "where_bn": "নাগপুর",
+     "when_bn": "বিজয়াদশমী",
+     "detail_bn": "শতবর্ষের অনুষ্ঠানমালার এক বছর শেষ হয় বিজয়াদশমী উৎসবের মধ্য দিয়ে, যেখানে মোহন ভাগবত ভাষণ দেন। শতবর্ষে 'পঞ্চ পরিবর্তন' এবং সন্ত রবিদাসের ৬৫০তম জন্মবার্ষিকী বর্ষ ছিল কর্মসূচির অংশ।"
     },
     {
      "title": "Jan Sampark Abhiyan (public outreach campaign)",
@@ -753,7 +896,13 @@ window.HINDUTVA = {
      "where": "All India",
      "when": "centenary year",
      "page": 44,
-     "detail": "Reached 4,61,527 villages and 41,760 settlements. Held discussion meetings with enlightened citizens in 1,017 districts (4,26,497 attendees), 536 sadbhavana meetings with community heads, 34,187 mandal Hindu sammelans, and youth sammelans with 39,25,225 young people."
+     "detail": "Reached 4,61,527 villages and 41,760 settlements. Held discussion meetings with enlightened citizens in 1,017 districts (4,26,497 attendees), 536 sadbhavana meetings with community heads, 34,187 mandal Hindu sammelans, and youth sammelans with 39,25,225 young people.",
+     "title_bn": "জনসংযোগ অভিযান (গণসংযোগ কর্মসূচি)",
+     "org_bn": "আরএসএস",
+     "type_bn": "শতবর্ষ",
+     "where_bn": "সারা ভারত",
+     "when_bn": "শতবর্ষ",
+     "detail_bn": "৪,৬১,৫২৭টি গ্রাম ও ৪১,৭৬০টি বসতিতে পৌঁছানো হয়েছে। ১,০১৭টি জেলায় প্রবুদ্ধ নাগরিকদের সঙ্গে আলোচনাসভা (উপস্থিতি ৪,২৬,৪৯৭ জন), সম্প্রদায়প্রধানদের সঙ্গে ৫৩৬টি সদ্ভাবনা সভা, ৩৪,১৮৭টি মণ্ডল হিন্দু সম্মেলন এবং ৩৯,২৫,২২৫ জন যুবকের অংশগ্রহণে যুব সম্মেলন অনুষ্ঠিত হয়েছে।"
     },
     {
      "title": "Panch Parivartan campaign",
@@ -762,7 +911,13 @@ window.HINDUTVA = {
      "where": "All India",
      "when": "",
      "page": 45,
-     "detail": "Social-transformation programme (family awakening, civic duty, environment, 'swadeshi' behaviour and self-awareness) that Bhagwat said must become habit, not just a one-year programme."
+     "detail": "Social-transformation programme (family awakening, civic duty, environment, 'swadeshi' behaviour and self-awareness) that Bhagwat said must become habit, not just a one-year programme.",
+     "title_bn": "পঞ্চ পরিবর্তন অভিযান",
+     "org_bn": "আরএসএস",
+     "type_bn": "শতবর্ষ",
+     "where_bn": "সারা ভারত",
+     "when_bn": "",
+     "detail_bn": "সামাজিক পরিবর্তনের কর্মসূচি (পারিবারিক জাগরণ, নাগরিক কর্তব্য, পরিবেশ, 'স্বদেশি' আচরণ ও আত্মসচেতনতা), যা ভাগবতের মতে শুধু এক বছরের কর্মসূচি নয়, অভ্যাসে পরিণত হওয়া উচিত।"
     },
     {
      "title": "Dr Pt Deendayal Upadhyay announcement (next issue)",
@@ -771,7 +926,13 @@ window.HINDUTVA = {
      "where": "",
      "when": "9 November 2026 issue",
      "page": 4,
-     "detail": "The next issue will carry pieces on Deendayal Upadhyay's contribution to national life by political analysts."
+     "detail": "The next issue will carry pieces on Deendayal Upadhyay's contribution to national life by political analysts.",
+     "title_bn": "ডা. পণ্ডিত দীনদয়াল উপাধ্যায়ের ঘোষণা (পরবর্তী সংখ্যায়)",
+     "org_bn": "অন্যান্য: স্বস্তিকা পত্রিকা",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "",
+     "when_bn": "৯ নভেম্বর ২০২৬ সংখ্যা",
+     "detail_bn": "পরবর্তী সংখ্যায় রাজনৈতিক বিশ্লেষকদের লেখা, জাতীয় জীবনে দীনদয়াল উপাধ্যায়ের অবদান নিয়ে রচনা থাকবে।"
     },
     {
      "title": "Swastika life and 10-year membership drive",
@@ -780,7 +941,13 @@ window.HINDUTVA = {
      "where": "",
      "when": "",
      "page": 4,
-     "detail": "The magazine launched lifetime (Rs 25,000) and 10-year (Rs 10,000) memberships and asked readers to remit dues by bank transfer."
+     "detail": "The magazine launched lifetime (Rs 25,000) and 10-year (Rs 10,000) memberships and asked readers to remit dues by bank transfer.",
+     "title_bn": "স্বস্তিকার আজীবন ও ১০ বছরের সদস্যপদ অভিযান",
+     "org_bn": "অন্যান্য: স্বস্তিকা পত্রিকা",
+     "type_bn": "অন্যান্য",
+     "where_bn": "",
+     "when_bn": "",
+     "detail_bn": "পত্রিকাটি আজীবন (২৫,০০০ টাকা) ও ১০ বছরের (১০,০০০ টাকা) সদস্যপদ চালু করেছে এবং পাঠকদের ব্যাঙ্ক ট্রান্সফারের মাধ্যমে বকেয়া জমা দিতে অনুরোধ করেছে।"
     }
    ],
    "narratives": [
@@ -789,58 +956,84 @@ window.HINDUTVA = {
      "target": "Left/Marxists and their book stalls",
      "claim": "The Left trampled Hindu culture for 34 years, banned and removed books, attacked RSS shakhas and killed swayamsevaks, so the backlash against their book stalls is understandable and 'anti-Left sentiment' may grow, as in Tripura.",
      "heading": "টিলের বদলে পাটকেল খেতেই হয়",
-     "page": 6
+     "page": 6,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "বামপন্থী/মার্কসবাদী ও তাঁদের বইয়ের স্টল",
+     "claim_bn": "বামপন্থীরা ৩৪ বছর ধরে হিন্দু সংস্কৃতিকে পদদলিত করেছে, বই নিষিদ্ধ ও সরিয়ে দিয়েছে, আরএসএসের শাখায় হামলা চালিয়েছে এবং স্বয়ংসেবকদের হত্যা করেছে; তাই তাদের বইয়ের স্টলের বিরুদ্ধে প্রতিক্রিয়া বোধগম্য, আর ত্রিপুরার মতো 'বাম-বিরোধী মনোভাব' বাড়তে পারে।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "Previous TMC government",
      "claim": "The previous government did nothing about adulterated and rotten food, while Chief Minister Suvendu Adhikari's food-safety drive is praised by all.",
      "heading": "মানুষের অজ্ঞতার সুযোগ নিয়ে বিষ খাওয়ানো হচ্ছে, আর কতদিন চলবে?",
-     "page": 8
+     "page": 8,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "আগের তৃণমূল সরকার",
+     "claim_bn": "ভেজাল ও পচা খাবার নিয়ে আগের সরকার কিছুই করেনি, অথচ মুখ্যমন্ত্রী শুভেন্দু অধিকারীর খাদ্য নিরাপত্তা অভিযান সবার প্রশংসা পাচ্ছে।"
     },
     {
      "theme": "West Bengal elections",
      "target": "Suvendu Adhikari government",
      "claim": "The new government's first 100 days are presented as a success, and the Chief Minister attended RSS and Swastika events and endorsed the Swastika special issue.",
      "heading": "নিউটাউনে ডাঃ হেডগেওয়ার স্মারক সমিতির 'কেশব স্মৃতি' ভবন উদ্বোধনের দ্বারোদঘাটন অনুষ্ঠান",
-     "page": 24
+     "page": 24,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "শুভেন্দু অধিকারীর সরকার",
+     "claim_bn": "নতুন সরকারের প্রথম ১০০ দিনকে সাফল্য হিসেবে তুলে ধরা হয়েছে; মুখ্যমন্ত্রী আরএসএস ও স্বস্তিকার অনুষ্ঠানে উপস্থিত ছিলেন এবং স্বস্তিকার বিশেষ সংখ্যাকে সমর্থন জানিয়েছেন।"
     },
     {
      "theme": "history & icons",
      "target": "Chief Minister's cultural agenda",
      "claim": "The Chief Minister said that roads and places named after foreign rulers are being renamed after Indian thinkers and revolutionaries, and that insults to saints and national symbols will not be tolerated.",
      "heading": "স্বস্তিকা-র অনুষ্ঠানে মুখ্যমন্ত্রীর বক্তব্য (বিকশিত পশ্চিমবঙ্গ, বিকশিত ভারত)",
-     "page": 28
+     "page": 28,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "মুখ্যমন্ত্রীর সাংস্কৃতিক কর্মসূচি",
+     "claim_bn": "মুখ্যমন্ত্রী বলেছেন, বিদেশি শাসকদের নামে থাকা রাস্তা ও স্থানগুলির নাম বদলে ভারতীয় চিন্তাবিদ ও বিপ্লবীদের নামে রাখা হচ্ছে, এবং সাধুসন্ত ও জাতীয় প্রতীকের অপমান বরদাস্ত করা হবে না।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "Hindu society",
      "claim": "The RSS has worked for 100 years to awaken 'swa' (self-awareness) and build an organised, powerful society, based on devotion to Bharat Mata, common ancestry and shared culture.",
      "heading": "সংগঠিত, পুরুষার্থসম্পন্ন ও বিজয়শালিনী শক্তি গড়ে তোলার লক্ষ্যে সঙ্ঘ এগিয়ে চলেছে : ডাঃ মোহনরাও ভাগবত",
-     "page": 43
+     "page": 43,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "হিন্দু সমাজ",
+     "claim_bn": "আরএসএস ভারতমাতার প্রতি ভক্তি, অভিন্ন পূর্বপুরুষ ও সম্মিলিত সংস্কৃতির ভিত্তিতে 'স্ব'-বোধ (আত্মচেতনা) জাগিয়ে তুলতে এবং একটি সুসংগঠিত, শক্তিশালী সমাজ গড়তে ১০০ বছর ধরে কাজ করেছে।"
     },
     {
      "theme": "nationalism/army/Pakistan",
      "target": "Foreign and 'Western' forces",
      "claim": "A storm from the West opposes culture and values; what happened in France, Albania, Bangladesh and Nepal involved such forces, and India, the Hindu society and the Sangh are targets, aided by leaders driven by narrow ambition.",
      "heading": "সংগঠিত, পুরুষার্থসম্পন্ন ও বিজয়শালিনী শক্তি গড়ে তোলার লক্ষ্যে সঙ্ঘ এগিয়ে চলেছে : ডাঃ মোহনরাও ভাগবত",
-     "page": 43
+     "page": 43,
+     "theme_bn": "জাতীয়তাবাদ/সেনা/পাকিস্তান",
+     "target_bn": "বিদেশি ও 'পশ্চিমী' শক্তি",
+     "claim_bn": "পশ্চিম থেকে আসা ঝড় সংস্কৃতি ও মূল্যবোধের বিরোধী; ফ্রান্স, আলবেনিয়া, বাংলাদেশ ও নেপালে যা ঘটেছে তাতে এমন শক্তি জড়িত ছিল, আর ভারত, হিন্দু সমাজ ও সঙ্ঘ তাদের লক্ষ্য, সংকীর্ণ উচ্চাকাঙ্ক্ষায় চালিত নেতারা তাদের সহায়তা করছেন।"
     },
     {
      "theme": "history & icons",
      "target": "Partition and Bengal",
      "claim": "The Partition of Bengal was reversed in 1911 because of national unity, whereas in 1947 the idea that Muslims are separate led to the Partition of the country, and mistrust and insecurity remain today.",
      "heading": "সংগঠিত, পুরুষার্থসম্পন্ন ও বিজয়শালিনী শক্তি গড়ে তোলার লক্ষ্যে সঙ্ঘ এগিয়ে চলেছে : ডাঃ মোহনরাও ভাগবত",
-     "page": 43
+     "page": 43,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "দেশভাগ ও বাংলা",
+     "claim_bn": "১৯১১ সালে জাতীয় ঐক্যের কারণে বঙ্গভঙ্গ রদ হয়েছিল, অথচ ১৯৪৭ সালে মুসলমানরা আলাদা—এই ধারণা দেশভাগ ডেকে আনে, আর অবিশ্বাস ও নিরাপত্তাহীনতা আজও রয়ে গেছে।"
     },
     {
      "theme": "culture/religion",
      "target": "Diwali and Kali puja",
      "claim": "Diwali and Kali puja are presented as civilisational festivals of light and knowledge that have spread worldwide, with Bengal as the home of Shakti worship.",
      "heading": "আলোর উৎসবে আলোয় উদ্ভাসিত হউক ভুবন",
-     "page": 5
+     "page": 5,
+     "theme_bn": "সংস্কৃতি/ধর্ম",
+     "target_bn": "দীপাবলি ও কালীপূজা",
+     "claim_bn": "দীপাবলি ও কালীপূজাকে আলো ও জ্ঞানের সভ্যতাগত উৎসব হিসেবে তুলে ধরা হয়েছে, যা বিশ্বজুড়ে ছড়িয়ে পড়েছে, আর বাংলাকে শক্তিপূজার আবাসভূমি বলা হয়েছে।"
     }
-   ]
+   ],
+   "label_bn": "",
+   "summary_bn": "এই দীপাবলি বিশেষ সংখ্যায় (২ নভেম্বর ২০২৬) উৎসব ও সাংস্কৃতিক বিষয়বস্তুর (দীপাবলি, কালীপুজো, শাক্ত পদাবলি, ভগিনী নিবেদিতা) সঙ্গে পশ্চিমবঙ্গে বিজেপির ক্ষমতায় আসার পর জোরালো রাজনৈতিক বার্তা মিশে আছে। এতে বামপন্থীদের (মার্ক্সবাদীদের) হিন্দুবিরোধী, ভারতবিরোধী এবং স্বয়ংসেবকদের প্রতি হিংসাত্মক বলে আক্রমণ করা হয়েছে এবং মুখ্যমন্ত্রী শুভেন্দু অধিকারীর খাদ্য-নিরাপত্তা অভিযানের প্রশংসা করা হয়েছে। এতে নিউ টাউনে আরএসএসের নতুন কেশব স্মৃতি ভবনের উদ্বোধনের খবর রয়েছে, যেখানে মুখ্যমন্ত্রী উপস্থিত ছিলেন, এবং পত্রিকাটিকে সম্মান জানাতে 'মুখ্যমন্ত্রীর উদ্দেশে নিবেদিত' স্বস্তিকা অনুষ্ঠানের কথাও আছে। এছাড়া সঙ্ঘের শতবর্ষ সমাপ্তি উপলক্ষে আরএসএস প্রধান মোহন ভাগবতের বিজয়াদশমীর ভাষণ প্রকাশিত হয়েছে।"
   },
   {
    "issue": "20260928",
@@ -856,7 +1049,13 @@ window.HINDUTVA = {
      "where": "Hasnabad, North 24 Parganas",
      "when": "8 September",
      "page": 24,
-     "detail": "800 new youths from 5 mandals attended; Dakshin Banga prant prachar pramukh Biplab Roy spoke on Vivekananda, Khudiram and the Sangh's 100 years of character building."
+     "detail": "800 new youths from 5 mandals attended; Dakshin Banga prant prachar pramukh Biplab Roy spoke on Vivekananda, Khudiram and the Sangh's 100 years of character building.",
+     "title_bn": "হাসনাবাদের শুল্কুনি দ্বীপে আরএসএস যুব সম্মেলন",
+     "org_bn": "আরএসএস",
+     "type_bn": "সম্মেলন",
+     "where_bn": "হাসনাবাদ, উত্তর ২৪ পরগনা",
+     "when_bn": "৮ সেপ্টেম্বর",
+     "detail_bn": "৫টি মণ্ডলের ৮০০ জন নতুন যুবক উপস্থিত ছিলেন; দক্ষিণবঙ্গ প্রান্ত প্রচার প্রমুখ বিপ্লব রায় বিবেকানন্দ, ক্ষুদিরাম এবং সঙ্ঘের ১০০ বছরের চরিত্র গঠন নিয়ে বক্তব্য রাখেন।"
     },
     {
      "title": "Centenary-year youth sammelan, Lokenath Nagar",
@@ -865,7 +1064,13 @@ window.HINDUTVA = {
      "where": "Baguiati, Kolkata East",
      "when": "13 September",
      "page": 27,
-     "detail": "275 youths attended despite bad weather; Prant Sanghchalak Sarada Prasad Pal addressed them, with Vande Mataram, a documentary and a physical demonstration, and a talk on the Sangh's centenary history."
+     "detail": "275 youths attended despite bad weather; Prant Sanghchalak Sarada Prasad Pal addressed them, with Vande Mataram, a documentary and a physical demonstration, and a talk on the Sangh's centenary history.",
+     "title_bn": "শতবর্ষ উপলক্ষে যুব সম্মেলন, লোকনাথ নগর",
+     "org_bn": "আরএসএস",
+     "type_bn": "শতবর্ষ",
+     "where_bn": "বাগুইআটি, কলকাতা পূর্ব",
+     "when_bn": "১৩ সেপ্টেম্বর",
+     "detail_bn": "খারাপ আবহাওয়া সত্ত্বেও ২৭৫ জন যুবক উপস্থিত ছিলেন; প্রান্ত সঙ্ঘচালক সারদা প্রসাদ পাল তাঁদের উদ্দেশে ভাষণ দেন; বন্দে মাতরম, একটি প্রামাণ্যচিত্র ও শারীরিক প্রদর্শনী এবং সঙ্ঘের শতবর্ষের ইতিহাস নিয়ে আলোচনা হয়।"
     },
     {
      "title": "Hindu Ekta Yatra on VHP foundation day",
@@ -874,7 +1079,13 @@ window.HINDUTVA = {
      "where": "Medinipur town, Paschim Medinipur",
      "when": "Krishna Janmashtami (September)",
      "page": 25,
-     "detail": "VHP Medinipur Nagar Prakhanda marked its 62nd foundation day with a procession of several thousand Hindus, with Matri Mandali, Durga Vahini and kirtan groups; speakers stressed Hindu unity and conversion."
+     "detail": "VHP Medinipur Nagar Prakhanda marked its 62nd foundation day with a procession of several thousand Hindus, with Matri Mandali, Durga Vahini and kirtan groups; speakers stressed Hindu unity and conversion.",
+     "title_bn": "বিশ্ব হিন্দু পরিষদের প্রতিষ্ঠা দিবসে হিন্দু একতা যাত্রা",
+     "org_bn": "বিশ্ব হিন্দু পরিষদ",
+     "type_bn": "মিছিল/শোভাযাত্রা",
+     "where_bn": "মেদিনীপুর শহর, পশ্চিম মেদিনীপুর",
+     "when_bn": "কৃষ্ণ জন্মাষ্টমী (সেপ্টেম্বর)",
+     "detail_bn": "বিশ্ব হিন্দু পরিষদ মেদিনীপুর নগর প্রখণ্ড মাতৃমণ্ডলী, দুর্গাবাহিনী ও কীর্তন দলের সঙ্গে কয়েক হাজার হিন্দুর শোভাযাত্রার মাধ্যমে তার ৬২তম প্রতিষ্ঠা দিবস পালন করে; বক্তারা হিন্দু ঐক্য ও ধর্মান্তরের উপর জোর দেন।"
     },
     {
      "title": "Sri Krishna Janmashtami utsav, Bansdroni",
@@ -883,7 +1094,13 @@ window.HINDUTVA = {
      "where": "Bansdroni, Kolkata",
      "when": "4-5 September",
      "page": 25,
-     "detail": "Two-day festival with prabhatferi, puja, Gita recitation, children's Krishna costume and drawing contests, Sanskar Bharati cultural programme and prasad for thousands."
+     "detail": "Two-day festival with prabhatferi, puja, Gita recitation, children's Krishna costume and drawing contests, Sanskar Bharati cultural programme and prasad for thousands.",
+     "title_bn": "শ্রীকৃষ্ণ জন্মাষ্টমী উৎসব, বাঁশদ্রোণী",
+     "org_bn": "বিশ্ব হিন্দু পরিষদ",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "বাঁশদ্রোণী, কলকাতা",
+     "when_bn": "৪–৫ সেপ্টেম্বর",
+     "detail_bn": "প্রভাতফেরি, পুজো, গীতাপাঠ, শিশুদের কৃষ্ণসাজ ও ছবি আঁকা প্রতিযোগিতা, সংস্কার ভারতীর সাংস্কৃতিক অনুষ্ঠান এবং হাজার হাজার মানুষের জন্য প্রসাদ বিতরণ সহ দু’দিনের উৎসব।"
     },
     {
      "title": "Sanskrit Week celebration",
@@ -892,7 +1109,13 @@ window.HINDUTVA = {
      "where": "Sribhumi, South Assam",
      "when": "13 September",
      "page": 23,
-     "detail": "Event with a Sanskrit shloka and song competition for 180 participants in 7 categories; speakers praised Centre and BJP-ruled states for promoting Sanskrit."
+     "detail": "Event with a Sanskrit shloka and song competition for 180 participants in 7 categories; speakers praised Centre and BJP-ruled states for promoting Sanskrit.",
+     "title_bn": "সংস্কৃত সপ্তাহ উদযাপন",
+     "org_bn": "অন্যান্য: সংস্কৃত ভারতী",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "শ্রীভূমি, দক্ষিণ আসাম",
+     "when_bn": "১৩ সেপ্টেম্বর",
+     "detail_bn": "সংস্কৃত শ্লোক ও গান প্রতিযোগিতার অনুষ্ঠানে ৭টি বিভাগে ১৮০ জন প্রতিযোগী অংশ নেয়; বক্তারা সংস্কৃতের প্রসারে কেন্দ্র ও বিজেপি-শাসিত রাজ্যগুলির প্রশংসা করেন।"
     },
     {
      "title": "Uttarbanga Prant Hindu Jagaran Manch abhyas varga",
@@ -901,7 +1124,13 @@ window.HINDUTVA = {
      "where": "Siliguri, North Bengal",
      "when": "4-7 September",
      "page": 30,
-     "detail": "Four-day training camp at Rishi Bhavan with office-bearers from 11 districts, attended by the all-India organising secretary Ashok Prabhakar and RSS prant pracharak Shyamacharan Ray."
+     "detail": "Four-day training camp at Rishi Bhavan with office-bearers from 11 districts, attended by the all-India organising secretary Ashok Prabhakar and RSS prant pracharak Shyamacharan Ray.",
+     "title_bn": "উত্তরবঙ্গ প্রান্ত হিন্দু জাগরণ মঞ্চের অভ্যাস বর্গ",
+     "org_bn": "হিন্দু জাগরণ মঞ্চ",
+     "type_bn": "শাখা/প্রশিক্ষণ শিবির",
+     "where_bn": "শিলিগুড়ি, উত্তরবঙ্গ",
+     "when_bn": "৪–৭ সেপ্টেম্বর",
+     "detail_bn": "ঋষি ভবনে চারদিনের প্রশিক্ষণ শিবির, যেখানে ১১টি জেলার পদাধিকারীরা ছিলেন; উপস্থিত ছিলেন অখিল ভারতীয় সংগঠন সম্পাদক অশোক প্রভাকর ও আরএসএস প্রান্ত প্রচারক শ্যামাচরণ রায়।"
     },
     {
      "title": "BMS-affiliated State Govt Employees Welfare Association general meeting",
@@ -910,7 +1139,13 @@ window.HINDUTVA = {
      "where": "Medinipur town",
      "when": "30 August",
      "page": 29,
-     "detail": "Introductory session, ad hoc committee of 17 formed for West Medinipur district, with RSS district sanghchalak and BJP MLAs Sankar Kumar Guchhait and Ramprasad Giri present."
+     "detail": "Introductory session, ad hoc committee of 17 formed for West Medinipur district, with RSS district sanghchalak and BJP MLAs Sankar Kumar Guchhait and Ramprasad Giri present.",
+     "title_bn": "বিএমএস-অনুমোদিত রাজ্য সরকারি কর্মচারী কল্যাণ সমিতির সাধারণ সভা",
+     "org_bn": "বিএমএস",
+     "type_bn": "সম্মেলন",
+     "where_bn": "মেদিনীপুর শহর",
+     "when_bn": "৩০ আগস্ট",
+     "detail_bn": "পরিচিতি অধিবেশনে পশ্চিম মেদিনীপুর জেলার জন্য ১৭ জনের একটি অ্যাডহক কমিটি গঠিত হয়; উপস্থিত ছিলেন আরএসএসের জেলা সংঘচালক এবং বিজেপি বিধায়ক শঙ্কর কুমার গুছাইত ও রামপ্রসাদ গিরি।"
     },
     {
      "title": "Sant Ravidas 650th birth anniversary seminar",
@@ -919,7 +1154,13 @@ window.HINDUTVA = {
      "where": "Balurghat College, Dakshin Dinajpur",
      "when": "15 September",
      "page": 29,
-     "detail": "Discussion on Ravidas's life and contemporary relevance, linking him to equality and social harmony."
+     "detail": "Discussion on Ravidas's life and contemporary relevance, linking him to equality and social harmony.",
+     "title_bn": "সন্ত রবিদাসের ৬৫০তম জন্মবার্ষিকী উপলক্ষে আলোচনাচক্র",
+     "org_bn": "অন্যান্য: অখিল ভারতীয় রাষ্ট্রীয় শৈক্ষিক মহাসংঘ",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "বালুরঘাট কলেজ, দক্ষিণ দিনাজপুর",
+     "when_bn": "১৫ সেপ্টেম্বর",
+     "detail_bn": "রবিদাসের জীবন ও সমকালীন প্রাসঙ্গিকতা নিয়ে আলোচনা, যেখানে তাঁকে সাম্য ও সামাজিক সম্প্রীতির সঙ্গে যুক্ত করা হয়েছে।"
     },
     {
      "title": "Kabaddi competition by RSS Medinipur Nagar",
@@ -928,7 +1169,13 @@ window.HINDUTVA = {
      "where": "Medinipur College ground",
      "when": "13 September",
      "page": 28,
-     "detail": "14 teams in the under-19 category; the Bandevi shakha of Basti no. 9 won."
+     "detail": "14 teams in the under-19 category; the Bandevi shakha of Basti no. 9 won.",
+     "title_bn": "আরএসএস মেদিনীপুর নগর আয়োজিত কবাডি প্রতিযোগিতা",
+     "org_bn": "আরএসএস",
+     "type_bn": "অন্যান্য",
+     "where_bn": "মেদিনীপুর কলেজ মাঠ",
+     "when_bn": "১৩ সেপ্টেম্বর",
+     "detail_bn": "অনূর্ধ্ব-১৯ বিভাগে ১৪টি দল; ৯ নম্বর বস্তির বন্দেবী শাখা জয়ী হয়।"
     },
     {
      "title": "Agricultural nursery training camp",
@@ -937,7 +1184,13 @@ window.HINDUTVA = {
      "where": "Kalinarayanpur, Nadia",
      "when": "7-9 September",
      "page": 28,
-     "detail": "Joint camp with Kalyani University's ENVIS centre on grafting and nursery-making, with 40 trainees and certificates."
+     "detail": "Joint camp with Kalyani University's ENVIS centre on grafting and nursery-making, with 40 trainees and certificates.",
+     "title_bn": "কৃষি নার্সারি প্রশিক্ষণ শিবির",
+     "org_bn": "অন্যান্য: দেশের মাটি কল্যাণ মন্দির",
+     "type_bn": "সেবা/ত্রাণ",
+     "where_bn": "কালীনারায়ণপুর, নদিয়া",
+     "when_bn": "৭–৯ সেপ্টেম্বর",
+     "detail_bn": "কল্যাণী বিশ্ববিদ্যালয়ের এনভিস কেন্দ্রের সঙ্গে যৌথ শিবির, কলম ও নার্সারি তৈরির বিষয়ে, ৪০ জন প্রশিক্ষণার্থী ও শংসাপত্র সহ।"
     },
     {
      "title": "Vivekananda Chicago address anniversary",
@@ -946,7 +1199,13 @@ window.HINDUTVA = {
      "where": "Behala, Kolkata",
      "when": "11 September",
      "page": 24,
-     "detail": "Commemoration of the 133rd anniversary of Vivekananda's Chicago speech with readings and songs."
+     "detail": "Commemoration of the 133rd anniversary of Vivekananda's Chicago speech with readings and songs.",
+     "title_bn": "বিবেকানন্দের শিকাগো বক্তৃতার বার্ষিকী",
+     "org_bn": "অন্যান্য: বেহালা বিবেকানন্দ পাঠচক্র",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "বেহালা, কলকাতা",
+     "when_bn": "১১ সেপ্টেম্বর",
+     "detail_bn": "বিবেকানন্দের শিকাগো বক্তৃতার ১৩৩তম বার্ষিকী পাঠ ও গানের মাধ্যমে স্মরণ করা হয়।"
     },
     {
      "title": "Children's drawing contest, Maharshi Dadhichi Seva Trust",
@@ -955,7 +1214,13 @@ window.HINDUTVA = {
      "where": "Manicktala, Kolkata",
      "when": "13 September",
      "page": 30,
-     "detail": "16 children drew Hanuman, Radha-Krishna and Shiva; mehendi and essay contests were also held."
+     "detail": "16 children drew Hanuman, Radha-Krishna and Shiva; mehendi and essay contests were also held.",
+     "title_bn": "শিশুদের অঙ্কন প্রতিযোগিতা, মহর্ষি দধীচি সেবা ট্রাস্ট",
+     "org_bn": "অন্যান্য: মহর্ষি দধীচি সেবা ট্রাস্ট",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "মানিকতলা, কলকাতা",
+     "when_bn": "১৩ সেপ্টেম্বর",
+     "detail_bn": "১৬ জন শিশু হনুমান, রাধা-কৃষ্ণ ও শিবের ছবি আঁকে; মেহেন্দি ও রচনা প্রতিযোগিতাও হয়।"
     },
     {
      "title": "'Bande Janani Bharatbarsha' play",
@@ -964,7 +1229,13 @@ window.HINDUTVA = {
      "where": "Suri Rabindra Sadan, Birbhum",
      "when": "16 August 2026",
      "page": 37,
-     "detail": "Play on Vande Mataram and the Sannyasi rebellion, which brands Jadavpur University an 'anti-national den'."
+     "detail": "Play on Vande Mataram and the Sannyasi rebellion, which brands Jadavpur University an 'anti-national den'.",
+     "title_bn": "'বন্দে জননী ভারতবর্ষা' নাটক",
+     "org_bn": "অন্যান্য: সংস্কার ভারতী বীরভূম",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "সিউড়ি রবীন্দ্র সদন, বীরভূম",
+     "when_bn": "১৬ আগস্ট ২০২৬",
+     "detail_bn": "বন্দে মাতরম ও সন্ন্যাসী বিদ্রোহ নিয়ে নাটক, যেখানে যাদবপুর বিশ্ববিদ্যালয়কে 'দেশবিরোধী আখড়া' বলে আখ্যা দেওয়া হয়েছে।"
     }
    ],
    "narratives": [
@@ -973,79 +1244,114 @@ window.HINDUTVA = {
      "target": "Narendra Modi / India",
      "claim": "Modi's diplomacy united all sides at the BRICS summit, made India a leading global voice, and kept BRICS from becoming an anti-West bloc.",
      "heading": "দিল্লি ব্রিকসে ঐক্যের ছবি : মোদীজীর মাস্টার স্ট্রোকে এক মঞ্চে সব পক্ষ",
-     "page": 11
+     "page": 11,
+     "theme_bn": "মোদী সরকারের কৃতিত্ব",
+     "target_bn": "নরেন্দ্র মোদী / ভারত",
+     "claim_bn": "মোদীর কূটনীতি ব্রিকস সম্মেলনে সব পক্ষকে এক করেছে, ভারতকে বিশ্বমঞ্চে অগ্রণী কণ্ঠস্বর করেছে এবং ব্রিকসকে পশ্চিমবিরোধী জোট হয়ে উঠতে দেয়নি।"
     },
     {
      "theme": "Modi govt achievements",
      "target": "Modi / India",
      "claim": "India's BRICS presidency and the unanimous 140-paragraph New Delhi Declaration show the resurgence of the oldest civilisation, which is now leading the world.",
      "heading": "ভারতের বিশ্বজনীন নেতৃত্বদান",
-     "page": 5
+     "page": 5,
+     "theme_bn": "মোদী সরকারের কৃতিত্ব",
+     "target_bn": "মোদী / ভারত",
+     "claim_bn": "ভারতের ব্রিকস সভাপতিত্ব এবং ১৪০ অনুচ্ছেদের সর্বসম্মত নয়াদিল্লি ঘোষণা প্রাচীনতম সভ্যতার পুনরুত্থানকে তুলে ধরে, যা এখন বিশ্বকে নেতৃত্ব দিচ্ছে।"
     },
     {
      "theme": "Modi govt achievements",
      "target": "Modi / India",
      "claim": "The BRICS summit is a story of India's glory under Modi's leadership.",
      "heading": "ব্রিকস সম্মেলন : প্রধানমন্ত্রী নরেন্দ্র মোদীর নেতৃত্বে ভারতের গৌরবগাথা",
-     "page": 15
+     "page": 15,
+     "theme_bn": "মোদী সরকারের কৃতিত্ব",
+     "target_bn": "মোদী / ভারত",
+     "claim_bn": "ব্রিকস সম্মেলন মোদীর নেতৃত্বে ভারতের গৌরবগাথা।"
     },
     {
      "theme": "nationalism/army/Pakistan",
      "target": "Terrorism / Pakistan",
      "claim": "The BRICS declaration condemned the Pahalgam attack, cross-border terror and terror financing, which the paper counts as a diplomatic win for India.",
      "heading": "নয়াদিল্লি ঘোষণাপত্রে ব্রিকসের বার্তা : ১১টি উল্লেখযোগ্য দিক",
-     "page": 17
+     "page": 17,
+     "theme_bn": "জাতীয়তাবাদ/সেনা/পাকিস্তান",
+     "target_bn": "সন্ত্রাসবাদ / পাকিস্তান",
+     "claim_bn": "ব্রিকস ঘোষণাপত্রে পহেলগাঁও হামলা, সীমান্তপারের সন্ত্রাস এবং সন্ত্রাসে অর্থায়নের নিন্দা করা হয়েছে, যাকে পত্রিকা ভারতের কূটনৈতিক জয় বলে গণ্য করেছে।"
     },
     {
      "theme": "Bangladesh & Hindu persecution",
      "target": "Bangladesh authorities",
      "claim": "The imprisonment of Chinmoy Krishna Das Prabhu will stand as a record of the persecution of Hindus in Bangladesh.",
      "heading": "চিন্ময়কৃষ্ণ দাস প্রভুর বন্দিদশা বাংলাদেশের হিন্দু নির্যাতনের দলিল হয়ে থাকবে",
-     "page": 13
+     "page": 13,
+     "theme_bn": "বাংলাদেশ ও হিন্দু নির্যাতন",
+     "target_bn": "বাংলাদেশের কর্তৃপক্ষ",
+     "claim_bn": "চিন্ময় কৃষ্ণ দাস প্রভুর কারাবাস বাংলাদেশে হিন্দুদের উপর নিপীড়নের একটি দলিল হয়ে থাকবে।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Communists / Naxalites / Soviet communism",
      "claim": "Soviet communists persecuted ISKCON and Prabhupada, jailed Vaishnavs in the Gulag and tried to ban the Gita, yet Hare Krishna defeated the international 'Dimagi-Naxal' left circle.",
      "heading": "বৈদিক সাম্যবাদী শ্রীল প্রভূপাদের \"হরে কৃষ্ণ\" আন্দোলনে পরাজিত আন্তর্জাতিক দিমাগি-নকশাল বামচক্র",
-     "page": 43
+     "page": 43,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "কমিউনিস্ট / নকশালপন্থী / সোভিয়েত কমিউনিজম",
+     "claim_bn": "সোভিয়েত কমিউনিস্টরা ইসকন ও প্রভুপাদকে নির্যাতন করেছিল, বৈষ্ণবদের গুলাগে কারারুদ্ধ করেছিল এবং গীতা নিষিদ্ধ করার চেষ্টা করেছিল; তবুও হরেকৃষ্ণ আন্দোলন আন্তর্জাতিক 'দিমাগি-নকশাল' বামপন্থী চক্রকে পরাজিত করেছে।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Jadavpur University students / 'anti-national' forces",
      "claim": "Jadavpur University has become a den of anti-national forces that reject indigenous culture and attack those who honour Vande Mataram.",
      "heading": "বন্দে জননী ভারতবর্ষ (নাটক সমালোচনা)",
-     "page": 37
+     "page": 37,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "যাদবপুর বিশ্ববিদ্যালয়ের ছাত্রছাত্রী / 'দেশবিরোধী' শক্তি",
+     "claim_bn": "যাদবপুর বিশ্ববিদ্যালয় দেশবিরোধী শক্তির আখড়ায় পরিণত হয়েছে, যারা দেশীয় সংস্কৃতিকে প্রত্যাখ্যান করে এবং বন্দে মাতরমকে সম্মান জানানো মানুষদের উপর আক্রমণ করে।"
     },
     {
      "theme": "history & icons",
      "target": "Bengali revolutionaries",
      "claim": "The paper re-examines the role of cow slaughter in the story of 'so-called' Bengali revolutionaries.",
      "heading": "গৌহত্যা ও তথাকথিত বঙ্গীয় বিপ্লবীকুল",
-     "page": 35
+     "page": 35,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "বাঙালি বিপ্লবী",
+     "claim_bn": "পত্রিকা তথাকথিত বাঙালি বিপ্লবীদের কাহিনিতে গোহত্যার ভূমিকা নতুন করে খতিয়ে দেখেছে।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "Hindu society",
      "claim": "Hindu unity is essential today, and the Sangh builds youth character and organises Hindu society through the shakha.",
      "heading": "হিন্দু একতা যাত্রা / হাসনাবাদের শুলকিনি দ্বীপে সঙ্ঘের যুব সম্মেলন",
-     "page": 24
+     "page": 24,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "হিন্দু সমাজ",
+     "claim_bn": "আজ হিন্দু ঐক্য অপরিহার্য, আর সংঘ শাখার মাধ্যমে যুবকদের চরিত্র গড়ে তোলে ও হিন্দু সমাজকে সংগঠিত করে।"
     },
     {
      "theme": "history & icons",
      "target": "RSS founder Dr Hedgewar",
      "claim": "Hedgewar's final message to swayamsevaks urges lifelong commitment to the Sangh and organising the entire Hindu society as the sole path to national welfare.",
      "heading": "গল্পকথায় ডাক্তারজী",
-     "page": 49
+     "page": 49,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "আরএসএস প্রতিষ্ঠাতা ডা. হেডগেওয়ার",
+     "claim_bn": "স্বয়ংসেবকদের উদ্দেশে হেডগেওয়ারের শেষ বার্তায় আজীবন সঙ্ঘের প্রতি অঙ্গীকার এবং সমগ্র হিন্দু সমাজকে সংগঠিত করাকেই জাতীয় কল্যাণের একমাত্র পথ বলে আহ্বান জানানো হয়েছে।"
     },
     {
      "theme": "culture/religion",
      "target": "Sanskrit",
      "claim": "Sanskrit underlies all Indian languages and is being revived by the Centre and BJP states, which will make it a mandatory language, while earlier governments tried to erase it.",
      "heading": "সংস্কৃত সপ্তাহ সমারোহ (সমাবেশ সমাচার)",
-     "page": 23
+     "page": 23,
+     "theme_bn": "সংস্কৃতি/ধর্ম",
+     "target_bn": "সংস্কৃত",
+     "claim_bn": "সংস্কৃত সব ভারতীয় ভাষার ভিত্তি এবং কেন্দ্র ও বিজেপি-শাসিত রাজ্যগুলি তার পুনরুজ্জীবন ঘটাচ্ছে, যারা একে বাধ্যতামূলক ভাষা করবে, অথচ আগের সরকারগুলি তাকে মুছে ফেলার চেষ্টা করেছিল।"
     }
-   ]
+   ],
+   "label_bn": "",
+   "summary_bn": "২৮ সেপ্টেম্বর ২০২৬ সংখ্যাটি নয়াদিল্লিতে (১২–১৩ সেপ্টেম্বর) অনুষ্ঠিত ১৮তম ব্রিকস শীর্ষ সম্মেলনে ভারতের সভাপতিত্ব এবং 'নয়াদিল্লি ঘোষণা'কে মোদির বৈশ্বিক নেতৃত্ব ও ভারতের সভ্যতাগত পুনরুত্থানের প্রমাণ হিসেবে উদ্‌যাপন করেছে। এতে বাংলাদেশে হিন্দু নির্যাতনের (চিন্ময় কৃষ্ণ দাস) একটি মামলা, কমিউনিস্টবিরোধী লেখা (ইসকন/প্রভুপাদ বনাম সোভিয়েত কমিউনিস্ট; গোহত্যা ও 'বাঙালি বিপ্লবী') এবং বিদ্যাসাগরের প্রতি শ্রদ্ধার্ঘ্যও রয়েছে। সাংগঠনিক বিভাগে আরএসএসের শতবর্ষের যুব সম্মেলন, বিশ্ব হিন্দু পরিষদের কৃষ্ণ জন্মাষ্টমীর শোভাযাত্রা, সংস্কৃত ভারতী, হিন্দু জাগরণ মঞ্চ, বিএমএস ও এবিআরএসএমের অনুষ্ঠানের খবর দেওয়া হয়েছে। পরবর্তী সংখ্যা পূজা সংখ্যা হিসেবে ঘোষণা করা হয়েছে।"
   },
   {
    "issue": "puja2026d",
@@ -1061,7 +1367,13 @@ window.HINDUTVA = {
      "where": "Itachuna, West Bengal",
      "when": "1968",
      "page": 41,
-     "detail": "The author supervised the Adhikari section at this RSS training camp and saw Shri Guruji at close quarters. Reported as a memoir."
+     "detail": "The author supervised the Adhikari section at this RSS training camp and saw Shri Guruji at close quarters. Reported as a memoir.",
+     "title_bn": "আরএসএস সংঘ শিক্ষা বর্গ (প্রশিক্ষণ শিবির), ইটাচুনা",
+     "org_bn": "আরএসএস",
+     "type_bn": "শাখা/প্রশিক্ষণ শিবির",
+     "where_bn": "ইটাচুনা, পশ্চিমবঙ্গ",
+     "when_bn": "1968",
+     "detail_bn": "লেখক আরএসএসের এই প্রশিক্ষণ শিবিরে অধিকারী বিভাগের তত্ত্বাবধান করেছিলেন এবং শ্রীগুরুজিকে খুব কাছ থেকে দেখেছিলেন। এটি স্মৃতিকথা হিসেবে প্রকাশিত।"
     },
     {
      "title": "Sangh Shiksha Varga, Burdwan (Second Year)",
@@ -1070,7 +1382,13 @@ window.HINDUTVA = {
      "where": "Burdwan, West Bengal",
      "when": "1965",
      "page": 45,
-     "detail": "The author attended the second-year training camp, where Deendayal Upadhyaya addressed college students about pilgrimage sites, including those in East Bengal."
+     "detail": "The author attended the second-year training camp, where Deendayal Upadhyaya addressed college students about pilgrimage sites, including those in East Bengal.",
+     "title_bn": "সঙ্ঘ শিক্ষা বর্গ, বর্ধমান (দ্বিতীয় বর্ষ)",
+     "org_bn": "আরএসএস",
+     "type_bn": "শাখা/প্রশিক্ষণ শিবির",
+     "where_bn": "বর্ধমান, পশ্চিমবঙ্গ",
+     "when_bn": "1965",
+     "detail_bn": "লেখক দ্বিতীয় বর্ষের প্রশিক্ষণ শিবিরে উপস্থিত ছিলেন, যেখানে দীনদয়াল উপাধ্যায় পূর্ববঙ্গের তীর্থক্ষেত্রসহ বিভিন্ন তীর্থস্থান নিয়ে কলেজ ছাত্রদের উদ্দেশে বক্তব্য রাখেন।"
     },
     {
      "title": "Kalyani Shibir (large RSS camp)",
@@ -1079,7 +1397,13 @@ window.HINDUTVA = {
      "where": "Kalyani, West Bengal",
      "when": "24-26 January 1992",
      "page": 46,
-     "detail": "Described as the culmination of large Sangh camps in West Bengal. About 18,000 swayamsevaks in full uniform attended and held a route march."
+     "detail": "Described as the culmination of large Sangh camps in West Bengal. About 18,000 swayamsevaks in full uniform attended and held a route march.",
+     "title_bn": "কল্যাণী শিবির (বৃহৎ আরএসএস শিবির)",
+     "org_bn": "আরএসএস",
+     "type_bn": "শাখা/প্রশিক্ষণ শিবির",
+     "where_bn": "কল্যাণী, পশ্চিমবঙ্গ",
+     "when_bn": "২৪–২৬ জানুয়ারি ১৯৯২",
+     "detail_bn": "পশ্চিমবঙ্গে বড় সংঘ শিবিরগুলির পরিণতি হিসেবে বর্ণিত। পূর্ণ গণবেশে প্রায় ১৮,০০০ স্বয়ংসেবক উপস্থিত ছিলেন এবং পথসঞ্চলন করেন।"
     },
     {
      "title": "Berhampore provincial RSS camps",
@@ -1088,7 +1412,13 @@ window.HINDUTVA = {
      "where": "Berhampore, Murshidabad, West Bengal",
      "when": "1980s",
      "page": 45,
-     "detail": "A series of camps in the 1980s. The author says the early discussion of infiltration began there, and a team was assigned to take it up."
+     "detail": "A series of camps in the 1980s. The author says the early discussion of infiltration began there, and a team was assigned to take it up.",
+     "title_bn": "বহরমপুর প্রান্তীয় আরএসএস শিবির",
+     "org_bn": "আরএসএস",
+     "type_bn": "শাখা/প্রশিক্ষণ শিবির",
+     "where_bn": "বহরমপুর, মুর্শিদাবাদ, পশ্চিমবঙ্গ",
+     "when_bn": "১৯৮০-র দশক",
+     "detail_bn": "১৯৮০-র দশকে অনুষ্ঠিত একাধিক শিবির। লেখকের বক্তব্য, অনুপ্রবেশ নিয়ে প্রাথমিক আলোচনা সেখানেই শুরু হয় এবং বিষয়টি হাতে নেওয়ার জন্য একটি দলকে দায়িত্ব দেওয়া হয়।"
     },
     {
      "title": "Prant-level meeting at Pathuriaghata Dharmashala",
@@ -1097,7 +1427,13 @@ window.HINDUTVA = {
      "where": "Kolkata",
      "when": "1969",
      "page": 42,
-     "detail": "Shri Guruji announced Keshab Chandra Chakraborty as Prant Sanghchalak for West Bengal. This completed the formation of the provincial executive."
+     "detail": "Shri Guruji announced Keshab Chandra Chakraborty as Prant Sanghchalak for West Bengal. This completed the formation of the provincial executive.",
+     "title_bn": "পাথুরিয়াঘাটা ধর্মশালায় প্রান্তস্তরের বৈঠক",
+     "org_bn": "আরএসএস",
+     "type_bn": "সম্মেলন",
+     "where_bn": "কলকাতা",
+     "when_bn": "1969",
+     "detail_bn": "শ্রীগুরুজি কেশবচন্দ্র চক্রবর্তীকে পশ্চিমবঙ্গের প্রান্ত সঙ্ঘচালক ঘোষণা করেন। এর মাধ্যমে প্রান্তীয় কার্যকরী কমিটি গঠন সম্পূর্ণ হয়।"
     },
     {
      "title": "Swami Vivekananda birth centenary programme",
@@ -1106,7 +1442,13 @@ window.HINDUTVA = {
      "where": "Kolkata",
      "when": "17 January 1963 (probably)",
      "page": 41,
-     "detail": "The author first saw Shri Guruji at this meeting, which was presided over by Swami Madhavananda of the Ramakrishna Math and Mission."
+     "detail": "The author first saw Shri Guruji at this meeting, which was presided over by Swami Madhavananda of the Ramakrishna Math and Mission.",
+     "title_bn": "স্বামী বিবেকানন্দের জন্মশতবার্ষিকী অনুষ্ঠান",
+     "org_bn": "অন্যান্য: রাজা সুবোধ মল্লিক স্কোয়ারে জনসভা",
+     "type_bn": "শতবর্ষ",
+     "where_bn": "কলকাতা",
+     "when_bn": "১৭ জানুয়ারি ১৯৬৩ (সম্ভবত)",
+     "detail_bn": "লেখক এই সভাতেই প্রথম শ্রীগুরুজিকে দেখেন, যার সভাপতিত্ব করেছিলেন রামকৃষ্ণ মঠ ও মিশনের স্বামী মাধবানন্দ।"
     },
     {
      "title": "Shri Guruji's address at Gaja Park, 'Ekatmatar Ahwan'",
@@ -1115,7 +1457,13 @@ window.HINDUTVA = {
      "where": "South Kolkata",
      "when": "March 1973",
      "page": 45,
-     "detail": "Shri Guruji's last visit to West Bengal. The speech was published as the booklet 'Ekatmatar Ahwan'."
+     "detail": "Shri Guruji's last visit to West Bengal. The speech was published as the booklet 'Ekatmatar Ahwan'.",
+     "title_bn": "গজা পার্কে শ্রীগুরুজির ভাষণ, 'একাত্মতার আহ্বান'",
+     "org_bn": "আরএসএস",
+     "type_bn": "মিছিল/শোভাযাত্রা",
+     "where_bn": "দক্ষিণ কলকাতা",
+     "when_bn": "১৯৭৩ সালের মার্চ",
+     "detail_bn": "পশ্চিমবঙ্গে শ্রীগুরুজির শেষ সফর। ভাষণটি 'একাত্মতার আহ্বান' পুস্তিকা হিসেবে প্রকাশিত হয়।"
     },
     {
      "title": "Shivaji coronation commemoration meeting in Mumbai",
@@ -1124,7 +1472,13 @@ window.HINDUTVA = {
      "where": "Mumbai",
      "when": "1973-74",
      "page": 43,
-     "detail": "An anecdote about a meeting whose chairman asked whether the RSS was behind it. It is used to illustrate Sangh discipline."
+     "detail": "An anecdote about a meeting whose chairman asked whether the RSS was behind it. It is used to illustrate Sangh discipline.",
+     "title_bn": "মুম্বইয়ে শিবাজির রাজ্যাভিষেক স্মরণসভা",
+     "org_bn": "অন্যান্য: স্থানীয় নাগরিকবৃন্দ, কমিটিতে স্বয়ংসেবকরা রয়েছেন",
+     "type_bn": "সম্মেলন",
+     "where_bn": "মুম্বই",
+     "when_bn": "1973-74",
+     "detail_bn": "একটি সভার কাহিনি, যার সভাপতি জানতে চেয়েছিলেন এর পিছনে আরএসএস আছে কি না। সংঘের শৃঙ্খলা বোঝাতে এটি ব্যবহার করা হয়েছে।"
     },
     {
      "title": "RSS centenary reflections",
@@ -1133,7 +1487,13 @@ window.HINDUTVA = {
      "where": "All India",
      "when": "",
      "page": 42,
-     "detail": "The text says the Sangh's centenary has passed and that the Sangh is now nationwide and all-pervasive. It is reflective rather than an event report."
+     "detail": "The text says the Sangh's centenary has passed and that the Sangh is now nationwide and all-pervasive. It is reflective rather than an event report.",
+     "title_bn": "আরএসএসের শতবর্ষ নিয়ে ভাবনা",
+     "org_bn": "আরএসএস",
+     "type_bn": "শতবর্ষ",
+     "where_bn": "সারা ভারত",
+     "when_bn": "",
+     "detail_bn": "লেখায় বলা হয়েছে, সংঘের শতবর্ষ পেরিয়ে গেছে এবং সংঘ এখন সর্বভারতীয় ও সর্বব্যাপী। এটি অনুষ্ঠানের প্রতিবেদন নয়, বরং আত্মসমীক্ষামূলক।"
     },
     {
      "title": "Bastuhara Sahayata Samiti relief work",
@@ -1142,7 +1502,13 @@ window.HINDUTVA = {
      "where": "West Bengal",
      "when": "",
      "page": 43,
-     "detail": "Mentions Shyamchand Da as the driving force of the committee, which assisted refugees. This is a historical recollection."
+     "detail": "Mentions Shyamchand Da as the driving force of the committee, which assisted refugees. This is a historical recollection.",
+     "title_bn": "বাস্তুহারা সহায়তা সমিতির ত্রাণকাজ",
+     "org_bn": "আরএসএস",
+     "type_bn": "সেবা/ত্রাণ",
+     "where_bn": "পশ্চিমবঙ্গ",
+     "when_bn": "",
+     "detail_bn": "কমিটির চালিকাশক্তি হিসেবে শ্যামচাঁদ দা-র উল্লেখ আছে, যে কমিটি উদ্বাস্তুদের সহায়তা করেছিল। এটি একটি ঐতিহাসিক স্মৃতিচারণ।"
     }
    ],
    "narratives": [
@@ -1151,86 +1517,124 @@ window.HINDUTVA = {
      "target": "CPI and CPI(M), and communists generally",
      "claim": "The Communist Party was created under Comintern direction in Tashkent in 1920 and has always served Moscow, and later Beijing, against India's national interest.",
      "heading": "তাসের ঘর ও ক্রেমলিনের সুতো",
-     "page": 1
+     "page": 1,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "সিপিআই ও সিপিআই(এম), এবং সাধারণভাবে কমিউনিস্টরা",
+     "claim_bn": "কমিউনিস্ট পার্টি ১৯২০ সালে তাসখন্দে কমিন্টার্নের নির্দেশে তৈরি হয়েছিল এবং ভারতের জাতীয় স্বার্থের বিরুদ্ধে বরাবর মস্কো, পরে বেইজিংয়ের সেবা করে এসেছে।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Communists in the Quit India period (Joshi-Maxwell pact)",
      "claim": "Under the 1942 Joshi-Maxwell pact, the communists helped the British suppress the Quit India movement and gave British intelligence the names and hideouts of nationalist revolutionaries.",
      "heading": "জোশী-ম্যাক্সওয়েল চুক্তি : স্বরাষ্ট্রদপ্তরে বেইজিং ও মস্কোর কোলাকুলি",
-     "page": 2
+     "page": 2,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "ভারত ছাড়ো আন্দোলনের সময়ে কমিউনিস্টরা (জোশি-ম্যাক্সওয়েল চুক্তি)",
+     "claim_bn": "১৯৪২ সালের জোশী-ম্যাক্সওয়েল চুক্তি অনুযায়ী কমিউনিস্টরা ভারত ছাড়ো আন্দোলন দমনে ব্রিটিশদের সাহায্য করেছিল এবং জাতীয়তাবাদী বিপ্লবীদের নাম ও আস্তানার খবর ব্রিটিশ গোয়েন্দাদের হাতে তুলে দিয়েছিল।"
     },
     {
      "theme": "history & icons",
      "target": "Communists as defamers of Netaji Subhas Bose",
      "claim": "The communist paper People's War ran cartoons and articles calling Netaji a Japanese puppet and a 'dacoit' and the INA a band of mercenaries.",
      "heading": "নেতাজী এবং আজাদ হিন্দ ফৌজের কদর্য চরিত্রহনন",
-     "page": 3
+     "page": 3,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "নেতাজি সুভাষ বসুর কুৎসাকারী হিসেবে কমিউনিস্টরা",
+     "claim_bn": "কমিউনিস্ট পত্রিকা 'পিপলস ওয়ার' কার্টুন ও নিবন্ধে নেতাজিকে জাপানের পুতুল ও 'ডাকাত' এবং আজাদ হিন্দ ফৌজকে ভাড়াটে সৈন্যদল বলে অভিহিত করেছিল।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Communists and the Partition of India",
      "claim": "The communists gave theoretical backing to Jinnah's two-nation theory through the Adhikari Thesis of 1942 and treated the Muslim League as a progressive force.",
      "heading": "দেশভাগের চক্রান্ত : অধিকারী থিসিস (১৯৪২)",
-     "page": 4
+     "page": 4,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "কমিউনিস্ট ও ভারত ভাগ",
+     "claim_bn": "কমিউনিস্টরা ১৯৪২ সালের অধিকারী থিসিসের মাধ্যমে জিন্নার দ্বিজাতি তত্ত্বকে তাত্ত্বিক সমর্থন জুগিয়েছিল এবং মুসলিম লিগকে প্রগতিশীল শক্তি হিসেবে গণ্য করেছিল।"
     },
     {
      "theme": "nationalism/army/Pakistan",
      "target": "Communists during the 1962 China war",
      "claim": "The pro-China communist faction, which formed the CPI(M) in 1964, backed Chinese claims in 1962 and punished V. S. Achuthanandan for organising blood donation for Indian soldiers.",
      "heading": "স্বাধীনতা-উত্তর ভারতের বিরুদ্ধে যুদ্ধ এবং ১৯৬২-র চরম বিশ্বাসঘাতকতা",
-     "page": 4
+     "page": 4,
+     "theme_bn": "জাতীয়তাবাদ/সেনা/পাকিস্তান",
+     "target_bn": "১৯৬২ সালের চিন যুদ্ধের সময় কমিউনিস্টরা",
+     "claim_bn": "১৯৬৪ সালে সিপিআই(এম) গঠনকারী চীনপন্থী কমিউনিস্ট অংশ ১৯৬২ সালে চীনের দাবিকে সমর্থন করেছিল এবং ভারতীয় সৈন্যদের জন্য রক্তদান শিবির সংগঠিত করার কারণে ভি. এস. অচ্যুতানন্দনকে শাস্তি দিয়েছিল।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Communists and Soviet funding",
      "claim": "CIA reports are cited to claim that the CPI's activities were run on Soviet money and kickbacks, and that it worked on Soviet orders even during the Emergency.",
      "heading": "সার্বভৌমত্ব নিয়ন্ত্রণে সোভিয়েত ফান্ডিং ও কুৎসিত হস্তক্ষেপ",
-     "page": 5
+     "page": 5,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "কমিউনিস্ট ও সোভিয়েত অর্থসাহায্য",
+     "claim_bn": "সিআইএ-র প্রতিবেদন উদ্ধৃত করে দাবি করা হয়েছে যে সিপিআইয়ের কার্যকলাপ সোভিয়েত অর্থ ও কমিশনে চলত এবং জরুরি অবস্থার সময়েও তারা সোভিয়েত নির্দেশে কাজ করেছে।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "Mamata Banerjee and the Trinamool government",
      "claim": "Mamata Banerjee took over the Nandigram agitation, which local people had organised, and the poem charges her government with covering up the RG Kar murder and its perpetrators.",
      "heading": "রাত দখল (২০২৩ - ২০২৬)",
-     "page": 27
+     "page": 27,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "মমতা বন্দ্যোপাধ্যায় ও তৃণমূল সরকার",
+     "claim_bn": "স্থানীয় মানুষ যে নন্দীগ্রাম আন্দোলন সংগঠিত করেছিলেন, মমতা বন্দ্যোপাধ্যায় তার দখল নেন, আর কবিতাটি তাঁর সরকারের বিরুদ্ধে আরজি কর হত্যাকাণ্ড ও তার অপরাধীদের আড়াল করার অভিযোগ তোলে।"
     },
     {
      "theme": "West Bengal elections",
      "target": "RSS role in forming a Hindutva-oriented government in West Bengal",
      "claim": "The author cites the RSS role in the Emergency opposition, the Ram Mandir, the abrogation of Article 370 and, recently, the formation of a Hindutva-oriented government in West Bengal. He adds that 'Bande Mataram' is again being sung in full in the state.",
      "heading": "সঙ্ঘ স্মৃতিচারণ (বিজয় আঢ্য)",
-     "page": 45
+     "page": 45,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "পশ্চিমবঙ্গে হিন্দুত্বমুখী সরকার গঠনে আরএসএসের ভূমিকা",
+     "claim_bn": "লেখক জরুরি অবস্থার বিরোধিতায় আরএসএসের ভূমিকা, রামমন্দির, ৩৭০ ধারা বিলোপ এবং সম্প্রতি পশ্চিমবঙ্গে হিন্দুত্বমুখী সরকার গঠনের কথা উল্লেখ করেছেন। তিনি যোগ করেছেন, রাজ্যে আবার পূর্ণাঙ্গ 'বন্দে মাতরম' গাওয়া হচ্ছে।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "RSS and Hindu society",
      "claim": "The aim of the Sangh is to organise the whole Hindu society, and 'Hindutva' is cultural and spiritual nationhood. After years of neglect, ridicule and opposition, society has now accepted the Sangh.",
      "heading": "সঙ্ঘ স্মৃতিচারণ (বিজয় আঢ্য)",
-     "page": 46
+     "page": 46,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "আরএসএস ও হিন্দু সমাজ",
+     "claim_bn": "সংঘের লক্ষ্য সমগ্র হিন্দু সমাজকে সংগঠিত করা, এবং 'হিন্দুত্ব' হল সাংস্কৃতিক ও আধ্যাত্মিক জাতিসত্তা। বছরের পর বছর অবহেলা, উপহাস ও বিরোধিতার পর সমাজ এখন সংঘকে গ্রহণ করেছে।"
     },
     {
      "theme": "infiltration/demography",
      "target": "Infiltrators from Bangladesh",
      "claim": "The author says the problem of infiltration was first discussed at the Berhampore camps in the 1980s, and that swayamsevaks were told to tackle it.",
      "heading": "সঙ্ঘ স্মৃতিচারণ (বিজয় আঢ্য)",
-     "page": 45
+     "page": 45,
+     "theme_bn": "অনুপ্রবেশ/জনবিন্যাস",
+     "target_bn": "বাংলাদেশ থেকে আসা অনুপ্রবেশকারীরা",
+     "claim_bn": "লেখক বলেছেন, ১৯৮০-র দশকে বহরমপুরের শিবিরগুলিতে অনুপ্রবেশের সমস্যা নিয়ে প্রথম আলোচনা হয় এবং স্বয়ংসেবকদের তা মোকাবিলা করতে বলা হয়।"
     },
     {
      "theme": "Bangladesh & Hindu persecution",
      "target": "Akhand Bharat and the Partition of Bengal",
      "claim": "Deendayal Upadhyaya taught that Dhakeshwari and Jessore are still Hindu pilgrimage sites, and that Hindus should not forget them because of Partition.",
      "heading": "সঙ্ঘ স্মৃতিচারণ (বিজয় আঢ্য)",
-     "page": 45
+     "page": 45,
+     "theme_bn": "বাংলাদেশ ও হিন্দু নির্যাতন",
+     "target_bn": "অখণ্ড ভারত ও বঙ্গভঙ্গ",
+     "claim_bn": "দীনদয়াল উপাধ্যায় শিখিয়েছিলেন যে ঢাকেশ্বরী ও যশোর আজও হিন্দু তীর্থস্থান, এবং দেশভাগের কারণে হিন্দুদের এগুলি ভোলা উচিত নয়।"
     },
     {
      "theme": "history & icons",
      "target": "Rani Shiromani of Karnagarh",
      "claim": "The serialised historical novel presents Rani Shiromani as a Hindu queen who fought the British through guerrilla warfare in Jangal Mahal.",
      "heading": "রানি শিরোমণি",
-     "page": 25
+     "page": 25,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "কর্ণগড়ের রানি শিরোমণি",
+     "claim_bn": "ধারাবাহিক ঐতিহাসিক উপন্যাসে রানি শিরোমণিকে এক হিন্দু রানি হিসেবে উপস্থাপন করা হয়েছে, যিনি জঙ্গলমহলে গেরিলা যুদ্ধের মাধ্যমে ব্রিটিশদের বিরুদ্ধে লড়েছিলেন।"
     }
-   ]
+   ],
+   "label_bn": "পূজা বিশেষ সংখ্যা",
+   "summary_bn": "স্বস্তিকার এই পূজা ২০২৬ বিশেষ সংখ্যায় (বঙ্গাব্দ ১৪৩৩) রয়েছে একটি দীর্ঘ কমিউনিস্টবিরোধী ঐতিহাসিক বিতর্কমূলক লেখা, কর্ণগড়ের রানি শিরোমণিকে নিয়ে ধারাবাহিক ঐতিহাসিক উপন্যাস, এবং আরজি কর ধর্ষণ-খুন ও 'রিক্লেম দ্য নাইট' আন্দোলন নিয়ে একটি কবিতা। এতে সঙ্ঘের একটি স্মৃতিকথাও আছে, যেখানে আরএসএসের শতবর্ষ ও পশ্চিমবঙ্গে তার বিস্তার উদ্‌যাপন করা হয়েছে। সংখ্যাটিতে সিপিআই ও সিপিআই(এম)-কে বিদেশি-নিয়ন্ত্রিত বিশ্বাসঘাতক হিসেবে চিত্রিত করা হয়েছে এবং তৃণমূল সরকারকে আক্রমণ করা হয়েছে। পশ্চিমবঙ্গে 'হিন্দুত্বমুখী সরকার' গঠনকে দশকের পর দশক ধরে সঙ্ঘের কাজের সার্থকতা হিসেবেও উপস্থাপন করা হয়েছে। অন্যান্য বিষয়ের মধ্যে রয়েছে অখণ্ড ভারত, অনুপ্রবেশ ও হিন্দু ঐক্য।"
   },
   {
    "issue": "puja2026c",
@@ -1245,58 +1649,84 @@ window.HINDUTVA = {
      "target": "Muslim population growth in Assam and eastern India",
      "claim": "Assam CM Himanta Biswa Sarma admits he can only delay Assam becoming Muslim-majority by one generation, and only Hindu society can protect Assam, West Bengal and the east from that fate.",
      "heading": "সম্পাদকীয় / কাহিনির প্রারম্ভিক কথা (শিরোনাম ডাইজেস্টে অনুপস্থিত)",
-     "page": 4
+     "page": 4,
+     "theme_bn": "অনুপ্রবেশ/জনবিন্যাস",
+     "target_bn": "অসম ও পূর্ব ভারতে মুসলিম জনসংখ্যা বৃদ্ধি",
+     "claim_bn": "অসমের মুখ্যমন্ত্রী হিমন্ত বিশ্বশর্মা স্বীকার করেছেন, অসম মুসলিম-সংখ্যাগরিষ্ঠ হয়ে ওঠা তিনি বড়জোর এক প্রজন্ম পিছিয়ে দিতে পারেন, এবং কেবল হিন্দু সমাজই অসম, পশ্চিমবঙ্গ ও পূর্বাঞ্চলকে সেই পরিণতি থেকে রক্ষা করতে পারে।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "Hindu society",
      "claim": "The paper calls for a 'containment and rollback' strategy, citing Bankim's Anandamath. Rollback would mean reclaiming both land and 'lost' people, for the sake of protecting Bengali culture for ten generations.",
      "heading": "সম্পাদকীয় / কাহিনির প্রারম্ভিক কথা (শিরোনাম ডাইজেস্টে অনুপস্থিত)",
-     "page": 4
+     "page": 4,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "হিন্দু সমাজ",
+     "claim_bn": "পত্রিকা বঙ্কিমের আনন্দমঠের উল্লেখ করে 'প্রতিরোধ ও প্রত্যাবর্তন' কৌশলের ডাক দিয়েছে। প্রত্যাবর্তন বলতে জমি ও 'হারিয়ে যাওয়া' মানুষ, দুটিই ফিরে পাওয়া বোঝানো হয়েছে, যা দশ প্রজন্ম ধরে বাঙালি সংস্কৃতি রক্ষার স্বার্থে।"
     },
     {
      "theme": "Bangladesh & Hindu persecution",
      "target": "Jamaat and Islamist rule in Bangladesh",
      "claim": "The story imagines Bangladesh a decade ahead as 'East Khorasan' under Jamaat, with a crescent-and-star flag and Dhaka renamed Shahjalalabad. In it, Hindus and Buddhists are hunted as 'kafirs' and burned, and Chakma and Buddhist fighters resist.",
      "heading": "চট্টলা, পূর্ব খোরাসান (গল্পের শিরোনাম OCR-এ অস্পষ্ট)",
-     "page": 4
+     "page": 4,
+     "theme_bn": "বাংলাদেশ ও হিন্দু নির্যাতন",
+     "target_bn": "বাংলাদেশে জামাত ও ইসলামপন্থী শাসন",
+     "claim_bn": "গল্পে এক দশক পরের বাংলাদেশকে জামাতের অধীনে 'পূর্ব খোরাসান' হিসেবে কল্পনা করা হয়েছে, যেখানে অর্ধচন্দ্র ও তারা-চিহ্নিত পতাকা রয়েছে এবং ঢাকার নাম হয়েছে শাহজালালাবাদ। সেখানে হিন্দু ও বৌদ্ধদের 'কাফের' বলে তাড়া করা ও পোড়ানো হয়, আর চাকমা ও বৌদ্ধ যোদ্ধারা প্রতিরোধ গড়ে তোলে।"
     },
     {
      "theme": "nationalism/army/Pakistan",
      "target": "Pakistan and its air-defence record",
      "claim": "The children's article says the concept of air defence, including the Sudarshan Chakra and America's THAAD, first came from India, and that Pakistan felt it in 1971.",
      "heading": "এয়ার-ডিফেন্স ও সুদর্শন চক্র বিষয়ক শিশু-কিশোর রচনা (শিরোনাম OCR-এ অস্পষ্ট)",
-     "page": 57
+     "page": 57,
+     "theme_bn": "জাতীয়তাবাদ/সেনা/পাকিস্তান",
+     "target_bn": "পাকিস্তান ও তার আকাশ-প্রতিরক্ষার রেকর্ড",
+     "claim_bn": "শিশুদের জন্য লেখা নিবন্ধে বলা হয়েছে, সুদর্শন চক্র ও আমেরিকার থাড (THAAD)-সহ আকাশ প্রতিরক্ষার ধারণা প্রথম ভারত থেকেই এসেছে, এবং ১৯৭১ সালে পাকিস্তান তা টের পেয়েছিল।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Communist leaders and ideology in Tripura",
      "claim": "Tripura leaders such as Aghore Debbarma and Biren Dutta were drawn to Communist ideology and spread it in the hills. The article notes that the Communists now hold zero of the hill seats they long dominated.",
      "heading": "ত্রিপুরা রাজ্য — সেকাল একাল",
-     "page": 59
+     "page": 59,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "ত্রিপুরায় কমিউনিস্ট নেতৃত্ব ও মতাদর্শ",
+     "claim_bn": "অঘোর দেববর্মা ও বীরেন দত্তের মতো ত্রিপুরার নেতারা কমিউনিস্ট আদর্শে আকৃষ্ট হয়ে পাহাড়ে তা ছড়িয়ে দেন। লেখায় উল্লেখ করা হয়েছে যে, কমিউনিস্টরা যে পাহাড়ি আসনগুলিতে দীর্ঘদিন আধিপত্য করত, এখন সেগুলির একটিও তাদের হাতে নেই।"
     },
     {
      "theme": "Modi govt achievements",
      "target": "Previous Tripura government and the BJP government",
      "claim": "Tripura lagged in tourism because of the previous government's 'poverty of vision'. The BJP-run government now prioritises tourism, and the state is advancing rapidly.",
      "heading": "ত্রিপুরা রাজ্য — সেকাল একাল",
-     "page": 59
+     "page": 59,
+     "theme_bn": "মোদী সরকারের কৃতিত্ব",
+     "target_bn": "ত্রিপুরার আগের সরকার ও বিজেপি সরকার",
+     "claim_bn": "আগের সরকারের 'দৃষ্টির দারিদ্র্যের' কারণে ত্রিপুরা পর্যটনে পিছিয়ে ছিল। বিজেপি-চালিত সরকার এখন পর্যটনকে অগ্রাধিকার দিচ্ছে এবং রাজ্য দ্রুত এগিয়ে চলেছে।"
     },
     {
      "theme": "history & icons",
      "target": "Netaji Subhas Chandra Bose and Ho Chi Minh",
      "claim": "The Vietnam travelogue highlights a house in Saigon linked to Netaji's centre. It also recounts that Ho Chi Minh, on his 1958 India visit, handed the Indian tricolour used there to Netaji's associate Debnath Das in Kolkata.",
      "heading": "ভিয়েতনাম ভ্রমণ (ডাঃ মধুসূদন পাল) — শিরোনাম আংশিক",
-     "page": 49
+     "page": 49,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "নেতাজি সুভাষচন্দ্র বসু ও হো চি মিন",
+     "claim_bn": "ভিয়েতনাম ভ্রমণকাহিনিতে সাইগনের একটি বাড়ির কথা বিশেষভাবে বলা হয়েছে, যার সঙ্গে নেতাজির কেন্দ্রের যোগ ছিল। এতে আরও বলা হয়েছে, হো চি মিন ১৯৫৮ সালে ভারত সফরের সময় সেখানে ব্যবহৃত ভারতীয় তেরঙ্গা পতাকা কলকাতায় নেতাজির সহযোগী দেবনাথ দাসের হাতে তুলে দিয়েছিলেন।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "Hindus and Buddhists in the Chittagong Hill Tracts",
      "claim": "The Chakma accounts describe Hindu-Buddhist hill communities as victims of Jamaati violence, land loss to plains settlers and military backing. They also present the Hindu and Buddhist idea of 'tritap' as a shared identity.",
      "heading": "পার্বত্য চট্টগ্রাম / চাকমা প্রসঙ্গ (কাহিনির অংশ, শিরোনাম OCR-এ অস্পষ্ট)",
-     "page": 17
+     "page": 17,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "চট্টগ্রাম পার্বত্য অঞ্চলের হিন্দু ও বৌদ্ধরা",
+     "claim_bn": "চাকমাদের বিবরণে হিন্দু-বৌদ্ধ পাহাড়ি জনগোষ্ঠীকে জামাতি হিংসার শিকার, সমতলের বসতি স্থাপনকারীদের হাতে জমি হারানো এবং সেনা-সমর্থনের শিকার হিসেবে তুলে ধরা হয়েছে। সেগুলিতে হিন্দু ও বৌদ্ধদের 'ত্রিতাপ' ধারণাকে একটি অভিন্ন পরিচয় হিসেবেও উপস্থাপন করা হয়েছে।"
     }
-   ]
+   ],
+   "label_bn": "পূজা বিশেষ সংখ্যা",
+   "summary_bn": "এই পূজা বিশেষ সংখ্যা (বঙ্গাব্দ ১৪৩৩) শুরু হয়েছে প্রায় দশ বছর পরের এক ডিস্টোপিয়ান কল্পকাহিনি দিয়ে। তাতে জামাত-উল-মুসলিমিন বাংলাদেশকে 'পূর্ব খোরাসান' হিসেবে শাসন করছে, ঢাকার নাম হয়েছে 'শাহজালালাবাদ', আর চট্টগ্রাম ও পার্বত্য অঞ্চলের হিন্দু ও বৌদ্ধ প্রতিরোধ যোদ্ধারা পাল্টা লড়ছেন। সম্পাদকীয় সূচনায় অসমের মুখ্যমন্ত্রী হিমন্ত বিশ্বশর্মার উক্তি উদ্ধৃত করা হয়েছে, যেখানে তিনি বলেছেন তিনি অসমকে মুসলিম-সংখ্যাগরিষ্ঠ হওয়া থেকে মাত্র এক প্রজন্ম আটকে রাখতে পারবেন। এরপর বঙ্কিমের আনন্দমঠ উদ্ধৃত করে যুক্তি দেওয়া হয়েছে যে হিন্দু সমাজকে 'প্রতিরোধ ও প্রত্যাবর্তন'-এর পথ অনুসরণ করতে হবে। সংখ্যাটিতে আরও রয়েছে বাংলাদেশকেন্দ্রিক কল্পকাহিনি, হো চি মিনের সঙ্গে নেতাজির যোগাযোগের প্রশংসা করা একটি ভিয়েতনাম ভ্রমণকাহিনি, আকাশ-প্রতিরক্ষা ও সুদর্শন চক্র নিয়ে শিশুদের জন্য একটি লেখা, এবং ত্রিপুরার 'তখন ও এখন' নিয়ে একটি নিবন্ধ। ত্রিপুরা-নিবন্ধটিতে কমিউনিস্ট প্রভাবের সমালোচনা করা হয়েছে এবং বিজেপি সরকারের প্রশংসা করা হয়েছে।"
   },
   {
    "issue": "puja2026b",
@@ -1311,44 +1741,64 @@ window.HINDUTVA = {
      "target": "Hanuman and the Ramayana tradition, praised",
      "claim": "Hanuman is a divine incarnation of Rudra, blessed by the gods, devoted and duty-bound, and central to Rama's victory over Ravana.",
      "heading": "মহাবীর শ্রীহনুমান",
-     "page": 3
+     "page": 3,
+     "theme_bn": "সংস্কৃতি/ধর্ম",
+     "target_bn": "হনুমান ও রামায়ণী ঐতিহ্য, প্রশংসিত",
+     "claim_bn": "হনুমান রুদ্রের দিব্য অবতার, দেবতাদের আশীর্বাদধন্য, নিষ্ঠাবান ও কর্তব্যপরায়ণ এবং রাবণের বিরুদ্ধে রামের বিজয়ে কেন্দ্রীয় ভূমিকায় ছিলেন।"
     },
     {
      "theme": "history & icons",
      "target": "Rabindranath Tagore, claimed as a figure of the Upanishadic tradition",
      "claim": "Tagore's thought drew on the Upanishads, which teach unity and freedom from narrow identities in place of division.",
      "heading": "",
-     "page": 37
+     "page": 37,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "রবীন্দ্রনাথ ঠাকুর, উপনিষদীয় ঐতিহ্যের এক ব্যক্তিত্ব হিসেবে দাবিকৃত",
+     "claim_bn": "ঠাকুরের চিন্তা উপনিষদ থেকে অনুপ্রাণিত, যা বিভাজনের পরিবর্তে ঐক্য এবং সংকীর্ণ পরিচয় থেকে মুক্তির শিক্ষা দেয়।"
     },
     {
      "theme": "Bangladesh & Hindu persecution",
      "target": "Attackers of Hindu families in Dashpara, Bangladesh",
      "claim": "About 150 Hindu families in the village were attacked and the settlement was ransacked, a repeat of the brutality of the 1971 war with only the attackers changed.",
      "heading": "",
-     "page": 51
+     "page": 51,
+     "theme_bn": "বাংলাদেশ ও হিন্দু নির্যাতন",
+     "target_bn": "বাংলাদেশের দাশপাড়ায় হিন্দু পরিবারগুলির উপর হামলাকারীরা",
+     "claim_bn": "গ্রামের প্রায় ১৫০টি হিন্দু পরিবারের উপর হামলা চালানো হয় এবং বসতি তছনছ করা হয়, যা ১৯৭১ সালের যুদ্ধের নৃশংসতারই পুনরাবৃত্তি, শুধু আক্রমণকারীরা বদলেছে।"
     },
     {
      "theme": "Bangladesh & Hindu persecution",
      "target": "Bangladeshi MP and government, and the press",
      "claim": "Local officials plan to bring journalists and tell them nothing happened, and say some newspapers exaggerated, while the area is still visibly destroyed.",
      "heading": "",
-     "page": 60
+     "page": 60,
+     "theme_bn": "বাংলাদেশ ও হিন্দু নির্যাতন",
+     "target_bn": "বাংলাদেশের সাংসদ ও সরকার, এবং সংবাদমাধ্যম",
+     "claim_bn": "স্থানীয় আধিকারিকরা সাংবাদিকদের এনে বলার পরিকল্পনা করছেন যে কিছুই হয়নি, এবং বলছেন কিছু সংবাদপত্র বাড়াবাড়ি করেছে, অথচ এলাকা এখনও স্পষ্টতই বিধ্বস্ত।"
     },
     {
      "theme": "Bangladesh & Hindu persecution",
      "target": "Religious fanaticism in Bangladesh after independence",
      "claim": "The shared democratic spirit of the Liberation War faded after independence as the poisonous breath of religious fanaticism turned increasingly violent.",
      "heading": "",
-     "page": 56
+     "page": 56,
+     "theme_bn": "বাংলাদেশ ও হিন্দু নির্যাতন",
+     "target_bn": "স্বাধীনতার পর বাংলাদেশে ধর্মীয় গোঁড়ামি",
+     "claim_bn": "মুক্তিযুদ্ধের অভিন্ন গণতান্ত্রিক চেতনা স্বাধীনতার পরে ম্লান হয়ে যায়, কারণ ধর্মীয় গোঁড়ামির বিষাক্ত নিঃশ্বাস ক্রমশ আরও হিংস্র হয়ে ওঠে।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "Hindu victims, and their leaders and community",
      "claim": "Hindu families are left fearful. Many leave the area or the country, which lets land be seized or bought cheaply, and the survivors meet to decide what to do after the police fail them.",
      "heading": "",
-     "page": 59
+     "page": 59,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "হিন্দু ক্ষতিগ্রস্তরা এবং তাঁদের নেতৃবৃন্দ ও সমাজ",
+     "claim_bn": "হিন্দু পরিবারগুলি আতঙ্কগ্রস্ত। অনেকে এলাকা বা দেশ ছেড়ে চলে যান, ফলে জমি দখল হয় বা সস্তায় কেনা যায়, আর পুলিশ ব্যর্থ হলে যাঁরা থেকে যান তাঁরা কী করবেন তা ঠিক করতে বসেন।"
     }
-   ]
+   ],
+   "label_bn": "পূজা বিশেষ সংখ্যা",
+   "summary_bn": "এটি পূজা বিশেষ সংখ্যা (বঙ্গাব্দ ১৪৩৩, ৬৪ পৃষ্ঠা, বিজ্ঞাপনের পাতাসহ)। সংকলনে কোনো সাংগঠনিক প্রতিবেদন নেই। এতে যে লেখাগুলি আছে তা হল হনুমানকে নিয়ে রামায়ণভিত্তিক একটি দীর্ঘ ধারাবাহিক, রবীন্দ্রনাথ ঠাকুর ও উপনিষদ নিয়ে একটি প্রবন্ধ, কিছু পারিবারিক ছোটগল্প, এবং বাংলাদেশের দাশপাড়া নামের একটি গ্রামে হিন্দু পরিবারগুলির ওপর হামলার একটি দীর্ঘ কাল্পনিক বা আখ্যানমূলক বিবরণ। সংখ্যাটি মূলত হনুমান ও রামায়ণের কাহিনির মাধ্যমে ধর্মীয় ভক্তি, রবীন্দ্রনাথের ওপর হিন্দু সাংস্কৃতিক দাবি, এবং সরকারি অস্বীকার ও হারিয়ে যাওয়া ধর্মনিরপেক্ষ উত্তরাধিকারসহ বাংলাদেশে হিন্দু নিপীড়নের বিষয়বস্তুকে তুলে ধরেছে। সংকলনে কোনো দৃশ্যমান সম্পাদকীয় বা প্রত্যক্ষ রাজনৈতিক বা নির্বাচনী বিষয়বস্তু নেই।"
   },
   {
    "issue": "puja2026a",
@@ -1363,58 +1813,84 @@ window.HINDUTVA = {
      "target": "Bharat Mata / Vande Mataram as civilisational and spiritual symbol",
      "claim": "Bankim's Vande Mataram is not merely a patriotic song but a spiritual invocation of the Motherland as a divine, conscious goddess, to whom devotion and self-sacrifice are owed.",
      "heading": "ভারতাত্মা থেকে ভারতমাতা",
-     "page": 6
+     "page": 6,
+     "theme_bn": "জাতীয়তাবাদ/সেনা/পাকিস্তান",
+     "target_bn": "সভ্যতাগত ও আধ্যাত্মিক প্রতীক হিসেবে ভারত মাতা / বন্দে মাতরম",
+     "claim_bn": "বঙ্কিমের বন্দে মাতরম কেবল দেশাত্মবোধক গান নয়, বরং মাতৃভূমিকে এক দিব্য, চেতন দেবী হিসেবে আধ্যাত্মিক আবাহন, যাঁর প্রতি ভক্তি ও আত্মত্যাগ প্রাপ্য।"
     },
     {
      "theme": "culture/religion",
      "target": "Goddess Durga / Mahishasura myth",
      "claim": "The Mahishasura myth is an eternal struggle between divine and demonic tendencies within each person, won through sadhana, knowledge and effort.",
      "heading": "মহিষাসুর বধের তত্ত্বকথা",
-     "page": 3
+     "page": 3,
+     "theme_bn": "সংস্কৃতি/ধর্ম",
+     "target_bn": "দেবী দুর্গা / মহিষাসুর পুরাণকথা",
+     "claim_bn": "মহিষাসুর-কাহিনি প্রতিটি মানুষের ভেতরে দৈবী ও আসুরিক প্রবৃত্তির চিরন্তন সংগ্রাম, যা সাধনা, জ্ঞান ও প্রচেষ্টায় জয় করা যায়।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Communists",
      "claim": "Communists played a disgraceful role in India's freedom struggle. This is known only from the contents page, as the article itself is not in the digest.",
      "heading": "ভারতের স্বাধীনতা সংগ্রামে কমিউনিস্টদের ন্যাক্কারজনক ভূমিকা",
-     "page": 2
+     "page": 2,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "কমিউনিস্টরা",
+     "claim_bn": "ভারতের স্বাধীনতা সংগ্রামে কমিউনিস্টদের ভূমিকা ছিল লজ্জাজনক। এটি কেবল সূচিপত্র থেকে জানা যায়, কারণ প্রবন্ধটি নিজে ডাইজেস্টে নেই।"
     },
     {
      "theme": "Bangladesh & Hindu persecution",
      "target": "Muslim mobs / East Pakistan and Bangladesh",
      "claim": "A serialised story recounts Hindu families in East Bengal facing arson, temple desecration, forced conversion, abduction and rape, and fleeing to India after Partition and in 1971, with Hindus having no safe place there.",
      "heading": "বাঙ্গলার গ্রামে একটি দিন",
-     "page": 30
+     "page": 30,
+     "theme_bn": "বাংলাদেশ ও হিন্দু নির্যাতন",
+     "target_bn": "মুসলিম জনতা / পূর্ব পাকিস্তান ও বাংলাদেশ",
+     "claim_bn": "একটি ধারাবাহিক কাহিনীতে পূর্ববঙ্গের হিন্দু পরিবারগুলির অগ্নিসংযোগ, মন্দির অপবিত্রকরণ, জোরপূর্বক ধর্মান্তরণ, অপহরণ ও ধর্ষণের শিকার হওয়া এবং দেশভাগের পরে ও ১৯৭১ সালে ভারতে পালিয়ে আসার বিবরণ দেওয়া হয়েছে; সেখানে হিন্দুদের কোনও নিরাপদ আশ্রয় নেই বলে বলা হয়েছে।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "Hindu society",
      "claim": "Hindus of East Bengal understood after 1947 that they would have to leave, and the story presents their persecution as a continuous experience.",
      "heading": "বাঙ্গলার গ্রামে একটি দিন",
-     "page": 30
+     "page": 30,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "হিন্দু সমাজ",
+     "claim_bn": "১৯৪৭-এর পর পূর্ববঙ্গের হিন্দুরা বুঝেছিলেন যে তাঁদের চলে আসতে হবে, এবং কাহিনিটি তাঁদের নির্যাতনকে একটি অবিচ্ছিন্ন অভিজ্ঞতা হিসেবে উপস্থাপন করেছে।"
     },
     {
      "theme": "history & icons",
      "target": "Syama Prasad Mukherjee and Rabindranath Tagore",
      "claim": "Syama Prasad Mukherjee and Tagore are presented as complementary strands of thought, in the context of the university.",
      "heading": "রবীন্দ্রনাথ ও শ্যামাপ্রসাদ — বিশ্ববিদ্যালয়ের অঙ্গনে ভিন্ন ধারার অনুরণন",
-     "page": 2
+     "page": 2,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "শ্যামাপ্রসাদ মুখোপাধ্যায় ও রবীন্দ্রনাথ ঠাকুর",
+     "claim_bn": "বিশ্ববিদ্যালয়ের প্রেক্ষাপটে শ্যামাপ্রসাদ মুখোপাধ্যায় ও ঠাকুরকে পরস্পরের পরিপূরক চিন্তাধারা হিসেবে উপস্থাপন করা হয়েছে।"
     },
     {
      "theme": "culture/religion",
      "target": "Bengali Hindu cultural heritage",
      "claim": "Bengal's terracotta dolls and Durga's eight shaktis are presented as expressions of Hindu civilisation and the Shakti tradition.",
      "heading": "অসুরনাশিনীর অস্টশক্তি",
-     "page": 18
+     "page": 18,
+     "theme_bn": "সংস্কৃতি/ধর্ম",
+     "target_bn": "বাঙালি হিন্দু সাংস্কৃতিক ঐতিহ্য",
+     "claim_bn": "বাংলার টেরাকোটা পুতুল ও দুর্গার অষ্টশক্তিকে হিন্দু সভ্যতা ও শক্তি পরম্পরার প্রকাশ হিসেবে উপস্থাপন করা হয়েছে।"
     },
     {
      "theme": "other",
      "target": "Sangh",
      "claim": "The Sangh is presented as sadhana, a spiritual discipline, rather than merely an organisation.",
      "heading": "সঙ্ঘ মানে সাধনা",
-     "page": 2
+     "page": 2,
+     "theme_bn": "অন্যান্য",
+     "target_bn": "সঙ্ঘ",
+     "claim_bn": "সংঘকে নিছক একটি সংগঠন নয়, বরং সাধনা, অর্থাৎ আধ্যাত্মিক অনুশীলন হিসেবে উপস্থাপন করা হয়েছে।"
     }
-   ]
+   ],
+   "label_bn": "পূজা বিশেষ সংখ্যা",
+   "summary_bn": "এই দুর্গাপূজা বিশেষ সংখ্যা (৫ অক্টোবর ২০২৬, ৭৯তম বর্ষ, ৫ম সংখ্যা) মূলত ভক্তিমূলক, সাহিত্যিক ও সাংস্কৃতিক। এতে দেবী দুর্গা ও মহিষাসুরের পুরাণকে অন্তর্গত আধ্যাত্মিক সংগ্রাম হিসেবে দেখানো হয়েছে। 'ভারতমাতা' এবং বঙ্কিমের বন্দে মাতরমকে একটি দিব্য, সভ্যতাগত ধারণা হিসেবে উপস্থাপন করে জাতীয়তাবাদকে ধর্মের সঙ্গে যুক্ত করা হয়েছে। এছাড়া রয়েছে ভারতের স্বাধীনতা সংগ্রামে কমিউনিস্টদের ভূমিকাকে আক্রমণ করে লেখা একটি ঐতিহাসিক প্রবন্ধ, পূর্ববঙ্গের পটভূমিতে দেশভাগ-পর্বের হিন্দু-নিপীড়নের কথাসাহিত্য, এবং শ্যামাপ্রসাদ মুখোপাধ্যায়–রবীন্দ্রনাথ প্রসঙ্গ। সংকলনে সাংগঠনিক কার্যক্রমের প্রতিবেদন খুবই কম।"
   },
   {
    "issue": "puja2026",
@@ -1430,7 +1906,13 @@ window.HINDUTVA = {
      "where": "Kolkata, West Bengal",
      "when": "1969",
      "page": 220,
-     "detail": "Meeting attended by Guruji, where Keshab Chandra Chakraborty (Masterमशाई) was announced as Prant Sanghchalak of West Bengal, completing the Prant executive. Recalled in Adhya's memoir."
+     "detail": "Meeting attended by Guruji, where Keshab Chandra Chakraborty (Masterमशाई) was announced as Prant Sanghchalak of West Bengal, completing the Prant executive. Recalled in Adhya's memoir.",
+     "title_bn": "পাথুরিয়াঘাটা ধর্মশালায় প্রচারক ও কার্যকর্তাদের প্রান্তস্তরের বৈঠক",
+     "org_bn": "আরএসএস",
+     "type_bn": "সম্মেলন",
+     "where_bn": "কলকাতা, পশ্চিমবঙ্গ",
+     "when_bn": "1969",
+     "detail_bn": "গুরুজির উপস্থিতিতে বৈঠকে কেশবচন্দ্র চক্রবর্তীকে (মাস্টারমশাই) পশ্চিমবঙ্গের প্রান্ত সঙ্ঘচালক ঘোষণা করা হয়, যার মাধ্যমে প্রান্ত কার্যকর্তা দল সম্পূর্ণ হয়। অধ্যের স্মৃতিকথায় এর উল্লেখ রয়েছে।"
     },
     {
      "title": "RSS Sangh Shiksha Varga at Itachuna",
@@ -1439,7 +1921,13 @@ window.HINDUTVA = {
      "where": "Itachuna, West Bengal",
      "when": "1968",
      "page": 219,
-     "detail": "Training camp at which Guruji was present and the author handled the Adhikari division. Recalled in Adhya's memoir."
+     "detail": "Training camp at which Guruji was present and the author handled the Adhikari division. Recalled in Adhya's memoir.",
+     "title_bn": "ইটাচুনায় আরএসএস সংঘ শিক্ষা বর্গ",
+     "org_bn": "আরএসএস",
+     "type_bn": "শাখা/প্রশিক্ষণ শিবির",
+     "where_bn": "ইটাচুনা, পশ্চিমবঙ্গ",
+     "when_bn": "1968",
+     "detail_bn": "প্রশিক্ষণ শিবির, যেখানে গুরুজি উপস্থিত ছিলেন এবং লেখক অধিকারী বিভাগের দায়িত্বে ছিলেন। অধ্যের স্মৃতিকথায় স্মরণ করা হয়েছে।"
     },
     {
      "title": "Pracharaks' meeting at Central Avenue with Guruji",
@@ -1448,7 +1936,13 @@ window.HINDUTVA = {
      "where": "Kolkata, West Bengal",
      "when": "1968-69",
      "page": 219,
-     "detail": "Meeting of West Bengal pracharaks at Ghanshyam Beriwalji's house. Guruji was present, already diagnosed with cancer."
+     "detail": "Meeting of West Bengal pracharaks at Ghanshyam Beriwalji's house. Guruji was present, already diagnosed with cancer.",
+     "title_bn": "সেন্ট্রাল অ্যাভিনিউয়ে গুরুজির সঙ্গে প্রচারকদের বৈঠক",
+     "org_bn": "আরএসএস",
+     "type_bn": "সম্মেলন",
+     "where_bn": "কলকাতা, পশ্চিমবঙ্গ",
+     "when_bn": "1968-69",
+     "detail_bn": "ঘনশ্যাম বেরিওয়ালজির বাড়িতে পশ্চিমবঙ্গের প্রচারকদের বৈঠক। গুরুজি উপস্থিত ছিলেন, তখনই তাঁর ক্যানসার ধরা পড়েছিল।"
     },
     {
      "title": "Swami Vivekananda birth centenary programme at Raja Subodh Mullick Square",
@@ -1457,7 +1951,13 @@ window.HINDUTVA = {
      "where": "Kolkata, West Bengal",
      "when": "17 January 1963",
      "page": 219,
-     "detail": "Programme where the author first saw Guruji. Kalidas Basu conducted it, and Madhavanandaji Maharaj of the Ramakrishna Math presided."
+     "detail": "Programme where the author first saw Guruji. Kalidas Basu conducted it, and Madhavanandaji Maharaj of the Ramakrishna Math presided.",
+     "title_bn": "রাজা সুবোধ মল্লিক স্কোয়ারে স্বামী বিবেকানন্দের জন্মশতবার্ষিকী অনুষ্ঠান",
+     "org_bn": "আরএসএস",
+     "type_bn": "শতবর্ষ",
+     "where_bn": "কলকাতা, পশ্চিমবঙ্গ",
+     "when_bn": "১৭ জানুয়ারি ১৯৬৩",
+     "detail_bn": "যে অনুষ্ঠানে লেখক প্রথম গুরুজিকে দেখেছিলেন। অনুষ্ঠানটি পরিচালনা করেন কালিদাস বসু এবং সভাপতিত্ব করেন রামকৃষ্ণ মঠের মাধবানন্দজি মহারাজ।"
     },
     {
      "title": "Kalyani Shibir (state Sangh camp)",
@@ -1466,7 +1966,13 @@ window.HINDUTVA = {
      "where": "Kalyani, West Bengal",
      "when": "24-26 January 1992",
      "page": 224,
-     "detail": "The paper says 18,000 swayamsevaks in full uniform attended. It presents the camp as the peak of large Sangh camps in West Bengal and the start of the state swayamsevaks' self-confidence."
+     "detail": "The paper says 18,000 swayamsevaks in full uniform attended. It presents the camp as the peak of large Sangh camps in West Bengal and the start of the state swayamsevaks' self-confidence.",
+     "title_bn": "কল্যাণী শিবির (রাজ্য সংঘ শিবির)",
+     "org_bn": "আরএসএস",
+     "type_bn": "শাখা/প্রশিক্ষণ শিবির",
+     "where_bn": "কল্যাণী, পশ্চিমবঙ্গ",
+     "when_bn": "২৪–২৬ জানুয়ারি ১৯৯২",
+     "detail_bn": "পত্রিকা জানিয়েছে, পূর্ণ গণবেশে ১৮,০০০ স্বয়ংসেবক উপস্থিত ছিলেন। শিবিরটিকে পশ্চিমবঙ্গে সঙ্ঘের বড় শিবিরগুলির শীর্ষবিন্দু এবং রাজ্যের স্বয়ংসেবকদের আত্মবিশ্বাসের সূচনা হিসেবে তুলে ধরা হয়েছে।"
     },
     {
      "title": "Series of Sangh camps at Berhampore",
@@ -1475,7 +1981,13 @@ window.HINDUTVA = {
      "where": "Berhampore, Murshidabad, West Bengal",
      "when": "1980s",
      "page": 223,
-     "detail": "Several camps were held in the 1980s. The author says concern about infiltration was raised there, and Sangh workers were told to tackle it."
+     "detail": "Several camps were held in the 1980s. The author says concern about infiltration was raised there, and Sangh workers were told to tackle it.",
+     "title_bn": "বহরমপুরে সঙ্ঘ শিবিরের ধারাবাহিক আয়োজন",
+     "org_bn": "আরএসএস",
+     "type_bn": "শাখা/প্রশিক্ষণ শিবির",
+     "where_bn": "বহরমপুর, মুর্শিদাবাদ, পশ্চিমবঙ্গ",
+     "when_bn": "১৯৮০-র দশক",
+     "detail_bn": "১৯৮০-র দশকে বেশ কয়েকটি শিবির হয়েছিল। লেখকের বক্তব্য, সেখানে অনুপ্রবেশ নিয়ে উদ্বেগ তোলা হয় এবং সঙ্ঘের কর্মীদের তা মোকাবিলা করতে বলা হয়।"
     },
     {
      "title": "Sangh Shiksha Varga at Burdwan (Dindayal Upadhyay attended)",
@@ -1484,7 +1996,13 @@ window.HINDUTVA = {
      "where": "Burdwan, West Bengal",
      "when": "1965",
      "page": 223,
-     "detail": "Second-year training camp attended by the author. Dindayal Upadhyay spoke to college students and stressed reverence for undivided India's pilgrimage sites, including Dhakeshwari and Jessore."
+     "detail": "Second-year training camp attended by the author. Dindayal Upadhyay spoke to college students and stressed reverence for undivided India's pilgrimage sites, including Dhakeshwari and Jessore.",
+     "title_bn": "বর্ধমানে সঙ্ঘ শিক্ষা বর্গ (দীনদয়াল উপাধ্যায় উপস্থিত ছিলেন)",
+     "org_bn": "আরএসএস",
+     "type_bn": "শাখা/প্রশিক্ষণ শিবির",
+     "where_bn": "বর্ধমান, পশ্চিমবঙ্গ",
+     "when_bn": "1965",
+     "detail_bn": "লেখকের অংশগ্রহণ করা দ্বিতীয় বর্ষের প্রশিক্ষণ শিবির। দীনদয়াল উপাধ্যায় কলেজপড়ুয়াদের উদ্দেশে বক্তব্য রাখেন এবং ঢাকেশ্বরী ও যশোর-সহ অবিভক্ত ভারতের তীর্থস্থানগুলির প্রতি শ্রদ্ধা রাখার ওপর জোর দেন।"
     },
     {
      "title": "Guruji's address at Gaja Park, South Kolkata",
@@ -1493,7 +2011,13 @@ window.HINDUTVA = {
      "where": "Kolkata, West Bengal",
      "when": "March 1973",
      "page": 223,
-     "detail": "Guruji's last visit to West Bengal. The speech was published as the booklet 'Ekatmatar Ahwan'."
+     "detail": "Guruji's last visit to West Bengal. The speech was published as the booklet 'Ekatmatar Ahwan'.",
+     "title_bn": "দক্ষিণ কলকাতার গজা পার্কে গুরুজির ভাষণ",
+     "org_bn": "আরএসএস",
+     "type_bn": "মিছিল/শোভাযাত্রা",
+     "where_bn": "কলকাতা, পশ্চিমবঙ্গ",
+     "when_bn": "১৯৭৩ সালের মার্চ",
+     "detail_bn": "গুরুজির পশ্চিমবঙ্গে শেষ সফর। বক্তৃতাটি 'একাত্মতার আহ্বান' পুস্তিকা হিসেবে প্রকাশিত হয়।"
     },
     {
      "title": "Shivaji Maharaj commemorative meeting in Mumbai with Sangh volunteers on the committee",
@@ -1502,7 +2026,13 @@ window.HINDUTVA = {
      "where": "Mumbai, Maharashtra",
      "when": "1973-74",
      "page": 221,
-     "detail": "Public meeting in which the presiding guest realised that Sangh swayamsevaks were on the organising committee. Told as an anecdote about Sangh discipline."
+     "detail": "Public meeting in which the presiding guest realised that Sangh swayamsevaks were on the organising committee. Told as an anecdote about Sangh discipline.",
+     "title_bn": "মুম্বইয়ে শিবাজি মহারাজের স্মরণসভা, কমিটিতে সঙ্ঘের স্বয়ংসেবকরা ছিলেন",
+     "org_bn": "আরএসএস",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "মুম্বই, মহারাষ্ট্র",
+     "when_bn": "1973-74",
+     "detail_bn": "জনসভায় সভাপতিত্বকারী অতিথি বুঝতে পারেন যে সংঘের স্বয়ংসেবকরা আয়োজক কমিটিতে রয়েছেন। সংঘের শৃঙ্খলা নিয়ে একটি উপাখ্যান হিসেবে বর্ণিত।"
     },
     {
      "title": "Third Year Sangh Shiksha Varga, Nagpur",
@@ -1511,7 +2041,13 @@ window.HINDUTVA = {
      "where": "Nagpur, Maharashtra",
      "when": "1969",
      "page": 220,
-     "detail": "Camp where Appaji Joshi gave a bauddhik (talk), as recalled by the author."
+     "detail": "Camp where Appaji Joshi gave a bauddhik (talk), as recalled by the author.",
+     "title_bn": "তৃতীয় বর্ষ সঙ্ঘ শিক্ষা বর্গ, নাগপুর",
+     "org_bn": "আরএসএস",
+     "type_bn": "শাখা/প্রশিক্ষণ শিবির",
+     "where_bn": "নাগপুর, মহারাষ্ট্র",
+     "when_bn": "1969",
+     "detail_bn": "যে শিবিরে অপ্পাজি জোশী বৌদ্ধিক দিয়েছিলেন, লেখকের স্মৃতিচারণ অনুযায়ী।"
     },
     {
      "title": "Durga Puja special issue (Puja Sankhya)",
@@ -1520,7 +2056,13 @@ window.HINDUTVA = {
      "where": "Kolkata, West Bengal",
      "when": "5 October 2026",
      "page": 2,
-     "detail": "The 79th-year Puja special issue, priced at Rs 70. It carries devotional, cultural and political pieces."
+     "detail": "The 79th-year Puja special issue, priced at Rs 70. It carries devotional, cultural and political pieces.",
+     "title_bn": "দুর্গাপূজা বিশেষ সংখ্যা (পূজা সংখ্যা)",
+     "org_bn": "অন্যান্য: স্বস্তিকা",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "কলকাতা, পশ্চিমবঙ্গ",
+     "when_bn": "৫ অক্টোবর ২০২৬",
+     "detail_bn": "৭৯তম বর্ষের পূজা সংখ্যা, মূল্য ৭০ টাকা। এতে ভক্তিমূলক, সাংস্কৃতিক ও রাজনৈতিক লেখা রয়েছে।"
     }
    ],
    "narratives": [
@@ -1529,72 +2071,104 @@ window.HINDUTVA = {
      "target": "RSS/BJP praised; TMC-era order implied as past",
      "claim": "The Sangh's work, from opposing the Emergency to the Ram temple and Article 370, has now led to a Hindutva-oriented government in West Bengal, and Bande Mataram is again sung in full in the state.",
      "heading": "সঙ্ঘ মানে সাধনা",
-     "page": 122
+     "page": 122,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "আরএসএস/বিজেপির প্রশংসা; তৃণমূল আমলের ব্যবস্থাকে অতীত বলে ইঙ্গিত",
+     "claim_bn": "জরুরি অবস্থার বিরোধিতা থেকে রামমন্দির ও ৩৭০ ধারা পর্যন্ত সংঘের কাজ এখন পশ্চিমবঙ্গে হিন্দুত্বমুখী সরকার গঠনের পথে নিয়ে এসেছে, এবং রাজ্যে আবার পূর্ণাঙ্গ বন্দে মাতরম গাওয়া হচ্ছে।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "Hindu society",
      "claim": "The Sangh's aim is to organise all of Hindu society. It calls Hindutva a cultural and spiritual nationhood, and the Sangh has now been accepted after years of neglect, ridicule and opposition.",
      "heading": "সঙ্ঘ মানে সাধনা",
-     "page": 122
+     "page": 122,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "হিন্দু সমাজ",
+     "claim_bn": "সংঘের লক্ষ্য সমগ্র হিন্দু সমাজকে সংগঠিত করা। সংঘ হিন্দুত্বকে সাংস্কৃতিক ও আধ্যাত্মিক জাতিসত্তা বলে অভিহিত করে, এবং বছরের পর বছর অবহেলা, উপহাস ও বিরোধিতার পর এখন সংঘ গৃহীত হয়েছে।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Communists / CPI",
      "claim": "The Communists played a shameful role in India's freedom struggle. They were created at Tashkent under the Comintern, took orders from abroad, and opposed Netaji and the Quit India movement.",
      "heading": "ভারতের স্বাধীনতা সংগ্রামে কমিউনিস্টদের ন্যাক্কারজনক ভূমিকা",
-     "page": 179
+     "page": 179,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "কমিউনিস্ট / সিপিআই",
+     "claim_bn": "ভারতের স্বাধীনতা সংগ্রামে কমিউনিস্টদের ভূমিকা ছিল লজ্জাজনক। তারা তাসখন্দে কমিন্টার্নের অধীনে তৈরি হয়েছিল, বিদেশ থেকে নির্দেশ নিত এবং নেতাজি ও ভারত ছাড়ো আন্দোলনের বিরোধিতা করেছিল।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "Mamata Banerjee / TMC government",
      "claim": "The 'Raat Dakhal' (Reclaim the Night) protests followed a rape-murder. The poem and article accuse the ruling party of shielding the guilty, erasing the killers' identity and covering up crimes, and say Mamata took credit for the Nandigram movement.",
      "heading": "দ্রোহকাল (২০২৩-২০২৬)",
-     "page": 205
+     "page": 205,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "মমতা বন্দ্যোপাধ্যায় / তৃণমূল সরকার",
+     "claim_bn": "ধর্ষণ-খুনের ঘটনার পর 'রাত দখল' বিক্ষোভ শুরু হয়। কবিতা ও প্রবন্ধে অভিযোগ করা হয়েছে যে শাসক দল দোষীদের আড়াল করছে, খুনিদের পরিচয় মুছে দিচ্ছে ও অপরাধ ধামাচাপা দিচ্ছে; আরও বলা হয়েছে, নন্দীগ্রাম আন্দোলনের কৃতিত্ব মমতা নিজের নামে নিয়েছেন।"
     },
     {
      "theme": "Bangladesh & Hindu persecution",
      "target": "Bangladeshi Islamist groups and rioters; state complicity",
      "claim": "The Dashpara serial shows a Hindu village attacked by a mob while local officials downplay it, and the paper uses this to depict the insecurity of Hindus in Bangladesh.",
      "heading": "দাশপাড়ার এক সাবিত্রী",
-     "page": 110
+     "page": 110,
+     "theme_bn": "বাংলাদেশ ও হিন্দু নির্যাতন",
+     "target_bn": "বাংলাদেশের ইসলামপন্থী গোষ্ঠী ও দাঙ্গাকারীরা; রাষ্ট্রের যোগসাজশ",
+     "claim_bn": "'দাশপাড়া' ধারাবাহিকে দেখানো হয়েছে এক হিন্দু গ্রাম জনতার হামলার শিকার হচ্ছে, অথচ স্থানীয় আধিকারিকেরা ঘটনাকে লঘু করে দেখাচ্ছেন; পত্রিকা এর মাধ্যমে বাংলাদেশে হিন্দুদের নিরাপত্তাহীনতার চিত্র তুলে ধরেছে।"
     },
     {
      "theme": "Bangladesh & Hindu persecution",
      "target": "Jamaat and Islamic fundamentalists",
      "claim": "The serial 'Swaha' shows Jamaat jihadi forces attacking Chakma Buddhist families in the Chittagong Hill Tracts. It presents Hindu and Buddhist resistance as justified.",
      "heading": "স্বাহা",
-     "page": 123
+     "page": 123,
+     "theme_bn": "বাংলাদেশ ও হিন্দু নির্যাতন",
+     "target_bn": "জামাত ও ইসলামি মৌলবাদীরা",
+     "claim_bn": "'স্বাহা' ধারাবাহিকে চট্টগ্রামের পার্বত্য অঞ্চলে জামাতি জিহাদি শক্তির চাকমা বৌদ্ধ পরিবারগুলির উপর আক্রমণ দেখানো হয়েছে। এতে হিন্দু ও বৌদ্ধদের প্রতিরোধকে ন্যায়সঙ্গত হিসেবে উপস্থাপন করা হয়েছে।"
     },
     {
      "theme": "Bangladesh & Hindu persecution",
      "target": "Muslims in East Pakistan/Bangladesh",
      "claim": "The story set in East Bengal says Hindus there faced decades of arson, temple desecration, forced conversion and rape, which made leaving the country unavoidable.",
      "heading": "বাঙ্গলার গ্রামে একটি দিন",
-     "page": 30
+     "page": 30,
+     "theme_bn": "বাংলাদেশ ও হিন্দু নির্যাতন",
+     "target_bn": "পূর্ব পাকিস্তান/বাংলাদেশের মুসলমান",
+     "claim_bn": "পূর্ববঙ্গের পটভূমিতে লেখা গল্পে বলা হয়েছে, সেখানকার হিন্দুরা কয়েক দশক ধরে অগ্নিসংযোগ, মন্দির অপবিত্রকরণ, জোরপূর্বক ধর্মান্তরণ ও ধর্ষণের শিকার হয়েছেন, যার ফলে দেশত্যাগ অনিবার্য হয়ে ওঠে।"
     },
     {
      "theme": "infiltration/demography",
      "target": "Muslim population in Assam and West Bengal",
      "claim": "Assam CM Himanta Biswa Sarma is quoted on stopping Assam from becoming Muslim-majority. The article says infiltration concerns date back to the Sangh camps of the 1980s.",
      "heading": "(Himanta Biswa Sarma article; heading not captured by OCR)",
-     "page": 118
+     "page": 118,
+     "theme_bn": "অনুপ্রবেশ/জনবিন্যাস",
+     "target_bn": "অসম ও পশ্চিমবঙ্গে মুসলিম জনসংখ্যা",
+     "claim_bn": "অসমের মুখ্যমন্ত্রী হিমন্ত বিশ্বশর্মার বক্তব্য উদ্ধৃত করা হয়েছে, অসমকে মুসলিম-সংখ্যাগরিষ্ঠ হওয়া থেকে রক্ষা করা প্রসঙ্গে। প্রবন্ধে বলা হয়েছে, অনুপ্রবেশ নিয়ে উদ্বেগ ১৯৮০-র দশকের সঙ্ঘ শিবির থেকেই চলে আসছে।"
     },
     {
      "theme": "history & icons",
      "target": "Netaji, Guruji, Dindayal Upadhyay; Communists",
      "claim": "Sangh leaders are presented as models of humility and sacrifice, with a call for 'Akhand Bharat' chetana and for reverence for pilgrimage sites now in Bangladesh.",
      "heading": "সঙ্ঘ মানে সাধনা",
-     "page": 122
+     "page": 122,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "নেতাজি, গুরুজি, দীনদয়াল উপাধ্যায়; কমিউনিস্টরা",
+     "claim_bn": "সঙ্ঘের নেতাদের বিনয় ও ত্যাগের আদর্শ হিসেবে তুলে ধরা হয়েছে, পাশাপাশি 'অখণ্ড ভারত' চেতনা এবং বর্তমানে বাংলাদেশে অবস্থিত তীর্থস্থানগুলির প্রতি শ্রদ্ধা জানানোর আহ্বান রয়েছে।"
     },
     {
      "theme": "culture/religion",
      "target": "Bharat Mata / Bande Mataram",
      "claim": "Bankim's Bande Mataram is a sacred expression of devotion to the motherland as the goddess. Bharat Mata is shown as embodying shakti, knowledge and moksha.",
      "heading": "ভারতাত্মা থেকে ভারতমাতা",
-     "page": 6
+     "page": 6,
+     "theme_bn": "সংস্কৃতি/ধর্ম",
+     "target_bn": "ভারত মাতা / বন্দে মাতরম",
+     "claim_bn": "বঙ্কিমের বন্দে মাতরম মাতৃভূমিকে দেবীরূপে ভক্তি নিবেদনের এক পবিত্র প্রকাশ। ভারত মাতাকে শক্তি, জ্ঞান ও মোক্ষের মূর্ত রূপ হিসেবে দেখানো হয়েছে।"
     }
-   ]
+   ],
+   "label_bn": "পূজা বিশেষ সংখ্যা",
+   "summary_bn": "দুর্গাপূজা বিশেষ সংখ্যায় (৫ অক্টোবর ২০২৬, ৭৯তম বর্ষ) ভক্তিমূলক ও সাংস্কৃতিক বিষয়বস্তুর সঙ্গে সঙ্ঘের বার্তা মিশে আছে। এতে ভারতমাতা ও বন্দে মাতরমকে পবিত্র হিসেবে উপস্থাপন করা হয়েছে, বাংলাদেশে হিন্দু ও বৌদ্ধদের উপর নির্যাতন নিয়ে ধারাবাহিক গল্প প্রকাশিত হয়েছে, এবং স্বাধীনতা সংগ্রামে কমিউনিস্টদের ভূমিকার সমালোচনা করে একটি লেখা ছাপা হয়েছে। পশ্চিমবঙ্গ সরকার ও তৃণমূলের বিরুদ্ধে 'রাত দখল' আন্দোলন নিয়ে একটি প্রতিবেদনও রয়েছে। সঙ্ঘের ইতিহাস নিয়ে বিজয় আঢ্যের নিবন্ধে বলা হয়েছে, পশ্চিমবঙ্গে সম্প্রতি হিন্দুত্ববাদী ভাবধারার একটি সরকার গঠিত হয়েছে এবং এর কৃতিত্ব সঙ্ঘকে দেওয়া হয়েছে।"
   },
   {
    "issue": "20260921",
@@ -1610,7 +2184,13 @@ window.HINDUTVA = {
      "where": "8B bus stand, Jadavpur, South Kolkata",
      "when": "28 August (Rakhi Purnima)",
      "page": 47,
-     "detail": "Rakhi tying and about 10,000 people singing the national song Vande Mataram and the national anthem together, with central paramilitary forces deployed near Jadavpur University. The CM led the event and gave a stern warning to 'anti-national' elements on campus."
+     "detail": "Rakhi tying and about 10,000 people singing the national song Vande Mataram and the national anthem together, with central paramilitary forces deployed near Jadavpur University. The CM led the event and gave a stern warning to 'anti-national' elements on campus.",
+     "title_bn": "রাখি বন্ধন ও 'দশ হাজার কণ্ঠে বন্দে মাতরম' মহা অনুষ্ঠান",
+     "org_bn": "অন্যান্য: সংক্ষিপ্ত বিবরণে নাম নেই (জাতীয়তাবাদী আয়োজকরা, নেতৃত্বে মুখ্যমন্ত্রী শুভেন্দু অধিকারী)",
+     "type_bn": "মিছিল/শোভাযাত্রা",
+     "where_bn": "৮বি বাস স্ট্যান্ড, যাদবপুর, দক্ষিণ কলকাতা",
+     "when_bn": "২৮ আগস্ট (রাখি পূর্ণিমা)",
+     "detail_bn": "রাখি বন্ধন এবং প্রায় ১০,০০০ মানুষের একসঙ্গে জাতীয় গান বন্দে মাতরম ও জাতীয় সংগীত গাওয়া; যাদবপুর বিশ্ববিদ্যালয়ের কাছে কেন্দ্রীয় আধাসামরিক বাহিনী মোতায়েন করা হয়েছিল। মুখ্যমন্ত্রী অনুষ্ঠানের নেতৃত্ব দেন এবং ক্যাম্পাসে 'দেশবিরোধী' শক্তিগুলিকে কড়া হুঁশিয়ারি দেন।"
     },
     {
      "title": "Geru'a Samman Yatra (Saffron Honour March)",
@@ -1619,7 +2199,13 @@ window.HINDUTVA = {
      "where": "Golpark to Jadavpur University, Kolkata",
      "when": "9 September",
      "page": 48,
-     "detail": "A march and public meeting led by the CM, attended by Swami Pradiptananda and other sadhus. The CM defended the saffron flag as a symbol of Sanatan culture and announced a planned three-day Gita recitation and Hanuman Chalisa recitation at Jadavpur."
+     "detail": "A march and public meeting led by the CM, attended by Swami Pradiptananda and other sadhus. The CM defended the saffron flag as a symbol of Sanatan culture and announced a planned three-day Gita recitation and Hanuman Chalisa recitation at Jadavpur.",
+     "title_bn": "গেরুয়া সম্মান যাত্রা",
+     "org_bn": "অন্যান্য: সংক্ষিপ্ত বিবরণে নাম নেই (মুখ্যমন্ত্রী শুভেন্দু অধিকারীর সঙ্গে সাধু-সন্তরা)",
+     "type_bn": "মিছিল/শোভাযাত্রা",
+     "where_bn": "গলফ পার্ক থেকে যাদবপুর বিশ্ববিদ্যালয়, কলকাতা",
+     "when_bn": "৯ সেপ্টেম্বর",
+     "detail_bn": "মুখ্যমন্ত্রীর নেতৃত্বে একটি পদযাত্রা ও জনসভা, যেখানে স্বামী প্রদীপ্তানন্দ ও অন্যান্য সাধুরা উপস্থিত ছিলেন। মুখ্যমন্ত্রী গেরুয়া পতাকাকে সনাতন সংস্কৃতির প্রতীক হিসেবে সমর্থন করেছেন এবং যাদবপুরে তিন দিনব্যাপী গীতা পাঠ ও হনুমান চালিশা পাঠের পরিকল্পনা ঘোষণা করেছেন।"
     },
     {
      "title": "Planned three-day Gita recitation and Hanuman Chalisa recital at Jadavpur University",
@@ -1628,7 +2214,13 @@ window.HINDUTVA = {
      "where": "Jadavpur, Kolkata",
      "when": "announced for the future",
      "page": 48,
-     "detail": "The CM announced a three-day Gita recitation and Hanuman Chalisa recital at Jadavpur as a spiritual and nationalist answer to 'anti-national' mindsets, and said he would attend."
+     "detail": "The CM announced a three-day Gita recitation and Hanuman Chalisa recital at Jadavpur as a spiritual and nationalist answer to 'anti-national' mindsets, and said he would attend.",
+     "title_bn": "যাদবপুর বিশ্ববিদ্যালয়ে তিন দিনের গীতাপাঠ ও হনুমান চালিসা পাঠের পরিকল্পনা",
+     "org_bn": "অন্যান্য: সংক্ষিপ্ত বিবরণে নাম নেই (রাজ্য সরকার/মুখ্যমন্ত্রী ঘোষণা করেছেন)",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "যাদবপুর, কলকাতা",
+     "when_bn": "ভবিষ্যতের জন্য ঘোষিত",
+     "detail_bn": "মুখ্যমন্ত্রী 'দেশবিরোধী' মানসিকতার আধ্যাত্মিক ও জাতীয়তাবাদী জবাব হিসেবে যাদবপুরে তিন দিনের গীতাপাঠ ও হনুমান চালিসা পাঠের ঘোষণা করেছেন এবং বলেছেন তিনি তাতে উপস্থিত থাকবেন।"
     },
     {
      "title": "Compulsory full Vande Mataram in all schools and madrasas (150th year of its composition)",
@@ -1637,7 +2229,13 @@ window.HINDUTVA = {
      "where": "West Bengal",
      "when": "150th year of Vande Mataram",
      "page": 23,
-     "detail": "The state government made singing the full Vande Mataram compulsory in all schools and madrasas. The article presents this as a reversal of earlier refusals."
+     "detail": "The state government made singing the full Vande Mataram compulsory in all schools and madrasas. The article presents this as a reversal of earlier refusals.",
+     "title_bn": "সব স্কুল ও মাদ্রাসায় সম্পূর্ণ বন্দে মাতরম বাধ্যতামূলক (রচনার ১৫০তম বর্ষ)",
+     "org_bn": "অন্যান্য: পশ্চিমবঙ্গ রাজ্য সরকার",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "পশ্চিমবঙ্গ",
+     "when_bn": "বন্দে মাতরমের ১৫০তম বর্ষ",
+     "detail_bn": "রাজ্য সরকার সমস্ত স্কুল ও মাদ্রাসায় সম্পূর্ণ বন্দে মাতরম্ গাওয়া বাধ্যতামূলক করেছে। প্রবন্ধে এটিকে আগেকার প্রত্যাখ্যানের উল্টোদিকে মোড় হিসেবে তুলে ধরা হয়েছে।"
     },
     {
      "title": "Government committee to rename roads and places after the state's great figures",
@@ -1646,7 +2244,13 @@ window.HINDUTVA = {
      "where": "West Bengal / Kolkata",
      "when": "",
      "page": 23,
-     "detail": "A committee chaired by Swami Pradiptananda of Bharat Sevashram Sangha was set up to rename roads and places. The Suhrawardy road name was removed and a road named for Gopal Chandra Mukhopadhyay."
+     "detail": "A committee chaired by Swami Pradiptananda of Bharat Sevashram Sangha was set up to rename roads and places. The Suhrawardy road name was removed and a road named for Gopal Chandra Mukhopadhyay.",
+     "title_bn": "রাজ্যের মহান ব্যক্তিত্বদের নামে রাস্তা ও স্থানের নাম পরিবর্তনের জন্য সরকারি কমিটি",
+     "org_bn": "অন্যান্য: পশ্চিমবঙ্গ রাজ্য সরকার (ভারত সেবাশ্রম সঙ্ঘের স্বামী প্রদীপ্তানন্দের সভাপতিত্বে গঠিত কমিটি)",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "পশ্চিমবঙ্গ / কলকাতা",
+     "when_bn": "",
+     "detail_bn": "রাস্তা ও স্থানের নাম পরিবর্তনের জন্য ভারত সেবাশ্রম সঙ্ঘের স্বামী প্রদীপ্তানন্দের সভাপতিত্বে একটি কমিটি গঠন করা হয়েছে। সোহরাবর্দি রোডের নাম বাদ দেওয়া হয়েছে এবং গোপালচন্দ্র মুখোপাধ্যায়ের নামে একটি রাস্তার নামকরণ হয়েছে।"
     },
     {
      "title": "Committee on history and school curriculum with Ramakrishna Mission monks",
@@ -1655,7 +2259,13 @@ window.HINDUTVA = {
      "where": "West Bengal",
      "when": "",
      "page": 23,
-     "detail": "A committee including Ramakrishna Mission monks (Swami Atmapriyananda and others) and an IIM Calcutta professor. Schools are to teach the biography of Dr Syama Prasad Mukherjee and other icons."
+     "detail": "A committee including Ramakrishna Mission monks (Swami Atmapriyananda and others) and an IIM Calcutta professor. Schools are to teach the biography of Dr Syama Prasad Mukherjee and other icons.",
+     "title_bn": "রামকৃষ্ণ মিশনের সন্ন্যাসীদের নিয়ে ইতিহাস ও স্কুল পাঠ্যক্রম বিষয়ক কমিটি",
+     "org_bn": "অন্যান্য: পশ্চিমবঙ্গ রাজ্য সরকার",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "পশ্চিমবঙ্গ",
+     "when_bn": "",
+     "detail_bn": "রামকৃষ্ণ মিশনের সন্ন্যাসীরা (স্বামী আত্মপ্রিয়ানন্দ ও অন্যরা) এবং আইআইএম কলকাতার একজন অধ্যাপককে নিয়ে একটি কমিটি। স্কুলগুলিতে ডঃ শ্যামাপ্রসাদ মুখোপাধ্যায় ও অন্যান্য মনীষীর জীবনী পড়ানো হবে।"
     },
     {
      "title": "ISKCON to run mid-day meal programme in schools",
@@ -1664,7 +2274,13 @@ window.HINDUTVA = {
      "where": "West Bengal",
      "when": "",
      "page": 23,
-     "detail": "The state government handed responsibility for mid-day meals to ISKCON, presented as a corrective to Trinamool misappropriation."
+     "detail": "The state government handed responsibility for mid-day meals to ISKCON, presented as a corrective to Trinamool misappropriation.",
+     "title_bn": "ইসকন স্কুলগুলিতে মিড-ডে মিল কর্মসূচি চালাবে",
+     "org_bn": "অন্যান্য: ইসকন (রাজ্য সরকারের দায়িত্ব)",
+     "type_bn": "সেবা/ত্রাণ",
+     "where_bn": "পশ্চিমবঙ্গ",
+     "when_bn": "",
+     "detail_bn": "রাজ্য সরকার মিড-ডে মিলের দায়িত্ব ইসকনের হাতে তুলে দিয়েছে, যাকে তৃণমূলের অর্থ আত্মসাতের সংশোধন হিসেবে তুলে ধরা হয়েছে।"
     },
     {
      "title": "Special Assembly session on the universities and colleges administration bill",
@@ -1673,7 +2289,13 @@ window.HINDUTVA = {
      "where": "Kolkata",
      "when": "7 and 10 September",
      "page": 48,
-     "detail": "The cabinet passed the West Bengal Universities and Colleges (Administration and Regulation) Amendment Bill, 2026 on 7 September, and it was tabled in the special Assembly session on 10 September. A decision was also taken to bring Aliah University under the higher education department."
+     "detail": "The cabinet passed the West Bengal Universities and Colleges (Administration and Regulation) Amendment Bill, 2026 on 7 September, and it was tabled in the special Assembly session on 10 September. A decision was also taken to bring Aliah University under the higher education department.",
+     "title_bn": "বিশ্ববিদ্যালয় ও মহাবিদ্যালয় প্রশাসন বিল নিয়ে বিধানসভার বিশেষ অধিবেশন",
+     "org_bn": "অন্যান্য: পশ্চিমবঙ্গ রাজ্য সরকার",
+     "type_bn": "অন্যান্য",
+     "where_bn": "কলকাতা",
+     "when_bn": "৭ ও ১০ সেপ্টেম্বর",
+     "detail_bn": "মন্ত্রিসভা ৭ সেপ্টেম্বর পশ্চিমবঙ্গ বিশ্ববিদ্যালয় ও মহাবিদ্যালয় (প্রশাসন ও নিয়ন্ত্রণ) সংশোধনী বিল, ২০২৬ পাস করে এবং ১০ সেপ্টেম্বর বিশেষ বিধানসভা অধিবেশনে তা পেশ করা হয়। আলিয়া বিশ্ববিদ্যালয়কে উচ্চশিক্ষা দপ্তরের অধীনে আনার সিদ্ধান্তও নেওয়া হয়েছে।"
     }
    ],
    "narratives": [
@@ -1682,72 +2304,104 @@ window.HINDUTVA = {
      "target": "BJP / Hindu voters (praised); Left and TMC (blamed)",
      "claim": "The BJP's 2026 win is a 'new sunrise', driven by Hindus' intense desire for victory and ending 34 years of Left rule and 15 years of TMC misrule.",
      "heading": "দ্বিতীয় বন্দে মাতরম্‌ যুগের ১০০ দিন (সম্পাদকীয়)",
-     "page": 6
+     "page": 6,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "বিজেপি / হিন্দু ভোটাররা (প্রশংসিত); বামপন্থী ও তৃণমূল (দায়ী)",
+     "claim_bn": "বিজেপির ২০২৬-এর জয় এক 'নতুন সূর্যোদয়', যা হিন্দুদের জয়ের তীব্র আকাঙ্ক্ষায় চালিত এবং যা বামপন্থীদের ৩৪ বছর ও তৃণমূলের ১৫ বছরের অপশাসনের অবসান ঘটিয়েছে।"
     },
     {
      "theme": "Modi govt achievements",
      "target": "BJP state government under Suvendu Adhikari",
      "claim": "In 100 days the government has begun to deliver every promise in its manifesto, including law and order, central schemes, investment, anti-goonda law and women's safety measures.",
      "heading": "দ্বিতীয় বন্দে মাতরম্‌ যুগের ১০০ দিন (সম্পাদকীয়)",
-     "page": 6
+     "page": 6,
+     "theme_bn": "মোদী সরকারের কৃতিত্ব",
+     "target_bn": "শুভেন্দু অধিকারীর নেতৃত্বাধীন বিজেপি রাজ্য সরকার",
+     "claim_bn": "১০০ দিনে সরকার ইশতেহারের প্রতিটি প্রতিশ্রুতি পূরণ করতে শুরু করেছে, যার মধ্যে রয়েছে আইনশৃঙ্খলা, কেন্দ্রীয় প্রকল্প, বিনিয়োগ, গুন্ডা-বিরোধী আইন ও নারী নিরাপত্তার ব্যবস্থা।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Left Front (34 years), 'Sekumaku', 'dimagi Naxals' and jihadis",
      "claim": "Left rule began the anarchy and 'red terror', and the Left, Naxals and jihadis are now spreading propaganda to mislead people.",
      "heading": "দ্বিতীয় বন্দে মাতরম্‌ যুগের ১০০ দিন (সম্পাদকীয়)",
-     "page": 6
+     "page": 6,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "বামফ্রন্ট (৩৪ বছর), 'সেকুমাকু', 'ডিমাগি নকশাল' ও জেহাদিরা",
+     "claim_bn": "বামপন্থী শাসনেই অরাজকতা ও 'লাল সন্ত্রাসের' সূচনা, এবং বামপন্থী, নকশাল ও জেহাদিরা এখন মানুষকে বিভ্রান্ত করতে প্রচার ছড়াচ্ছে।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "Hindus / Sanatani society",
      "claim": "46 percent of Hindus have united, the first truly patriotic government has been installed, and the Sangh's work since 1939 has achieved only partial success.",
      "heading": "নতুন সরকারের ১০০ দিন (article text on the government's achievements; heading as per contents page)",
-     "page": 19
+     "page": 19,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "হিন্দু / সনাতনী সমাজ",
+     "claim_bn": "৪৬ শতাংশ হিন্দু ঐক্যবদ্ধ হয়েছেন, প্রথম প্রকৃত দেশপ্রেমিক সরকার প্রতিষ্ঠিত হয়েছে, এবং ১৯৩৯ সাল থেকে সঙ্ঘের কাজ কেবল আংশিক সাফল্য পেয়েছে।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "Trinamool Congress",
      "claim": "The TMC was mired in SSC and TET scam corruption and ate even mid-day meal money, while the new government reopened the RG Kar (Abhaya) case and arrested the accused MLA Nirmal Ghosh.",
      "heading": "নতুন সরকারের ১০০ দিন (article text on the government's achievements; heading as per contents page)",
-     "page": 19
+     "page": 19,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "তৃণমূল কংগ্রেস",
+     "claim_bn": "তৃণমূল এসএসসি ও টেট কেলেঙ্কারির দুর্নীতিতে ডুবে ছিল এবং মিড-ডে মিলের টাকাও খেয়ে ফেলেছিল, আর নতুন সরকার আরজি কর (অভয়া) মামলা পুনরায় খুলেছে এবং অভিযুক্ত বিধায়ক নির্মল ঘোষকে গ্রেপ্তার করেছে।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Communists",
      "claim": "Communists rewrote history, sidelined Bankim, Rabindranath and Sarat Chandra and glorified Pathan-Mughal rulers, and the new government is restoring authentic history.",
      "heading": "নতুন সরকারের ১০০ দিন (article text on the government's achievements; heading as per contents page)",
-     "page": 19
+     "page": 19,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "কমিউনিস্টরা",
+     "claim_bn": "কমিউনিস্টরা ইতিহাস নতুন করে লিখেছে, বঙ্কিম, রবীন্দ্রনাথ ও শরৎচন্দ্রকে সরিয়ে রেখেছে এবং পাঠান-মুঘল শাসকদের মহিমান্বিত করেছে, আর নতুন সরকার প্রকৃত ইতিহাস ফিরিয়ে আনছে।"
     },
     {
      "theme": "history & icons",
      "target": "Syama Prasad Mukherjee, Bankim, Gopal Chandra Mukhopadhyay; Suhrawardy (criticised)",
      "claim": "The state is reclaiming its heritage by teaching Syama Prasad Mukherjee's biography, removing Suhrawardy's name from a road, honouring the Great Calcutta Killings rescuer, and screening 'The Bengal Files'.",
      "heading": "নতুন সরকারের ১০০ দিন (article text on the government's achievements; heading as per contents page)",
-     "page": 19
+     "page": 19,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "শ্যামাপ্রসাদ মুখোপাধ্যায়, বঙ্কিম, গোপালচন্দ্র মুখোপাধ্যায়; সুহরাবর্দি (সমালোচিত)",
+     "claim_bn": "রাজ্য শ্যামাপ্রসাদ মুখোপাধ্যায়ের জীবনী পড়িয়ে, একটি রাস্তা থেকে সোহরাওয়ার্দীর নাম সরিয়ে, গ্রেট ক্যালকাটা কিলিংয়ের উদ্ধারকারীকে সম্মান জানিয়ে এবং 'দ্য বেঙ্গল ফাইলস' প্রদর্শন করে নিজের ঐতিহ্য ফিরে পাচ্ছে।"
     },
     {
      "theme": "nationalism/army/Pakistan",
      "target": "Left-leaning Jadavpur University staff and students, 'anti-national' forces",
      "claim": "Jadavpur University is a nest of 'urban Naxals' where the Left teachers' body JUTA backs anti-national activity, and the CM vowed to wipe out such forces and clear the hostels.",
      "heading": "যাদবপুরে রাখিবন্ধন ও “দশ সহস্র কণ্ঠে বন্দে মাতরম্‌”",
-     "page": 47
+     "page": 47,
+     "theme_bn": "জাতীয়তাবাদ/সেনা/পাকিস্তান",
+     "target_bn": "বামঘেঁষা যাদবপুর বিশ্ববিদ্যালয়ের কর্মী ও ছাত্ররা, 'দেশবিরোধী' শক্তি",
+     "claim_bn": "যাদবপুর বিশ্ববিদ্যালয় 'শহুরে নকশাল'দের আস্তানা, যেখানে বামপন্থী শিক্ষক সংগঠন জুটা দেশবিরোধী কার্যকলাপকে সমর্থন করে; মুখ্যমন্ত্রী এই ধরনের শক্তিকে নির্মূল করা এবং হোস্টেলগুলি খালি করার অঙ্গীকার করেছেন।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "Saffron flag / Sanatan culture; anti-national forces and sections of the media",
      "claim": "The saffron flag is a symbol of Sanatan culture, any insult to it will be answered by uprooting anti-national forces, and the response to them is spiritual and nationalist consciousness.",
      "heading": "গোলপার্ক থেকে যাদবপুর বিশ্ববিদ্যালয় “গেরুয়া সম্মান যাত্রা”",
-     "page": 48
+     "page": 48,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "গৈরিক পতাকা / সনাতন সংস্কৃতি; দেশবিরোধী শক্তি ও সংবাদমাধ্যমের একাংশ",
+     "claim_bn": "গেরুয়া পতাকা সনাতন সংস্কৃতির প্রতীক, এর অপমানের জবাব দেওয়া হবে দেশবিরোধী শক্তিকে উৎখাত করে, আর তাদের প্রতি উত্তর হলো আধ্যাত্মিক ও জাতীয়তাবাদী চেতনা।"
     },
     {
      "theme": "culture/religion",
      "target": "Government's Vande Mataram mandate in schools and madrasas",
      "claim": "Those who once called singing to the nation as mother 'haram' now sing Vande Mataram in school prayer halls, since the government made it compulsory in its 150th year.",
      "heading": "নতুন সরকারের ১০০ দিন (article text on the government's achievements; heading as per contents page)",
-     "page": 19
+     "page": 19,
+     "theme_bn": "সংস্কৃতি/ধর্ম",
+     "target_bn": "স্কুল ও মাদ্রাসায় সরকারের বন্দে মাতরম বাধ্যতামূলক করার নির্দেশ",
+     "claim_bn": "যাঁরা একসময় মাতৃরূপে দেশের বন্দনাকে 'হারাম' বলতেন, তাঁরাই এখন স্কুলের প্রার্থনাসভায় বন্দেমাতরম গাইছেন, কারণ ১৫০তম বর্ষে সরকার তা বাধ্যতামূলক করেছে।"
     }
-   ]
+   ],
+   "label_bn": "",
+   "summary_bn": "২০২৬ সালের ২১ সেপ্টেম্বর সংখ্যাটি মুখ্যমন্ত্রী শুভেন্দু অধিকারীর নেতৃত্বাধীন বিজেপি সরকারের প্রথম ১০০ দিনকে কেন্দ্র করে সাজানো; একে 'নতুন সূর্যোদয়' এবং হিন্দু ভোটারদের আকাঙ্ক্ষার পূরণ হিসেবে তুলে ধরা হয়েছে। সম্পাদকীয় ও একগুচ্ছ লেখায় সরকারের আইনশৃঙ্খলা, দুর্নীতিবিরোধী, নারী নিরাপত্তা, শিক্ষা ও ঐতিহ্য সংক্রান্ত পদক্ষেপের প্রশংসা করা হয়েছে। বামপন্থীদের (লাল সন্ত্রাস, ইতিহাস বিকৃতি, যাদবপুর বিশ্ববিদ্যালয়) এবং আগের তৃণমূল সরকারকে দুর্নীতিগ্রস্ত বলে আক্রমণ করা হয়েছে। 'সেকুমাকু', নকশাল ও জেহাদিদের সম্পর্কে পাঠকদের সতর্ক করা হয়েছে এবং জনগণকে সরকারের পাশে থাকার আহ্বান জানানো হয়েছে। সংখ্যাটিতে যাদবপুরের 'দশ হাজার কণ্ঠে বন্দে মাতরম' অনুষ্ঠান ও 'গেরুয়া সম্মান যাত্রা'কে জাতীয়তাবাদী, হিন্দু-পরিচয়ভিত্তিক সংগঠিত কর্মসূচি হিসেবে প্রতিবেদন করা হয়েছে।"
   },
   {
    "issue": "20260914",
@@ -1763,7 +2417,13 @@ window.HINDUTVA = {
      "where": "Madison Square Garden, New York, USA",
      "when": "Raksha Bandhan (August 2026, date not given)",
      "page": 8,
-     "detail": "Sarsanghchalak Dr Mohan Bhagwat addressed over 5,000 diaspora Indians and thinkers on Advaita, dharma, selfless service and the RSS's global call for 'Panch Parivartan' (five social and environmental changes)."
+     "detail": "Sarsanghchalak Dr Mohan Bhagwat addressed over 5,000 diaspora Indians and thinkers on Advaita, dharma, selfless service and the RSS's global call for 'Panch Parivartan' (five social and environmental changes).",
+     "title_bn": "নিউ ইয়র্কে 'ইউনিভার্সাল ওয়ানেস সেলিব্রেশন'-এ মোহন ভাগবত",
+     "org_bn": "আরএসএস",
+     "type_bn": "শতবর্ষ",
+     "where_bn": "ম্যাডিসন স্কোয়্যার গার্ডেন, নিউ ইয়র্ক, যুক্তরাষ্ট্র",
+     "when_bn": "রক্ষাবন্ধন (আগস্ট ২০২৬, তারিখ উল্লেখ নেই)",
+     "detail_bn": "সরসঙ্ঘচালক ডঃ মোহন ভাগবত অদ্বৈত, ধর্ম, নিঃস্বার্থ সেবা এবং আরএসএসের বিশ্বজনীন আহ্বান 'পঞ্চ পরিবর্তন' (পাঁচটি সামাজিক ও পরিবেশগত পরিবর্তন) নিয়ে ৫,০০০-এরও বেশি প্রবাসী ভারতীয় ও চিন্তাবিদের উদ্দেশে ভাষণ দেন।"
     },
     {
      "title": "Sant Sammelan for Ashok Singhal birth centenary (announced)",
@@ -1772,7 +2432,13 @@ window.HINDUTVA = {
      "where": "Siliguri, North Bengal",
      "when": "27 September 2026",
      "page": 28,
-     "detail": "VHP North Bengal margadarshak mandali announced a large saint conclave in Siliguri to mark the birth centenary of Ashok Singhal."
+     "detail": "VHP North Bengal margadarshak mandali announced a large saint conclave in Siliguri to mark the birth centenary of Ashok Singhal.",
+     "title_bn": "অশোক সিংহলের জন্মশতবর্ষ উপলক্ষে সন্ত সম্মেলন (ঘোষিত)",
+     "org_bn": "বিশ্ব হিন্দু পরিষদ",
+     "type_bn": "সম্মেলন",
+     "where_bn": "শিলিগুড়ি, উত্তরবঙ্গ",
+     "when_bn": "২৭ সেপ্টেম্বর ২০২৬",
+     "detail_bn": "বিশ্ব হিন্দু পরিষদের উত্তরবঙ্গ মার্গদর্শক মণ্ডলী অশোক সিংঘলের জন্মশতবর্ষ উপলক্ষে শিলিগুড়িতে একটি বড় সাধুসম্মেলনের ঘোষণা করেছে।"
     },
     {
      "title": "VHP North Bengal Margadarshak Mandali meeting",
@@ -1781,7 +2447,13 @@ window.HINDUTVA = {
      "where": "ISKCON Sri Sri Radha Madhav Mandir, Siliguri",
      "when": "22 August",
      "page": 28,
-     "detail": "Saints and dharmacharyas from North Bengal met with Ritwik Swami Nirgunananda of Rishra Prem Mandir; resolved to revive gurukul education, gaushalas, 'Satsang Saptah' campaign in every village, and to celebrate Sant Ravidas's 650th birth anniversary."
+     "detail": "Saints and dharmacharyas from North Bengal met with Ritwik Swami Nirgunananda of Rishra Prem Mandir; resolved to revive gurukul education, gaushalas, 'Satsang Saptah' campaign in every village, and to celebrate Sant Ravidas's 650th birth anniversary.",
+     "title_bn": "বিশ্ব হিন্দু পরিষদ উত্তরবঙ্গ মার্গদর্শক মণ্ডলীর বৈঠক",
+     "org_bn": "বিশ্ব হিন্দু পরিষদ",
+     "type_bn": "সম্মেলন",
+     "where_bn": "ইসকন শ্রীশ্রী রাধামাধব মন্দির, শিলিগুড়ি",
+     "when_bn": "২২ আগস্ট",
+     "detail_bn": "উত্তরবঙ্গের সাধুসন্ত ও ধর্মাচার্যরা ঋষড়া প্রেম মন্দিরের ঋত্বিক স্বামী নির্গুণানন্দের সঙ্গে সাক্ষাৎ করেন; গুরুকুল শিক্ষা, গোশালা পুনরুজ্জীবন, প্রতিটি গ্রামে 'সৎসঙ্গ সপ্তাহ' অভিযান এবং সন্ত রবিদাসের ৬৫০তম জন্মজয়ন্তী উদ্‌যাপনের সিদ্ধান্ত নেওয়া হয়।"
     },
     {
      "title": "Janmashtami as VHP foundation day (decision)",
@@ -1790,7 +2462,13 @@ window.HINDUTVA = {
      "where": "worldwide",
      "when": "Janmashtami",
      "page": 28,
-     "detail": "The meeting decided to observe Janmashtami as VHP's foundation day with great pomp across the world."
+     "detail": "The meeting decided to observe Janmashtami as VHP's foundation day with great pomp across the world.",
+     "title_bn": "বিশ্ব হিন্দু পরিষদের প্রতিষ্ঠা দিবস হিসেবে জন্মাষ্টমী (সিদ্ধান্ত)",
+     "org_bn": "বিশ্ব হিন্দু পরিষদ",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "বিশ্বব্যাপী",
+     "when_bn": "জন্মাষ্টমী",
+     "detail_bn": "সভায় সিদ্ধান্ত হয়, বিশ্ব জুড়ে মহা আড়ম্বরে জন্মাষ্টমীকে বিশ্ব হিন্দু পরিষদের প্রতিষ্ঠা দিবস হিসেবে পালন করা হবে।"
     },
     {
      "title": "Rakhi Bandhan festival in Malda",
@@ -1799,7 +2477,13 @@ window.HINDUTVA = {
      "where": "Malda town (Atul Market area)",
      "when": "",
      "page": 28,
-     "detail": "Karyakartas of the Malda district unit tied rakhis on residents of a backward locality and distributed chocolates and sweets, projected as a message of social harmony."
+     "detail": "Karyakartas of the Malda district unit tied rakhis on residents of a backward locality and distributed chocolates and sweets, projected as a message of social harmony.",
+     "title_bn": "মালদায় রাখি বন্ধন উৎসব",
+     "org_bn": "অন্যান্য: ভারতীয় শিক্ষণ মণ্ডল",
+     "type_bn": "সেবা/ত্রাণ",
+     "where_bn": "মালদা শহর (অতুল মার্কেট এলাকা)",
+     "when_bn": "",
+     "detail_bn": "মালদা জেলা শাখার কার্যকর্তারা একটি পিছিয়ে-পড়া পাড়ার বাসিন্দাদের রাখি পরিয়ে চকোলেট ও মিষ্টি বিতরণ করেন; একে সামাজিক সম্প্রীতির বার্তা হিসেবে তুলে ধরা হয়েছে।"
     },
     {
      "title": "Gopal Sajo competition for Janmashtami",
@@ -1808,7 +2492,13 @@ window.HINDUTVA = {
      "where": "Rukti Mahal, Domkal, Murshidabad",
      "when": "4 September",
      "page": 25,
-     "detail": "A 'Gopal Sajo' (dress as Gopal) contest was held in the Shishu Mandir premises with a researcher-novelist as chief guest and judge, with prizes for the top three."
+     "detail": "A 'Gopal Sajo' (dress as Gopal) contest was held in the Shishu Mandir premises with a researcher-novelist as chief guest and judge, with prizes for the top three.",
+     "title_bn": "জন্মাষ্টমী উপলক্ষে গোপাল সাজো প্রতিযোগিতা",
+     "org_bn": "অন্যান্য: দেশের মাটি কল্যাণ মন্দির / সরস্বতী শিশু মন্দির",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "রুকটি মহল, ডোমকল, মুর্শিদাবাদ",
+     "when_bn": "৪ সেপ্টেম্বর",
+     "detail_bn": "শিশু মন্দির প্রাঙ্গণে একটি 'গোপাল সাজো' প্রতিযোগিতা অনুষ্ঠিত হয়, যার প্রধান অতিথি ও বিচারক ছিলেন একজন গবেষক-ঔপন্যাসিক; প্রথম তিনজনকে পুরস্কার দেওয়া হয়।"
     },
     {
      "title": "Swimming competition, Uluberia",
@@ -1817,7 +2507,13 @@ window.HINDUTVA = {
      "where": "Uluberia, Howrah",
      "when": "6 September",
      "page": 25,
-     "detail": "Kreera Bharati Howrah and Uluberia Amateur Aquatic Club organised a swimming meet with 70 participants in 17 events, under the 'Susth Bharat Samarth Bharat' slogan."
+     "detail": "Kreera Bharati Howrah and Uluberia Amateur Aquatic Club organised a swimming meet with 70 participants in 17 events, under the 'Susth Bharat Samarth Bharat' slogan.",
+     "title_bn": "সাঁতার প্রতিযোগিতা, উলুবেড়িয়া",
+     "org_bn": "অন্যান্য: ক্রীড়া ভারতী",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "উলুবেড়িয়া, হাওড়া",
+     "when_bn": "৬ সেপ্টেম্বর",
+     "detail_bn": "ক্রীড়া ভারতী হাওড়া ও উলুবেড়িয়া অ্যামেচার অ্যাকোয়াটিক ক্লাব 'সুস্থ ভারত সমর্থ ভারত' স্লোগানের অধীনে ১৭টি বিভাগে ৭০ জন অংশগ্রহণকারীকে নিয়ে একটি সাঁতার প্রতিযোগিতার আয়োজন করে।"
     },
     {
      "title": "Kaliyadah Nagar Yuva Sammelan",
@@ -1826,7 +2522,13 @@ window.HINDUTVA = {
      "where": "Rabindra Bhavan, South Dum Dum, Kolkata",
      "when": "6 September",
      "page": 27,
-     "detail": "RSS Kolkata North-East Bhag youth conference with Ramakrishna Math and Adyapith monks; speakers said 'youth power is national power', with a career-guidance session on cybersecurity."
+     "detail": "RSS Kolkata North-East Bhag youth conference with Ramakrishna Math and Adyapith monks; speakers said 'youth power is national power', with a career-guidance session on cybersecurity.",
+     "title_bn": "কালিয়াদহ নগর যুব সম্মেলন",
+     "org_bn": "আরএসএস",
+     "type_bn": "সম্মেলন",
+     "where_bn": "রবীন্দ্র ভবন, দক্ষিণ দমদম, কলকাতা",
+     "when_bn": "৬ সেপ্টেম্বর",
+     "detail_bn": "রামকৃষ্ণ মঠ ও আদ্যাপীঠের সন্ন্যাসীদের উপস্থিতিতে আরএসএস কলকাতা উত্তর-পূর্ব ভাগের যুব সম্মেলন; বক্তারা বলেন 'যুবশক্তিই জাতীয় শক্তি', সঙ্গে ছিল সাইবার নিরাপত্তা নিয়ে কেরিয়ার নির্দেশনা পর্ব।"
     },
     {
      "title": "Unveiling of busts of Prafulla Chaki and Bipin Behari Ganguly",
@@ -1835,7 +2537,13 @@ window.HINDUTVA = {
      "where": "BB Ganguly Street, Central Kolkata",
      "when": "12 August",
      "page": 27,
-     "detail": "State Industry & Commerce Minister Tapas Roy unveiled busts and honoured revolutionary families, with a call to awaken patriotism; ended with the national anthem."
+     "detail": "State Industry & Commerce Minister Tapas Roy unveiled busts and honoured revolutionary families, with a call to awaken patriotism; ended with the national anthem.",
+     "title_bn": "প্রফুল্ল চাকী ও বিপিনবিহারী গাঙ্গুলির আবক্ষ মূর্তির আবরণ উন্মোচন",
+     "org_bn": "অন্যান্য: কলকাতার ৪৮ নম্বর ওয়ার্ডের স্থানীয় বাসিন্দারা",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "বি বি গাঙ্গুলি স্ট্রিট, মধ্য কলকাতা",
+     "when_bn": "১২ আগস্ট",
+     "detail_bn": "রাজ্যের শিল্প ও বাণিজ্যমন্ত্রী তপস রায় আবক্ষ মূর্তির আবরণ উন্মোচন করেন এবং বিপ্লবী পরিবারগুলিকে সংবর্ধনা দেন; দেশপ্রেম জাগ্রত করার আহ্বান জানানো হয়; অনুষ্ঠান শেষ হয় জাতীয় সঙ্গীতের মাধ্যমে।"
     },
     {
      "title": "125th Avirbhab Jayanti Mahotsav of Tarananda Brahmachari",
@@ -1844,7 +2552,13 @@ window.HINDUTVA = {
      "where": "Mahajati Sadan, Kolkata",
      "when": "30 August",
      "page": 24,
-     "detail": "Governor RN Ravi, Union MoS Sukanta Majumdar, state minister Kalyan Chakraborty and RSS Akhil Bharatiya Karyakarini member Advaitacharan Dutta attended; Sanskar Bharati artists performed devotional songs."
+     "detail": "Governor RN Ravi, Union MoS Sukanta Majumdar, state minister Kalyan Chakraborty and RSS Akhil Bharatiya Karyakarini member Advaitacharan Dutta attended; Sanskar Bharati artists performed devotional songs.",
+     "title_bn": "তারানন্দ ব্রহ্মচারীর ১২৫তম আবির্ভাব জয়ন্তী মহোৎসব",
+     "org_bn": "অন্যান্য: শ্রী বালানন্দ ধর্মসঙ্ঘ (কলকাতা) / প্রেম মন্দির রিষড়া",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "মহাজাতি সদন, কলকাতা",
+     "when_bn": "৩০ আগস্ট",
+     "detail_bn": "রাজ্যপাল আরএন রবি, কেন্দ্রীয় প্রতিমন্ত্রী সুকান্ত মজুমদার, রাজ্যের মন্ত্রী কল্যাণ চক্রবর্তী এবং আরএসএসের অখিল ভারতীয় কার্যকারিণী সদস্য অদ্বৈতচরণ দত্ত উপস্থিত ছিলেন; সংস্কার ভারতীর শিল্পীরা ভক্তিগীতি পরিবেশন করেন।"
     },
     {
      "title": "Release of Swami Pranavananda collected works and other books",
@@ -1853,7 +2567,13 @@ window.HINDUTVA = {
      "where": "211 Rashbehari Avenue, Ballygunge, Kolkata",
      "when": "",
      "page": 26,
-     "detail": "Two-volume collected works of Swami Pranavananda and books such as 'Vande Mataram o Nepathya Itihas' were unveiled in presence of Finance Minister Swapan Dasgupta and Minister Kalyan Chakraborty."
+     "detail": "Two-volume collected works of Swami Pranavananda and books such as 'Vande Mataram o Nepathya Itihas' were unveiled in presence of Finance Minister Swapan Dasgupta and Minister Kalyan Chakraborty.",
+     "title_bn": "স্বামী প্রণবানন্দের রচনাসমগ্র ও অন্যান্য বইয়ের উন্মোচন",
+     "org_bn": "অন্যান্য: ভারত সেবাশ্রম সঙ্ঘ",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "২১১ রাসবিহারী অ্যাভিনিউ, বালিগঞ্জ, কলকাতা",
+     "when_bn": "",
+     "detail_bn": "অর্থমন্ত্রী স্বপন দাশগুপ্ত ও মন্ত্রী কল্যাণ চক্রবর্তীর উপস্থিতিতে স্বামী প্রণবানন্দের দু’খণ্ডের রচনাসমগ্র এবং 'বন্দে মাতরম ও নেপথ্য ইতিহাস'-এর মতো বই উন্মোচিত হয়।"
     },
     {
      "title": "Lifetime and ten-year membership drive for Swastika weekly",
@@ -1862,7 +2582,13 @@ window.HINDUTVA = {
      "where": "Kolkata/West Bengal",
      "when": "",
      "page": 4,
-     "detail": "Swastika announced lifetime (Rs 25,000) and ten-year (Rs 10,000) memberships as the weekly enters its 79th year."
+     "detail": "Swastika announced lifetime (Rs 25,000) and ten-year (Rs 10,000) memberships as the weekly enters its 79th year.",
+     "title_bn": "স্বস্তিকা সাপ্তাহিকের আজীবন ও দশ বছরের গ্রাহক সংগ্রহ অভিযান",
+     "org_bn": "অন্যান্য: শুভস্বস্তিকা প্রিন্টস ফাউন্ডেশন",
+     "type_bn": "অন্যান্য",
+     "where_bn": "কলকাতা/পশ্চিমবঙ্গ",
+     "when_bn": "",
+     "detail_bn": "সাপ্তাহিকটি ৭৯তম বর্ষে প্রবেশ করায় স্বস্তিকা আজীবন (২৫,০০০ টাকা) ও দশ বছরের (১০,০০০ টাকা) সদস্যপদের ঘোষণা দিয়েছে।"
     },
     {
      "title": "Special issue on state government's first 100 days (announced)",
@@ -1871,7 +2597,13 @@ window.HINDUTVA = {
      "where": "West Bengal",
      "when": "21 September 2026",
      "page": 4,
-     "detail": "A special 21 September issue will assess the new government's 100 days, with analyses and an interview with CM Suvendu Adhikari."
+     "detail": "A special 21 September issue will assess the new government's 100 days, with analyses and an interview with CM Suvendu Adhikari.",
+     "title_bn": "রাজ্য সরকারের প্রথম ১০০ দিন নিয়ে বিশেষ সংখ্যা (ঘোষিত)",
+     "org_bn": "অন্যান্য: স্বস্তিকা সাপ্তাহিক",
+     "type_bn": "রাজনৈতিক প্রচার",
+     "where_bn": "পশ্চিমবঙ্গ",
+     "when_bn": "২১ সেপ্টেম্বর ২০২৬",
+     "detail_bn": "২১ সেপ্টেম্বরের একটি বিশেষ সংখ্যায় নতুন সরকারের ১০০ দিনের মূল্যায়ন করা হবে, থাকবে বিশ্লেষণ এবং মুখ্যমন্ত্রী শুভেন্দু অধিকারীর সাক্ষাৎকার।"
     },
     {
      "title": "Anti-infiltration movement of Nikhil Banga Nagarik Sangha (historical)",
@@ -1880,7 +2612,13 @@ window.HINDUTVA = {
      "where": "Kolkata, Nadia, Chakdaha, Ranaghat",
      "when": "1981-1986",
      "page": 35,
-     "detail": "Retrospective account of leaflet, poster, public meeting and cycle-march campaigns against Bangladeshi infiltration, with participation of Bharat Sevashram Sangha monks and Sangh swayamsevaks."
+     "detail": "Retrospective account of leaflet, poster, public meeting and cycle-march campaigns against Bangladeshi infiltration, with participation of Bharat Sevashram Sangha monks and Sangh swayamsevaks.",
+     "title_bn": "নিখিল বঙ্গ নাগরিক সঙ্ঘের অনুপ্রবেশ-বিরোধী আন্দোলন (ঐতিহাসিক)",
+     "org_bn": "অন্যান্য: নিখিল বঙ্গ নাগরিক সঙ্ঘ",
+     "type_bn": "রাজনৈতিক প্রচার",
+     "where_bn": "কলকাতা, নদিয়া, চাকদহ, রানাঘাট",
+     "when_bn": "1981-1986",
+     "detail_bn": "বাংলাদেশি অনুপ্রবেশের বিরুদ্ধে প্রচারপত্র, পোস্টার, জনসভা ও সাইকেল-মিছিল কর্মসূচির পূর্বাপর বিবরণ; এতে ভারত সেবাশ্রম সঙ্ঘের সন্ন্যাসীরা ও সঙ্ঘের স্বয়ংসেবকেরা অংশ নিয়েছিলেন।"
     }
    ],
    "narratives": [
@@ -1889,93 +2627,134 @@ window.HINDUTVA = {
      "target": "TMC / voters / new BJP government",
      "claim": "BJP's win in Bengal came from TMC lawlessness and ordinary people, with ABVP-trained student leaders now BJP MLAs and MPs, while TMC 'thieves' rush to join the BJP.",
      "heading": "চিঠিপত্র (চিন্ময়ী দে রায়, জলপাইগুড়ি)",
-     "page": 20
+     "page": 20,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "তৃণমূল / ভোটার / নতুন বিজেপি সরকার",
+     "claim_bn": "বাংলায় বিজেপির জয় এসেছে তৃণমূলের নৈরাজ্য ও সাধারণ মানুষের কারণে; এবিভিপি-প্রশিক্ষিত ছাত্রনেতারা এখন বিজেপির বিধায়ক ও সাংসদ, অথচ তৃণমূলের 'চোরেরা' বিজেপিতে যোগ দিতে ছুটছে।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "Sangh and Hindu society",
      "claim": "The Sangh is not a political platform; one comes to give everything and gain nothing, and Hindu awakening in Bengal owes much to veteran swayamsevaks and the Ram Mandir and Teen Bigha movements.",
      "heading": "চিঠিপত্র (চিন্ময়ী দে রায়, জলপাইগুড়ি)",
-     "page": 20
+     "page": 20,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "সঙ্ঘ ও হিন্দু সমাজ",
+     "claim_bn": "সংঘ কোনও রাজনৈতিক মঞ্চ নয়; এখানে আসতে হয় সর্বস্ব দিতে, কিছু পাওয়ার জন্য নয়। বাংলায় হিন্দু জাগরণের পিছনে প্রবীণ স্বয়ংসেবকদের এবং রামমন্দির ও তিনবিঘা আন্দোলনের অনেক অবদান রয়েছে।"
     },
     {
      "theme": "Modi govt achievements",
      "target": "West Bengal government",
      "claim": "The newly elected state government has fulfilled election promises in its first 100 days, restoring people's trust, and will be assessed in a special issue with CM Suvendu Adhikari's interview.",
      "heading": "রাজ্য সরকারের ১০০ দিন নিয়ে বিশেষ সংখ্যা",
-     "page": 4
+     "page": 4,
+     "theme_bn": "মোদী সরকারের কৃতিত্ব",
+     "target_bn": "পশ্চিমবঙ্গ সরকার",
+     "claim_bn": "নবনির্বাচিত রাজ্য সরকার প্রথম ১০০ দিনে নির্বাচনী প্রতিশ্রুতি পূরণ করে মানুষের আস্থা ফিরিয়েছে; মুখ্যমন্ত্রী শুভেন্দু অধিকারীর সাক্ষাৎকার-সহ একটি বিশেষ সংখ্যায় তার মূল্যায়ন করা হবে।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "RSS / Mohan Bhagwat",
      "claim": "Bhagwat presented Sangh as selfless service beyond politics, citing Charkhi Dadri air-crash rescue as proof of Sangh's service to Muslims and a rebuttal of 'artificial negative narratives' about the RSS.",
      "heading": "নিউ ইয়র্কে সরসঙ্ঘচালক ডাঃ মোহনরাও ভাগবত",
-     "page": 8
+     "page": 8,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "আরএসএস / মোহন ভাগবত",
+     "claim_bn": "ভাগবত সঙ্ঘকে রাজনীতির ঊর্ধ্বে নিঃস্বার্থ সেবা হিসেবে তুলে ধরেছেন; চরখি দাদরি বিমান দুর্ঘটনায় উদ্ধারকাজকে মুসলমানদের প্রতি সঙ্ঘের সেবার প্রমাণ এবং আরএসএস সম্পর্কে 'কৃত্রিম নেতিবাচক আখ্যান'-এর জবাব বলে উল্লেখ করেছেন।"
     },
     {
      "theme": "culture/religion",
      "target": "Advaita / Sanatan values",
      "claim": "Dharma is a universal sustaining force rather than 'religion', and Indian philosophy gives the world oneness and responsibility for all creation.",
      "heading": "নিউ ইয়র্কে সরসঙ্ঘচালক ডাঃ মোহনরাও ভাগবত",
-     "page": 8
+     "page": 8,
+     "theme_bn": "সংস্কৃতি/ধর্ম",
+     "target_bn": "অদ্বৈত / সনাতন মূল্যবোধ",
+     "claim_bn": "ধর্ম 'রিলিজিয়ন' নয়, বরং এক সার্বজনীন ধারক শক্তি; এবং ভারতীয় দর্শন বিশ্বকে একত্বের বোধ ও সমগ্র সৃষ্টির প্রতি দায়িত্ববোধ দেয়।"
     },
     {
      "theme": "infiltration/demography",
      "target": "Bangladeshi Muslim infiltrators / Left",
      "claim": "Lakhs of Bangladeshi Muslim infiltrators are drowning West Bengal while political leaders are lost in party politics, and jihadis with Left shelter attacked the anti-infiltration movement and killed activists.",
      "heading": "নিখিল বঙ্গ নাগরিক সঙ্ঘ ও অনুপ্রবেশ-বিরোধী আন্দোলন (সুভাষ চক্রবর্তী)",
-     "page": 36
+     "page": 36,
+     "theme_bn": "অনুপ্রবেশ/জনবিন্যাস",
+     "target_bn": "বাংলাদেশি মুসলিম অনুপ্রবেশকারী / বামপন্থী",
+     "claim_bn": "লক্ষ লক্ষ বাংলাদেশি মুসলমান অনুপ্রবেশকারী পশ্চিমবঙ্গকে ডুবিয়ে দিচ্ছে, অথচ রাজনৈতিক নেতারা দলীয় রাজনীতিতে মগ্ন; বামপন্থীদের আশ্রয়ে থাকা জেহাদিরা অনুপ্রবেশবিরোধী আন্দোলনে হামলা চালিয়েছে ও কর্মীদের হত্যা করেছে।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Communists / red-flag cadres",
      "claim": "Red-flag supporters beat up poster-pasters, printers refused out of fear of the red flag, and Left leaders sheltered infiltrators, with a Communist leader's home village shown as a site of idol vandalism.",
      "heading": "নিখিল বঙ্গ নাগরিক সঙ্ঘ ও অনুপ্রবেশ-বিরোধী আন্দোলন (সুভাষ চক্রবর্তী)",
-     "page": 36
+     "page": 36,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "কমিউনিস্ট / লাল পতাকাধারী ক্যাডার",
+     "claim_bn": "লালঝান্ডার সমর্থকেরা পোস্টার-সাঁটাইকারীদের মারধর করেছে, লালঝান্ডার ভয়ে ছাপাখানাগুলি কাজ করতে অস্বীকার করেছে, আর বামপন্থী নেতারা অনুপ্রবেশকারীদের আশ্রয় দিয়েছেন; একজন কমিউনিস্ট নেতার গ্রামের বাড়িকে মূর্তি ভাঙচুরের স্থান হিসেবে দেখানো হয়েছে।"
     },
     {
      "theme": "Bangladesh & Hindu persecution",
      "target": "Bangladesh government / Bengal intellectuals",
      "claim": "A state-backed campaign of Hindu extermination is under way in East Bengal, yet Bengal's intellectuals protest for Gaza but stay silent on Bangladesh.",
      "heading": "বিষধর বুদ্ধিজীবী (রাধাকান্ত ঘোড়া)",
-     "page": 20
+     "page": 20,
+     "theme_bn": "বাংলাদেশ ও হিন্দু নির্যাতন",
+     "target_bn": "বাংলাদেশ সরকার / বাংলার বুদ্ধিজীবীরা",
+     "claim_bn": "পূর্ববঙ্গে রাষ্ট্রের মদতে হিন্দু নিধনের অভিযান চলছে, অথচ বাংলার বুদ্ধিজীবীরা গাজার জন্য প্রতিবাদ করলেও বাংলাদেশ নিয়ে নীরব।"
     },
     {
      "theme": "infiltration/demography",
      "target": "Muslims / border villages",
      "claim": "Border villages in Nadia and Murshidabad live in fear of armed 'jihadi' infiltrators who loot Hindu homes, buy land and vandalise Saraswati idols.",
      "heading": "নিখিল বঙ্গ নাগরিক সঙ্ঘ ও অনুপ্রবেশ-বিরোধী আন্দোলন (সুভাষ চক্রবর্তী)",
-     "page": 36
+     "page": 36,
+     "theme_bn": "অনুপ্রবেশ/জনবিন্যাস",
+     "target_bn": "মুসলমান / সীমান্তবর্তী গ্রাম",
+     "claim_bn": "নদিয়া ও মুর্শিদাবাদের সীমান্তবর্তী গ্রামগুলির মানুষ সশস্ত্র 'জেহাদি' অনুপ্রবেশকারীদের আতঙ্কে দিন কাটাচ্ছেন; তারা হিন্দুদের বাড়ি লুট করে, জমি কেনে এবং সরস্বতী প্রতিমা ভাঙচুর করে বলে অভিযোগ।"
     },
     {
      "theme": "history & icons",
      "target": "Sarat Chandra Chattopadhyay / Congress",
      "claim": "Sarat Chandra opposed the Khilafat movement as untrue for Hindus and warned Congress against appeasement in his 'Hindu-Muslim Samasya' essay, which remains relevant today.",
      "heading": "সার্ধশতবর্ষে অপরাজেয় কথাশিল্পী",
-     "page": 5
+     "page": 5,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "শরৎচন্দ্র চট্টোপাধ্যায় / কংগ্রেস",
+     "claim_bn": "শরৎচন্দ্র খিলাফত আন্দোলনকে হিন্দুদের কাছে অসত্য বলে বিরোধিতা করেছিলেন এবং তাঁর 'হিন্দু-মুসলমান সমস্যা' প্রবন্ধে তোষণের বিরুদ্ধে কংগ্রেসকে সতর্ক করেছিলেন, যা আজও প্রাসঙ্গিক।"
     },
     {
      "theme": "history & icons",
      "target": "Congress / Sarat Chandra",
      "claim": "Sarat Chandra's nationalist outlook shaped his literature and he supported revolutionaries, as developed in the issue's cover section of Sarat-centenary articles.",
      "heading": "শরচন্দ্রের জাতীয়তাবাদী মানসিকতা তাঁর সাহিত্যকর্মকে প্রভাবিত করেছিল",
-     "page": 3
+     "page": 3,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "কংগ্রেস / শরৎচন্দ্র",
+     "claim_bn": "শরৎচন্দ্রের জাতীয়তাবাদী দৃষ্টিভঙ্গি তাঁর সাহিত্যকে প্রভাবিত করেছিল এবং তিনি বিপ্লবীদের সমর্থন করেছিলেন, যা শরৎ-শতবর্ষ বিষয়ক প্রবন্ধগুলির সংখ্যার প্রচ্ছদ বিভাগে বিস্তারিতভাবে আলোচিত হয়েছে।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "TMC / Didi",
      "claim": "The editorial and related pieces portray the TMC as bankrupt and 'Didi' as rocked before the Puja, saying lions cannot befriend jackals.",
      "heading": "দেউলিয়ার তরজা / পূজার আগেই ধাক্কা দিদির!",
-     "page": 3
+     "page": 3,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "তৃণমূল / দিদি",
+     "claim_bn": "সম্পাদকীয় ও সংশ্লিষ্ট লেখাগুলিতে তৃণমূলকে দেউলিয়া এবং পুজোর আগে 'দিদি'-কে বিপর্যস্ত বলে চিত্রিত করা হয়েছে, আর বলা হয়েছে সিংহ কখনও শেয়ালের বন্ধু হতে পারে না।"
     },
     {
      "theme": "other",
      "target": "West Bengal government",
      "claim": "A Uniform Civil Code is urgently needed in West Bengal.",
      "heading": "শীঘ্রই পশ্চিমবঙ্গে অভিন্ন দেওয়ানি বিধি প্রয়োজন",
-     "page": 3
+     "page": 3,
+     "theme_bn": "অন্যান্য",
+     "target_bn": "পশ্চিমবঙ্গ সরকার",
+     "claim_bn": "পশ্চিমবঙ্গে অভিন্ন দেওয়ানি বিধি অবিলম্বে প্রয়োজন।"
     }
-   ]
+   ],
+   "label_bn": "",
+   "summary_bn": "১৪ সেপ্টেম্বরের সংখ্যায় (বর্ষ ৭৯, সংখ্যা ২) আরএসএসের শতবর্ষ এবং মোহন ভাগবতের নিউ ইয়র্কে 'বিশ্বজনীন একাত্মতা' শীর্ষক ভাষণকে উদ্‌যাপন করা হয়েছে; পশ্চিমবঙ্গের নতুন বিজেপি-নেতৃত্বাধীন সরকারকে হিন্দু জাগরণ এবং তৃণমূলের কুশাসনের প্রতি জনগণের প্রত্যাখ্যানের ফল হিসেবে দেখানো হয়েছে। শরৎচন্দ্র চট্টোপাধ্যায়ের ১৫০তম জন্মবার্ষিকীতে জাতীয়তাবাদী ও তোষণবিরোধী দৃষ্টিকোণ থেকে তাঁকে স্মরণ করা হয়েছে। ১৯৮০-র দশকের অনুপ্রবেশ-বিরোধী আন্দোলনের একটি প্রত্যক্ষদর্শীর বয়ানে বাংলাদেশি মুসলমান অনুপ্রবেশ, 'জিহাদি' হিংসা ও বামেদের যোগসাজশের চিত্র তুলে ধরা হয়েছে। রাজ্য সরকারের প্রথম ১০০ দিন নিয়ে ২১ সেপ্টেম্বর একটি বিশেষ সংখ্যা প্রকাশের ঘোষণা করা হয়েছে, যাতে মুখ্যমন্ত্রী শুভেন্দু অধিকারীর সাক্ষাৎকারও থাকবে। সাংগঠনিক প্রতিবেদনে বিশ্ব হিন্দু পরিষদ, সঙ্ঘ-সংশ্লিষ্ট সংগঠন ও হিন্দু ধর্মীয় প্রতিষ্ঠানগুলির রাজ্যজুড়ে সম্মেলন, উৎসব ও স্মরণানুষ্ঠানের খবর রয়েছে।"
   },
   {
    "issue": "20260907",
@@ -1991,7 +2770,13 @@ window.HINDUTVA = {
      "where": "Kolkata (Surya Sen Street, Nirmal Bhavan)",
      "when": "30 August",
      "page": 23,
-     "detail": "Annual meeting with Vedic mantras and a Bharat Mata portrait tribute, attended by Sangh office-bearers. The report cites 13 eye camps serving 1,525 people, 1,280 free spectacles, 305 health checkups, scholarships for 30 students and medical aid to 9 people. Ajay Nandi was re-elected president."
+     "detail": "Annual meeting with Vedic mantras and a Bharat Mata portrait tribute, attended by Sangh office-bearers. The report cites 13 eye camps serving 1,525 people, 1,280 free spectacles, 305 health checkups, scholarships for 30 students and medical aid to 9 people. Ajay Nandi was re-elected president.",
+     "title_bn": "বাস্তুহারা সহায়তা সমিতির ৬৪তম বার্ষিক সাধারণ সভা",
+     "org_bn": "অন্যান্য: বাস্তুহারা সহায়তা সমিতি (সঙ্ঘ-সংশ্লিষ্ট)",
+     "type_bn": "সম্মেলন",
+     "where_bn": "কলকাতা (সূর্য সেন স্ট্রিট, নির্মল ভবন)",
+     "when_bn": "৩০ আগস্ট",
+     "detail_bn": "বৈদিক মন্ত্রোচ্চারণ ও ভারত মাতার প্রতিকৃতিতে শ্রদ্ধাঞ্জলির মাধ্যমে বার্ষিক সভা অনুষ্ঠিত হয়, যেখানে সঙ্ঘের পদাধিকারীরা উপস্থিত ছিলেন। প্রতিবেদন অনুযায়ী ১৩টি চক্ষু শিবিরে ১,৫২৫ জন পরিষেবা পেয়েছেন, ১,২৮০টি বিনামূল্যে চশমা দেওয়া হয়েছে, ৩০৫টি স্বাস্থ্য পরীক্ষা হয়েছে, ৩০ জন ছাত্রকে বৃত্তি এবং ৯ জনকে চিকিৎসা সহায়তা দেওয়া হয়েছে। অজয় নন্দী পুনরায় সভাপতি নির্বাচিত হন।"
     },
     {
      "title": "State Chess Championship for the Visually Impaired",
@@ -2000,7 +2785,13 @@ window.HINDUTVA = {
      "where": "Banhooghly, Kolkata",
      "when": "28-30 August",
      "page": 24,
-     "detail": "A three-day tournament with 120 visually impaired players from across West Bengal. West Bengal ministers and Sangh office-bearers attended. A team was selected for the national level."
+     "detail": "A three-day tournament with 120 visually impaired players from across West Bengal. West Bengal ministers and Sangh office-bearers attended. A team was selected for the national level.",
+     "title_bn": "দৃষ্টিহীনদের রাজ্য দাবা চ্যাম্পিয়নশিপ",
+     "org_bn": "অন্যান্য: সক্ষম (সঙ্ঘ-সংশ্লিষ্ট) ও ক্রীড়া ভারতী",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "বানহুগলি, কলকাতা",
+     "when_bn": "২৮–৩০ আগস্ট",
+     "detail_bn": "পশ্চিমবঙ্গের বিভিন্ন প্রান্ত থেকে ১২০ জন দৃষ্টিহীন খেলোয়াড়কে নিয়ে তিন দিনের একটি টুর্নামেন্ট। পশ্চিমবঙ্গের মন্ত্রীরা ও সঙ্ঘের কার্যকর্তারা উপস্থিত ছিলেন। জাতীয় স্তরের জন্য একটি দল বাছাই করা হয়।"
     },
     {
      "title": "Swimming training camp, Sankrail block",
@@ -2009,7 +2800,13 @@ window.HINDUTVA = {
      "where": "Dhulagori, Howrah",
      "when": "23 August",
      "page": 24,
-     "detail": "A swimming camp with 30 children and some parents, organised to keep village youth away from drugs and mobile-phone addiction and to develop swimmers."
+     "detail": "A swimming camp with 30 children and some parents, organised to keep village youth away from drugs and mobile-phone addiction and to develop swimmers.",
+     "title_bn": "সাঁতার প্রশিক্ষণ শিবির, সাঁকরাইল ব্লক",
+     "org_bn": "অন্যান্য: ক্রীড়া ভারতী",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "ধুলাগোড়ি, হাওড়া",
+     "when_bn": "২৩ আগস্ট",
+     "detail_bn": "৩০ জন শিশু ও কয়েকজন অভিভাবকের উপস্থিতিতে একটি সাঁতার শিবির, যা গ্রামের যুবকদের মাদক ও মোবাইল ফোনের আসক্তি থেকে দূরে রাখতে এবং সাঁতারু তৈরি করতে আয়োজিত হয়েছিল।"
     },
     {
      "title": "Kshatriya Samiti meetings and committee formation",
@@ -2018,7 +2815,13 @@ window.HINDUTVA = {
      "where": "Habibpur and Bamangola blocks, Malda",
      "when": "23 August",
      "page": 25,
-     "detail": "Organisational meetings that formed block committees. Speakers discussed Raisaheb Panchanan Barma."
+     "detail": "Organisational meetings that formed block committees. Speakers discussed Raisaheb Panchanan Barma.",
+     "title_bn": "ক্ষত্রিয় সমিতির সভা ও কমিটি গঠন",
+     "org_bn": "অন্যান্য: ক্ষত্রিয় সমিতি",
+     "type_bn": "সম্মেলন",
+     "where_bn": "হবিবপুর ও বামনগোলা ব্লক, মালদা",
+     "when_bn": "২৩ আগস্ট",
+     "detail_bn": "সাংগঠনিক বৈঠকে ব্লক কমিটি গঠিত হয়। বক্তারা রায়সাহেব পঞ্চানন বর্মা নিয়ে আলোচনা করেন।"
     },
     {
      "title": "VHP press meet and discussion on preserving the 'sattvikta' of Durga Puja",
@@ -2027,7 +2830,13 @@ window.HINDUTVA = {
      "where": "Bidhannagar, Kolkata",
      "when": "26 August",
      "page": 25,
-     "detail": "VHP's South Bengal publicity wing convened puja committees, priests, saints and journalists. Swami Nirnanda Brahmachari Maharaj said Durga Puja is Bengal's religious heritage and appealed to all parties to preserve its purity and order."
+     "detail": "VHP's South Bengal publicity wing convened puja committees, priests, saints and journalists. Swami Nirnanda Brahmachari Maharaj said Durga Puja is Bengal's religious heritage and appealed to all parties to preserve its purity and order.",
+     "title_bn": "বিশ্ব হিন্দু পরিষদের সাংবাদিক বৈঠক এবং দুর্গাপুজোর 'সাত্ত্বিকতা' রক্ষা নিয়ে আলোচনা",
+     "org_bn": "বিশ্ব হিন্দু পরিষদ",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "বিধাননগর, কলকাতা",
+     "when_bn": "২৬ আগস্ট",
+     "detail_bn": "বিশ্ব হিন্দু পরিষদের দক্ষিণবঙ্গ প্রচার বিভাগ পুজো কমিটি, পুরোহিত, সাধুসন্ত ও সাংবাদিকদের নিয়ে সভা ডাকে। স্বামী নির্ণানন্দ ব্রহ্মচারী মহারাজ বলেন, দুর্গাপুজো বাংলার ধর্মীয় ঐতিহ্য এবং সব দলের কাছে এর পবিত্রতা ও শৃঙ্খলা রক্ষার আবেদন জানান।"
     },
     {
      "title": "Sanskar Bharati Birbhum annual programme 'Swadesh Jagaran'",
@@ -2036,7 +2845,13 @@ window.HINDUTVA = {
      "where": "Suri, Birbhum",
      "when": "16 August",
      "page": 26,
-     "detail": "A procession of about 400 people, a painting exhibition 'Swadesh Chetana' on 150 years of Vande Mataram, a music programme 'Swadesh Spandan' and a play 'Bande Janani Bharatvarsha'. The state agriculture minister and RSS senior workers attended."
+     "detail": "A procession of about 400 people, a painting exhibition 'Swadesh Chetana' on 150 years of Vande Mataram, a music programme 'Swadesh Spandan' and a play 'Bande Janani Bharatvarsha'. The state agriculture minister and RSS senior workers attended.",
+     "title_bn": "সংস্কার ভারতী বীরভূমের বার্ষিক অনুষ্ঠান 'স্বদেশ জাগরণ'",
+     "org_bn": "অন্যান্য: সংস্কার ভারতী",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "সিউড়ি, বীরভূম",
+     "when_bn": "১৬ আগস্ট",
+     "detail_bn": "প্রায় ৪০০ জনের একটি শোভাযাত্রা, বন্দে মাতরমের ১৫০ বছর নিয়ে 'স্বদেশ চেতনা' শীর্ষক চিত্র প্রদর্শনী, 'স্বদেশ স্পন্দন' শীর্ষক সঙ্গীতানুষ্ঠান এবং 'বন্দে জননী ভারতবর্ষ' নাটক। রাজ্যের কৃষিমন্ত্রী ও আরএসএসের বরিষ্ঠ কর্মীরা উপস্থিত ছিলেন।"
     },
     {
      "title": "Arogya Bharati East Zone doctors' conference",
@@ -2045,7 +2860,13 @@ window.HINDUTVA = {
      "where": "Rabindra-Okakura Bhavan, Bidhannagar, Kolkata",
      "when": "23 August",
      "page": 27,
-     "detail": "273 delegates attended, including 140 doctors of several systems, 80 students and 40 workers. Speakers promoted 'One Nation, One Medical System' and 'from health service to nation service'. An RSS East Zone pracharak and Singur MLA Arup Kumar Das spoke."
+     "detail": "273 delegates attended, including 140 doctors of several systems, 80 students and 40 workers. Speakers promoted 'One Nation, One Medical System' and 'from health service to nation service'. An RSS East Zone pracharak and Singur MLA Arup Kumar Das spoke.",
+     "title_bn": "আরোগ্য ভারতীর পূর্বাঞ্চলীয় চিকিৎসক সম্মেলন",
+     "org_bn": "অন্যান্য: আরোগ্য ভারতী",
+     "type_bn": "সম্মেলন",
+     "where_bn": "রবীন্দ্র-ওকাকুরা ভবন, বিধাননগর, কলকাতা",
+     "when_bn": "২৩ আগস্ট",
+     "detail_bn": "১৪০ জন বিভিন্ন পদ্ধতির চিকিৎসক, ৮০ জন ছাত্র ও ৪০ জন কর্মী-সহ ২৭৩ জন প্রতিনিধি উপস্থিত ছিলেন। বক্তারা 'এক দেশ, এক চিকিৎসা ব্যবস্থা' এবং 'স্বাস্থ্যসেবা থেকে রাষ্ট্রসেবা' প্রচার করেন। আরএসএসের পূর্বাঞ্চলের একজন প্রচারক এবং সিঙ্গুরের বিধায়ক অরূপ কুমার দাস বক্তব্য রাখেন।"
     },
     {
      "title": "Tiranga Yatra for Akhand Bharat Sankalp Diwas",
@@ -2054,7 +2875,13 @@ window.HINDUTVA = {
      "where": "Belghata, East Kolkata",
      "when": "14 August",
      "page": 27,
-     "detail": "A procession from Belghata Building More to Sarkarbazar, with a Bharat Mata tableau and a Bharat Mata puja at the end. About 1,000 people took part."
+     "detail": "A procession from Belghata Building More to Sarkarbazar, with a Bharat Mata tableau and a Bharat Mata puja at the end. About 1,000 people took part.",
+     "title_bn": "অখণ্ড ভারত সংকল্প দিবস উপলক্ষে তেরঙ্গা যাত্রা",
+     "org_bn": "অন্যান্য: বেলঘাটা নাগরিক সমাজ",
+     "type_bn": "মিছিল/শোভাযাত্রা",
+     "where_bn": "বেলঘাটা, পূর্ব কলকাতা",
+     "when_bn": "১৪ আগস্ট",
+     "detail_bn": "বেলঘাটা বিল্ডিং মোড় থেকে সরকারবাজার পর্যন্ত একটি শোভাযাত্রা, যেখানে ভারত মাতার ট্যাবলো ছিল এবং শেষে ভারত মাতার পুজো হয়। প্রায় ১,০০০ জন অংশ নিয়েছিলেন।"
     },
     {
      "title": "Arogya Bharati South Bengal workers' training session (Karyakarta Abhyasvarg)",
@@ -2063,7 +2890,13 @@ window.HINDUTVA = {
      "where": "Bhowanipore, South Kolkata",
      "when": "9 August",
      "page": 28,
-     "detail": "A one-day session for about 140 workers from 16 districts on health awareness, yoga, natural diet and disease prevention."
+     "detail": "A one-day session for about 140 workers from 16 districts on health awareness, yoga, natural diet and disease prevention.",
+     "title_bn": "আরোগ্য ভারতী দক্ষিণবঙ্গ কার্যকর্তা অভ্যাসবর্গ (প্রশিক্ষণ শিবির)",
+     "org_bn": "অন্যান্য: আরোগ্য ভারতী",
+     "type_bn": "শাখা/প্রশিক্ষণ শিবির",
+     "where_bn": "ভবানীপুর, দক্ষিণ কলকাতা",
+     "when_bn": "৯ আগস্ট",
+     "detail_bn": "১৬টি জেলার প্রায় ১৪০ জন কর্মীর জন্য স্বাস্থ্য সচেতনতা, যোগ, প্রাকৃতিক খাদ্যাভ্যাস ও রোগ প্রতিরোধ বিষয়ে একদিনের অধিবেশন।"
     },
     {
      "title": "Book launch: 'Saffron Surge: Making of a Brave, New Bharat'",
@@ -2072,7 +2905,13 @@ window.HINDUTVA = {
      "where": "Kolkata (ICCR, Satyajit Ray Auditorium)",
      "when": "11 August",
      "page": 28,
-     "detail": "Senior RSS leader Suresh 'Bhaiyyaji' Joshi released the book by former Panchajanya editor Tarun Vijay. He called it a story of civilisational revival. West Bengal ministers and former governor Tathagata Roy attended."
+     "detail": "Senior RSS leader Suresh 'Bhaiyyaji' Joshi released the book by former Panchajanya editor Tarun Vijay. He called it a story of civilisational revival. West Bengal ministers and former governor Tathagata Roy attended.",
+     "title_bn": "বই উন্মোচন: 'স্যাফরন সার্জ: মেকিং অব আ ব্রেভ, নিউ ভারত'",
+     "org_bn": "অন্যান্য: সিটিজেনস এমপাওয়ারমেন্ট ফোরাম",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "কলকাতা (আইসিসিআর, সত্যজিৎ রায় প্রেক্ষাগৃহ)",
+     "when_bn": "১১ আগস্ট",
+     "detail_bn": "আরএসএসের বরিষ্ঠ নেতা সুরেশ 'ভাইয়াজি' জোশী 'পাঞ্চজন্য'-র প্রাক্তন সম্পাদক তরুণ বিজয়ের বইটি প্রকাশ করেন। তিনি একে সভ্যতার পুনরুজ্জীবনের কাহিনি বলে অভিহিত করেন। অনুষ্ঠানে পশ্চিমবঙ্গের মন্ত্রীরা এবং প্রাক্তন রাজ্যপাল তথাগত রায় উপস্থিত ছিলেন।"
     },
     {
      "title": "Bharat Mata Pujan, Rashtradharma Sabha and health camps, Begri",
@@ -2081,7 +2920,13 @@ window.HINDUTVA = {
      "where": "Domjur, Howrah",
      "when": "14-16 August",
      "page": 29,
-     "detail": "A procession, Bharat Mata puja, flag hoisting, 'raksha bandhan' pledge to protect the nation's integrity, homa and a public meeting addressed by RSS all-India executive member Advaitacharan Dutta. A health, eye and blood donation camp followed on 16 August."
+     "detail": "A procession, Bharat Mata puja, flag hoisting, 'raksha bandhan' pledge to protect the nation's integrity, homa and a public meeting addressed by RSS all-India executive member Advaitacharan Dutta. A health, eye and blood donation camp followed on 16 August.",
+     "title_bn": "বেগরিতে ভারত মাতা পূজন, রাষ্ট্রধর্ম সভা ও স্বাস্থ্য শিবির",
+     "org_bn": "অন্যান্য: বেগড়ি অঞ্চল ভারত মাতা পূজন সমিতি (আরএসএস-এর উপস্থিতি ছিল)",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "ডোমজুড়, হাওড়া",
+     "when_bn": "১৪-১৬ আগস্ট",
+     "detail_bn": "একটি শোভাযাত্রা, ভারত মাতার পুজো, পতাকা উত্তোলন, দেশের অখণ্ডতা রক্ষার 'রক্ষাবন্ধন' শপথ, হোম এবং আরএসএসের অখিল ভারতীয় কার্যকারিণী সদস্য অদ্বৈতচরণ দত্তের ভাষণসহ জনসভা। ১৬ আগস্ট স্বাস্থ্য, চক্ষু ও রক্তদান শিবির অনুষ্ঠিত হয়।"
     },
     {
      "title": "Bharat Mata Pujan and cultural evening, Dum Dum",
@@ -2090,7 +2935,13 @@ window.HINDUTVA = {
      "where": "Dum Dum North More, Kolkata",
      "when": "14 August",
      "page": 29,
-     "detail": "Organised by Purbasthali Sanatani Sangha with VHP for Akhand Bharat Sankalp Diwas, with khichuri prasad distribution. RSS all-India executive member Advaitacharan Dutta and Kolkata Sangh and VHP office-bearers attended."
+     "detail": "Organised by Purbasthali Sanatani Sangha with VHP for Akhand Bharat Sankalp Diwas, with khichuri prasad distribution. RSS all-India executive member Advaitacharan Dutta and Kolkata Sangh and VHP office-bearers attended.",
+     "title_bn": "দমদমে ভারত মাতা পূজন ও সাংস্কৃতিক সন্ধ্যা",
+     "org_bn": "বিশ্ব হিন্দু পরিষদ",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "দমদম নর্থ মোড়, কলকাতা",
+     "when_bn": "১৪ আগস্ট",
+     "detail_bn": "অখণ্ড ভারত সংকল্প দিবস উপলক্ষে বিশ্ব হিন্দু পরিষদের সহযোগিতায় পূর্বস্থলী সনাতনী সঙ্ঘের আয়োজনে খিচুড়ি প্রসাদ বিতরণ। আরএসএসের অখিল ভারতীয় কার্যকারিণী সদস্য অদ্বৈতচরণ দত্ত এবং কলকাতার সঙ্ঘ ও বিশ্ব হিন্দু পরিষদের পদাধিকারীরা উপস্থিত ছিলেন।"
     },
     {
      "title": "Akhand Bharat Sankalp Diwas observance",
@@ -2099,7 +2950,13 @@ window.HINDUTVA = {
      "where": "Kolkata and Howrah",
      "when": "14 August",
      "page": 29,
-     "detail": "The day was marked by several Bharat Mata pujas and a Tiranga yatra on this page and page 27. They promoted the 'Akhand Bharat' ideal among the public."
+     "detail": "The day was marked by several Bharat Mata pujas and a Tiranga yatra on this page and page 27. They promoted the 'Akhand Bharat' ideal among the public.",
+     "title_bn": "অখণ্ড ভারত সংকল্প দিবস পালন",
+     "org_bn": "আরএসএস",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "কলকাতা ও হাওড়া",
+     "when_bn": "১৪ আগস্ট",
+     "detail_bn": "এই পৃষ্ঠা ও ২৭ পৃষ্ঠায় দিনটি উপলক্ষে একাধিক ভারতমাতা পুজো ও তিরঙ্গা যাত্রা অনুষ্ঠিত হয়। এগুলি জনসাধারণের মধ্যে 'অখণ্ড ভারত'-এর আদর্শের প্রচার করেছে।"
     }
    ],
    "narratives": [
@@ -2108,86 +2965,124 @@ window.HINDUTVA = {
      "target": "Left and ultra-Left student organisations at Jadavpur University",
      "claim": "Four decades of Left rule turned Jadavpur from a cradle of nationalism into a 'red fort' and a nursery of anti-India, jihadi-influenced activity, with ragging, drugs, flag burning and obstruction of CCTV.",
      "heading": "সম্পাদকীয় (যাদবপুর বিশ্ববিদ্যালয়ের নামকরণ 'শ্রীঅরবিন্দ বিশ্ববিদ্যালয়' করার দাবি)",
-     "page": 5
+     "page": 5,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "যাদবপুর বিশ্ববিদ্যালয়ে বামপন্থী ও অতিবামপন্থী ছাত্র সংগঠন",
+     "claim_bn": "চার দশকের বামপন্থী শাসন যাদবপুরকে জাতীয়তাবাদের তীর্থভূমি থেকে 'লাল দুর্গ' এবং ভারত-বিরোধী, জেহাদি-প্রভাবিত কার্যকলাপের আঁতুড়ঘরে পরিণত করেছে; র‍্যাগিং, মাদক, পতাকা পোড়ানো ও সিসিটিভিতে বাধা দেওয়া তার অঙ্গ।"
     },
     {
      "theme": "history & icons",
      "target": "Jadavpur University and Sri Aurobindo",
      "claim": "The university should be renamed 'Sri Aurobindo University', with his statue and daily Vande Mataram, to restore its swadeshi legacy.",
      "heading": "সম্পাদকীয়",
-     "page": 5
+     "page": 5,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "যাদবপুর বিশ্ববিদ্যালয় ও শ্রী অরবিন্দ",
+     "claim_bn": "বিশ্ববিদ্যালয়ের স্বদেশি ঐতিহ্য ফিরিয়ে আনতে এর নাম বদলে ‘শ্রী অরবিন্দ বিশ্ববিদ্যালয়’ রাখা, তাঁর মূর্তি স্থাপন করা এবং প্রতিদিন বন্দেমাতরম গাওয়া উচিত।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Maoists and the Left",
      "claim": "Maoist and Left groups run an anti-national conspiracy in universities.",
      "heading": "মাও-বামেদের রাষ্ট্রবিরোধী চক্রান্ত",
-     "page": 8
+     "page": 8,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "মাওবাদী ও বামপন্থীরা",
+     "claim_bn": "মাওবাদী ও বামপন্থী গোষ্ঠীগুলি বিশ্ববিদ্যালয়গুলিতে দেশবিরোধী ষড়যন্ত্র চালাচ্ছে।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "'Dimagi Naxals' and Maoists",
      "claim": "'Dimagi Naxals' are a 'cancer' of the nation's life.",
      "heading": "দিমাগি নকশাল : জাতির জীবনের ক্যানসার",
-     "page": 11
+     "page": 11,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "'ডিমাগি নকশাল' ও মাওবাদী",
+     "claim_bn": "'ডিমাগি নকশালরা' দেশের জীবনের 'ক্যানসার'।"
     },
     {
      "theme": "Bangladesh & Hindu persecution",
      "target": "Bangladesh authorities and attackers",
      "claim": "Attacks on and killings of Hindus in Bangladesh continue unabated.",
      "heading": "বাংলাদেশে হিন্দুদের ওপর আক্রমণ ও হত্যা অব্যাহত",
-     "page": 13
+     "page": 13,
+     "theme_bn": "বাংলাদেশ ও হিন্দু নির্যাতন",
+     "target_bn": "বাংলাদেশের কর্তৃপক্ষ ও হামলাকারীরা",
+     "claim_bn": "বাংলাদেশে হিন্দুদের উপর হামলা ও হত্যা বিরামহীনভাবে চলছে।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Left groups at Jadavpur University",
      "claim": "Jadavpur is repeatedly hit by the same kind of disorder, which the paper blames on Left activism.",
      "heading": "শুধু যাদবপুর বিশ্ববিদ্যালয়ে বারবার কেন একইভাবে গণ্ডগোল হচ্ছে?",
-     "page": 15
+     "page": 15,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "যাদবপুর বিশ্ববিদ্যালয়ের বামপন্থী গোষ্ঠীগুলি",
+     "claim_bn": "যাদবপুর বারবার একই ধরনের বিশৃঙ্খলার শিকার হচ্ছে, যার দায় পত্রিকাটি বামপন্থী সক্রিয়তার উপর চাপিয়েছে।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Campus Left radicals",
      "claim": "Extremism, intellectual terror and anti-national narratives dominate university campuses under the guise of 'azadi'.",
      "heading": "আজাদির বিকৃতি : বিশ্ববিদ্যালয় ক্যাম্পাসে উগ্রবাদ আধিপত্য, বুদ্ধিবৃত্তিক সন্ত্রাস ও রাষ্ট্রবিরোধী ন্যারেটিভের উত্থান",
-     "page": 17
+     "page": 17,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "ক্যাম্পাসের বামপন্থী উগ্রপন্থীরা",
+     "claim_bn": "'আজাদি'র আড়ালে বিশ্ববিদ্যালয় ক্যাম্পাসগুলিতে উগ্রপন্থা, বুদ্ধিজীবী সন্ত্রাস ও দেশবিরোধী আখ্যান প্রাধান্য পাচ্ছে।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Maoists and 'Dimagi Naxals'",
      "claim": "Their anti-national activity must be stopped.",
      "heading": "মাওবাদী ও দিমাগি নকশালদের রাষ্ট্রবিরোধী কার্যকলাপ বন্ধ করতে",
-     "page": 36
+     "page": 36,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "মাওবাদী ও 'দিমাগি নকশাল'",
+     "claim_bn": "তাদের দেশবিরোধী কার্যকলাপ বন্ধ করতে হবে।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Left and ultra-Left at Jadavpur University",
      "claim": "Jadavpur's journey from a holy land of nationalism to a bloody history of Left and ultra-Left anarchy is a great crisis of history and ideals.",
      "heading": "যাদবপুর বিশ্ববিদ্যালয় : জাতীয়তাবোধের পুণ্যভূমি থেকে বাম-অতিবামপন্থী নৈরাজ্যের রক্তাক্ত বিবর্তন ইতিহাস ও আদর্শের মহাসংকট",
-     "page": 43
+     "page": 43,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "যাদবপুর বিশ্ববিদ্যালয়ে বামপন্থী ও অতিবামপন্থীরা",
+     "claim_bn": "যাদবপুরের জাতীয়তাবাদের পুণ্যভূমি থেকে বামপন্থী ও চরম বামপন্থী নৈরাজ্যের রক্তাক্ত ইতিহাসে পৌঁছনোর যাত্রা ইতিহাস ও আদর্শের এক বড় সংকট।"
     },
     {
      "theme": "West Bengal elections",
      "target": "New state government (CM Suvendu Adhikari)",
      "claim": "The newly formed West Bengal government has begun implementing its promises after 100 days, and the paper will run a special issue and a CM interview.",
      "heading": "রাজ্য সরকারের ১০০ দিন নিয়ে বিশেষ সংখ্যা",
-     "page": 4
+     "page": 4,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "নতুন রাজ্য সরকার (মুখ্যমন্ত্রী শুভেন্দু অধিকারী)",
+     "claim_bn": "নবগঠিত পশ্চিমবঙ্গ সরকার ১০০ দিন পর প্রতিশ্রুতি রূপায়ণ শুরু করেছে; পত্রিকা একটি বিশেষ সংখ্যা ও মুখ্যমন্ত্রীর সাক্ষাৎকার প্রকাশ করবে।"
     },
     {
      "theme": "culture/religion",
      "target": "Hindu readers",
      "claim": "Janmashtami and Lord Krishna are presented as Purushottam, with related articles on Krishna's appearance and Madanmohan.",
      "heading": "জন্মাষ্টমী ও পুরুষোত্তম শ্রীকৃষ্ণ",
-     "page": 31
+     "page": 31,
+     "theme_bn": "সংস্কৃতি/ধর্ম",
+     "target_bn": "হিন্দু পাঠকবৃন্দ",
+     "claim_bn": "জন্মাষ্টমী ও ভগবান শ্রীকৃষ্ণকে পুরুষোত্তম রূপে উপস্থাপন করা হয়েছে, সঙ্গে শ্রীকৃষ্ণের আবির্ভাব ও মদনমোহন বিষয়ক সংশ্লিষ্ট নিবন্ধ রয়েছে।"
     },
     {
      "theme": "culture/religion",
      "target": "Hindu devotional and religious tradition",
      "claim": "Durga Puja is a religious heritage of Bengal and its sattvik character must be preserved.",
      "heading": "দুর্গাপূজার সাত্ত্বিকতা রক্ষার লক্ষ্যে বিশ্ব হিন্দু পরিষদের সাংবাদিক সম্মেলন",
-     "page": 25
+     "page": 25,
+     "theme_bn": "সংস্কৃতি/ধর্ম",
+     "target_bn": "হিন্দু ভক্তিমূলক ও ধর্মীয় ঐতিহ্য",
+     "claim_bn": "দুর্গাপূজা বাংলার ধর্মীয় ঐতিহ্য এবং এর সাত্ত্বিক চরিত্র অবশ্যই রক্ষা করতে হবে।"
     }
-   ]
+   ],
+   "label_bn": "",
+   "summary_bn": "২০২৬ সালের ৭ সেপ্টেম্বরের এই সংখ্যার মাধ্যমে স্বস্তিকা তার ৭৯তম বর্ষে পা রাখল। এর প্রধান সম্পাদকীয় ও বেশির ভাগ মূল প্রবন্ধে যাদবপুর বিশ্ববিদ্যালয়কে বামপন্থী ও চরম বামপন্থী (মাওবাদী/'দিমাগি নকশাল') দেশবিরোধী রাজনীতির আঁতুড়ঘর বলে আক্রমণ করা হয়েছে। সম্পাদকীয়তে বিশ্ববিদ্যালয়ের নাম পাল্টে 'শ্রী অরবিন্দ বিশ্ববিদ্যালয়' রাখার দাবি জানানো হয়েছে। অন্যান্য লেখায় বাংলাদেশে হিন্দুদের উপর কথিত হামলা এবং জন্মাষ্টমী নিয়ে আলোচনা রয়েছে। সাংগঠনিক পাতায় ভারত মাতা পূজা ও অখণ্ড ভারত সংকল্প দিবসের অনুষ্ঠান, দুর্গাপূজা নিয়ে বিশ্ব হিন্দু পরিষদের সাংবাদিক বৈঠক, আরোগ্য ভারতীর বৈঠক এবং সঙ্ঘ-সংশ্লিষ্ট বৈঠক ও অনুষ্ঠানে সঙ্ঘচালক স্তরের উপস্থিতির খবর রয়েছে। এছাড়া নতুন রাজ্য সরকারের ১০০ দিন এবং মুখ্যমন্ত্রী শুভেন্দু অধিকারীর একটি আসন্ন সাক্ষাৎকারের উল্লেখ রয়েছে।"
   },
   {
    "issue": "20260831",
@@ -2203,7 +3098,13 @@ window.HINDUTVA = {
      "where": "Chakramprasad village, Balurghat block, Dakshin Dinajpur, West Bengal",
      "when": "18 August",
      "page": 23,
-     "detail": "The annual observance at Chakram Primary School ground included floral tributes at the martyr's memorial, kabaddi and archery. RSS Uttarbanga office-bearers attended, along with Union MoS Sukanta Majumdar, state minister Khudiram Tudu and local MLAs."
+     "detail": "The annual observance at Chakram Primary School ground included floral tributes at the martyr's memorial, kabaddi and archery. RSS Uttarbanga office-bearers attended, along with Union MoS Sukanta Majumdar, state minister Khudiram Tudu and local MLAs.",
+     "title_bn": "শহিদ চুরকা মুর্মু বলিদান দিবস স্মরণ (১৯৭১-এর যুদ্ধ)",
+     "org_bn": "আরএসএস",
+     "type_bn": "মিছিল/শোভাযাত্রা",
+     "where_bn": "চক্রামপ্রসাদ গ্রাম, বালুরঘাট ব্লক, দক্ষিণ দিনাজপুর, পশ্চিমবঙ্গ",
+     "when_bn": "১৮ আগস্ট",
+     "detail_bn": "চক্রম প্রাথমিক বিদ্যালয়ের মাঠে বার্ষিক অনুষ্ঠানে শহিদ বেদিতে পুষ্পার্ঘ্য অর্পণ, কবাডি ও তিরন্দাজি ছিল। আরএসএসের উত্তরবঙ্গের পদাধিকারীরা, কেন্দ্রীয় প্রতিমন্ত্রী সুকান্ত মজুমদার, রাজ্যের মন্ত্রী ক্ষুদিরাম টুডু ও স্থানীয় বিধায়কেরা উপস্থিত ছিলেন।"
     },
     {
      "title": "Vyasa Puja",
@@ -2212,7 +3113,13 @@ window.HINDUTVA = {
      "where": "Malda, West Bengal (Malda Bibhutibhushan High School)",
      "when": "18 August",
      "page": 23,
-     "detail": "The event was a joint programme with the school. Speakers stressed the guru's role, the relevance of Maharshi Vedavyasa, implementation of NEP 2020 and moral values. More than 100 students and teachers took part."
+     "detail": "The event was a joint programme with the school. Speakers stressed the guru's role, the relevance of Maharshi Vedavyasa, implementation of NEP 2020 and moral values. More than 100 students and teachers took part.",
+     "title_bn": "ব্যাস পূজা",
+     "org_bn": "অন্যান্য: ভারতীয় শিক্ষণ মণ্ডল",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "মালদা, পশ্চিমবঙ্গ (মালদা বিভূতিভূষণ উচ্চ বিদ্যালয়)",
+     "when_bn": "১৮ আগস্ট",
+     "detail_bn": "অনুষ্ঠানটি ছিল স্কুলের সঙ্গে যৌথ উদ্যোগে। বক্তারা গুরুর ভূমিকা, মহর্ষি বেদব্যাসের প্রাসঙ্গিকতা, জাতীয় শিক্ষানীতি ২০২০-র রূপায়ণ ও নৈতিক মূল্যবোধের উপর জোর দেন। একশোরও বেশি ছাত্রছাত্রী ও শিক্ষক অংশ নেন।"
     },
     {
      "title": "Discussion on 'From individual building to nation building' (RSS 100-year journey)",
@@ -2221,7 +3128,13 @@ window.HINDUTVA = {
      "where": "A college in North Bengal (name not clear in the OCR)",
      "when": "",
      "page": 25,
-     "detail": "RSS Uttarbanga prant pracharak Shyamacharan Ray spoke on the RSS's hundred-year journey and on moving from individual building to nation building. About 250 students and faculty attended."
+     "detail": "RSS Uttarbanga prant pracharak Shyamacharan Ray spoke on the RSS's hundred-year journey and on moving from individual building to nation building. About 250 students and faculty attended.",
+     "title_bn": "'ব্যক্তি নির্মাণ থেকে রাষ্ট্র নির্মাণ' (আরএসএসের ১০০ বছরের যাত্রা) বিষয়ে আলোচনা",
+     "org_bn": "অন্যান্য: অখিল ভারতীয় রাষ্ট্রীয় শৈক্ষিক মহাসংঘ",
+     "type_bn": "শতবর্ষ",
+     "where_bn": "উত্তরবঙ্গের একটি কলেজ (ওসিআর-এ নাম স্পষ্ট নয়)",
+     "when_bn": "",
+     "detail_bn": "আরএসএস উত্তরবঙ্গ প্রান্ত প্রচারক শ্যামাচরণ রায় আরএসএসের শত বছরের যাত্রা এবং ব্যক্তি নির্মাণ থেকে রাষ্ট্র নির্মাণের পথে এগিয়ে চলা নিয়ে বক্তব্য রাখেন। প্রায় ২৫০ জন ছাত্রছাত্রী ও শিক্ষক উপস্থিত ছিলেন।"
     },
     {
      "title": "Charak Jayanti celebration and Acharya Charak Samman 2026",
@@ -2230,7 +3143,13 @@ window.HINDUTVA = {
      "where": "Kolkata",
      "when": "17 August",
      "page": 25,
-     "detail": "The event honoured three doctors with the Acharya Charak Samman 2026. It featured a talk on Kerala-style Panchakarma, with RSS Dakshin Banga prant publicity head Biplab Roy among those present."
+     "detail": "The event honoured three doctors with the Acharya Charak Samman 2026. It featured a talk on Kerala-style Panchakarma, with RSS Dakshin Banga prant publicity head Biplab Roy among those present.",
+     "title_bn": "চরক জয়ন্তী উদ্‌যাপন ও আচার্য চরক সম্মান ২০২৬",
+     "org_bn": "অন্যান্য: বিশ্ব আয়ুর্বেদ পরিষদ",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "কলকাতা",
+     "when_bn": "১৭ আগস্ট",
+     "detail_bn": "অনুষ্ঠানে তিনজন চিকিৎসককে ২০২৬ সালের আচার্য চরক সম্মান দেওয়া হয়। কেরল পদ্ধতির পঞ্চকর্ম নিয়ে একটি আলোচনা হয়, উপস্থিতদের মধ্যে ছিলেন আরএসএসের দক্ষিণবঙ্গ প্রান্ত প্রচার প্রমুখ বিপ্লব রায়।"
     },
     {
      "title": "Three-day yoga and Indian knowledge tradition workshop",
@@ -2239,7 +3158,13 @@ window.HINDUTVA = {
      "where": "West Bengal (venue not clear in the OCR)",
      "when": "",
      "page": 27,
-     "detail": "The workshop combined yoga practice with sessions on education and Indian knowledge traditions and a research-paper presentation round. It closed with the national anthem."
+     "detail": "The workshop combined yoga practice with sessions on education and Indian knowledge traditions and a research-paper presentation round. It closed with the national anthem.",
+     "title_bn": "তিন দিনের যোগ ও ভারতীয় জ্ঞানপরম্পরা কর্মশালা",
+     "org_bn": "অন্যান্য: সংস্কৃত বিভাগসমূহ (যাদবপুর বিশ্ববিদ্যালয়ের গবেষকরা)",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "পশ্চিমবঙ্গ (ওসিআর-এ স্থান স্পষ্ট নয়)",
+     "when_bn": "",
+     "detail_bn": "কর্মশালায় যোগাভ্যাসের সঙ্গে শিক্ষা ও ভারতীয় জ্ঞানপরম্পরা বিষয়ক আলোচনা এবং গবেষণাপত্র উপস্থাপনার পর্ব ছিল। অনুষ্ঠান শেষ হয় জাতীয় সংগীত দিয়ে।"
     },
     {
      "title": "Tarashankar-Smriti Sahitya Samaj 7th annual session and state poets' meet",
@@ -2248,7 +3173,13 @@ window.HINDUTVA = {
      "where": "Suri, Birbhum, West Bengal",
      "when": "23, 25 and 26 July",
      "page": 27,
-     "detail": "The three days included Tarashankar's birth anniversary, a memorial lecture and a national seminar on nationalism and unity in Bankim, Vivekananda and Tarashankar. A statewide poets' meet with 100 poets followed. The organisers complained that the administration allowed only five people to garland his bust at the jail."
+     "detail": "The three days included Tarashankar's birth anniversary, a memorial lecture and a national seminar on nationalism and unity in Bankim, Vivekananda and Tarashankar. A statewide poets' meet with 100 poets followed. The organisers complained that the administration allowed only five people to garland his bust at the jail.",
+     "title_bn": "তারাশঙ্কর-স্মৃতি সাহিত্য সমাজের সপ্তম বার্ষিক অধিবেশন ও রাজ্য কবি সম্মেলন",
+     "org_bn": "অন্যান্য: তারাশঙ্কর-স্মৃতি সাহিত্য সমাজ",
+     "type_bn": "সম্মেলন",
+     "where_bn": "সিউড়ি, বীরভূম, পশ্চিমবঙ্গ",
+     "when_bn": "২৩, ২৫ ও ২৬ জুলাই",
+     "detail_bn": "তিন দিনের অনুষ্ঠানে ছিল তারাশঙ্করের জন্মবার্ষিকী, স্মারক বক্তৃতা এবং বঙ্কিম, বিবেকানন্দ ও তারাশঙ্করের রচনায় জাতীয়তাবাদ ও ঐক্য নিয়ে একটি জাতীয় আলোচনাসভা। এরপর ১০০ জন কবিকে নিয়ে রাজ্যব্যাপী কবি সম্মেলন অনুষ্ঠিত হয়। আয়োজকদের অভিযোগ, কারাগারে তাঁর আবক্ষ মূর্তিতে মাল্যদানের জন্য প্রশাসন মাত্র পাঁচজনকে অনুমতি দিয়েছিল।"
     }
    ],
    "narratives": [
@@ -2257,65 +3188,94 @@ window.HINDUTVA = {
      "target": "Foreign-funded NGOs, missionaries, Congress, the Left",
      "claim": "The FCRA (Amendment) Bill 2026 is needed to stop foreign money funding conversion and anti-India activity. Congress and the Communists oppose it because they do not care about sovereignty.",
      "heading": "চাই “বাম মুক্ত” রাজ্য, তাই তার কুপাঠ ধ্বংস করতে হবে : “যারে তুমি পিছে ফেল”",
-     "page": 6
+     "page": 6,
+     "theme_bn": "অন্যান্য",
+     "target_bn": "বিদেশি অর্থপুষ্ট এনজিও, মিশনারি, কংগ্রেস, বামপন্থীরা",
+     "claim_bn": "ধর্মান্তকরণ ও ভারতবিরোধী কার্যকলাপে বিদেশি অর্থ জোগান বন্ধ করতে এফসিআরএ (সংশোধনী) বিল ২০২৬ প্রয়োজন। কংগ্রেস ও কমিউনিস্টরা সার্বভৌমত্বের পরোয়া করে না বলেই বিলটির বিরোধিতা করছে।"
     },
     {
      "theme": "'love jihad'/conversion",
      "target": "Missionaries, churches and foreign donors",
      "claim": "Foreign money sent as social-service funds is used to induce poor and tribal people to convert. The bill expressly bars the use of foreign funds for conversion.",
      "heading": "বিদেশি অনুদান (সংশোধনী) বিল ২০২৬ : সার্বভৌমত্বের পাঁচিল",
-     "page": 11
+     "page": 11,
+     "theme_bn": "'লাভ জিহাদ'/ধর্মান্তরণ",
+     "target_bn": "মিশনারি, গির্জা ও বিদেশি দাতারা",
+     "claim_bn": "সমাজসেবার তহবিল হিসেবে পাঠানো বিদেশি অর্থ গরিব ও আদিবাসীদের ধর্মান্তরিত করতে প্ররোচিত করার কাজে ব্যবহৃত হয়। বিলে ধর্মান্তরের জন্য বিদেশি অর্থ ব্যবহার স্পষ্টভাবে নিষিদ্ধ করা হয়েছে।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Left and ultra-Left student organisations (Jadavpur University, FETSU)",
      "claim": "Left student groups harassed ABVP workers at Jadavpur University, and anti-national forces and sections of the media then spread a misleading narrative. The next issue promises an account of 'bloody Left domination' of the campus.",
      "heading": "যাদবপুর বিশ্ববিদ্যালয়ে বামপন্থীদের দৌরাত্ম্য",
-     "page": 4
+     "page": 4,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "বামপন্থী ও অতিবামপন্থী ছাত্র সংগঠন (যাদবপুর বিশ্ববিদ্যালয়, এফইটিএসইউ)",
+     "claim_bn": "যাদবপুর বিশ্ববিদ্যালয়ে বামপন্থী ছাত্র গোষ্ঠীগুলি এবিভিপি কর্মীদের হেনস্থা করেছে, এবং এরপর দেশবিরোধী শক্তি ও সংবাদমাধ্যমের একাংশ বিভ্রান্তিকর বক্তব্য ছড়িয়েছে। পরবর্তী সংখ্যায় ক্যাম্পাসে 'বামপন্থীদের রক্তাক্ত আধিপত্যের' বিবরণ দেওয়ার প্রতিশ্রুতি দেওয়া হয়েছে।"
     },
     {
      "theme": "nationalism/army/Pakistan",
      "target": "Left and Congress parties and foreign powers",
      "claim": "The agitation against the bill was a conspiracy to overthrow an elected government, as happened in Sri Lanka, Nepal and Bangladesh. Congress and the Communists took part directly.",
      "heading": "এফসিআরএ (সংশোধনী) বিল পেশ হওয়ার পর গড়ে ওঠা “আন্দোলন আরশোলাদের চরিত্র সম্পূর্ণ উন্মোচন করেছে",
-     "page": 3
+     "page": 3,
+     "theme_bn": "জাতীয়তাবাদ/সেনা/পাকিস্তান",
+     "target_bn": "বামপন্থী ও কংগ্রেস দল এবং বিদেশি শক্তি",
+     "claim_bn": "বিলের বিরুদ্ধে আন্দোলন ছিল শ্রীলঙ্কা, নেপাল ও বাংলাদেশে যেমন ঘটেছিল, তেমনই একটি নির্বাচিত সরকারকে উৎখাত করার ষড়যন্ত্র। কংগ্রেস ও কমিউনিস্টরা সরাসরি এতে অংশ নিয়েছিল।"
     },
     {
      "theme": "Bangladesh & Hindu persecution",
      "target": "Jihadi attackers in Bangladesh",
      "claim": "Jihadi violence against Hindus in Bangladesh continues, and the article asks when it will end.",
      "heading": "বাংলাদেশে হিন্দুদের ওপর জেহাদি আক্রমণ কবে বন্ধ হবে?",
-     "page": 3
+     "page": 3,
+     "theme_bn": "বাংলাদেশ ও হিন্দু নির্যাতন",
+     "target_bn": "বাংলাদেশের জিহাদি হামলাকারীরা",
+     "claim_bn": "বাংলাদেশে হিন্দুদের উপর জিহাদি হিংসা অব্যাহত রয়েছে, এবং নিবন্ধে প্রশ্ন তোলা হয়েছে এর শেষ কবে।"
     },
     {
      "theme": "Modi govt achievements",
      "target": "Nehru-era planned economy and earlier governments; praise for the Modi government",
      "claim": "India's growth of 6.5-6.7% in 2025-26 and the target of a 5-trillion-dollar economy by 2027-28 contrast with the stagnation of the state-controlled socialist economy of 1950-80.",
      "heading": "“হিন্দু গ্রোথ রেট” : প্রধানমন্ত্রীর বক্তব্যে নতুন করে ফিরে দেখা এক পুরনো বয়ান",
-     "page": 45
+     "page": 45,
+     "theme_bn": "মোদী সরকারের কৃতিত্ব",
+     "target_bn": "নেহরু আমলের পরিকল্পিত অর্থনীতি ও আগের সরকারগুলি; মোদী সরকারের প্রশংসা",
+     "claim_bn": "২০২৫-২৬ অর্থবর্ষে ভারতের ৬.৫-৬.৭ শতাংশ প্রবৃদ্ধি এবং ২০২৭-২৮ সালের মধ্যে ৫ ট্রিলিয়ন ডলারের অর্থনীতি গড়ার লক্ষ্যমাত্রা ১৯৫০-৮০ সালের রাষ্ট্রনিয়ন্ত্রিত সমাজতান্ত্রিক অর্থনীতির স্থবিরতার সঙ্গে তুলনীয়ভাবে বিপরীত।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "Opposition parties and the former TMC government",
      "claim": "The Left and Congress once held the Bengal government to account with only a handful of MLAs, but the Trinamool bloc has now split. The article presents this as a danger to parliamentary democracy and recalls Syama Prasad Mookerjee as the 'Lion of Parliament'.",
      "heading": "সংসদীয় রীতি-নীতি এবং বিরোধীদের ভূমিকা",
-     "page": 48
+     "page": 48,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "বিরোধী দলগুলি ও প্রাক্তন তৃণমূল সরকার",
+     "claim_bn": "বামফ্রন্ট ও কংগ্রেস একসময় মাত্র কয়েকজন বিধায়ক নিয়েই বাংলার সরকারকে জবাবদিহি করাত, কিন্তু এখন তৃণমূল শিবির ভেঙে গেছে। লেখাটিতে একে সংসদীয় গণতন্ত্রের পক্ষে বিপজ্জনক হিসেবে তুলে ধরা হয়েছে এবং শ্যামাপ্রসাদ মুখোপাধ্যায়কে 'সংসদের সিংহ' হিসেবে স্মরণ করা হয়েছে।"
     },
     {
      "theme": "history & icons",
      "target": "Hedgewar (Doctorji) and RSS volunteers",
      "claim": "Anecdotes present Doctorji as a careful speaker who wanted the Sangh to stay part of society. They also show him telling swayamsevaks to put the country before the party.",
      "heading": "গল্পকথায় ডাক্তারজী",
-     "page": 49
+     "page": 49,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "হেডগেওয়ার (ডাক্তারজি) ও আরএসএস স্বয়ংসেবকগণ",
+     "claim_bn": "কাহিনিগুলিতে ডাক্তারজিকে একজন সতর্ক বক্তা হিসেবে দেখানো হয়েছে, যিনি চেয়েছিলেন সংঘ সমাজের অংশ হয়েই থাকুক। সেখানে তাঁকে স্বয়ংসেবকদের দলের আগে দেশকে রাখার কথা বলতেও দেখা যায়।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "Jail administration and Birbhum district authorities",
      "claim": "Authorities restricted garlanding of the nationalist writer Tarashankar's bust to five people, and the prisons IG made an insulting remark when approached. Organisers protested.",
      "heading": "তারাশঙ্কর-স্মৃতি সাহিত্য সমাজের সপ্তম বার্ষিকী অধিবেশন",
-     "page": 27
+     "page": 27,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "কারা প্রশাসন ও বীরভূম জেলা কর্তৃপক্ষ",
+     "claim_bn": "জাতীয়তাবাদী সাহিত্যিক তারাশঙ্করের আবক্ষ মূর্তিতে মালা দেওয়ার অনুমতি কর্তৃপক্ষ পাঁচজনের মধ্যে সীমাবদ্ধ করে দেয়, এবং কারা বিভাগের আইজির কাছে যাওয়া হলে তিনি অপমানজনক মন্তব্য করেন। আয়োজকরা প্রতিবাদ জানান।"
     }
-   ]
+   ],
+   "label_bn": "",
+   "summary_bn": "২০২৬ সালের ৩১ আগস্টের এই সংখ্যাটি এফসিআরএ (সংশোধনী) বিল ২০২৬-কে কেন্দ্র করে; একে বিদেশি অর্থে ধর্মান্তরণ ও 'ডিপ স্টেট' হস্তক্ষেপের বিরুদ্ধে সার্বভৌমত্ব রক্ষাকারী পদক্ষেপ হিসেবে তুলে ধরা হয়েছে। কংগ্রেস ও বামপন্থীদের অভিযোগ করা হয়েছে যে তারা বিদেশি শক্তির পক্ষ নিয়েছে এবং বিলের বিরুদ্ধে ছাত্র আন্দোলনকে সমর্থন করছে। এতে যাদবপুর বিশ্ববিদ্যালয়ের বামপন্থী ছাত্র সংগঠনগুলিকেও আক্রমণ করা হয়েছে, 'বামমুক্ত' পশ্চিমবঙ্গের ডাক দেওয়া হয়েছে এবং সংসদে বিরোধীদের আচরণের সমালোচনা করা হয়েছে। পাশাপাশি সঙ্ঘ-সংশ্লিষ্ট অনুষ্ঠানের প্রতিবেদন রয়েছে— দক্ষিণ দিনাজপুরে শহিদ স্মরণ, ব্যাস পূজা, চরক জয়ন্তী এবং আরএসএস-এর শতবর্ষ উপলক্ষে একটি বক্তৃতা। এছাড়া ডাক্তারজির (হেডগেওয়ার) নানা কাহিনি এবং মোদী-আমলের প্রবৃদ্ধির প্রশংসা করা 'হিন্দু বৃদ্ধির হার' নিয়ে একটি অর্থনৈতিক ইতিহাসের লেখাও রয়েছে।"
   },
   {
    "issue": "20260824",
@@ -2331,7 +3291,13 @@ window.HINDUTVA = {
      "where": "West Bengal",
      "when": "Shravani Purnima, Aug 2026",
      "page": 5,
-     "detail": "Editorial hails Raksha Bandhan as a Sangh festival spread by swayamsevaks over a week of social outreach; praises CM Suvendu Adhikari's announcement of state-sponsored Rakhi celebrations. Rashtra Sevika Samiti ties rakhis on border soldiers and Vidya Bharati schools tie rakhis across communities."
+     "detail": "Editorial hails Raksha Bandhan as a Sangh festival spread by swayamsevaks over a week of social outreach; praises CM Suvendu Adhikari's announcement of state-sponsored Rakhi celebrations. Rashtra Sevika Samiti ties rakhis on border soldiers and Vidya Bharati schools tie rakhis across communities.",
+     "title_bn": "রাজ্য সরকারের সমর্থনে রক্ষাবন্ধন উদ্‌যাপন (সঙ্ঘ উৎসব)",
+     "org_bn": "আরএসএস",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "পশ্চিমবঙ্গ",
+     "when_bn": "শ্রাবণী পূর্ণিমা, আগস্ট ২০২৬",
+     "detail_bn": "সম্পাদকীয়তে রাখিবন্ধনকে সঙ্ঘের উৎসব বলে অভিহিত করা হয়েছে, যা স্বয়ংসেবকরা এক সপ্তাহব্যাপী সামাজিক কর্মসূচির মাধ্যমে ছড়িয়ে দিয়েছেন; মুখ্যমন্ত্রী শুভেন্দু অধিকারীর রাজ্য-পৃষ্ঠপোষিত রাখি উদ্‌যাপনের ঘোষণার প্রশংসা করা হয়েছে। রাষ্ট্র সেবিকা সমিতি সীমান্তের সৈনিকদের রাখি পরিয়েছে এবং বিদ্যা ভারতীর স্কুলগুলি বিভিন্ন সম্প্রদায়ের মধ্যে রাখি বেঁধেছে।"
     },
     {
      "title": "Loktantra Senani Sammaan felicitation (Emergency 1975 jail-goers)",
@@ -2340,7 +3306,13 @@ window.HINDUTVA = {
      "where": "Nabanna, Kolkata",
      "when": "9 August 2026",
      "page": 23,
-     "detail": "The state government honoured Emergency-era satyagrahis for the first time; CM Suvendu Adhikari paid respects to RSS pracharak Sunilpad Goswami. Page 48 says 325 Senanis were honoured and that a monthly Rs 10,000 honorarium plus Rs 1,000 medical aid and free state bus travel have begun."
+     "detail": "The state government honoured Emergency-era satyagrahis for the first time; CM Suvendu Adhikari paid respects to RSS pracharak Sunilpad Goswami. Page 48 says 325 Senanis were honoured and that a monthly Rs 10,000 honorarium plus Rs 1,000 medical aid and free state bus travel have begun.",
+     "title_bn": "লোকতন্ত্র সেনানী সম্মান সংবর্ধনা (১৯৭৫-এর জরুরি অবস্থায় কারাবরণকারীরা)",
+     "org_bn": "অন্যান্য: পশ্চিমবঙ্গ রাজ্য সরকার (আরএসএস-সংশ্লিষ্ট লোকতন্ত্র সেনানী সঙ্ঘের সঙ্গে)",
+     "type_bn": "অন্যান্য",
+     "where_bn": "নবান্ন, কলকাতা",
+     "when_bn": "৯ আগস্ট ২০২৬",
+     "detail_bn": "রাজ্য সরকার প্রথমবার জরুরি অবস্থার সময়কার সত্যাগ্রহীদের সংবর্ধনা দিয়েছে; মুখ্যমন্ত্রী শুভেন্দু অধিকারী আরএসএস প্রচারক সুনীলপদ গোস্বামীকে শ্রদ্ধা জানান। ৪৮ পৃষ্ঠায় বলা হয়েছে, ৩২৫ জন সেনানীকে সংবর্ধনা দেওয়া হয়েছে এবং মাসিক ১০,০০০ টাকা সম্মানভাতা, ১,০০০ টাকা চিকিৎসা সহায়তা ও রাজ্য বাসে বিনামূল্যে যাতায়াত শুরু হয়েছে।"
     },
     {
      "title": "Vishwa Hindu Parishad Matrishakti Barg (3-day women's training)",
@@ -2349,7 +3321,13 @@ window.HINDUTVA = {
      "where": "Shiliguri, North Bengal",
      "when": "6-9 August 2026",
      "page": 27,
-     "detail": "72 trainees from North Bengal districts attended at the Sri Krishna Pranami Mandir. Sessions covered organisational training, leadership, social responsibility, and Indian culture; Durga Vahini figures addressed the camp."
+     "detail": "72 trainees from North Bengal districts attended at the Sri Krishna Pranami Mandir. Sessions covered organisational training, leadership, social responsibility, and Indian culture; Durga Vahini figures addressed the camp.",
+     "title_bn": "বিশ্ব হিন্দু পরিষদ মাতৃশক্তি বর্গ (৩ দিনের মহিলা প্রশিক্ষণ)",
+     "org_bn": "বিশ্ব হিন্দু পরিষদ",
+     "type_bn": "শাখা/প্রশিক্ষণ শিবির",
+     "where_bn": "শিলিগুড়ি, উত্তরবঙ্গ",
+     "when_bn": "৬–৯ আগস্ট ২০২৬",
+     "detail_bn": "শ্রীকৃষ্ণ প্রণামী মন্দিরে উত্তরবঙ্গের বিভিন্ন জেলার ৭২ জন প্রশিক্ষণার্থী উপস্থিত ছিলেন। সাংগঠনিক প্রশিক্ষণ, নেতৃত্ব, সামাজিক দায়িত্ব ও ভারতীয় সংস্কৃতি নিয়ে অধিবেশন হয়; দুর্গা বাহিনীর বিশিষ্টরা শিবিরে বক্তব্য রাখেন।"
     },
     {
      "title": "Nyay Brati road safety awareness drive",
@@ -2358,7 +3336,13 @@ window.HINDUTVA = {
      "where": "Medinipur town, Paschim Medinipur",
      "when": "8 August 2026",
      "page": 27,
-     "detail": "Members sensitised 81 helmetless bikers and seatbeltless car riders at the NH-6 entry, in line with the state road-safety campaign."
+     "detail": "Members sensitised 81 helmetless bikers and seatbeltless car riders at the NH-6 entry, in line with the state road-safety campaign.",
+     "title_bn": "ন্যায় ব্রত সড়ক নিরাপত্তা সচেতনতা অভিযান",
+     "org_bn": "অন্যান্য: ন্যায় ব্রত",
+     "type_bn": "সেবা/ত্রাণ",
+     "where_bn": "মেদিনীপুর শহর, পশ্চিম মেদিনীপুর",
+     "when_bn": "৮ আগস্ট ২০২৬",
+     "detail_bn": "রাজ্যের সড়ক নিরাপত্তা অভিযান অনুসারে সদস্যরা এনএইচ-৬-এর প্রবেশমুখে হেলমেটহীন ৮১ জন বাইকচালক ও সিটবেল্টহীন গাড়িচালককে সচেতন করেন।"
     },
     {
      "title": "Conclave on Roadmap for Development of Women in West Bengal",
@@ -2367,7 +3351,13 @@ window.HINDUTVA = {
      "where": "New Town, Kolkata",
      "when": "6 August 2026",
      "page": 28,
-     "detail": "Panels on health, women's safety, law, economy and culture; state minister Dilip Ghosh and Women & Child Welfare minister Malati Rava Roy attended the inaugural session. Convened via Mahila Samanvay's Nilanjana Roy."
+     "detail": "Panels on health, women's safety, law, economy and culture; state minister Dilip Ghosh and Women & Child Welfare minister Malati Rava Roy attended the inaugural session. Convened via Mahila Samanvay's Nilanjana Roy.",
+     "title_bn": "পশ্চিমবঙ্গে নারীর উন্নয়নের রূপরেখা বিষয়ক সম্মেলন",
+     "org_bn": "অন্যান্য: জাতীয় মহিলা কমিশন / মহিলা সমন্বয়",
+     "type_bn": "সম্মেলন",
+     "where_bn": "নিউ টাউন, কলকাতা",
+     "when_bn": "৬ আগস্ট ২০২৬",
+     "detail_bn": "স্বাস্থ্য, নারী নিরাপত্তা, আইন, অর্থনীতি ও সংস্কৃতি নিয়ে আলোচনাচক্র; উদ্বোধনী অধিবেশনে রাজ্যের মন্ত্রী দিলীপ ঘোষ ও নারী ও শিশুকল্যাণ মন্ত্রী মালতী রাভা রায় উপস্থিত ছিলেন। মহিলা সমন্বয়ের নীলাঞ্জনা রায়ের মাধ্যমে আহূত।"
     },
     {
      "title": "Akhil Bharatiya Rashtriya Shaikshik Mahasangh Bankura district conference",
@@ -2376,7 +3366,13 @@ window.HINDUTVA = {
      "where": "Bankura",
      "when": "2 August 2026",
      "page": 29,
-     "detail": "Over 800 delegates met at Gurudakshina Lodge; senior organisers Ashis Kumar Mandal and Satinath Mondal were felicitated, with MLAs Satyanarayan Mukhopadhyay and Chandana Bauri as guests."
+     "detail": "Over 800 delegates met at Gurudakshina Lodge; senior organisers Ashis Kumar Mandal and Satinath Mondal were felicitated, with MLAs Satyanarayan Mukhopadhyay and Chandana Bauri as guests.",
+     "title_bn": "অখিল ভারতীয় রাষ্ট্রীয় শৈক্ষিক মহাসংঘ বাঁকুড়া জেলা সম্মেলন",
+     "org_bn": "অন্যান্য: অখিল ভারতীয় রাষ্ট্রীয় শৈক্ষিক মহাসংঘ",
+     "type_bn": "সম্মেলন",
+     "where_bn": "বাঁকুড়া",
+     "when_bn": "২ আগস্ট ২০২৬",
+     "detail_bn": "গুরুদক্ষিণা লজে ৮০০-র বেশি প্রতিনিধি সমবেত হন; প্রবীণ সংগঠক আশিস কুমার মণ্ডল ও সতীনাথ মণ্ডলকে সংবর্ধনা দেওয়া হয়, অতিথি ছিলেন বিধায়ক সত্যনারায়ণ মুখোপাধ্যায় ও চন্দনা বাউরি।"
     },
     {
      "title": "'Vande Mataram-150 and From Swadhinata to Swatantrata' discussion, Memari College",
@@ -2385,7 +3381,13 @@ window.HINDUTVA = {
      "where": "Memari, Purba Bardhaman",
      "when": "10 August 2026",
      "page": 29,
-     "detail": "Joint event of Memari College and Lokaprajna with writer Diganta Chakraborty and an RSS karyakarta among speakers; about 250 students and teachers attended."
+     "detail": "Joint event of Memari College and Lokaprajna with writer Diganta Chakraborty and an RSS karyakarta among speakers; about 250 students and teachers attended.",
+     "title_bn": "মেমারি কলেজে 'বন্দে মাতরম-১৫০ ও স্বাধীনতা থেকে স্বতন্ত্রতা' আলোচনা",
+     "org_bn": "অন্যান্য: লোকপ্রজ্ঞা (প্রজ্ঞা প্রবাহ পশ্চিমবঙ্গ)",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "মেমারি, পূর্ব বর্ধমান",
+     "when_bn": "১০ আগস্ট ২০২৬",
+     "detail_bn": "মেমারি কলেজ ও লোকপ্রজ্ঞার যৌথ অনুষ্ঠান, বক্তাদের মধ্যে ছিলেন লেখক দিগন্ত চক্রবর্তী ও একজন আরএসএস কার্যকর্তা; প্রায় ২৫০ জন ছাত্রছাত্রী ও শিক্ষক উপস্থিত ছিলেন।"
     },
     {
      "title": "Vande Mataram 150th anniversary programme by Yadav Sabha",
@@ -2394,7 +3396,13 @@ window.HINDUTVA = {
      "where": "Malda Town Hall, Malda",
      "when": "10 August 2026",
      "page": 30,
-     "detail": "Seminar on history and relevance of Vande Mataram with floral tributes to Bharat Mata and Bankim, felicitation of meritorious students and MLAs, and patriotic cultural performances."
+     "detail": "Seminar on history and relevance of Vande Mataram with floral tributes to Bharat Mata and Bankim, felicitation of meritorious students and MLAs, and patriotic cultural performances.",
+     "title_bn": "যাদব সভার বন্দে মাতরমের ১৫০তম বার্ষিকী অনুষ্ঠান",
+     "org_bn": "অন্যান্য: যাদব সভা / বঙ্গীয় যাদব মহাসভা",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "মালদা টাউন হল, মালদা",
+     "when_bn": "১০ আগস্ট ২০২৬",
+     "detail_bn": "বন্দেমাতরমের ইতিহাস ও প্রাসঙ্গিকতা নিয়ে আলোচনাসভা, যেখানে ভারতমাতা ও বঙ্কিমের প্রতি পুষ্পার্ঘ্য নিবেদন, কৃতী ছাত্রছাত্রী ও বিধায়কদের সংবর্ধনা এবং দেশাত্মবোধক সাংস্কৃতিক অনুষ্ঠান হয়।"
     },
     {
      "title": "One-day seminar on 150 Years of Vande Mataram (Vivekananda Mahavidyalaya)",
@@ -2403,7 +3411,13 @@ window.HINDUTVA = {
      "where": "West Bengal (college)",
      "when": "7 August 2026",
      "page": 30,
-     "detail": "Seminar with Prajna Pravah's Purva Kshetra convenor Arabinda Das and Prof. Shubhamoy Pahari among the speakers."
+     "detail": "Seminar with Prajna Pravah's Purva Kshetra convenor Arabinda Das and Prof. Shubhamoy Pahari among the speakers.",
+     "title_bn": "বন্দে মাতরমের ১৫০ বছর বিষয়ে একদিনের আলোচনাসভা (বিবেকানন্দ মহাবিদ্যালয়)",
+     "org_bn": "অন্যান্য: লোকপ্রজ্ঞা (প্রজ্ঞা প্রবাহ পশ্চিমবঙ্গ)",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "পশ্চিমবঙ্গ (কলেজ)",
+     "when_bn": "৭ আগস্ট ২০২৬",
+     "detail_bn": "প্রজ্ঞা প্রবাহের পূর্ব ক্ষেত্র সংযোজক অরবিন্দ দাস ও অধ্যাপক শুভময় পাহাড়ী বক্তাদের মধ্যে ছিলেন, এমন একটি আলোচনাসভা।"
     },
     {
      "title": "Bhagwat dialogue with Gen-Z and Gen-Alpha",
@@ -2412,7 +3426,13 @@ window.HINDUTVA = {
      "where": "Mumbai",
      "when": "recent (as printed: 'সম্প্রতি')",
      "page": 43,
-     "detail": "Sarsanghchalak Dr Mohan Bhagwat spoke with young people, calling Gen-Z the 'most honest and truthful' generation and urging constructive dialogue (shastrartha)."
+     "detail": "Sarsanghchalak Dr Mohan Bhagwat spoke with young people, calling Gen-Z the 'most honest and truthful' generation and urging constructive dialogue (shastrartha).",
+     "title_bn": "জেন-জেড ও জেন-আলফার সঙ্গে ভাগবতের সংলাপ",
+     "org_bn": "আরএসএস",
+     "type_bn": "অন্যান্য",
+     "where_bn": "মুম্বই",
+     "when_bn": "সাম্প্রতিক (মুদ্রিত অনুযায়ী: 'সম্প্রতি')",
+     "detail_bn": "সরসঙ্ঘচালক ডঃ মোহন ভাগবত তরুণদের সঙ্গে কথা বলেন, জেন-জেড প্রজন্মকে 'সবচেয়ে সৎ ও সত্যনিষ্ঠ' বলে অভিহিত করেন এবং গঠনমূলক সংলাপের (শাস্ত্রার্থ) আহ্বান জানান।"
     },
     {
      "title": "Sanskrit awareness campaign for the ongoing census self-enumeration",
@@ -2421,7 +3441,13 @@ window.HINDUTVA = {
      "where": "West Bengal",
      "when": "ongoing census",
      "page": 18,
-     "detail": "Article urges educated Hindus to list 'Sanskrit' among languages known in the online census self-enumeration form."
+     "detail": "Article urges educated Hindus to list 'Sanskrit' among languages known in the online census self-enumeration form.",
+     "title_bn": "চলমান জনগণনার স্ব-গণনা উপলক্ষে সংস্কৃত সচেতনতা প্রচার",
+     "org_bn": "অন্যান্য: সংস্কৃত প্রসারের আবেদন (প্রবন্ধ)",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "পশ্চিমবঙ্গ",
+     "when_bn": "চলমান জনগণনা",
+     "detail_bn": "প্রবন্ধে শিক্ষিত হিন্দুদের প্রতি আহ্বান জানানো হয়েছে, অনলাইন জনগণনার স্ব-গণনা ফর্মে জানা ভাষার তালিকায় যেন 'সংস্কৃত' উল্লেখ করা হয়।"
     },
     {
      "title": "Swastika lifetime/10-year membership drive",
@@ -2430,7 +3456,13 @@ window.HINDUTVA = {
      "where": "Kolkata",
      "when": "Aug 2026",
      "page": 4,
-     "detail": "Special notice announcing lifetime (Rs 25,000) and 10-year (Rs 10,000) memberships as the weekly approaches its 79th year."
+     "detail": "Special notice announcing lifetime (Rs 25,000) and 10-year (Rs 10,000) memberships as the weekly approaches its 79th year.",
+     "title_bn": "স্বস্তিকার আজীবন/১০ বছরের সদস্যপদ অভিযান",
+     "org_bn": "অন্যান্য: স্বস্তিকা সাপ্তাহিক / শুভস্বস্তিকা প্রিন্টস ফাউন্ডেশন",
+     "type_bn": "অন্যান্য",
+     "where_bn": "কলকাতা",
+     "when_bn": "আগস্ট ২০২৬",
+     "detail_bn": "সাপ্তাহিকটি ৭৯তম বর্ষে পদার্পণ করতে চলায় আজীবন (২৫,০০০ টাকা) ও ১০ বছরের (১০,০০০ টাকা) সদস্যপদের বিজ্ঞপ্তি।"
     }
    ],
    "narratives": [
@@ -2439,79 +3471,114 @@ window.HINDUTVA = {
      "target": "Left Front (34 years) and 'Muslim appeasement' family rule (15 years) vs. BJP government",
      "claim": "The 51 years from 1975 to 2026 were an era of darkness in Bengal under Left tyranny and appeasement, now ended by saffron rule installed by Hindu voters.",
      "heading": "লোকতন্ত্র সেনানী সম্মান (লেখক: সঙ্ঘের বরিষ্ঠ প্রচারক)",
-     "page": 48
+     "page": 48,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "বামফ্রন্ট (৩৪ বছর) ও 'মুসলিম তোষণের' পারিবারিক শাসন (১৫ বছর) বনাম বিজেপি সরকার",
+     "claim_bn": "১৯৭৫ থেকে ২০২৬ পর্যন্ত এই ৫১ বছর বামপন্থী অত্যাচার ও তোষণের অধীনে বাংলায় অন্ধকারের যুগ ছিল, যা এখন হিন্দু ভোটারদের প্রতিষ্ঠিত গৈরিক শাসনে শেষ হয়েছে।"
     },
     {
      "theme": "history & icons",
      "target": "Indira Gandhi/Congress (criticised); RSS swayamsevaks (praised)",
      "claim": "RSS swayamsevaks were the backbone of the 1975-77 satyagraha against the Emergency, forming 90% of Bengal's jail-goers and running 'jail training camps' and shakhas inside prison.",
      "heading": "লৌহকপাটের আড়ালে ষোলো মাস",
-     "page": 36
+     "page": 36,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "ইন্দিরা গান্ধী/কংগ্রেস (সমালোচিত); আরএসএস স্বয়ংসেবকরা (প্রশংসিত)",
+     "claim_bn": "১৯৭৫-৭৭ সালের জরুরি অবস্থাবিরোধী সত্যাগ্রহের মেরুদণ্ড ছিলেন আরএসএস স্বয়ংসেবকরা; বাংলার কারাবরণকারীদের ৯০ শতাংশই তাঁরা ছিলেন এবং জেলের ভেতরে 'জেল প্রশিক্ষণ শিবির' ও শাখা চালাতেন।"
     },
     {
      "theme": "history & icons",
      "target": "Indira Gandhi's Congress",
      "claim": "The Emergency killed democracy, and the Bengal government's first-ever Loktantra Senani honours finally recognise the RSS-led resistance.",
      "heading": "'লোকতন্ত্র সেনানী-১৯৭৫' সংবর্ধনা জ্ঞাপন অনুষ্ঠান",
-     "page": 23
+     "page": 23,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "ইন্দিরা গান্ধীর কংগ্রেস",
+     "claim_bn": "জরুরি অবস্থা গণতন্ত্রকে হত্যা করেছিল, আর বাংলার সরকারের প্রথমবারের 'লোকতন্ত্র সেনানী' সম্মাননা অবশেষে আরএসএস-নেতৃত্বাধীন প্রতিরোধের স্বীকৃতি দিল।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "Hindu society / Suvendu Adhikari government",
      "claim": "Raksha Bandhan, institutionalised by Hedgewar into Sangh utsav, is the great festival of harmony and national consciousness, and CM Suvendu Adhikari deserves thanks for making it a state-sponsored event.",
      "heading": "সম্প্রীতির মহান উৎসব",
-     "page": 5
+     "page": 5,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "হিন্দু সমাজ / শুভেন্দু অধিকারী সরকার",
+     "claim_bn": "হেডগেওয়ার যে রক্ষাবন্ধনকে সঙ্ঘ উৎসব হিসেবে প্রতিষ্ঠিত করেছিলেন, তা সম্প্রীতি ও জাতীয় চেতনার মহান উৎসব; একে রাজ্য-পৃষ্ঠপোষকতাধীন অনুষ্ঠানে পরিণত করার জন্য মুখ্যমন্ত্রী শুভেন্দু অধিকারী ধন্যবাদের যোগ্য।"
     },
     {
      "theme": "Modi govt achievements",
      "target": "Narendra Modi (praised); Nehru and Indira Gandhi eras (compared unfavourably)",
      "claim": "Modi's three dozen-plus international honours show India's diplomatic standing is now stronger than under Nehru or Indira, with India the fourth-largest economy and a leader of the Global South.",
      "heading": "আন্তর্জাতিক কূটনীতির শীর্ষে প্রধানমন্ত্রী নরেন্দ্র মোদী: বিশ্বমঞ্চে ভারতের জয়গান",
-     "page": 8
+     "page": 8,
+     "theme_bn": "মোদী সরকারের কৃতিত্ব",
+     "target_bn": "নরেন্দ্র মোদী (প্রশংসিত); নেহরু ও ইন্দিরা গান্ধীর আমল (প্রতিকূল তুলনায়)",
+     "claim_bn": "মোদীর তিন ডজনেরও বেশি আন্তর্জাতিক সম্মান প্রমাণ করে যে ভারতের কূটনৈতিক অবস্থান এখন নেহরু বা ইন্দিরার আমলের চেয়েও শক্তিশালী; ভারত চতুর্থ বৃহত্তম অর্থনীতি এবং গ্লোবাল সাউথের নেতা।"
     },
     {
      "theme": "nationalism/army/Pakistan",
      "target": "Global Islamist/terror threat",
      "claim": "The issue carries a piece warning India to stay vigilant after a terror attack in Spain involving Moroccan-origin attackers.",
      "heading": "স্পেনে মরক্কৌর আক্রমণ, ভারতকে সাবধান থাকতে হবে",
-     "page": 3
+     "page": 3,
+     "theme_bn": "জাতীয়তাবাদ/সেনা/পাকিস্তান",
+     "target_bn": "বৈশ্বিক ইসলামি/সন্ত্রাসী হুমকি",
+     "claim_bn": "সংখ্যাটিতে স্পেনে মরক্কোর বংশোদ্ভূত হামলাকারীদের জড়িত থাকা একটি সন্ত্রাসী হামলার পর ভারতকে সতর্ক থাকার বার্তা দিয়ে একটি লেখা রয়েছে।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Youth 'Cockroach Janata Party' (CJP) movement, elite activists, foreign-linked funders",
      "claim": "The CJP protest was a planned, PR-agency-driven digital campaign with foreign links and elite leaders who exploited and abandoned grassroots volunteers, and must be countered by Bhagwat's constructive 'shastrartha' dialogue and Gramsci-free national consciousness.",
      "heading": "আরশোলার ব্যাকরণ ও সাংস্কৃতিক আধিপত্যবাদ",
-     "page": 46
+     "page": 46,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "তরুণদের 'কক্‌রোচ জনতা পার্টি' (সিজেপি) আন্দোলন, অভিজাত কর্মী, বিদেশ-যোগাযোগযুক্ত অর্থদাতা",
+     "claim_bn": "সিজেপির প্রতিবাদ ছিল একটি পরিকল্পিত, পিআর সংস্থা-চালিত ডিজিটাল প্রচার, যার বিদেশি যোগ ছিল এবং যার অভিজাত নেতারা তৃণমূল স্তরের স্বেচ্ছাসেবকদের ব্যবহার করে পরে ত্যাগ করেছেন; এর মোকাবিলা করতে হবে ভাগবতের গঠনমূলক 'শাস্ত্রার্থ' সংলাপ এবং গ্রামশি-মুক্ত জাতীয় চেতনা দিয়ে।"
     },
     {
      "theme": "history & icons",
      "target": "Bankim Chandra and Congress (accused of mutilating Vande Mataram)",
      "claim": "Bankim's Vande Mataram is a mantra of national consciousness; readers complain the government-issued rendition distorts a line ('অবলা কেন মা এত বলে'), and Congress had earlier committed a sin by truncating it.",
      "heading": "প্রসঙ্গ বন্দে মাতরম্‌ (চিঠিপত্র)",
-     "page": 20
+     "page": 20,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "বঙ্কিমচন্দ্র ও কংগ্রেস (বন্দে মাতরম খণ্ডিত করার অভিযোগে অভিযুক্ত)",
+     "claim_bn": "বঙ্কিমের বন্দে মাতরম জাতীয় চেতনার মন্ত্র; পাঠকদের অভিযোগ, সরকার-প্রচারিত পরিবেশনায় একটি পঙ্‌ক্তি ('অবলা কেন মা এত বলে') বিকৃত হয়েছে, আর কংগ্রেস আগে এটি ছেঁটে ফেলে পাপ করেছিল।"
     },
     {
      "theme": "culture/religion",
      "target": "Educated Hindu Bengalis",
      "claim": "Sanskrit is near-dead as a mother tongue, so Hindus should declare 'I know Sanskrit' on the census form to win state support for Vedic and Puranic publishing.",
      "heading": "চলমান জনগণনা এবং সংস্কৃত ভাষা বিষয়ে সচেতনতা",
-     "page": 18
+     "page": 18,
+     "theme_bn": "সংস্কৃতি/ধর্ম",
+     "target_bn": "শিক্ষিত হিন্দু বাঙালি",
+     "claim_bn": "মাতৃভাষা হিসেবে সংস্কৃত প্রায় মৃত, তাই বৈদিক ও পৌরাণিক প্রকাশনার জন্য রাজ্যের সহায়তা পেতে হিন্দুদের জনগণনার ফর্মে 'আমি সংস্কৃত জানি' ঘোষণা করা উচিত।"
     },
     {
      "theme": "other",
      "target": "BJP elected representatives (criticised); Bharatiya Mazdoor Sangh (defended)",
      "claim": "BJP politicians should not clash with the BMS, an independent labour body, and should choose dialogue over conflict, citing a disputed 'Vajpayee' warning.",
      "heading": "বাজপেয়ীর সতর্কবার্তা আজও প্রাসঙ্গিক (চিঠিপত্র)",
-     "page": 20
+     "page": 20,
+     "theme_bn": "অন্যান্য",
+     "target_bn": "বিজেপির নির্বাচিত প্রতিনিধিরা (সমালোচিত); ভারতীয় মজদুর সংঘ (সমর্থিত)",
+     "claim_bn": "একটি স্বাধীন শ্রমিক সংগঠন ভারতীয় মজদুর সংঘের (বিএমএস) সঙ্গে বিজেপি নেতাদের সংঘাতে জড়ানো উচিত নয়; একটি বিতর্কিত 'বাজপেয়ী'-সতর্কবার্তার উল্লেখ করে সংঘাতের বদলে আলোচনার পথ বেছে নেওয়ার কথা বলা হয়েছে।"
     },
     {
      "theme": "culture/religion",
      "target": "Dr Hedgewar",
      "claim": "Hedgewar's discipline and punctuality are held up as the core mantra behind Sangh's growth, shown through anecdotes of his personal conduct.",
      "heading": "গল্পকথায় ডাক্তারজী",
-     "page": 49
+     "page": 49,
+     "theme_bn": "সংস্কৃতি/ধর্ম",
+     "target_bn": "ডাঃ হেডগেওয়ার",
+     "claim_bn": "হেডগেওয়ারের শৃঙ্খলা ও সময়ানুবর্তিতাকে সঙ্ঘের বৃদ্ধির মূল মন্ত্র হিসেবে তুলে ধরা হয়েছে, তাঁর ব্যক্তিগত আচরণের নানা কাহিনির মাধ্যমে।"
     }
-   ]
+   ],
+   "label_bn": "",
+   "summary_bn": "২০২৬ সালের ২৪ আগস্ট সংখ্যাটি (রাখিবন্ধন পর্ব) মুখ্যমন্ত্রী শুভেন্দু অধিকারীর নেতৃত্বাধীন পশ্চিমবঙ্গের নতুন বিজেপি সরকারকে নিয়ে উচ্ছ্বাস প্রকাশ করেছে; ২০২৬ সালকে বামশাসন ও 'মুসলিম তোষণে'র অধীনে ৫১ বছরের 'অন্ধকারে'র অবসান হিসেবে তুলে ধরা হয়েছে। ৯ আগস্ট রাজ্য সরকারের 'লোকতন্ত্র সেনানী' সংবর্ধনার (১৯৭৫-এর জরুরি অবস্থায় জেলে যাওয়া, অধিকাংশই আরএসএস স্বয়ংসেবক) প্রশংসা করা হয়েছে এবং জরুরি অবস্থার প্রত্যক্ষদর্শীর বিবরণ ছাপা হয়েছে। মোদির বৈশ্বিক কূটনৈতিক অবস্থান ও স্বদেশি অর্থনীতি, বন্দে মাতরম ১৫০ ও বঙ্কিমের জাতীয়তাবাদ, জনগণনায় সংস্কৃত, এবং 'কক্রোচ জনতা পার্টি' যুব আন্দোলনের নিরাপত্তার দৃষ্টিকোণ থেকে সমালোচনা তুলে ধরা হয়েছে; সঙ্গে রয়েছে জেন-জির সঙ্গে মোহন ভাগবতের সংলাপ। এতে ভারতীয় মজদুর সংঘ ও বিজেপির মধ্যে টানাপোড়েন নিয়ে একটি চিঠি এবং এফসিআরএ সংশোধনী বিল নিয়ে একটি টীকাও রয়েছে।"
   },
   {
    "issue": "20260817",
@@ -2527,7 +3594,13 @@ window.HINDUTVA = {
      "where": "Howrah, West Bengal",
      "when": "1 August",
      "page": 23,
-     "detail": "About 255 participants including national-level players, teachers and coaches attended; a new 22-member district committee was formed and seven gold medallists were honoured. Resolved to expand membership, kabaddi training and sports centres; the Amta MLA attended."
+     "detail": "About 255 participants including national-level players, teachers and coaches attended; a new 22-member district committee was formed and seven gold medallists were honoured. Resolved to expand membership, kabaddi training and sports centres; the Amta MLA attended.",
+     "title_bn": "ক্রীড়া ভারতী হাওড়া জেলা পরিচিতি বর্গ",
+     "org_bn": "অন্যান্য: ক্রীড়া ভারতী",
+     "type_bn": "শাখা/প্রশিক্ষণ শিবির",
+     "where_bn": "হাওড়া, পশ্চিমবঙ্গ",
+     "when_bn": "১ আগস্ট",
+     "detail_bn": "জাতীয় স্তরের খেলোয়াড়, শিক্ষক ও প্রশিক্ষক-সহ প্রায় ২৫৫ জন অংশগ্রহণকারী উপস্থিত ছিলেন; ২২ সদস্যের একটি নতুন জেলা কমিটি গঠিত হয় এবং সাতজন স্বর্ণপদকজয়ীকে সংবর্ধনা দেওয়া হয়। সদস্যপদ, কবাডি প্রশিক্ষণ ও ক্রীড়াকেন্দ্র সম্প্রসারণের সিদ্ধান্ত নেওয়া হয়; আমতার বিধায়ক উপস্থিত ছিলেন।"
     },
     {
      "title": "Natraj Vandana by Sanskar Bharati Medinipur",
@@ -2536,7 +3609,13 @@ window.HINDUTVA = {
      "where": "Medinipur town, West Bengal",
      "when": "12 Shraban",
      "page": 23,
-     "detail": "Held at Saraswati Shishu Mandir; artists were felicitated, the significance of Guru Purnima was explained, and songs, dance, recitation and a play were performed."
+     "detail": "Held at Saraswati Shishu Mandir; artists were felicitated, the significance of Guru Purnima was explained, and songs, dance, recitation and a play were performed.",
+     "title_bn": "সংস্কার ভারতী মেদিনীপুরের নটরাজ বন্দনা",
+     "org_bn": "অন্যান্য: সংস্কার ভারতী",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "মেদিনীপুর শহর, পশ্চিমবঙ্গ",
+     "when_bn": "১২ শ্রাবণ",
+     "detail_bn": "সরস্বতী শিশু মন্দিরে অনুষ্ঠিত; শিল্পীদের সংবর্ধনা দেওয়া হয়, গুরু পূর্ণিমার তাৎপর্য ব্যাখ্যা করা হয় এবং গান, নাচ, আবৃত্তি ও নাটক পরিবেশিত হয়।"
     },
     {
      "title": "BMS 72nd foundation day at Kalyani University",
@@ -2545,7 +3624,13 @@ window.HINDUTVA = {
      "where": "Kalyani University, Nadia, West Bengal",
      "when": "23 July",
      "page": 24,
-     "detail": "The BMS-affiliated university employees' union hoisted the flag and held a discussion on BMS history, Thengadi's ideas and labour welfare, with ABVP representatives present. Speakers claimed BMS is now the world's largest labour organisation."
+     "detail": "The BMS-affiliated university employees' union hoisted the flag and held a discussion on BMS history, Thengadi's ideas and labour welfare, with ABVP representatives present. Speakers claimed BMS is now the world's largest labour organisation.",
+     "title_bn": "কল্যাণী বিশ্ববিদ্যালয়ে বিএমএসের ৭২তম প্রতিষ্ঠা দিবস",
+     "org_bn": "বিএমএস",
+     "type_bn": "অন্যান্য",
+     "where_bn": "কল্যাণী বিশ্ববিদ্যালয়, নদিয়া, পশ্চিমবঙ্গ",
+     "when_bn": "২৩ জুলাই",
+     "detail_bn": "বিএমএস-সংশ্লিষ্ট বিশ্ববিদ্যালয় কর্মচারী সংগঠন পতাকা উত্তোলন করে এবং বিএমএসের ইতিহাস, ঠেংড়ির চিন্তাধারা ও শ্রমিক কল্যাণ নিয়ে আলোচনা সভা করে; সেখানে এবিভিপির প্রতিনিধিরা উপস্থিত ছিলেন। বক্তারা দাবি করেন, বিএমএস এখন বিশ্বের বৃহত্তম শ্রমিক সংগঠন।"
     },
     {
      "title": "NMO district conference",
@@ -2554,7 +3639,13 @@ window.HINDUTVA = {
      "where": "Berhampore, Murshidabad, West Bengal",
      "when": "1 August",
      "page": 25,
-     "detail": "Organisational conference on future programmes attended by state ministers of state Sumana Sarkar and Gargi Ghosh, a Bharat Sevashram Sangha monk, the RSS Murshidabad Vibhag Sanghachalak and local MLA Kanchan Maitra. A book 'Jibika' was launched."
+     "detail": "Organisational conference on future programmes attended by state ministers of state Sumana Sarkar and Gargi Ghosh, a Bharat Sevashram Sangha monk, the RSS Murshidabad Vibhag Sanghachalak and local MLA Kanchan Maitra. A book 'Jibika' was launched.",
+     "title_bn": "এনএমও জেলা সম্মেলন",
+     "org_bn": "অন্যান্য: ন্যাশনাল মেডিকোজ অর্গানাইজেশন (এনএমও)",
+     "type_bn": "সম্মেলন",
+     "where_bn": "বহরমপুর, মুর্শিদাবাদ, পশ্চিমবঙ্গ",
+     "when_bn": "১ আগস্ট",
+     "detail_bn": "ভবিষ্যৎ কর্মসূচি নিয়ে সাংগঠনিক সম্মেলন, যেখানে রাজ্যের প্রতিমন্ত্রী সুমনা সরকার ও গার্গী ঘোষ, ভারত সেবাশ্রম সঙ্ঘের একজন সন্ন্যাসী, আরএসএসের মুর্শিদাবাদ বিভাগ সঙ্ঘচালক এবং স্থানীয় বিধায়ক কাঞ্চন মৈত্র উপস্থিত ছিলেন। 'জীবিকা' নামে একটি বই প্রকাশিত হয়।"
     },
     {
      "title": "Blood donation camp and shanti yajna in Gajol",
@@ -2563,7 +3654,13 @@ window.HINDUTVA = {
      "where": "Gajol, Malda, West Bengal",
      "when": "2 August",
      "page": 25,
-     "detail": "Held by Malda Seva Bharati with Gaur Sanskriti Utthan Trust in memory of a swayamsevak's mother; 47 donated blood and each donor received a fruit sapling. Bharat Sevashram Sangha conducted a peace yajna; RSS Uttarbanga functionaries and MLA Chinmoy Deb Barman attended."
+     "detail": "Held by Malda Seva Bharati with Gaur Sanskriti Utthan Trust in memory of a swayamsevak's mother; 47 donated blood and each donor received a fruit sapling. Bharat Sevashram Sangha conducted a peace yajna; RSS Uttarbanga functionaries and MLA Chinmoy Deb Barman attended.",
+     "title_bn": "গাজোলে রক্তদান শিবির ও শান্তি যজ্ঞ",
+     "org_bn": "সেবা ভারতী",
+     "type_bn": "সেবা/ত্রাণ",
+     "where_bn": "গাজোল, মালদা, পশ্চিমবঙ্গ",
+     "when_bn": "২ আগস্ট",
+     "detail_bn": "একজন স্বয়ংসেবকের মায়ের স্মরণে গৌড় সংস্কৃতি উত্থান ট্রাস্টের সহযোগিতায় মালদা সেবা ভারতী আয়োজিত; ৪৭ জন রক্তদান করেন এবং প্রত্যেক রক্তদাতা একটি ফলের চারা পান। ভারত সেবাশ্রম সঙ্ঘ শান্তি যজ্ঞ পরিচালনা করে; আরএসএস উত্তরবঙ্গের কার্যকর্তারা ও বিধায়ক চিন্ময় দেব বর্মন উপস্থিত ছিলেন।"
     },
     {
      "title": "Sanskar Bharati North Kolkata Natraj Pujan and annual programme",
@@ -2572,7 +3669,13 @@ window.HINDUTVA = {
      "where": "Nagerbazar, North Kolkata",
      "when": "2 August",
      "page": 26,
-     "detail": "Three-session programme with cultural performances from five shakhas, a dance-music tribute to Natraj and a one-act play. State minister Dr Kalyan Chakraborty, RSS Dakshin Banga Prant Sanghachalak Sarada Prasad Pal and an MLA attended."
+     "detail": "Three-session programme with cultural performances from five shakhas, a dance-music tribute to Natraj and a one-act play. State minister Dr Kalyan Chakraborty, RSS Dakshin Banga Prant Sanghachalak Sarada Prasad Pal and an MLA attended.",
+     "title_bn": "সংস্কার ভারতী উত্তর কলকাতার নটরাজ পূজন ও বার্ষিক অনুষ্ঠান",
+     "org_bn": "অন্যান্য: সংস্কার ভারতী",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "নাগেরবাজার, উত্তর কলকাতা",
+     "when_bn": "২ আগস্ট",
+     "detail_bn": "তিন অধিবেশনের অনুষ্ঠান, যাতে পাঁচটি শাখার সাংস্কৃতিক পরিবেশনা, নটরাজের উদ্দেশে নৃত্য-সংগীত নিবেদন ও একটি একাঙ্ক নাটক ছিল। রাজ্যের মন্ত্রী ডাঃ কল্যাণ চক্রবর্তী, আরএসএস দক্ষিণবঙ্গ প্রান্ত সংঘচালক সারদা প্রসাদ পাল এবং একজন বিধায়ক উপস্থিত ছিলেন।"
     },
     {
      "title": "50th anniversary of Satyananda Devayatan",
@@ -2581,7 +3684,13 @@ window.HINDUTVA = {
      "where": "Bidhanpalli, Jadavpur, South Kolkata",
      "when": "21-29 July (main day 25 July)",
      "page": 28,
-     "detail": "Nine days of worship, homa, bhajan and music marking 50 years, Guru Purnima, Ulta Rath and the founder's birth anniversary. Jadavpur MLA Sarbari Mukherjee paid tribute."
+     "detail": "Nine days of worship, homa, bhajan and music marking 50 years, Guru Purnima, Ulta Rath and the founder's birth anniversary. Jadavpur MLA Sarbari Mukherjee paid tribute.",
+     "title_bn": "সত্যানন্দ দেবায়তনের ৫০তম বর্ষপূর্তি",
+     "org_bn": "অন্যান্য: সত্যানন্দ দেবায়তন (আধ্যাত্মিক প্রতিষ্ঠান)",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "বিধানপল্লি, যাদবপুর, দক্ষিণ কলকাতা",
+     "when_bn": "২১-২৯ জুলাই (প্রধান দিন ২৫ জুলাই)",
+     "detail_bn": "৫০ বছর উপলক্ষে নয় দিনব্যাপী পূজা, হোম, ভজন ও সংগীত, এবং গুরুপূর্ণিমা, উল্টোরথ ও প্রতিষ্ঠাতার জন্মজয়ন্তী পালিত হয়। যাদবপুরের বিধায়ক সর্বরী মুখোপাধ্যায় শ্রদ্ধা জানান।"
     },
     {
      "title": "Bangiya Granthashilpa Parishad Parichiti Barg",
@@ -2590,7 +3699,13 @@ window.HINDUTVA = {
      "where": "College Street, Kolkata",
      "when": "27 July (10 Shraban 1433)",
      "page": 28,
-     "detail": "Introductory camp for writers, publishers, printers and booksellers run by the RSS-linked publishing body. RSS Kolkata Mahanagar pracharak Narendranath Bera and Dakshin Banga Prant Sanghachalak Sarada Prasad Pal conducted proceedings."
+     "detail": "Introductory camp for writers, publishers, printers and booksellers run by the RSS-linked publishing body. RSS Kolkata Mahanagar pracharak Narendranath Bera and Dakshin Banga Prant Sanghachalak Sarada Prasad Pal conducted proceedings.",
+     "title_bn": "বঙ্গীয় গ্রন্থশিল্প পরিষদ পরিচিতি বর্গ",
+     "org_bn": "আরএসএস",
+     "type_bn": "শাখা/প্রশিক্ষণ শিবির",
+     "where_bn": "কলেজ স্ট্রিট, কলকাতা",
+     "when_bn": "২৭ জুলাই (১০ শ্রাবণ ১৪৩৩)",
+     "detail_bn": "আরএসএস-সংশ্লিষ্ট প্রকাশনা সংস্থা আয়োজিত লেখক, প্রকাশক, মুদ্রক ও বই বিক্রেতাদের পরিচিতি শিবির। আরএসএস কলকাতা মহানগর প্রচারক নরেন্দ্রনাথ বেরা এবং দক্ষিণবঙ্গ প্রান্ত সংঘচালক সারদা প্রসাদ পাল অনুষ্ঠান পরিচালনা করেন।"
     },
     {
      "title": "Tuhina Prakashani book launch of 25 books",
@@ -2599,7 +3714,13 @@ window.HINDUTVA = {
      "where": "Ramakrishna Mission Swami Vivekananda's Ancestral House, North Kolkata",
      "when": "18 July",
      "page": 29,
-     "detail": "25 patriotic and spiritual books released, including on Syama Prasad Mukherjee and 'Bangladesh Niye Lekhalekhi'. State ministers, scientist Dr Jishnu Basu and former RSS Purbakshetra Sanghachalak Ranendralal Bandyopadhyay were present and felicitated."
+     "detail": "25 patriotic and spiritual books released, including on Syama Prasad Mukherjee and 'Bangladesh Niye Lekhalekhi'. State ministers, scientist Dr Jishnu Basu and former RSS Purbakshetra Sanghachalak Ranendralal Bandyopadhyay were present and felicitated.",
+     "title_bn": "তুহিনা প্রকাশনীর ২৫টি বইয়ের প্রকাশ অনুষ্ঠান",
+     "org_bn": "অন্যান্য: তুহিনা প্রকাশনী",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "রামকৃষ্ণ মিশন স্বামী বিবেকানন্দের পৈতৃক ভিটা, উত্তর কলকাতা",
+     "when_bn": "১৮ জুলাই",
+     "detail_bn": "শ্যামাপ্রসাদ মুখোপাধ্যায় এবং 'বাংলাদেশ নিয়ে লেখালেখি'-সহ ২৫টি দেশাত্মবোধক ও আধ্যাত্মিক বই প্রকাশিত হয়। রাজ্যের মন্ত্রীরা, বিজ্ঞানী ডঃ জিষ্ণু বসু এবং আরএসএসের প্রাক্তন পূর্বক্ষেত্র সঙ্ঘচালক রণেন্দ্রলাল বন্দ্যোপাধ্যায় উপস্থিত ছিলেন ও সংবর্ধিত হন।"
     },
     {
      "title": "125th birth anniversary of Dr Syama Prasad Mukherjee at Badkulla",
@@ -2608,7 +3729,13 @@ window.HINDUTVA = {
      "where": "Badkulla, Nadia, West Bengal",
      "when": "2 August",
      "page": 30,
-     "detail": "A standing statue of Syama Prasad Mukherjee was installed at Gaganbabur Bazar and unveiled by the chairman of the Syama Prasad Mukherjee Research Foundation. The event ended with collective Vande Mataram."
+     "detail": "A standing statue of Syama Prasad Mukherjee was installed at Gaganbabur Bazar and unveiled by the chairman of the Syama Prasad Mukherjee Research Foundation. The event ended with collective Vande Mataram.",
+     "title_bn": "বাড়কুল্লায় ডঃ শ্যামাপ্রসাদ মুখোপাধ্যায়ের ১২৫তম জন্মবার্ষিকী",
+     "org_bn": "অন্যান্য: বাদকুল্লা ন্যাশনাল বয়েজ ক্লাব",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "বাদকুল্লা, নদিয়া, পশ্চিমবঙ্গ",
+     "when_bn": "২ আগস্ট",
+     "detail_bn": "গগনবাবুর বাজারে শ্যামাপ্রসাদ মুখোপাধ্যায়ের একটি দণ্ডায়মান মূর্তি স্থাপন করা হয় এবং শ্যামাপ্রসাদ মুখোপাধ্যায় রিসার্চ ফাউন্ডেশনের চেয়ারম্যান তার উন্মোচন করেন। অনুষ্ঠান শেষ হয় সমবেত বন্দে মাতরম গানের মধ্য দিয়ে।"
     },
     {
      "title": "Guru Purnima utsav at Malda College",
@@ -2617,7 +3744,13 @@ window.HINDUTVA = {
      "where": "Malda, West Bengal",
      "when": "29 July",
      "page": 30,
-     "detail": "Joint programme with Malda College on the guru-shishya tradition; RSS Vibhag Karyavah Shyamal Pal was the main speaker, calling for restoring teacher dignity and value-based education."
+     "detail": "Joint programme with Malda College on the guru-shishya tradition; RSS Vibhag Karyavah Shyamal Pal was the main speaker, calling for restoring teacher dignity and value-based education.",
+     "title_bn": "মালদা কলেজে গুরুপূর্ণিমা উৎসব",
+     "org_bn": "অন্যান্য: ভারতীয় শিক্ষণ মণ্ডল",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "মালদা, পশ্চিমবঙ্গ",
+     "when_bn": "২৯ জুলাই",
+     "detail_bn": "গুরু-শিষ্য পরম্পরা নিয়ে মালদা কলেজের সঙ্গে যৌথ কর্মসূচি; আরএসএস বিভাগ কার্যবাহ শ্যামল পাল প্রধান বক্তা ছিলেন এবং শিক্ষকের মর্যাদা পুনরুদ্ধার ও মূল্যবোধভিত্তিক শিক্ষার ডাক দেন।"
     },
     {
      "title": "Keshav Shakha swayamsevak reunion",
@@ -2626,7 +3759,13 @@ window.HINDUTVA = {
      "where": "West Bengal (location not stated)",
      "when": "26 July",
      "page": 41,
-     "detail": "Reunion of old and new swayamsevaks with 60 present. A Vibhag karyakarini member recounted that the shakha began in 1968, its members courted arrest during the Emergency and 25 went as kar sevaks to Ayodhya."
+     "detail": "Reunion of old and new swayamsevaks with 60 present. A Vibhag karyakarini member recounted that the shakha began in 1968, its members courted arrest during the Emergency and 25 went as kar sevaks to Ayodhya.",
+     "title_bn": "কেশব শাখার স্বয়ংসেবকদের পুনর্মিলন",
+     "org_bn": "আরএসএস",
+     "type_bn": "শাখা/প্রশিক্ষণ শিবির",
+     "where_bn": "পশ্চিমবঙ্গ (স্থানের উল্লেখ নেই)",
+     "when_bn": "২৬ জুলাই",
+     "detail_bn": "পুরনো ও নতুন স্বয়ংসেবকদের পুনর্মিলন, উপস্থিত ৬০ জন। বিভাগ কার্যকারিণীর এক সদস্য জানান, শাখাটি ১৯৬৮ সালে শুরু হয়, জরুরি অবস্থার সময় এর সদস্যরা গ্রেপ্তারবরণ করেন এবং ২৫ জন করসেবক হিসেবে অযোধ্যায় গিয়েছিলেন।"
     },
     {
      "title": "Bangladesh Hindu Bouddha Christian Oikya Parishad press conference",
@@ -2635,7 +3774,13 @@ window.HINDUTVA = {
      "where": "National Press Club, Dhaka",
      "when": "27 July 2026",
      "page": 35,
-     "detail": "The council released data of 257 communal violence incidents and 261 minority victims in Jan-June 2026, including 44 Hindus killed in 40 incidents. This is a Bangladeshi minority-rights body reported by the paper, not an Indian Sangh programme."
+     "detail": "The council released data of 257 communal violence incidents and 261 minority victims in Jan-June 2026, including 44 Hindus killed in 40 incidents. This is a Bangladeshi minority-rights body reported by the paper, not an Indian Sangh programme.",
+     "title_bn": "বাংলাদেশ হিন্দু বৌদ্ধ খ্রিস্টান ঐক্য পরিষদের সাংবাদিক বৈঠক",
+     "org_bn": "অন্যান্য: বাংলাদেশ হিন্দু বৌদ্ধ খ্রিস্টান ঐক্য পরিষদ",
+     "type_bn": "অন্যান্য",
+     "where_bn": "ন্যাশনাল প্রেস ক্লাব, ঢাকা",
+     "when_bn": "২৭ জুলাই ২০২৬",
+     "detail_bn": "পরিষদ ২০২৬ সালের জানুয়ারি–জুনে ২৫৭টি সাম্প্রদায়িক সহিংসতার ঘটনা ও ২৬১ জন সংখ্যালঘু ক্ষতিগ্রস্তের তথ্য প্রকাশ করেছে, যার মধ্যে ৪০টি ঘটনায় ৪৪ জন হিন্দু নিহত হয়েছেন। এটি পত্রিকার প্রতিবেদিত একটি বাংলাদেশি সংখ্যালঘু অধিকার সংস্থা, কোনও ভারতীয় সঙ্ঘ কর্মসূচি নয়।"
     },
     {
      "title": "Dr Hedgewar serial 'Galpo Kothay Doctorji'",
@@ -2644,7 +3789,13 @@ window.HINDUTVA = {
      "where": "",
      "when": "",
      "page": 49,
-     "detail": "Serialised anecdotes on Hedgewar's final illness and humour in 1940, part 93, compiled by Bimalkrishna Das."
+     "detail": "Serialised anecdotes on Hedgewar's final illness and humour in 1940, part 93, compiled by Bimalkrishna Das.",
+     "title_bn": "ডাঃ হেডগেওয়ারকে নিয়ে ধারাবাহিক 'গল্প কোথায় ডাক্তারজি'",
+     "org_bn": "আরএসএস",
+     "type_bn": "শতবর্ষ",
+     "where_bn": "",
+     "when_bn": "",
+     "detail_bn": "বিমলকৃষ্ণ দাসের সংকলিত, ১৯৪০ সালে হেডগেওয়ারের অন্তিম অসুস্থতা ও রসবোধ নিয়ে ধারাবাহিক ঘটনাবলির ৯৩তম পর্ব।"
     },
     {
      "title": "Rakhi Bandhan special issue announcement",
@@ -2653,7 +3804,13 @@ window.HINDUTVA = {
      "where": "",
      "when": "24 August 2026",
      "page": 4,
-     "detail": "The next issue will feature Rakhi Bandhan as a festival of social harmony, samarasata and unity, with contributions from several writers."
+     "detail": "The next issue will feature Rakhi Bandhan as a festival of social harmony, samarasata and unity, with contributions from several writers.",
+     "title_bn": "রাখি বন্ধন বিশেষ সংখ্যার ঘোষণা",
+     "org_bn": "অন্যান্য: স্বস্তিকা সাপ্তাহিক",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "",
+     "when_bn": "২৪ আগস্ট ২০২৬",
+     "detail_bn": "পরবর্তী সংখ্যায় সামাজিক সম্প্রীতি, সামরস্য ও ঐক্যের উৎসব হিসেবে রাখিবন্ধন নিয়ে একাধিক লেখকের লেখা থাকবে।"
     }
    ],
    "narratives": [
@@ -2662,72 +3819,104 @@ window.HINDUTVA = {
      "target": "Foreign powers, 'anti-national' forces and opposition parties",
      "claim": "Foreign imperial powers have long tried to destabilise India and now use domestic anti-national forces and opposition parties, along with youth movements, to topple the elected government, so patriots must be vigilant.",
      "heading": "সম্পাদকীয় (editorial on foreign conspiracies)",
-     "page": 5
+     "page": 5,
+     "theme_bn": "জাতীয়তাবাদ/সেনা/পাকিস্তান",
+     "target_bn": "বিদেশি শক্তি, 'দেশবিরোধী' শক্তি ও বিরোধী দলগুলি",
+     "claim_bn": "বিদেশি সাম্রাজ্যবাদী শক্তিগুলি দীর্ঘদিন ধরে ভারতকে অস্থিতিশীল করার চেষ্টা করছে এবং এখন দেশের ভেতরের দেশবিরোধী শক্তি ও বিরোধী দলগুলির পাশাপাশি যুব আন্দোলনকে ব্যবহার করে নির্বাচিত সরকারকে উৎখাত করতে চাইছে, তাই দেশপ্রেমীদের সজাগ থাকতে হবে।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Left leaders and student groups in the 'Cockroach' movement",
      "claim": "The Delhi 'Cockroach Janata Party' agitation was a staged political exercise against the BJP funded from abroad, with Left leaders and 'red cockroaches' joining opportunistically.",
      "heading": "নব্য-সাম্রাজ্যবাদ : রেজিম চেঞ্জ ও ভারতের ডিজিটাল সার্বভৌমত্ব",
-     "page": 11
+     "page": 11,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "'কক্রোচ' আন্দোলনে বামপন্থী নেতা ও ছাত্র গোষ্ঠীগুলি",
+     "claim_bn": "দিল্লির 'ককরোচ জনতা পার্টি' আন্দোলন ছিল বিজেপির বিরুদ্ধে বিদেশি অর্থে সাজানো এক রাজনৈতিক কসরত, যাতে বামপন্থী নেতারা ও 'লাল আরশোলারা' সুযোগসন্ধানী হয়ে যোগ দিয়েছে।"
     },
     {
      "theme": "nationalism/army/Pakistan",
      "target": "Student movement organisers, Dubai donors, Jamaat and Pakistan-linked accounts",
      "claim": "The Delhi student protest was driven by Gulf funding, Maoist/Left student groups, Bhim Army, Islamist groups, Pakistani social media handles and foreign NGOs, with a 'deep state' hand likely.",
      "heading": "ককরোচ আন্দোলনের বাস্তবতা : শিক্ষার্থীদের আন্দোলনের নেপথ্যে অপরাধ ও আন্তর্জাতিক চক্রান্তের চোরাস্রোত",
-     "page": 47
+     "page": 47,
+     "theme_bn": "জাতীয়তাবাদ/সেনা/পাকিস্তান",
+     "target_bn": "ছাত্র আন্দোলনের সংগঠক, দুবাইয়ের দাতা, জামাত এবং পাকিস্তান-যোগসূত্রযুক্ত অ্যাকাউন্ট",
+     "claim_bn": "দিল্লির ছাত্র বিক্ষোভের পিছনে ছিল উপসাগরীয় অর্থ, মাওবাদী/বামপন্থী ছাত্র সংগঠন, ভীম আর্মি, ইসলামপন্থী গোষ্ঠী, পাকিস্তানি সোশ্যাল মিডিয়া হ্যান্ডেল ও বিদেশি এনজিও; 'ডিপ স্টেটে'র হাত থাকার সম্ভাবনাও রয়েছে।"
     },
     {
      "theme": "Modi govt achievements",
      "target": "Modi government (since 2014)",
      "claim": "Since 2014 a self-respecting, patriotic government has made India a significant economy with indigenous defence tech and Global South leadership, which is why foreign powers are trying to unsettle it.",
      "heading": "সম্পাদকীয় (editorial)",
-     "page": 5
+     "page": 5,
+     "theme_bn": "মোদী সরকারের কৃতিত্ব",
+     "target_bn": "মোদী সরকার (২০১৪ সাল থেকে)",
+     "claim_bn": "২০১৪ সাল থেকে একটি আত্মমর্যাদাশীল, দেশপ্রেমী সরকার ভারতকে দেশীয় প্রতিরক্ষা প্রযুক্তি ও গ্লোবাল সাউথের নেতৃত্বসহ একটি গুরুত্বপূর্ণ অর্থনীতিতে পরিণত করেছে, আর সেই কারণেই বিদেশি শক্তিগুলি ভারতকে অস্থির করার চেষ্টা করছে।"
     },
     {
      "theme": "West Bengal elections",
      "target": "Previous West Bengal regime and the new state government",
      "claim": "West Bengal was long an open field for anti-national forces, but the political change and a 'patriotic' government now mean those forces will intensify efforts at home and abroad.",
      "heading": "সম্পাদকীয় (editorial)",
-     "page": 5
+     "page": 5,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "পশ্চিমবঙ্গের আগের শাসন ও নতুন রাজ্য সরকার",
+     "claim_bn": "পশ্চিমবঙ্গ দীর্ঘদিন দেশবিরোধী শক্তির খোলা ময়দান ছিল, কিন্তু রাজনৈতিক পরিবর্তন ও একটি 'দেশপ্রেমিক' সরকারের ফলে এখন সেই শক্তিগুলি দেশে ও বিদেশে প্রচেষ্টা তীব্র করবে।"
     },
     {
      "theme": "Bangladesh & Hindu persecution",
      "target": "Bangladesh's interim government and jihadi violence",
      "claim": "Bangladesh recorded 257 communal violence incidents and 44 Hindu killings in the first six months of 2026, with violence shifting from mass attacks to targeted persecution.",
      "heading": "বাংলাদেশে গত ছ'মাসের সাম্প্রদায়িক হিংসার তথ্য প্রকাশ করেছে ঐক্য পরিষদ",
-     "page": 35
+     "page": 35,
+     "theme_bn": "বাংলাদেশ ও হিন্দু নির্যাতন",
+     "target_bn": "বাংলাদেশের অন্তর্বর্তী সরকার ও জিহাদি সহিংসতা",
+     "claim_bn": "২০২৬ সালের প্রথম ছয় মাসে বাংলাদেশে সাম্প্রদায়িক সহিংসতার ২৫৭টি ঘটনা ও ৪৪ জন হিন্দু হত্যা নথিভুক্ত হয়েছে; সহিংসতা গণহামলা থেকে লক্ষ্যভিত্তিক নির্যাতনের দিকে সরেছে।"
     },
     {
      "theme": "Bangladesh & Hindu persecution",
      "target": "Islamic jihadis in Bangladesh",
      "claim": "After the Babri demolition in 1992, Bangladesh saw mass killings, rape and temple burning of Hindus, which Taslima Nasrin documented in 'Lajja', whose protagonist is a communist who is nonetheless victimised.",
      "heading": "তসলিমা নাসরিন : ফিরে দেখা, নতুন কথা",
-     "page": 8
+     "page": 8,
+     "theme_bn": "বাংলাদেশ ও হিন্দু নির্যাতন",
+     "target_bn": "বাংলাদেশের ইসলামি জিহাদিরা",
+     "claim_bn": "১৯৯২ সালে বাবরি মসজিদ ভাঙার পর বাংলাদেশে হিন্দুদের গণহত্যা, ধর্ষণ ও মন্দির পোড়ানোর ঘটনা ঘটে, যা তসলিমা নাসরিন 'লজ্জা' উপন্যাসে তুলে ধরেছেন; উপন্যাসের নায়ক একজন কমিউনিস্ট, তবু তিনি নিগ্রহের শিকার হন।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "Previous TMC government",
      "claim": "The editorial/contents point to the 'royal Didi' and her 'royalty' being mocked, and to the new government struggling to find merit among the state's 'so-called meritorious', with a 'picking thieves empties the village' idiom.",
      "heading": "রয়্যাল দিদির রয়্যালিটি / নতুন সরকারের ভাবনা রাজ্যের তথাকথিত মেধাবীদের নাগাল ছাড়িয়ে : ঠগ বাছতে গাঁ উজাড়",
-     "page": 3
+     "page": 3,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "আগের তৃণমূল সরকার",
+     "claim_bn": "সম্পাদকীয় ও সূচিপত্রে 'রাজকীয় দিদি' ও তাঁর 'রাজকীয়তা' নিয়ে বিদ্রূপের কথা এবং রাজ্যের 'তথাকথিত মেধাবীদের' মধ্যে মেধা খুঁজে পেতে নতুন সরকারের হিমশিম খাওয়ার কথা উঠে এসেছে; সঙ্গে রয়েছে 'বাছতে গাঁ উজাড়' প্রবাদটি।"
     },
     {
      "theme": "history & icons",
      "target": "Syama Prasad Mukherjee and Dr Hedgewar",
      "claim": "Syama Prasad Mukherjee is celebrated as 'Bharat Kesari' on his 125th birth anniversary, and Hedgewar's humility and humour are presented as exemplary.",
      "heading": "বাদকুল্লায় ডঃ শ্যামাপ্রসাদ মুখোপাধ্যায়ের জন্মমহোৎসব উদ্যাপন / গল্প কথায় ডাক্তারজী",
-     "page": 30
+     "page": 30,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "শ্যামাপ্রসাদ মুখোপাধ্যায় ও ডাঃ হেডগেওয়ার",
+     "claim_bn": "১২৫তম জন্মবার্ষিকীতে শ্যামাপ্রসাদ মুখোপাধ্যায়কে 'ভারত কেশরী' হিসেবে সম্মান জানানো হয়েছে, এবং হেডগেওয়ারের বিনয় ও রসবোধকে অনুকরণীয় হিসেবে তুলে ধরা হয়েছে।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "Hindu society",
      "claim": "Rakhi Bandhan is framed as a festival of social harmony, samarasata, unity and even national defence, and Guru Purnima events promote the guru-shishya tradition and value-based education.",
      "heading": "সামাজিক সম্প্রীতির উৎসব রাখিবন্ধন",
-     "page": 4
+     "page": 4,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "হিন্দু সমাজ",
+     "claim_bn": "রাখি বন্ধনকে সামাজিক সম্প্রীতি, সামাজিক সমরসতা, ঐক্য এবং এমনকি জাতীয় প্রতিরক্ষার উৎসব হিসেবে তুলে ধরা হয়েছে, আর গুরুপূর্ণিমার অনুষ্ঠানগুলিতে গুরু-শিষ্য পরম্পরা ও মূল্যবোধভিত্তিক শিক্ষার প্রসার ঘটানো হয়।"
     }
-   ]
+   ],
+   "label_bn": "",
+   "summary_bn": "১৭ আগস্টের সংখ্যাটি এই জাতীয়তাবাদী বক্তব্য তুলে ধরেছে যে বিদেশি 'ডিপ স্টেট' শক্তি, এনজিও ও বিরোধী দলগুলি (বামেরা সহ) মোদী সরকারকে অস্থিতিশীল করতে 'ককরোচ' আন্দোলনের মতো 'শাসন-পরিবর্তন'-ধাঁচের ছাত্র আন্দোলন ঘটাচ্ছে; পশ্চিমবঙ্গে এখন 'দেশপ্রেমিক' সরকার থাকায় সম্পাদকীয়তে সতর্ক থাকার আহ্বান জানানো হয়েছে। বাংলাদেশ ঐক্য পরিষদের ছয় মাসের হিংসার তথ্যের মাধ্যমে বাংলাদেশে হিন্দু নির্যাতনকে তুলে ধরা হয়েছে এবং তসলিমা নাসরিনের 'লজ্জা' আবার আলোচনায় আনা হয়েছে। সংখ্যার বড় অংশ সাংগঠনিক খবর: গুরু পূর্ণিমা, নটরাজ বন্দনা, শ্যামাপ্রসাদ মুখোপাধ্যায়ের ১২৫তম জন্মবার্ষিকী, বিএমএসের প্রতিষ্ঠা দিবস এবং সহযোগী সংগঠনগুলির সম্মেলন; সঙ্ঘ-সংশ্লিষ্ট অনুষ্ঠানে রাজ্যের মন্ত্রী ও বিধায়করা উপস্থিত ছিলেন। এতে ডাঃ হেডগেওয়ারকে নিয়ে সঙ্ঘ-ইতিহাসের ধারাবাহিকও রয়েছে এবং আসন্ন রাখী বন্ধন সংখ্যাকে 'সামাজিক সম্প্রীতি'র উৎসব হিসেবে প্রচার করা হয়েছে।"
   },
   {
    "issue": "20260810",
@@ -2743,7 +3932,13 @@ window.HINDUTVA = {
      "where": "India",
      "when": "14 August (annual since 1947)",
      "page": 5,
-     "detail": "The editorial says swayamsevaks have observed 14 August as 'Akhand Bharat Sankalp Diwas' every year since 1947, in the belief that India will be reunited."
+     "detail": "The editorial says swayamsevaks have observed 14 August as 'Akhand Bharat Sankalp Diwas' every year since 1947, in the belief that India will be reunited.",
+     "title_bn": "অখণ্ড ভারত সংকল্প দিবস (১৪ আগস্ট)",
+     "org_bn": "আরএসএস",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "ভারত",
+     "when_bn": "১৪ আগস্ট (১৯৪৭ সাল থেকে প্রতি বছর)",
+     "detail_bn": "সম্পাদকীয়তে বলা হয়েছে, ভারত আবার এক হবে, এই বিশ্বাস থেকে ১৯৪৭ সাল থেকে প্রতি বছর ১৪ আগস্ট স্বয়ংসেবকরা 'অখণ্ড ভারত সংকল্প দিবস' পালন করে আসছেন।"
     },
     {
      "title": "Discussion 'Sashakta Hindu – Samartha Paschimbanga' on Ramkumar Kothari's birth anniversary",
@@ -2752,7 +3947,13 @@ window.HINDUTVA = {
      "where": "Rabindra Mancha, Jorasanko, Kolkata",
      "when": "25 July",
      "page": 23,
-     "detail": "The meeting marked the birth anniversary of Ram Janmabhoomi martyr Ramkumar Kothari. Ajay Nandi, former RSS Purba Kshetra Sanghachalak, presided. Speakers called for the names of all karsevaks to be engraved at the Ayodhya Ram temple."
+     "detail": "The meeting marked the birth anniversary of Ram Janmabhoomi martyr Ramkumar Kothari. Ajay Nandi, former RSS Purba Kshetra Sanghachalak, presided. Speakers called for the names of all karsevaks to be engraved at the Ayodhya Ram temple.",
+     "title_bn": "রামকুমার কোঠারির জন্মবার্ষিকীতে আলোচনা 'সশক্ত হিন্দু – সমর্থ পশ্চিমবঙ্গ'",
+     "org_bn": "অন্যান্য: রাম-শরৎ কোঠারি স্মৃতি সঙ্ঘ",
+     "type_bn": "সম্মেলন",
+     "where_bn": "রবীন্দ্র মঞ্চ, জোড়াসাঁকো, কলকাতা",
+     "when_bn": "২৫ জুলাই",
+     "detail_bn": "সভাটি রাম জন্মভূমি আন্দোলনের শহিদ রামকুমার কোঠারির জন্মবার্ষিকী উপলক্ষে অনুষ্ঠিত হয়। সভাপতিত্ব করেন আরএসএসের প্রাক্তন পূর্ব ক্ষেত্র সঙ্ঘচালক অজয় নন্দী। বক্তারা অযোধ্যার রাম মন্দিরে সমস্ত কারসেবকের নাম খোদাই করার দাবি জানান।"
     },
     {
      "title": "Nataraj Puja on Guru Purnima",
@@ -2761,7 +3962,13 @@ window.HINDUTVA = {
      "where": "Sonarpur, South 24 Parganas",
      "when": "26 July",
      "page": 24,
-     "detail": "Sanskar Bharati held a Nataraj worship and cultural programme with puppet theatre and Odissi dance. A German theatre troupe attended."
+     "detail": "Sanskar Bharati held a Nataraj worship and cultural programme with puppet theatre and Odissi dance. A German theatre troupe attended.",
+     "title_bn": "গুরুপূর্ণিমায় নটরাজ পূজা",
+     "org_bn": "অন্যান্য: সংস্কার ভারতী",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "সোনারপুর, দক্ষিণ ২৪ পরগনা",
+     "when_bn": "২৬ জুলাই",
+     "detail_bn": "সংস্কার ভারতী নটরাজ পূজা ও সাংস্কৃতিক অনুষ্ঠানের আয়োজন করে, যেখানে পুতুল নাচ ও ওডিসি নৃত্য পরিবেশিত হয়। একটি জার্মান নাট্যদল উপস্থিত ছিল।"
     },
     {
      "title": "Felicitation and press conference for Sanjib Kumar Sarkar",
@@ -2770,7 +3977,13 @@ window.HINDUTVA = {
      "where": "Gajol, Malda",
      "when": "24 July",
      "page": 24,
-     "detail": "Sanskar Bharati's Malda stage-arts coordinator held a press conference on the honours he has received. A Swastika representative was invited."
+     "detail": "Sanskar Bharati's Malda stage-arts coordinator held a press conference on the honours he has received. A Swastika representative was invited.",
+     "title_bn": "সঞ্জীব কুমার সরকারকে সংবর্ধনা ও সাংবাদিক বৈঠক",
+     "org_bn": "অন্যান্য: সংস্কার ভারতী",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "গাজোল, মালদা",
+     "when_bn": "২৪ জুলাই",
+     "detail_bn": "সংস্কার ভারতীর মালদা মঞ্চকলা সমন্বয়ক তাঁর প্রাপ্ত সম্মাননা নিয়ে সাংবাদিক সম্মেলন করেন। স্বস্তিকার একজন প্রতিনিধিকে আমন্ত্রণ জানানো হয়েছিল।"
     },
     {
      "title": "Sanskrit Sammelan",
@@ -2779,7 +3992,13 @@ window.HINDUTVA = {
      "where": "Bankura Banga Vidyalaya, Bankura",
      "when": "26 July",
      "page": 25,
-     "detail": "The Bankura district unit held a conference to promote Sanskrit. Teachers, students, an MLA and former Union minister of state Subhas Sarkar attended."
+     "detail": "The Bankura district unit held a conference to promote Sanskrit. Teachers, students, an MLA and former Union minister of state Subhas Sarkar attended.",
+     "title_bn": "সংস্কৃত সম্মেলন",
+     "org_bn": "অন্যান্য: সংস্কৃত ভারতী",
+     "type_bn": "সম্মেলন",
+     "where_bn": "বাঁকুড়া বঙ্গ বিদ্যালয়, বাঁকুড়া",
+     "when_bn": "২৬ জুলাই",
+     "detail_bn": "বাঁকুড়া জেলা শাখা সংস্কৃত ভাষার প্রসারে একটি সম্মেলন করেছে। শিক্ষক, ছাত্রছাত্রী, একজন বিধায়ক এবং প্রাক্তন কেন্দ্রীয় প্রতিমন্ত্রী সুভাষ সরকার তাতে উপস্থিত ছিলেন।"
     },
     {
      "title": "Kshatriya Sammelan and formation of Gajol block committee",
@@ -2788,7 +4007,13 @@ window.HINDUTVA = {
      "where": "Gajol Shishu Mandir, Malda",
      "when": "26 July",
      "page": 25,
-     "detail": "The Kshatriya Samiti's central president and the local MLA spoke. A Gajol block committee was formed."
+     "detail": "The Kshatriya Samiti's central president and the local MLA spoke. A Gajol block committee was formed.",
+     "title_bn": "ক্ষত্রিয় সম্মেলন ও গাজোল ব্লক কমিটি গঠন",
+     "org_bn": "অন্যান্য: ক্ষত্রিয় সমিতি",
+     "type_bn": "সম্মেলন",
+     "where_bn": "গাজোল শিশু মন্দির, মালদা",
+     "when_bn": "২৬ জুলাই",
+     "detail_bn": "ক্ষত্রিয় সমিতির কেন্দ্রীয় সভাপতি ও স্থানীয় বিধায়ক বক্তব্য রাখেন। গাজোল ব্লক কমিটি গঠিত হয়েছে।"
     },
     {
      "title": "Blood donation camp at Desher Mati Kalyan Mandir",
@@ -2797,7 +4022,13 @@ window.HINDUTVA = {
      "where": "West Bengal (location not clear in OCR)",
      "when": "",
      "page": 26,
-     "detail": "Donors received a tree sapling and an umbrella. The state's municipal affairs minister, Dr Kalyan Chakraborty, attended."
+     "detail": "Donors received a tree sapling and an umbrella. The state's municipal affairs minister, Dr Kalyan Chakraborty, attended.",
+     "title_bn": "দেশের মাটি কল্যাণ মন্দিরে রক্তদান শিবির",
+     "org_bn": "অন্যান্য: দেশের মাটি কল্যাণ মন্দির",
+     "type_bn": "সেবা/ত্রাণ",
+     "where_bn": "পশ্চিমবঙ্গ (ওসিআর-এ স্থান স্পষ্ট নয়)",
+     "when_bn": "",
+     "detail_bn": "দাতারা একটি গাছের চারা ও একটি ছাতা পেয়েছেন। রাজ্যের পুর ও নগরোন্নয়ন মন্ত্রী ডাঃ কল্যাণ চক্রবর্তী উপস্থিত ছিলেন।"
     },
     {
      "title": "Guru Purnima celebration with 'Pitri-Matri Pujan'",
@@ -2806,7 +4037,13 @@ window.HINDUTVA = {
      "where": "Lalit Mohan Shyammohini High School, Malda",
      "when": "29 July",
      "page": 26,
-     "detail": "Held jointly with the school. Students seated their parents in the guru's place and worshipped them. An RSS Uttarbanga prant committee member addressed students on character and national consciousness."
+     "detail": "Held jointly with the school. Students seated their parents in the guru's place and worshipped them. An RSS Uttarbanga prant committee member addressed students on character and national consciousness.",
+     "title_bn": "'পিতৃ-মাতৃ পূজন'-সহ গুরুপূর্ণিমা উদ্যাপন",
+     "org_bn": "অন্যান্য: ভারতীয় শিক্ষণ মণ্ডল",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "ললিত মোহন শ্যামমোহিনী উচ্চ বিদ্যালয়, মালদা",
+     "when_bn": "২৯ জুলাই",
+     "detail_bn": "বিদ্যালয়ের সঙ্গে যৌথভাবে অনুষ্ঠিত। ছাত্রছাত্রীরা নিজেদের বাবা-মাকে গুরুর আসনে বসিয়ে পূজা করে। আরএসএস উত্তরবঙ্গ প্রান্ত কমিটির একজন সদস্য ছাত্রছাত্রীদের উদ্দেশে চরিত্র গঠন ও জাতীয় চেতনা নিয়ে বক্তব্য রাখেন।"
     },
     {
      "title": "Swastika readers' sammelan",
@@ -2815,7 +4052,13 @@ window.HINDUTVA = {
      "where": "Haridevpur, South Kolkata",
      "when": "19 July",
      "page": 27,
-     "detail": "Dakshinbanga prant sanghachalak and Swastika publisher Sarada Prasad Pal attended, along with the paper's circulation head. The event discussed circulation and distribution of the paper."
+     "detail": "Dakshinbanga prant sanghachalak and Swastika publisher Sarada Prasad Pal attended, along with the paper's circulation head. The event discussed circulation and distribution of the paper.",
+     "title_bn": "স্বস্তিকা পাঠক সম্মেলন",
+     "org_bn": "আরএসএস",
+     "type_bn": "সম্মেলন",
+     "where_bn": "হরিদেবপুর, দক্ষিণ কলকাতা",
+     "when_bn": "১৯ জুলাই",
+     "detail_bn": "দক্ষিণবঙ্গ প্রান্ত সংঘচালক ও স্বস্তিকার প্রকাশক সারদা প্রসাদ পাল এবং পত্রিকার প্রচার বিভাগের প্রধান উপস্থিত ছিলেন। অনুষ্ঠানে পত্রিকার প্রচার ও বিতরণ নিয়ে আলোচনা হয়।"
     },
     {
      "title": "72nd foundation day of BMS at Jadavpur University",
@@ -2824,7 +4067,13 @@ window.HINDUTVA = {
      "where": "Jadavpur University, Kolkata",
      "when": "23 July",
      "page": 27,
-     "detail": "The West Bengal University Karmachari Sangha, a BMS affiliate, raised flags and discussed Thengadi's role and the BMS philosophy."
+     "detail": "The West Bengal University Karmachari Sangha, a BMS affiliate, raised flags and discussed Thengadi's role and the BMS philosophy.",
+     "title_bn": "যাদবপুর বিশ্ববিদ্যালয়ে বিএমএসের ৭২তম প্রতিষ্ঠা দিবস",
+     "org_bn": "বিএমএস",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "যাদবপুর বিশ্ববিদ্যালয়, কলকাতা",
+     "when_bn": "২৩ জুলাই",
+     "detail_bn": "বিএমএসের অনুমোদিত সংগঠন পশ্চিমবঙ্গ বিশ্ববিদ্যালয় কর্মচারী সংঘ পতাকা উত্তোলন করে এবং ঠেঙ্গড়ির ভূমিকা ও বিএমএসের দর্শন নিয়ে আলোচনা করে।"
     },
     {
      "title": "72nd foundation day of BMS at Netaji Subhas airport",
@@ -2833,7 +4082,13 @@ window.HINDUTVA = {
      "where": "Netaji Subhas Chandra Bose International Airport, Kolkata",
      "when": "23 July",
      "page": 29,
-     "detail": "The airport contract workers' union, a BMS affiliate, held a programme at the Volvo bus stand. Former BMS state president Tarunkanti Ghosh and an AAI officer attended."
+     "detail": "The airport contract workers' union, a BMS affiliate, held a programme at the Volvo bus stand. Former BMS state president Tarunkanti Ghosh and an AAI officer attended.",
+     "title_bn": "নেতাজি সুভাষ বিমানবন্দরে বিএমএসের ৭২তম প্রতিষ্ঠা দিবস",
+     "org_bn": "বিএমএস",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "নেতাজি সুভাষচন্দ্র বসু আন্তর্জাতিক বিমানবন্দর, কলকাতা",
+     "when_bn": "২৩ জুলাই",
+     "detail_bn": "বিএমএসের অনুমোদিত সংগঠন বিমানবন্দর চুক্তিভিত্তিক শ্রমিক ইউনিয়ন ভলভো বাসস্ট্যান্ডে একটি অনুষ্ঠান করে। বিএমএসের প্রাক্তন রাজ্য সভাপতি তরুণকান্তি ঘোষ এবং এএআইয়ের একজন আধিকারিক উপস্থিত ছিলেন।"
     },
     {
      "title": "'Dharmatala Chalo' padayatra and protest meeting",
@@ -2842,7 +4097,13 @@ window.HINDUTVA = {
      "where": "Howrah and Sealdah to Dharmatala, Kolkata",
      "when": "28 July",
      "page": 29,
-     "detail": "Nationalist students, teachers and academics marched with national flags against what they called a conspiracy to create anarchy through the NEET (UG) paper leak. They also protested the harassment of journalists in Kolkata. A protest meeting was held at Rani Rashmoni Avenue."
+     "detail": "Nationalist students, teachers and academics marched with national flags against what they called a conspiracy to create anarchy through the NEET (UG) paper leak. They also protested the harassment of journalists in Kolkata. A protest meeting was held at Rani Rashmoni Avenue.",
+     "title_bn": "'ধর্মতলা চলো' পদযাত্রা ও প্রতিবাদ সভা",
+     "org_bn": "অন্যান্য: শিক্ষা সংস্কৃতি সুরক্ষা মঞ্চ, পশ্চিমবঙ্গ",
+     "type_bn": "মিছিল/শোভাযাত্রা",
+     "where_bn": "হাওড়া ও শিয়ালদহ থেকে ধর্মতলা, কলকাতা",
+     "when_bn": "২৮ জুলাই",
+     "detail_bn": "জাতীয়তাবাদী ছাত্র, শিক্ষক ও শিক্ষাবিদরা নিট (ইউজি) প্রশ্নপত্র ফাঁসের মাধ্যমে নৈরাজ্য সৃষ্টির যে চক্রান্ত বলে তাঁরা অভিহিত করেছেন, তার বিরুদ্ধে জাতীয় পতাকা হাতে মিছিল করেন। কলকাতায় সাংবাদিকদের হয়রানির প্রতিবাদও করা হয়। রানি রাসমণি অ্যাভিনিউতে একটি প্রতিবাদ সভা অনুষ্ঠিত হয়।"
     }
    ],
    "narratives": [
@@ -2851,72 +4112,104 @@ window.HINDUTVA = {
      "target": "Communists and 'secular' historians",
      "claim": "Secular and communist historians hid 800 years of Islamic oppression and propagate a false 200-year story of subjugation. Indian communists supported the Muslim League's Pakistan demand.",
      "heading": "সম্পাদকীয় (editorial on 15 August and Akhand Bharat Sankalp Diwas)",
-     "page": 5
+     "page": 5,
+     "theme_bn": "জাতীয়তাবাদ/সেনা/পাকিস্তান",
+     "target_bn": "কমিউনিস্ট ও 'সেকুলার' ইতিহাসবিদরা",
+     "claim_bn": "ধর্মনিরপেক্ষ ও কমিউনিস্ট ঐতিহাসিকরা ৮০০ বছরের ইসলামি নিপীড়ন লুকিয়ে রেখেছেন এবং ২০০ বছরের পরাধীনতার এক মিথ্যা কাহিনি প্রচার করেন। ভারতীয় কমিউনিস্টরা মুসলিম লিগের পাকিস্তান দাবিকে সমর্থন করেছিল।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Communists / Left",
      "claim": "Communists opposed Quit India, backed Pakistan, hated Gandhi, and are 'traitors' whose slanders about the Sangh have been rejected by society.",
      "heading": "ভারতের স্বাধীনতা আন্দোলনে রাষ্ট্রীয় স্বয়ংসেবক সঙ্ঘ",
-     "page": 17
+     "page": 17,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "কমিউনিস্ট / বামপন্থী",
+     "claim_bn": "কমিউনিস্টরা ভারত ছাড়ো আন্দোলনের বিরোধিতা করেছে, পাকিস্তানকে সমর্থন করেছে, গান্ধীকে ঘৃণা করেছে, এবং তারা 'বিশ্বাসঘাতক', যাদের সঙ্ঘ-বিষয়ক কুৎসা সমাজ প্রত্যাখ্যান করেছে।"
     },
     {
      "theme": "history & icons",
      "target": "RSS, Hedgewar and Shyama Prasad Mukherjee",
      "claim": "Hedgewar was an active freedom fighter who went to jail in 1921 and 1930. Gandhi praised RSS discipline, and partitioning Bengal saved Hindu Bengalis from Pakistan.",
      "heading": "ভারতের স্বাধীনতা আন্দোলনে রাষ্ট্রীয় স্বয়ংসেবক সঙ্ঘ",
-     "page": 18
+     "page": 18,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "আরএসএস, হেডগেওয়ার ও শ্যামাপ্রসাদ মুখোপাধ্যায়",
+     "claim_bn": "হেডগেওয়ার ছিলেন সক্রিয় স্বাধীনতা সংগ্রামী, যিনি ১৯২১ ও ১৯৩০ সালে কারাবরণ করেন। গান্ধী আরএসএস-এর শৃঙ্খলার প্রশংসা করেছিলেন, এবং বঙ্গভাগ হিন্দু বাঙালিদের পাকিস্তানের হাত থেকে রক্ষা করেছে।"
     },
     {
      "theme": "West Bengal elections",
      "target": "Mamata Banerjee and the TMC government; BJP praised",
      "claim": "In 2026 a huge Hindu awakening toppled Mamata's 'autocratic' rule, and Communists and Congress had long kept the Jana Sangh and BJP isolated.",
      "heading": "রাজনীতি ভীষণ গতিশীল (reader's letter)",
-     "page": 20
+     "page": 20,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "মমতা বন্দ্যোপাধ্যায় ও তৃণমূল সরকার; বিজেপির প্রশংসা",
+     "claim_bn": "২০২৬ সালে এক বিশাল হিন্দু জাগরণ মমতার 'স্বৈরাচারী' শাসনের পতন ঘটিয়েছে, আর কমিউনিস্ট ও কংগ্রেস দীর্ঘদিন জনসংঘ ও বিজেপিকে একঘরে করে রেখেছিল।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Congress, Communists, Rahul, Priyanka, Akhilesh, Mamata",
      "claim": "The NEET paper-leak protests were hijacked by opposition leaders who backed anti-national slogans and violence, using students as shields.",
      "heading": "বিরোধী শ্লোগান কেন? (reader's letter)",
-     "page": 20
+     "page": 20,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "কংগ্রেস, কমিউনিস্ট, রাহুল, প্রিয়াঙ্কা, অখিলেশ, মমতা",
+     "claim_bn": "নিট প্রশ্নপত্র ফাঁসের বিক্ষোভকে বিরোধী নেতারা হাইজ্যাক করেছেন; তাঁরা দেশবিরোধী স্লোগান ও হিংসাকে সমর্থন করে ছাত্রছাত্রীদের ঢাল হিসেবে ব্যবহার করেছেন।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "TMC and the former Mamata government",
      "claim": "Under TMC, women commuting on the Sealdah South line were preyed on by 'vultures and hyenas', and TMC leaders took a cut from Lakshmir Bhandar payments. Under the new BJP government they feel safe, with encroachments cleared and Annapurna Yojana payments free of cuts.",
      "heading": "পার্কসার্কাস স্টেশন রিপোর্ট (Park Circus station piece; exact title not legible)",
-     "page": 21
+     "page": 21,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "তৃণমূল ও প্রাক্তন মমতা সরকার",
+     "claim_bn": "তৃণমূলের আমলে শিয়ালদহ দক্ষিণ শাখায় যাতায়াতকারী মহিলারা 'শকুন ও হায়েনা'দের শিকার হতেন, আর তৃণমূল নেতারা লক্ষ্মীর ভান্ডারের টাকায় কাটমানি নিতেন। নতুন বিজেপি সরকারের আমলে তাঁরা নিরাপদ বোধ করছেন, দখল সরানো হয়েছে এবং অন্নপূর্ণা যোজনার টাকা কাটমানি ছাড়াই মিলছে।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "Hindu women of the Sealdah South line",
      "claim": "Women voted for the BJP to protect themselves, and one says the 'Durgashakti' will answer the predators.",
      "heading": "পার্কসার্কাস স্টেশন রিপোর্ট (Park Circus station piece; exact title not legible)",
-     "page": 21
+     "page": 21,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "শিয়ালদহ দক্ষিণ শাখার হিন্দু মহিলারা",
+     "claim_bn": "মহিলারা নিজেদের সুরক্ষার জন্য বিজেপিকে ভোট দিয়েছেন, এবং একজন বলছেন 'দুর্গাশক্তি' শিকারিদের জবাব দেবে।"
     },
     {
      "theme": "other",
      "target": "Opposition parties ('India bloc'), 'Cockroach Janata Party' and a 'global deep state'",
      "claim": "A foreign deep state and the 'Cockroach Janata Party' are using students and education to cause anarchy, and the opposition bloc is complicit.",
      "heading": "শিক্ষা সংস্কৃতি সুরক্ষা মঞ্চ-এর আহ্বানে পদযাত্রা ও প্রতিবাদ সভা",
-     "page": 29
+     "page": 29,
+     "theme_bn": "অন্যান্য",
+     "target_bn": "বিরোধী দলগুলি ('ইন্ডিয়া জোট'), 'কক্রোচ জনতা পার্টি' ও এক 'বৈশ্বিক ডিপ স্টেট'",
+     "claim_bn": "একটি বিদেশি ডিপ স্টেট এবং 'কক্রোচ জনতা পার্টি' ছাত্রছাত্রী ও শিক্ষাকে ব্যবহার করে অরাজকতা সৃষ্টি করছে, আর বিরোধী জোট এতে জড়িত।"
     },
     {
      "theme": "history & icons",
      "target": "British, Rasbehari Bose and Basanta Kumar Biswas",
      "claim": "Revolutionaries led by Rasbehari Bose, with Basanta Biswas throwing the bomb at Viceroy Hardinge in 1912, forced the British out.",
      "heading": "বিপ্লবী মহানায়ক রাসবিহারী বসুর নেতৃত্বে দিল্লিতে বড়লাট হার্ডিঞ্জের ওপর বোমা নিক্ষেপকারী বীর বিপ্লবী বসন্ত কুমার বিশ্বাস",
-     "page": 48
+     "page": 48,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "ব্রিটিশ, রাসবিহারী বসু ও বসন্তকুমার বিশ্বাস",
+     "claim_bn": "রাসবিহারী বসুর নেতৃত্বে বিপ্লবীরা, ১৯১২ সালে বসন্ত বিশ্বাসের ভাইসরয় হার্ডিঞ্জের উপর বোমা নিক্ষেপ সহ, ব্রিটিশদের ভারত ছাড়তে বাধ্য করেছিলেন।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "Ram Janmabhoomi karsevaks (the Kothari brothers)",
      "claim": "The martyred karsevaks deserve public memorials, and today's generation should know their sacrifice.",
      "heading": "সশক্ত হিন্দু – সমর্থ পশ্চিমবঙ্গ (Rabindra Mancha discussion report)",
-     "page": 23
+     "page": 23,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "রামজন্মভূমির করসেবক (কোঠারি ভাইয়েরা)",
+     "claim_bn": "শহিদ কারসেবকদের জন্য প্রকাশ্যে স্মৃতিসৌধ হওয়া উচিত, এবং আজকের প্রজন্মের তাঁদের আত্মত্যাগ সম্পর্কে জানা দরকার।"
     }
-   ]
+   ],
+   "label_bn": "",
+   "summary_bn": "১৫ আগস্টের এই বিশেষ সংখ্যাটি হিন্দু জাতীয়তাবাদী দৃষ্টিকোণ থেকে স্বাধীনতা দিবসকে দেখেছে। এতে যুক্তি দেওয়া হয়েছে যে ‘ধর্মনিরপেক্ষ’ ও কমিউনিস্ট ঐতিহাসিকরা ৮০০ বছরের ইসলামি শাসন লুকিয়েছেন এবং কমিউনিস্টরা পাকিস্তানকে সমর্থন করেছিল ও ভারত ছাড়ো আন্দোলনের বিরোধিতা করেছিল। স্বাধীনতা সংগ্রামে আরএসএস ও তার প্রতিষ্ঠাতা হেডগেওয়ারের ভূমিকার কৃতিত্ব দেওয়া হয়েছে এবং রাসবিহারী বসু, নেতাজি ও বসন্ত বিশ্বাসের মতো বিপ্লবীদের প্রশংসা করা হয়েছে। ২০২৬ সালে মমতা বন্দ্যোপাধ্যায়ের সরকারের পতন এবং ব্যালটে ‘হিন্দু জাগরণ’-কে উদ্‌যাপন করা হয়েছে। বিজেপি-শাসিত রাজ্য নারী নিরাপত্তা ও কল্যাণমূলক প্রকল্প এনেছে বলে বর্ণনা করা হয়েছে। নিট প্রশ্নপত্র ফাঁসের বিক্ষোভে বিরোধীরা উস্কানি দিয়েছে বলে অভিযোগ করা হয়েছে এবং বাংলায় সঙ্ঘের অনুসারী সংগঠনগুলির বহু অনুষ্ঠানের খবর দেওয়া হয়েছে।"
   },
   {
    "issue": "20260803",
@@ -2932,7 +4225,13 @@ window.HINDUTVA = {
      "where": "Chakrampasad village, Dakshin Dinajpur, West Bengal",
      "when": "18 August (annual)",
      "page": 15,
-     "detail": "Swayamsevaks reach the village each year with archery and kabaddi competitions, garlanding of the memorial altar, and distribution of books and stationery to students; a scholarship and a hostel are named after him."
+     "detail": "Swayamsevaks reach the village each year with archery and kabaddi competitions, garlanding of the memorial altar, and distribution of books and stationery to students; a scholarship and a hostel are named after him.",
+     "title_bn": "চুরকা মুর্মু বলিদান দিবস পালন (বার্ষিক, ১৮ আগস্ট)",
+     "org_bn": "আরএসএস",
+     "type_bn": "শতবর্ষ",
+     "where_bn": "চক্রামপ্রসাদ গ্রাম, দক্ষিণ দিনাজপুর, পশ্চিমবঙ্গ",
+     "when_bn": "১৮ আগস্ট (বার্ষিক)",
+     "detail_bn": "স্বয়ংসেবকরা প্রতি বছর গ্রামে পৌঁছে তিরন্দাজি ও কবাডি প্রতিযোগিতা, স্মৃতিবেদিতে মাল্যদান এবং ছাত্রছাত্রীদের বই-খাতা বিতরণ করেন; তাঁর নামে একটি বৃত্তি ও একটি ছাত্রাবাস রয়েছে।"
     },
     {
      "title": "Felicitation of 17 tribal (ST) MLAs",
@@ -2941,7 +4240,13 @@ window.HINDUTVA = {
      "where": "Kalyan Bhavan, Manicktala, Kolkata",
      "when": "17 July",
      "page": 23,
-     "detail": "Purbanchal Kalyan Ashram honoured 17 MLAs elected from ST seats with foot-washing and traditional rites; about 300 attended, with Jansuraksha Manch co-convenor Dr Rajkishore Hasda and BJP state organising secretary Amitabha Chakraborty present."
+     "detail": "Purbanchal Kalyan Ashram honoured 17 MLAs elected from ST seats with foot-washing and traditional rites; about 300 attended, with Jansuraksha Manch co-convenor Dr Rajkishore Hasda and BJP state organising secretary Amitabha Chakraborty present.",
+     "title_bn": "১৭ জন আদিবাসী (তফসিলি উপজাতি) বিধায়ককে সংবর্ধনা",
+     "org_bn": "বনবাসী কল্যাণ আশ্রম",
+     "type_bn": "সম্মেলন",
+     "where_bn": "কল্যাণ ভবন, মানিকতলা, কলকাতা",
+     "when_bn": "১৭ জুলাই",
+     "detail_bn": "পূর্বাঞ্চল কল্যাণ আশ্রম তফসিলি উপজাতি আসন থেকে নির্বাচিত ১৭ জন বিধায়ককে পাদ্য-প্রক্ষালন ও ঐতিহ্যবাহী রীতিতে সংবর্ধনা জানায়; প্রায় ৩০০ জন উপস্থিত ছিলেন, ছিলেন জনসুরক্ষা মঞ্চের সহ-আহ্বায়ক ডা. রাজকিশোর হাঁসদা এবং বিজেপির রাজ্য সংগঠন সম্পাদক অমিতাভ চক্রবর্তী।"
     },
     {
      "title": "Bangalar Palanno 2026 non-halal biryani (jhatka) festival announcement",
@@ -2950,7 +4255,13 @@ window.HINDUTVA = {
      "where": "Kolkata Press Club; planned in every Lok Sabha constituency, final in Kolkata",
      "when": "Press conference 15 July; final 17 September",
      "page": 24,
-     "detail": "Announced as an anti-halal food movement with a 'jhatka' palanno cooking contest and a car as prize, backed by Swami Bishakhananda Tirtha and MLA Debashis Dhar."
+     "detail": "Announced as an anti-halal food movement with a 'jhatka' palanno cooking contest and a car as prize, backed by Swami Bishakhananda Tirtha and MLA Debashis Dhar.",
+     "title_bn": "'বাংলার পালানো ২০২৬' ঝটকা (নন-হালাল) বিরিয়ানি উৎসবের ঘোষণা",
+     "org_bn": "অন্যান্য: অন্তর্বোধ ফাউন্ডেশন",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "কলকাতা প্রেস ক্লাব; প্রতিটি লোকসভা কেন্দ্রে পরিকল্পিত, চূড়ান্ত অনুষ্ঠান কলকাতায়",
+     "when_bn": "সাংবাদিক বৈঠক ১৫ জুলাই; চূড়ান্ত ১৭ সেপ্টেম্বর",
+     "detail_bn": "হালাল-বিরোধী খাদ্য আন্দোলন হিসেবে ঘোষিত, যেখানে 'ঝটকা' পালানো রান্নার প্রতিযোগিতা এবং পুরস্কার হিসেবে একটি গাড়ি রাখা হয়েছে; সমর্থনে ছিলেন স্বামী বিশাখানন্দ তীর্থ ও বিধায়ক দেবাশিস ধর।"
     },
     {
      "title": "RSS: Ek Parichay discussion on Sangh centenary",
@@ -2959,7 +4270,13 @@ window.HINDUTVA = {
      "where": "Gajol Mahavidyalaya, Malda",
      "when": "15 July",
      "page": 26,
-     "detail": "Centenary talk with North Bengal prant pracharak Shyamacharan Roy and Malda vibhag karyavah Prof. Shyamal Pal, attended by faculty, students and local swayamsevaks, with ABRSM district leaders involved."
+     "detail": "Centenary talk with North Bengal prant pracharak Shyamacharan Roy and Malda vibhag karyavah Prof. Shyamal Pal, attended by faculty, students and local swayamsevaks, with ABRSM district leaders involved.",
+     "title_bn": "আরএসএস: এক পরিচয় — সংঘের শতবর্ষ নিয়ে আলোচনা",
+     "org_bn": "আরএসএস",
+     "type_bn": "শতবর্ষ",
+     "where_bn": "গাজোল মহাবিদ্যালয়, মালদা",
+     "when_bn": "১৫ জুলাই",
+     "detail_bn": "উত্তরবঙ্গ প্রান্ত প্রচারক শ্যামাচরণ রায় ও মালদা বিভাগ কার্যবাহ অধ্যাপক শ্যামল পালের সঙ্গে শতবর্ষের আলোচনা; উপস্থিত ছিলেন অধ্যাপক, ছাত্রছাত্রী ও স্থানীয় স্বয়ংসেবকরা, সঙ্গে এবিআরএসএম-এর জেলা নেতৃত্বও যুক্ত ছিলেন।"
     },
     {
      "title": "Syama Prasad Mukherjee 125th birth anniversary programme",
@@ -2968,7 +4285,13 @@ window.HINDUTVA = {
      "where": "Samali, Bishnupur, South 24 Parganas",
      "when": "6 July",
      "page": 27,
-     "detail": "Drawing, patriotic recitation and speech competitions plus a discussion and release of a special issue of 'Deshlok' magazine."
+     "detail": "Drawing, patriotic recitation and speech competitions plus a discussion and release of a special issue of 'Deshlok' magazine.",
+     "title_bn": "শ্যামাপ্রসাদ মুখোপাধ্যায়ের ১২৫তম জন্মবার্ষিকী অনুষ্ঠান",
+     "org_bn": "অন্যান্য: নিখিল বঙ্গ কল্যাণ সমিতি / মেরা যুবা ভারত",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "সামালি, বিষ্ণুপুর, দক্ষিণ ২৪ পরগনা",
+     "when_bn": "৬ জুলাই",
+     "detail_bn": "অঙ্কন, দেশাত্মবোধক আবৃত্তি ও বক্তৃতা প্রতিযোগিতা, পাশাপাশি আলোচনা এবং 'দেশলোক' পত্রিকার বিশেষ সংখ্যা প্রকাশ।"
     },
     {
      "title": "Dr Syama Prasad Smritipakhwada at Birbhum Mahavidyalaya",
@@ -2977,7 +4300,13 @@ window.HINDUTVA = {
      "where": "Birbhum",
      "when": "23 June–6 July",
      "page": 27,
-     "detail": "Fortnight of cultural events culminating on his birthday, with speakers including analyst Sayantan Basu and prize distribution to students."
+     "detail": "Fortnight of cultural events culminating on his birthday, with speakers including analyst Sayantan Basu and prize distribution to students.",
+     "title_bn": "বীরভূম মহাবিদ্যালয়ে ডা. শ্যামাপ্রসাদ স্মৃতি পক্ষকাল",
+     "org_bn": "অন্যান্য: বীরভূম মহাবিদ্যালয় (এনএসএস/আইকিউএসি)",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "বীরভূম",
+     "when_bn": "২৩ জুন–৬ জুলাই",
+     "detail_bn": "তাঁর জন্মদিনে সমাপ্ত হওয়া পক্ষকালব্যাপী সাংস্কৃতিক অনুষ্ঠান, যেখানে বক্তা ছিলেন বিশ্লেষক সায়ন্তন বসু প্রমুখ এবং ছাত্রছাত্রীদের পুরস্কার বিতরণ করা হয়।"
     },
     {
      "title": "Tree plantation by shakha swayamsevaks",
@@ -2986,7 +4315,13 @@ window.HINDUTVA = {
      "where": "West Bengal (location not clear in OCR)",
      "when": "19 July",
      "page": 27,
-     "detail": "Shakha swayamsevaks planted trees to spread environmental awareness, as part of the Sangh's Panch Parivartan."
+     "detail": "Shakha swayamsevaks planted trees to spread environmental awareness, as part of the Sangh's Panch Parivartan.",
+     "title_bn": "শাখার স্বয়ংসেবকদের বৃক্ষরোপণ",
+     "org_bn": "আরএসএস",
+     "type_bn": "সেবা/ত্রাণ",
+     "where_bn": "পশ্চিমবঙ্গ (ওসিআর-এ স্থান স্পষ্ট নয়)",
+     "when_bn": "১৯ জুলাই",
+     "detail_bn": "শাখার স্বয়ংসেবকরা পরিবেশ সচেতনতা ছড়াতে গাছ লাগান, যা সঙ্ঘের পঞ্চ পরিবর্তনের অঙ্গ।"
     },
     {
      "title": "Dum Dum Jagannath Rath Yatra",
@@ -2995,7 +4330,13 @@ window.HINDUTVA = {
      "where": "Dum Dum, North Kolkata",
      "when": "16 July (Ulto Rath 24 July)",
      "page": 28,
-     "detail": "VHP North Kolkata district organised the procession from Sammilani Club through Lalbagan and Anjangarh with mass participation and mahaprasad distribution."
+     "detail": "VHP North Kolkata district organised the procession from Sammilani Club through Lalbagan and Anjangarh with mass participation and mahaprasad distribution.",
+     "title_bn": "দমদম জগন্নাথ রথযাত্রা",
+     "org_bn": "বিশ্ব হিন্দু পরিষদ",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "দমদম, উত্তর কলকাতা",
+     "when_bn": "১৬ জুলাই (উল্টো রথ ২৪ জুলাই)",
+     "detail_bn": "বিশ্ব হিন্দু পরিষদের উত্তর কলকাতা জেলা সম্মিলনী ক্লাব থেকে লালবাগান ও আঞ্জনগড় হয়ে গণ-অংশগ্রহণে শোভাযাত্রা এবং মহাপ্রসাদ বিতরণের আয়োজন করে।"
     },
     {
      "title": "Barsamangal and Aranya Saptah celebration",
@@ -3004,7 +4345,13 @@ window.HINDUTVA = {
      "where": "Malda town",
      "when": "20 July",
      "page": 28,
-     "detail": "Joint event with RSS Malda vibhag karyavah Shyamal Pal and vibhag pracharak, featuring songs, speeches and distribution of saplings."
+     "detail": "Joint event with RSS Malda vibhag karyavah Shyamal Pal and vibhag pracharak, featuring songs, speeches and distribution of saplings.",
+     "title_bn": "বর্ষামঙ্গল ও অরণ্য সপ্তাহ উদ্‌যাপন",
+     "org_bn": "অন্যান্য: সংস্কার ভারতী ও সহকার ভারতী",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "মালদা শহর",
+     "when_bn": "২০ জুলাই",
+     "detail_bn": "আরএসএস মালদা বিভাগ কার্যবাহ শ্যামল পাল ও বিভাগ প্রচারকের উপস্থিতিতে যৌথ অনুষ্ঠান, যেখানে গান, বক্তৃতা ও চারাগাছ বিতরণ হয়।"
     },
     {
      "title": "Jibanrekha Nursing Home inauguration",
@@ -3013,7 +4360,13 @@ window.HINDUTVA = {
      "where": "Jamtala, Kultali block, Sundarban district",
      "when": "15 July",
      "page": 29,
-     "detail": "Low-cost healthcare centre opened for remote Sundarban residents, with Bharat Sevashram Sangha's Swami Pradiptananda's blessings."
+     "detail": "Low-cost healthcare centre opened for remote Sundarban residents, with Bharat Sevashram Sangha's Swami Pradiptananda's blessings.",
+     "title_bn": "জীবনরেখা নার্সিং হোমের উদ্বোধন",
+     "org_bn": "অন্যান্য: ভারত সেবাশ্রম সঙ্ঘের আশীর্বাদপ্রাপ্ত চিকিৎসকদের গোষ্ঠী",
+     "type_bn": "সেবা/ত্রাণ",
+     "where_bn": "জামতলা, কুলতলি ব্লক, সুন্দরবন জেলা",
+     "when_bn": "১৫ জুলাই",
+     "detail_bn": "ভারত সেবাশ্রম সঙ্ঘের স্বামী প্রদীপ্তানন্দের আশীর্বাদে প্রত্যন্ত সুন্দরবনবাসীদের জন্য স্বল্পমূল্যের স্বাস্থ্যকেন্দ্র চালু হয়েছে।"
     },
     {
      "title": "Shraddha Nibedan 183rd cultural gathering honouring Baidyanath Mukherjee",
@@ -3022,7 +4375,13 @@ window.HINDUTVA = {
      "where": "Suri, Birbhum",
      "when": "19 July",
      "page": 29,
-     "detail": "Cultural society's monthly gathering honouring an 81-year-old patron with a puja and felicitation."
+     "detail": "Cultural society's monthly gathering honouring an 81-year-old patron with a puja and felicitation.",
+     "title_bn": "বৈদ্যনাথ মুখোপাধ্যায়কে সম্মান জানিয়ে শ্রদ্ধা নিবেদনের ১৮৩তম সাংস্কৃতিক সমাবেশ",
+     "org_bn": "অন্যান্য: স্থানীয় সাংস্কৃতিক সংগঠন, বীরভূম",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "সিউড়ি, বীরভূম",
+     "when_bn": "১৯ জুলাই",
+     "detail_bn": "৮১ বছর বয়সি এক পৃষ্ঠপোষককে পূজা ও সংবর্ধনার মাধ্যমে সম্মান জানিয়ে সাংস্কৃতিক সংস্থার মাসিক সমাবেশ।"
     }
    ],
    "narratives": [
@@ -3031,86 +4390,124 @@ window.HINDUTVA = {
      "target": "Pakistani army (praised: Churka Murmu, RSS)",
      "claim": "Churka Murmu, chief instructor of the Chakram RSS shakha, died in 1971 saving BSF ammunition from Pakistani troops, showing that Sangh training makes patriots who put the nation above self.",
      "heading": "বীর বনবাসী চুড়কা মুর্মুর মাতৃভূমি বন্দনায় জীবন বলিদান",
-     "page": 13
+     "page": 13,
+     "theme_bn": "জাতীয়তাবাদ/সেনা/পাকিস্তান",
+     "target_bn": "পাকিস্তানি সেনা (প্রশংসিত: চুরকা মুর্মু, আরএসএস)",
+     "claim_bn": "চক্রাম আরএসএস শাখার মুখ্য শিক্ষক চুরকা মুর্মু ১৯৭১ সালে পাকিস্তানি সেনার হাত থেকে বিএসএফের গোলাবারুদ বাঁচাতে গিয়ে প্রাণ হারান; এতে দেখা যায়, সঙ্ঘের প্রশিক্ষণ এমন দেশপ্রেমিক তৈরি করে যাঁরা নিজের আগে দেশকে রাখেন।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "Tribal society and the state/historians (criticised for non-recognition)",
      "claim": "Tribal society is an inseparable part of Hindu life; the state has withheld official recognition from Churka possibly because he was a swayamsevak, and his story should enter textbooks.",
      "heading": "জনজাতি সমাজ ভারতীয় সমাজজীবনের অভিন্ন অঙ্গ",
-     "page": 5
+     "page": 5,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "আদিবাসী সমাজ এবং রাষ্ট্র/ইতিহাসবিদেরা (স্বীকৃতি না দেওয়ার জন্য সমালোচিত)",
+     "claim_bn": "আদিবাসী সমাজ হিন্দু জীবনের অবিচ্ছেদ্য অংশ; চুরকা সম্ভবত স্বয়ংসেবক ছিলেন বলেই রাষ্ট্র তাঁকে সরকারি স্বীকৃতি দেয়নি, তাঁর কাহিনি পাঠ্যপুস্তকে স্থান পাওয়া উচিত।"
     },
     {
      "theme": "Modi govt achievements",
      "target": "Central government (praised); previous governments (implicitly)",
      "claim": "Churka Murmu embodies 'Atmanirbhar Bharat', and his recognition is unjustly denied at official level.",
      "heading": "চুড়কা মুর্মু 'আত্মনির্ভর' ভারতের প্রতিনিধি : দেশ তার জন্য গর্বিত",
-     "page": 15
+     "page": 15,
+     "theme_bn": "মোদী সরকারের কৃতিত্ব",
+     "target_bn": "কেন্দ্রীয় সরকার (প্রশংসিত); পূর্ববর্তী সরকারগুলি (পরোক্ষভাবে)",
+     "claim_bn": "চুরকা মুর্মু 'আত্মনির্ভর ভারত'-এর প্রতীক, অথচ সরকারি স্তরে তাঁর স্বীকৃতি অন্যায়ভাবে অস্বীকার করা হচ্ছে।"
     },
     {
      "theme": "history & icons",
      "target": "Tribal heroes (praised); British rule",
      "claim": "From Tilka Manjhi to Sidhu-Kanhu to Churka Murmu, tribal society has repeatedly given its lives to defend country and dharma.",
      "heading": "দেশ ও ধর্মরক্ষায় বনবাসী সমাজ",
-     "page": 16
+     "page": 16,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "আদিবাসী বীরেরা (প্রশংসিত); ব্রিটিশ শাসন",
+     "claim_bn": "তিলকা মাঝি থেকে সিধু-কানহু, চুরকা মুর্মু পর্যন্ত, আদিবাসী সমাজ বারবার দেশ ও ধর্ম রক্ষায় প্রাণ দিয়েছে।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "Congress/Priyank Kharge, Kapil Sibal (attacked); RSS (praised)",
      "claim": "The RSS has no registration, membership or property because it is a voluntary movement, its gurudakshina was ruled non-taxable, and demands to register it are baseless.",
      "heading": "কী কাণ্ড! সঙ্ঘের বার্থ সার্টিফিকেট নেই!",
-     "page": 8
+     "page": 8,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "কংগ্রেস/প্রিয়াঙ্ক খাড়গে, কপিল সিবাল (আক্রমণ); আরএসএস (প্রশংসা)",
+     "claim_bn": "আরএসএসের কোনো নিবন্ধন, সদস্যপদ বা সম্পত্তি নেই কারণ এটি একটি স্বেচ্ছাসেবী আন্দোলন; এর গুরুদক্ষিণা করমুক্ত বলে রায় হয়েছে, আর এটিকে নিবন্ধিত করার দাবি ভিত্তিহীন।"
     },
     {
      "theme": "Bangladesh & Hindu persecution",
      "target": "Indira Gandhi and Congress (attacked)",
      "claim": "Congress let 3 million Hindus die in 1971, released 93,000 Pakistani POWs without protecting Bangladeshi Hindus, and the Hindu share fell from 20% to 8%.",
      "heading": "১৯৭১ : বাঙালি হিন্দুর রক্তে কেনা বাংলাদেশ ইন্দিরা গান্ধীর কৃতিত্ব নাকি প্রতারণা",
-     "page": 39
+     "page": 39,
+     "theme_bn": "বাংলাদেশ ও হিন্দু নির্যাতন",
+     "target_bn": "ইন্দিরা গান্ধী ও কংগ্রেস (আক্রমণের লক্ষ্য)",
+     "claim_bn": "কংগ্রেস ১৯৭১ সালে ৩০ লক্ষ হিন্দুকে মরতে দিয়েছে, বাংলাদেশি হিন্দুদের সুরক্ষা না দিয়ে ৯৩ হাজার পাকিস্তানি যুদ্ধবন্দিকে ছেড়ে দিয়েছে, এবং হিন্দুদের অনুপাত ২০ শতাংশ থেকে নেমে ৮ শতাংশে দাঁড়িয়েছে।"
     },
     {
      "theme": "Bangladesh & Hindu persecution",
      "target": "Bangladeshi governments",
      "claim": "Governments change in Bangladesh but the fate of its minority Hindus does not, and another Hindu leader has been jailed after Chinmoy Prabhu.",
      "heading": "বাংলাদেশে সরকারের পরিবর্তন হয় ঠিকই, কিন্তু সংখ্যালঘু হিন্দুদের ভাগ্য পরিবর্তন হয় না",
-     "page": 3
+     "page": 3,
+     "theme_bn": "বাংলাদেশ ও হিন্দু নির্যাতন",
+     "target_bn": "বাংলাদেশের সরকারগুলি",
+     "claim_bn": "বাংলাদেশে সরকার বদলায় কিন্তু সংখ্যালঘু হিন্দুদের ভাগ্য বদলায় না, এবং চিন্ময় প্রভুর পর আরও একজন হিন্দু নেতা কারাবন্দি হয়েছেন।"
     },
     {
      "theme": "culture/religion",
      "target": "'Halal' food culture (attacked)",
      "claim": "Halal practices have altered Bengali food habits and culture, and a 'jhatka' palanno festival will restore authentic Bengali culture.",
      "heading": "কলকাতা প্রেস ক্লাবে “বাঙ্গলার পলান্ন, ২০২৬” শীর্ষক সাংবাদিক সম্মেলন",
-     "page": 24
+     "page": 24,
+     "theme_bn": "সংস্কৃতি/ধর্ম",
+     "target_bn": "'হালাল' খাদ্যসংস্কৃতি (আক্রমণের লক্ষ্য)",
+     "claim_bn": "হালাল রীতি বাঙালির খাদ্যাভ্যাস ও সংস্কৃতি বদলে দিয়েছে, আর একটি 'ঝটকা' পালনের উৎসব খাঁটি বাঙালি সংস্কৃতি ফিরিয়ে আনবে।"
     },
     {
      "theme": "history & icons",
      "target": "Nehru and Indira Gandhi (attacked); Swami Karpatri (praised)",
      "claim": "Nehru blocked cow-slaughter bans and Indira Gandhi's police fired on cow-protection saints in 1966, so Congress deceived Hindus and is fading away.",
      "heading": "স্বামী করপাত্রীজী মহারাজ : সনাতন ধর্মচেতনা ও বৈদিক সাধকের জীবন কথা",
-     "page": 31
+     "page": 31,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "নেহরু ও ইন্দিরা গান্ধী (আক্রমণ); স্বামী করপাত্রী (প্রশংসা)",
+     "claim_bn": "নেহরু গোহত্যা নিষিদ্ধ করার পথে বাধা দিয়েছিলেন এবং ১৯৬৬ সালে ইন্দিরা গান্ধীর পুলিশ গোরক্ষা আন্দোলনকারী সাধুদের উপর গুলি চালিয়েছিল, তাই কংগ্রেস হিন্দুদের প্রতারিত করেছে এবং ক্রমশ মিলিয়ে যাচ্ছে।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Dagi (tainted) leaders and traitors",
      "claim": "Delayed trial of tainted leaders and anti-nationals amounts to denial of justice (editorial; heading from contents page, article body not in digest).",
      "heading": "দাগি নেতা আর দেশদ্রোহীর বিচার বিলম্বিত হলে তা “বিচার অস্বীকার” হয় : ন্যায়বিচার ও অস্বীকার",
-     "page": 6
+     "page": 6,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "দাগি নেতা ও বিশ্বাসঘাতক",
+     "claim_bn": "দাগি নেতা ও দেশবিরোধীদের বিচারে বিলম্ব ন্যায়বিচার অস্বীকারের শামিল (সম্পাদকীয়; শিরোনাম সূচিপত্র থেকে নেওয়া, নিবন্ধের মূল অংশ সারসংক্ষেপে নেই)।"
     },
     {
      "theme": "West Bengal elections",
      "target": "Didi/TMC (mocked); Modi (praised)",
      "claim": "Mamata Banerjee watched Modi's 'magician's show' (contents-page heading only; body not in digest).",
      "heading": "মোদী জাদুকরের খেলা দেখলেন দিদি!",
-     "page": 3
+     "page": 3,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "দিদি/তৃণমূল (বিদ্রূপ করা হয়েছে); মোদী (প্রশংসিত)",
+     "claim_bn": "মমতা বন্দ্যোপাধ্যায় মোদীর 'ম্যাজিশিয়ানের খেলা' দেখেছেন (শুধু সূচিপত্রের শিরোনাম; মূল লেখা সংকলনে নেই)।"
     },
     {
      "theme": "history & icons",
      "target": "Syama Prasad Mukherjee (praised)",
      "claim": "Syama Prasad Mukherjee's legacy is celebrated through his 125th birth anniversary events and a feature on him in the Tagore context.",
      "heading": "রবীন্দ্রসঙ্গমে শ্যামাপ্রসাদ",
-     "page": 3
+     "page": 3,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "শ্যামাপ্রসাদ মুখোপাধ্যায় (প্রশংসিত)",
+     "claim_bn": "শ্যামাপ্রসাদ মুখোপাধ্যায়ের ১২৫তম জন্মবার্ষিকীর অনুষ্ঠান এবং ঠাকুরের প্রেক্ষাপটে তাঁকে নিয়ে একটি বিশেষ নিবন্ধের মাধ্যমে তাঁর উত্তরাধিকার স্মরণ করা হয়েছে।"
     }
-   ]
+   ],
+   "label_bn": "",
+   "summary_bn": "স্বস্তিকার ৩ আগস্ট ২০২৬ সংখ্যাটি চুরকা মুর্মুকে মহিমান্বিত করা একগুচ্ছ লেখাকে কেন্দ্র করে সাজানো। চুরকা দক্ষিণ দিনাজপুরের চক্রমপ্রসাদের আরএসএস স্বয়ংসেবক ও আদিবাসী যুবক, ১৯৭১ সালে নিহত হন; তাঁকে আদিবাসী (বনবাসী) দেশপ্রেম ও আরএসএস-প্রশিক্ষিত জাতীয়তাবাদের প্রমাণ হিসেবে উপস্থাপন করা হয়েছে। নিবন্ধন ও কর-নিরীক্ষার দাবিতে কংগ্রেস নেতাদের (প্রিয়াঙ্ক খার্গে, কপিল সিবাল) বিরুদ্ধে আরএসএসের পক্ষে সওয়াল করা হয়েছে। এতে ১৯৭১ সাল ও বাংলাদেশি হিন্দু নির্যাতন নিয়ে কংগ্রেস/ইন্দিরা গান্ধীবিরোধী ইতিহাস তুলে ধরা হয়েছে এবং কলুষিত নেতা ও বিশ্বাসঘাতকদের বিচারে বিলম্ব নিয়ে একটি সম্পাদকীয় রয়েছে। প্রতিবেদনগুলিতে রয়েছে বনবাসী কল্যাণ আশ্রমের আদিবাসী বিধায়কদের সংবর্ধনা, হালালবিরোধী 'পালান্ন' উৎসব, বিশ্ব হিন্দু পরিষদের রথযাত্রা, আরএসএসের শতবর্ষের বক্তৃতা এবং শ্যামাপ্রসাদ মুখোপাধ্যায়ের জন্মবার্ষিকীর অনুষ্ঠান।"
   },
   {
    "issue": "20260727",
@@ -3126,7 +4523,13 @@ window.HINDUTVA = {
      "where": "nationwide",
      "when": "Ashadha Purnima (July 2026)",
      "page": 5,
-     "detail": "Swayamsevaks worship the saffron flag as guru and offer annual contributions (guru dakshina) for nation-service. The issue's editorial and several articles explain the practice."
+     "detail": "Swayamsevaks worship the saffron flag as guru and offer annual contributions (guru dakshina) for nation-service. The issue's editorial and several articles explain the practice.",
+     "title_bn": "গুরুপূর্ণিমা / গুরুদক্ষিণা (গৈরিক ধ্বজ পূজা)",
+     "org_bn": "আরএসএস",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "সারা দেশে",
+     "when_bn": "আষাঢ়ী পূর্ণিমা (জুলাই ২০২৬)",
+     "detail_bn": "স্বয়ংসেবকরা গৈরিক পতাকাকে গুরু হিসেবে পূজা করেন এবং রাষ্ট্রসেবার জন্য বার্ষিক অর্থ (গুরু দক্ষিণা) অর্পণ করেন। এই সংখ্যার সম্পাদকীয় ও বেশ কয়েকটি প্রবন্ধে এই প্রথার ব্যাখ্যা দেওয়া হয়েছে।"
     },
     {
      "title": "Panch Parivartan campaign (centenary plan)",
@@ -3135,7 +4538,13 @@ window.HINDUTVA = {
      "where": "nationwide",
      "when": "",
      "page": 47,
-     "detail": "The five themes are family awakening, environment, social harmony, civic duty and 'swa-bhava'. The article urges every swayamsevak and well-wisher to turn them into a mass movement."
+     "detail": "The five themes are family awakening, environment, social harmony, civic duty and 'swa-bhava'. The article urges every swayamsevak and well-wisher to turn them into a mass movement.",
+     "title_bn": "পঞ্চ পরিবর্তন অভিযান (শতবর্ষ পরিকল্পনা)",
+     "org_bn": "আরএসএস",
+     "type_bn": "শতবর্ষ",
+     "where_bn": "সারা দেশে",
+     "when_bn": "",
+     "detail_bn": "পাঁচটি বিষয় হলো কুটুম্ব প্রবোধন, পরিবেশ, সামাজিক সমরসতা, নাগরিক কর্তব্য ও 'স্ব-ভাব'। প্রবন্ধে প্রতিটি স্বয়ংসেবক ও শুভানুধ্যায়ীকে এগুলিকে গণআন্দোলনে পরিণত করার আহ্বান জানানো হয়েছে।"
     },
     {
      "title": "Syama Prasad Mukherjee 125th birth anniversary at Bagnan",
@@ -3144,7 +4553,13 @@ window.HINDUTVA = {
      "where": "Bagnan, Howrah",
      "when": "6 July",
      "page": 28,
-     "detail": "The event was addressed by RSS South Bengal sah-prant prachar pramukh Shibendra Tripathi, among others. Portraits were garlanded and speakers recalled Mukherjee's legacy."
+     "detail": "The event was addressed by RSS South Bengal sah-prant prachar pramukh Shibendra Tripathi, among others. Portraits were garlanded and speakers recalled Mukherjee's legacy.",
+     "title_bn": "বাগনানে শ্যামাপ্রসাদ মুখোপাধ্যায়ের ১২৫তম জন্মবার্ষিকী",
+     "org_bn": "অন্যান্য: হিজলক পাতিনান শ্যামাপ্রসাদ মুখোপাধ্যায় জন্মোৎসব কমিটি",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "বাগনান, হাওড়া",
+     "when_bn": "৬ জুলাই",
+     "detail_bn": "অনুষ্ঠানে অন্যদের মধ্যে ভাষণ দেন আরএসএসের দক্ষিণবঙ্গ সহ-প্রান্ত প্রচার প্রমুখ শিবেন্দ্র ত্রিপাঠী। প্রতিকৃতিতে মাল্যদান করা হয় এবং বক্তারা মুখার্জির উত্তরাধিকার স্মরণ করেন।"
     },
     {
      "title": "State-government Syama Prasad 125th birth anniversary programme with Sanskar Bharati",
@@ -3153,7 +4568,13 @@ window.HINDUTVA = {
      "where": "South 24 Parganas",
      "when": "6 July",
      "page": 28,
-     "detail": "The district administration's observance had Sanskar Bharati's district committee presenting a radio-play and patriotic songs."
+     "detail": "The district administration's observance had Sanskar Bharati's district committee presenting a radio-play and patriotic songs.",
+     "title_bn": "সংস্কার ভারতীর সহযোগিতায় রাজ্য সরকারের শ্যামাপ্রসাদের ১২৫তম জন্মবার্ষিকী অনুষ্ঠান",
+     "org_bn": "অন্যান্য: সংস্কার ভারতী / পশ্চিমবঙ্গ সরকার (দক্ষিণ ২৪ পরগনা)",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "দক্ষিণ ২৪ পরগনা",
+     "when_bn": "৬ জুলাই",
+     "detail_bn": "জেলা প্রশাসনের অনুষ্ঠানে সংস্কার ভারতীর জেলা কমিটি একটি বেতার নাটক ও দেশাত্মবোধক গান পরিবেশন করে।"
     },
     {
      "title": "Dattapukur discussion on Syama Prasad's self-sacrifice day",
@@ -3162,7 +4583,13 @@ window.HINDUTVA = {
      "where": "Dattapukur, North 24 Parganas",
      "when": "27 June",
      "page": 29,
-     "detail": "A discussion circle on Mukherjee's life, the Bengali Hindu homeland and his relevance today. Emergency-era satyagrahis were felicitated."
+     "detail": "A discussion circle on Mukherjee's life, the Bengali Hindu homeland and his relevance today. Emergency-era satyagrahis were felicitated.",
+     "title_bn": "দত্তপুকুরে শ্যামাপ্রসাদের আত্মবলিদান দিবস নিয়ে আলোচনা",
+     "org_bn": "অন্যান্য: ডঃ শ্যামাপ্রসাদ স্মারক সমিতি",
+     "type_bn": "সম্মেলন",
+     "where_bn": "দত্তপুকুর, উত্তর ২৪ পরগনা",
+     "when_bn": "২৭ জুন",
+     "detail_bn": "মুখোপাধ্যায়ের জীবন, বাঙালি হিন্দু আবাসভূমি এবং বর্তমান প্রেক্ষাপটে তাঁর প্রাসঙ্গিকতা নিয়ে একটি আলোচনাচক্র। জরুরি অবস্থার সময়কার সত্যাগ্রহীদের সংবর্ধনা দেওয়া হয়েছে।"
     },
     {
      "title": "Syama Prasad Samata Mancha work in Rampurhat",
@@ -3171,7 +4598,13 @@ window.HINDUTVA = {
      "where": "Rampurhat, Birbhum",
      "when": "since 26 Feb 1992",
      "page": 14,
-     "detail": "A local forum observing the birth and death anniversaries of Mukherjee, Vajpayee and Advani. It lists seven demands, including Mukherjee's portrait and teachings in schools."
+     "detail": "A local forum observing the birth and death anniversaries of Mukherjee, Vajpayee and Advani. It lists seven demands, including Mukherjee's portrait and teachings in schools.",
+     "title_bn": "রামপুরহাটে শ্যামাপ্রসাদ সমতা মঞ্চের কাজ",
+     "org_bn": "অন্যান্য: শ্যামাপ্রসাদ সমতা মঞ্চ",
+     "type_bn": "অন্যান্য",
+     "where_bn": "রামপুরহাট, বীরভূম",
+     "when_bn": "১৯৯২ সালের ২৬ ফেব্রুয়ারি থেকে",
+     "detail_bn": "একটি স্থানীয় মঞ্চ মুখোপাধ্যায়, বাজপেয়ী ও আডবাণীর জন্ম ও মৃত্যুবার্ষিকী পালন করছে। তারা সাতটি দাবি তুলেছে, যার মধ্যে রয়েছে স্কুলে মুখোপাধ্যায়ের প্রতিকৃতি ও শিক্ষা অন্তর্ভুক্ত করা।"
     },
     {
      "title": "150th anniversary of Vande Mataram / Bankim Chandra birth anniversary",
@@ -3180,7 +4613,13 @@ window.HINDUTVA = {
      "where": "Rabindra Sadan, Kolkata",
      "when": "26 June",
      "page": 27,
-     "detail": "The programme was titled 'West Bengal: Mahima, Garima, Sambhavana'. Chief Minister Suvendu Adhikari was chief guest and RSS Purbakshetra karyavah Durgaprasad Sah the main speaker. Emergency-era satyagrahis were honoured."
+     "detail": "The programme was titled 'West Bengal: Mahima, Garima, Sambhavana'. Chief Minister Suvendu Adhikari was chief guest and RSS Purbakshetra karyavah Durgaprasad Sah the main speaker. Emergency-era satyagrahis were honoured.",
+     "title_bn": "বন্দে মাতরমের ১৫০তম বার্ষিকী / বঙ্কিমচন্দ্রের জন্মবার্ষিকী",
+     "org_bn": "অন্যান্য: সিটিজেনস এমপাওয়ারমেন্ট ফোরাম",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "রবীন্দ্র সদন, কলকাতা",
+     "when_bn": "২৬ জুন",
+     "detail_bn": "অনুষ্ঠানের শিরোনাম ছিল 'পশ্চিমবঙ্গ: মহিমা, গরিমা, সম্ভাবনা'। মুখ্যমন্ত্রী শুভেন্দু অধিকারী ছিলেন প্রধান অতিথি এবং আরএসএসের পূর্বক্ষেত্র কার্যবাহ দুর্গাপ্রসাদ সাহ ছিলেন প্রধান বক্তা। জরুরি অবস্থার সময়কার সত্যাগ্রহীদের সংবর্ধনা দেওয়া হয়।"
     },
     {
      "title": "Tree-planting festival (Briksharopan Mahotsav) at Palashtala",
@@ -3189,7 +4628,13 @@ window.HINDUTVA = {
      "where": "Bankura",
      "when": "12 July",
      "page": 27,
-     "detail": "RSS Bankura Nagar's Rabindra Milan planted over a hundred trees in the Palashtala crematorium grounds. RSS Madhyabanga prant sanghachalak Rabindranath Bandyopadhyay attended."
+     "detail": "RSS Bankura Nagar's Rabindra Milan planted over a hundred trees in the Palashtala crematorium grounds. RSS Madhyabanga prant sanghachalak Rabindranath Bandyopadhyay attended.",
+     "title_bn": "পলাশতলায় বৃক্ষরোপণ মহোৎসব",
+     "org_bn": "আরএসএস",
+     "type_bn": "সেবা/ত্রাণ",
+     "where_bn": "বাঁকুড়া",
+     "when_bn": "১২ জুলাই",
+     "detail_bn": "আরএসএস বাঁকুড়া নগরের রবীন্দ্র মিলন পলাশতলা শ্মশান প্রাঙ্গণে একশোরও বেশি গাছ লাগিয়েছে। আরএসএস মধ্যবঙ্গ প্রান্ত সঙ্ঘচালক রবীন্দ্রনাথ বন্দ্যোপাধ্যায় উপস্থিত ছিলেন।"
     },
     {
      "title": "Ten-day Sanskrit conversation camp",
@@ -3198,7 +4643,13 @@ window.HINDUTVA = {
      "where": "Alambazar Ghat, Dakshineswar",
      "when": "30 June–12 July",
      "page": 29,
-     "detail": "26 participants took part, and weekly Sanskrit centres, a Gita study centre and a mobile library were launched."
+     "detail": "26 participants took part, and weekly Sanskrit centres, a Gita study centre and a mobile library were launched.",
+     "title_bn": "দশ দিনের সংস্কৃত সম্ভাষণ শিবির",
+     "org_bn": "অন্যান্য: সংস্কৃত ভারতী",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "আলমবাজার ঘাট, দক্ষিণেশ্বর",
+     "when_bn": "৩০ জুন–১২ জুলাই",
+     "detail_bn": "২৬ জন অংশগ্রহণ করেন এবং সাপ্তাহিক সংস্কৃত কেন্দ্র, একটি গীতা অধ্যয়ন কেন্দ্র ও একটি ভ্রাম্যমাণ গ্রন্থাগার চালু হয়।"
     },
     {
      "title": "Buddhadeb Guha remembrance at Mahajati Sadan",
@@ -3207,7 +4658,13 @@ window.HINDUTVA = {
      "where": "Kolkata",
      "when": "29 June",
      "page": 24,
-     "detail": "About 800 publishers, writers and book-trade people attended, with Sangh-family figures including RSS Purbakshetra sah-prachar pramukh Dr Jishnu Basu. Rajya Sabha MP Samik Bhattacharya was chief guest."
+     "detail": "About 800 publishers, writers and book-trade people attended, with Sangh-family figures including RSS Purbakshetra sah-prachar pramukh Dr Jishnu Basu. Rajya Sabha MP Samik Bhattacharya was chief guest.",
+     "title_bn": "মহাজাতি সদনে বুদ্ধদেব গুহ স্মরণ অনুষ্ঠান",
+     "org_bn": "অন্যান্য: বঙ্গীয় গ্রন্থশিল্প পরিষদ",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "কলকাতা",
+     "when_bn": "২৯ জুন",
+     "detail_bn": "প্রায় ৮০০ প্রকাশক, লেখক ও বইয়ের ব্যবসায়ী উপস্থিত ছিলেন, সঙ্গে ছিলেন আরএসএসের পূর্বক্ষেত্র সহ-প্রচার প্রমুখ ডঃ জিষ্ণু বসু-সহ সংঘ পরিবারের ব্যক্তিত্বরা। রাজ্যসভার সাংসদ শমীক ভট্টাচার্য ছিলেন প্রধান অতিথি।"
     },
     {
      "title": "All Bengal Principals' Council 34th AGM",
@@ -3216,7 +4673,13 @@ window.HINDUTVA = {
      "where": "Calcutta University, Kolkata",
      "when": "28 June",
      "page": 25,
-     "detail": "State Finance Minister Swapan Dasgupta inaugurated it, and speakers discussed higher-education development."
+     "detail": "State Finance Minister Swapan Dasgupta inaugurated it, and speakers discussed higher-education development.",
+     "title_bn": "অল বেঙ্গল প্রিন্সিপালস কাউন্সিলের ৩৪তম বার্ষিক সাধারণ সভা",
+     "org_bn": "অন্যান্য: অল বেঙ্গল প্রিন্সিপালস কাউন্সিল",
+     "type_bn": "সম্মেলন",
+     "where_bn": "কলকাতা বিশ্ববিদ্যালয়, কলকাতা",
+     "when_bn": "২৮ জুন",
+     "detail_bn": "রাজ্যের অর্থমন্ত্রী স্বপন দাশগুপ্ত এর উদ্বোধন করেন এবং বক্তারা উচ্চশিক্ষার উন্নয়ন নিয়ে আলোচনা করেন।"
     },
     {
      "title": "Deshbandhu Chittaranjan Das death-anniversary discussion",
@@ -3225,7 +4688,13 @@ window.HINDUTVA = {
      "where": "Chetla, Kolkata",
      "when": "16 June",
      "page": 26,
-     "detail": "The talk was titled 'Barrister to Fakir', and the book 'Deshbandhur Subhash' was released."
+     "detail": "The talk was titled 'Barrister to Fakir', and the book 'Deshbandhur Subhash' was released.",
+     "title_bn": "দেশবন্ধু চিত্তরঞ্জন দাশের প্রয়াণ দিবস উপলক্ষে আলোচনা",
+     "org_bn": "অন্যান্য: দক্ষিণ কলকাতা সেবক সমিতি / হিন্দ সঙ্ঘ",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "চেতলা, কলকাতা",
+     "when_bn": "১৬ জুন",
+     "detail_bn": "বক্তৃতার শিরোনাম ছিল 'ব্যারিস্টার থেকে ফকির', এবং 'দেশবন্ধুর সুভাষ' বইটি প্রকাশিত হয়।"
     },
     {
      "title": "Kshatriya Samiti central working convention",
@@ -3234,7 +4703,13 @@ window.HINDUTVA = {
      "where": "Raiganj, Uttar Dinajpur",
      "when": "11–12 July",
      "page": 26,
-     "detail": "The convention resolved to demand inclusion of the Rajbanshi language in the Eighth Schedule and a statue of Thakur Panchanan Barma in Kolkata. It also asked that a new Hemtabad college be named after him."
+     "detail": "The convention resolved to demand inclusion of the Rajbanshi language in the Eighth Schedule and a statue of Thakur Panchanan Barma in Kolkata. It also asked that a new Hemtabad college be named after him.",
+     "title_bn": "ক্ষত্রিয় সমিতির কেন্দ্রীয় কার্যনির্বাহী সম্মেলন",
+     "org_bn": "অন্যান্য: ক্ষত্রিয় সমিতি",
+     "type_bn": "সম্মেলন",
+     "where_bn": "রায়গঞ্জ, উত্তর দিনাজপুর",
+     "when_bn": "১১–১২ জুলাই",
+     "detail_bn": "সম্মেলনে রাজবংশী ভাষাকে অষ্টম তফসিলে অন্তর্ভুক্তির এবং কলকাতায় ঠাকুর পঞ্চানন বর্মার মূর্তি স্থাপনের দাবি জানানোর প্রস্তাব নেওয়া হয়। হেমতাবাদে নতুন কলেজের নামও তাঁর নামে রাখার অনুরোধ করা হয়েছে।"
     },
     {
      "title": "Planned Hutatma Veer Churka Murmu special issue",
@@ -3243,7 +4718,13 @@ window.HINDUTVA = {
      "where": "",
      "when": "3 August 2026",
      "page": 4,
-     "detail": "Next week's issue will carry pieces on Churka Murmu, who died in the 1971 India-Pakistan war, described as a swayamsevak and tribal martyr."
+     "detail": "Next week's issue will carry pieces on Churka Murmu, who died in the 1971 India-Pakistan war, described as a swayamsevak and tribal martyr.",
+     "title_bn": "হুতাত্মা বীর চুরকা মুর্মু বিশেষ সংখ্যার পরিকল্পনা",
+     "org_bn": "অন্যান্য: স্বস্তিকা",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "",
+     "when_bn": "৩ আগস্ট ২০২৬",
+     "detail_bn": "আগামী সপ্তাহের সংখ্যায় ১৯৭১ সালের ভারত-পাকিস্তান যুদ্ধে নিহত চুড়কা মুর্মুকে নিয়ে লেখা থাকবে, যাঁকে স্বয়ংসেবক ও আদিবাসী শহিদ হিসেবে বর্ণনা করা হয়েছে।"
     }
    ],
    "narratives": [
@@ -3252,79 +4733,114 @@ window.HINDUTVA = {
      "target": "Guru tradition / RSS saffron flag",
      "claim": "The RSS takes the saffron flag, a symbol of renunciation and dedication, rather than any person as its guru, and swayamsevaks dedicate their resources to the nation on Guru Purnima.",
      "heading": "রাষ্ট্রহিতে সমর্পণই গুরুপূর্ণিমার সত্যার্থ",
-     "page": 33
+     "page": 33,
+     "theme_bn": "সংস্কৃতি/ধর্ম",
+     "target_bn": "গুরু পরম্পরা / আরএসএসের গৈরিক পতাকা",
+     "claim_bn": "আরএসএস কোনও ব্যক্তিকে নয়, ত্যাগ ও সমর্পণের প্রতীক গৈরিক পতাকাকে গুরু হিসেবে গ্রহণ করে, এবং গুরুপূর্ণিমায় স্বয়ংসেবকরা নিজেদের সম্পদ দেশের উদ্দেশে নিবেদন করেন।"
     },
     {
      "theme": "culture/religion",
      "target": "Guru Purnima as a pillar of Indian culture",
      "claim": "India was once 'vishwaguru' thanks to the guru-parampara, and the RSS keeps this tradition alive through the saffron flag.",
      "heading": "ভারতীয় সংস্কৃতির এক মহত্ত্বপূর্ণ তিথি শ্রীগুরুপূর্ণিমা",
-     "page": 5
+     "page": 5,
+     "theme_bn": "সংস্কৃতি/ধর্ম",
+     "target_bn": "ভারতীয় সংস্কৃতির স্তম্ভ হিসেবে গুরুপূর্ণিমা",
+     "claim_bn": "গুরু-পরম্পরার কারণে ভারত একসময় 'বিশ্বগুরু' ছিল, আর আরএসএস গেরুয়া পতাকার মাধ্যমে এই ঐতিহ্যকে বাঁচিয়ে রেখেছে।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "Hindu society / caste divisions / missionaries",
      "claim": "Caste divisions were manufactured by the British and Christian missionaries to split and convert Hindus, and the RSS's 'social harmony' and shared meals counter this.",
      "heading": "রাষ্ট্রীয় স্বয়ংসেবক সঙ্ঘের “পঞ্চ পরিবর্তন” ভাবনা পরম বৈভবশালী সমাজ ও রাষ্ট্র গঠনের অন্যতম পূর্বশর্ত",
-     "page": 47
+     "page": 47,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "হিন্দু সমাজ / জাতপাতের বিভাজন / মিশনারি",
+     "claim_bn": "জাতিভেদ ব্রিটিশ ও খ্রিস্টান মিশনারিরা হিন্দুদের বিভক্ত ও ধর্মান্তরিত করতে তৈরি করেছিল; আরএসএসের 'সামাজিক সমরসতা' ও সহভোজ তার মোকাবিলা করে।"
     },
     {
      "theme": "history & icons",
      "target": "Congress/Nehru, Communists, Syama Prasad Mukherjee",
      "claim": "Mukherjee's death in custody was a political murder ordered by Nehru; Congress and the Communists erased his homeland idea, and the BJP now in power gives him due honour.",
      "heading": "শ্যামাপ্রসাদ স্মরণ নীরবে, নিভৃতে",
-     "page": 13
+     "page": 13,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "কংগ্রেস/নেহরু, কমিউনিস্ট, শ্যামাপ্রসাদ মুখোপাধ্যায়",
+     "claim_bn": "মুখার্জির হেফাজতে মৃত্যু ছিল নেহরুর নির্দেশে এক রাজনৈতিক হত্যা; কংগ্রেস ও কমিউনিস্টরা তাঁর স্বদেশভূমির ধারণা মুছে দিয়েছে, আর এখন ক্ষমতাসীন বিজেপি তাঁকে যথাযোগ্য সম্মান দিচ্ছে।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Left Front government of the early 1990s",
      "claim": "The Communist-led West Bengal government of 1992 'murdered people at the drop of a hat' and created a frightening, violent political climate.",
      "heading": "শ্যামাপ্রসাদ স্মরণ নীরবে, নিভৃতে",
-     "page": 13
+     "page": 13,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "নব্বইয়ের দশকের গোড়ার বামফ্রন্ট সরকার",
+     "claim_bn": "১৯৯২ সালের কমিউনিস্ট-নেতৃত্বাধীন পশ্চিমবঙ্গ সরকার 'কথায় কথায় মানুষ খুন করত' এবং একটি ভীতিকর, হিংসাত্মক রাজনৈতিক আবহ তৈরি করেছিল।"
     },
     {
      "theme": "history & icons",
      "target": "Hindu Mahasabha/RSS ties: Mukherjee and Dr Hedgewar",
      "claim": "In 1940 Mukherjee met Hedgewar about the Hindu crisis in Bengal, and Hedgewar said the root cause is Hindu disorganisation, which the Sangh's path of unity remedies.",
      "heading": "গল্প কথায় ডাক্তারজী",
-     "page": 50
+     "page": 50,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "হিন্দু মহাসভা/আরএসএস সম্পর্ক: মুখোপাধ্যায় ও ডাঃ হেডগেওয়ার",
+     "claim_bn": "১৯৪০ সালে মুখার্জি বাংলার হিন্দু সংকট নিয়ে হেডগেওয়ারের সঙ্গে দেখা করেন, এবং হেডগেওয়ার বলেন মূল কারণ হিন্দুদের অসংগঠিত অবস্থা, যার প্রতিকার সংঘের ঐক্যের পথ।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "Mamata Banerjee",
      "claim": "Mamata Banerjee 'fished in troubled waters' over the Baruipur affair and betrayed her own cause, her mask falling off.",
      "heading": "বারুইপুরকাণ্ডে ঘোলা জলে মাছ ধরতে গিয়ে ভাবের ঘরে চুরি মমতা ব্যানার্জির, খসে পড়ল মুখোশ",
-     "page": 11
+     "page": 11,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "মমতা বন্দ্যোপাধ্যায়",
+     "claim_bn": "বারুইপুর কাণ্ডে মমতা বন্দ্যোপাধ্যায় 'ঘোলা জলে মাছ ধরেছেন' এবং নিজের লক্ষ্যের সঙ্গে বিশ্বাসঘাতকতা করেছেন, তাঁর মুখোশ খসে পড়েছে।"
     },
     {
      "theme": "West Bengal elections",
      "target": "New BJP state government / bureaucracy",
      "claim": "The newly elected West Bengal government must beware of entrenched bureaucrats, and school history syllabi for classes 9-10 must be changed without delay.",
      "heading": "বাস্তুঘুঘু আমলাতন্ত্রের থেকে সাবধান থাকতে হবে নবনির্বাচিত পশ্চিমবঙ্গ সরকারকে",
-     "page": 36
+     "page": 36,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "বিজেপির নতুন রাজ্য সরকার / আমলাতন্ত্র",
+     "claim_bn": "নবনির্বাচিত পশ্চিমবঙ্গ সরকারকে শিকড় গেড়ে বসা আমলাদের ব্যাপারে সতর্ক থাকতে হবে, এবং নবম-দশম শ্রেণির স্কুল ইতিহাস পাঠ্যক্রম অবিলম্বে বদলাতে হবে।"
     },
     {
      "theme": "nationalism/army/Pakistan",
      "target": "Pakistan / Balochistan",
      "claim": "Balochistan echoes 1971, raising the question of whether South Asia faces another partition-like upheaval.",
      "heading": "বালুচিস্তান ও ১৯৭১-এর প্রতিধ্বনি : দক্ষিণ এশিয়া কি আরেকটি",
-     "page": 18
+     "page": 18,
+     "theme_bn": "জাতীয়তাবাদ/সেনা/পাকিস্তান",
+     "target_bn": "পাকিস্তান / বালুচিস্তান",
+     "claim_bn": "বালুচিস্তান ১৯৭১-এর প্রতিধ্বনি তুলছে, প্রশ্ন উঠছে দক্ষিণ এশিয়া কি আরও একটি দেশভাগের মতো উথালপাথালের মুখে।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "TMC / 21 July Martyrs' Day",
      "claim": "The paper questions whose day 21 July truly is, implicitly challenging the TMC's claim to it.",
      "heading": "একুশে জুলাই আসলে কার?",
-     "page": 49
+     "page": 49,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "তৃণমূল / ২১ জুলাই শহিদ দিবস",
+     "claim_bn": "পত্রিকা প্রশ্ন তুলেছে ২১ জুলাই আসলে কার দিন, এর মাধ্যমে তৃণমূলের দাবিকে পরোক্ষভাবে চ্যালেঞ্জ জানানো হয়েছে।"
     },
     {
      "theme": "other",
      "target": "Criminals / state police",
      "claim": "Encounters in West Bengal should not be read as a good sign for wrongdoers.",
      "heading": "পশ্চিমবঙ্গে এনকাউন্টার : অপরাধীদের কাছে শুভ সংকেত নয়",
-     "page": 16
+     "page": 16,
+     "theme_bn": "অন্যান্য",
+     "target_bn": "অপরাধী / রাজ্য পুলিশ",
+     "claim_bn": "পশ্চিমবঙ্গে এনকাউন্টারকে অন্যায়কারীদের জন্য ভালো লক্ষণ হিসেবে দেখা উচিত নয়।"
     }
-   ]
+   ],
+   "label_bn": "",
+   "summary_bn": "২৭ জুলাই ২০২৬ সংখ্যাটি গুরুপূর্ণিমাকে কেন্দ্র করে সাজানো, যেখানে গৈরিক ধ্বজকে আরএসএসের গুরু হিসেবে তুলে ধরা হয়েছে এবং দেশের প্রতি 'সমর্পণ' (নিজের সামর্থ্য উৎসর্গ) করার আহ্বান জানানো হয়েছে। এতে আরএসএসের শতবর্ষের 'পঞ্চ পরিবর্তন' কর্মসূচি রয়েছে এবং শ্যামাপ্রসাদ মুখোপাধ্যায়ের ১২৫তম জন্মবার্ষিকী উদ্‌যাপিত হয়েছে, কারণ এখন পশ্চিমবঙ্গে বিজেপি সরকার চালাচ্ছে। এতে মমতা বন্দ্যোপাধ্যায় এবং প্রাক্তন তৃণমূল ও বামপন্থী শাসনের সমালোচনা করা হয়েছে এবং নতুন রাজ্য সরকারের অধীনে প্রশাসনিক ও পাঠ্যক্রমে পরিবর্তনের দাবি জানানো হয়েছে। এছাড়া বারুইপুর কাণ্ড, পুলিশি এনকাউন্টার, বালুচিস্তান/পাকিস্তান, তসলিমা নাসরিন এবং ২১ জুলাইয়ের (শহিদ দিবস) সমাবেশের খবর এবং কলকাতা ও জেলাগুলির সাংগঠনিক প্রতিবেদনও রয়েছে।"
   },
   {
    "issue": "20260720",
@@ -3340,7 +4856,13 @@ window.HINDUTVA = {
      "where": "Rabindra Sadan, Kolkata",
      "when": "1 July (National Doctors' Day)",
      "page": 24,
-     "detail": "About 1,450 doctors, interns and medical students attended. Health Minister Dr Sharadwat Mukherjee, other ministers and MLAs, and RSS Purba Kshetra pracharak Ramapada Pal were present. The theme was patient-centred care and service."
+     "detail": "About 1,450 doctors, interns and medical students attended. Health Minister Dr Sharadwat Mukherjee, other ministers and MLAs, and RSS Purba Kshetra pracharak Ramapada Pal were present. The theme was patient-centred care and service.",
+     "title_bn": "এনএমও দক্ষিণবঙ্গের বার্ষিক চিকিৎসক সম্মেলন",
+     "org_bn": "অন্যান্য: ন্যাশনাল মেডিকোজ অর্গানাইজেশন (এনএমও)",
+     "type_bn": "সম্মেলন",
+     "where_bn": "রবীন্দ্র সদন, কলকাতা",
+     "when_bn": "১ জুলাই (জাতীয় চিকিৎসক দিবস)",
+     "detail_bn": "প্রায় ১,৪৫০ জন চিকিৎসক, ইন্টার্ন ও মেডিক্যাল ছাত্রছাত্রী উপস্থিত ছিলেন। স্বাস্থ্যমন্ত্রী ডাঃ শরদ্বত মুখোপাধ্যায়, অন্যান্য মন্ত্রী ও বিধায়করা এবং আরএসএস পূর্ব ক্ষেত্র প্রচারক রমাপদ পাল উপস্থিত ছিলেন। আলোচ্য বিষয় ছিল রোগীকেন্দ্রিক পরিচর্যা ও সেবা।"
     },
     {
      "title": "Sanskar Bharati South 24 Parganas West Bengal Day celebration",
@@ -3349,7 +4871,13 @@ window.HINDUTVA = {
      "where": "South 24 Parganas, West Bengal",
      "when": "20 June",
      "page": 25,
-     "detail": "Held with the state government's district information and culture department and attended by Minister Dr Indranil Khan. It featured the music-dance tableau 'Shyamaprasad – Guide of the Times' and Odissi, Kathak and Bharatanatyam performances."
+     "detail": "Held with the state government's district information and culture department and attended by Minister Dr Indranil Khan. It featured the music-dance tableau 'Shyamaprasad – Guide of the Times' and Odissi, Kathak and Bharatanatyam performances.",
+     "title_bn": "সংস্কার ভারতী দক্ষিণ ২৪ পরগনার পশ্চিমবঙ্গ দিবস উদযাপন",
+     "org_bn": "অন্যান্য: সংস্কার ভারতী",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "দক্ষিণ ২৪ পরগনা, পশ্চিমবঙ্গ",
+     "when_bn": "২০ জুন",
+     "detail_bn": "রাজ্য সরকারের জেলা তথ্য ও সংস্কৃতি দপ্তরের সঙ্গে অনুষ্ঠিত এবং মন্ত্রী ডঃ ইন্দ্রনীল খাঁ উপস্থিত ছিলেন। অনুষ্ঠানে 'শ্যামাপ্রসাদ – সময়ের পথপ্রদর্শক' শীর্ষক সংগীত-নৃত্য আলেখ্য এবং ওডিশি, কথক ও ভরতনাট্যম পরিবেশিত হয়।"
     },
     {
      "title": "Rishi Bankim Mela and Vande Mataram Utsav",
@@ -3358,7 +4886,13 @@ window.HINDUTVA = {
      "where": "Bankim Park, Howrah",
      "when": "20-28 June",
      "page": 25,
-     "detail": "This nine-day fair had daily cultural programmes, yoga and talks. Speakers included Hindu Samhati president Shantanu Sinha, and MLA Rudranil Ghosh attended the inauguration."
+     "detail": "This nine-day fair had daily cultural programmes, yoga and talks. Speakers included Hindu Samhati president Shantanu Sinha, and MLA Rudranil Ghosh attended the inauguration.",
+     "title_bn": "ঋষি বঙ্কিম মেলা ও বন্দে মাতরম উৎসব",
+     "org_bn": "অন্যান্য: ঋষি বঙ্কিম মেলা ও বন্দে মাতরম উৎসব সমিতি",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "বঙ্কিম পার্ক, হাওড়া",
+     "when_bn": "২০-২৮ জুন",
+     "detail_bn": "নয় দিনের এই মেলায় প্রতিদিন সাংস্কৃতিক অনুষ্ঠান, যোগব্যায়াম ও আলোচনা ছিল। বক্তাদের মধ্যে ছিলেন হিন্দু সংহতি সভাপতি শান্তনু সিনহা, আর উদ্বোধনে বিধায়ক রুদ্রনীল ঘোষ উপস্থিত ছিলেন।"
     },
     {
      "title": "Sanskar Bharati Dakshin Banga annual general meeting",
@@ -3367,7 +4901,13 @@ window.HINDUTVA = {
      "where": "Srijani Shilpagram, Santiniketan, Birbhum",
      "when": "27-28 June",
      "page": 26,
-     "detail": "RSS Purba Kshetra sampark pramukh Bidyut Mukhopadhyay spoke on the Sangh and Sanskar Bharati's ideological direction. Resolutions included installing a statue of Shashanka, a Heritage Commission for temples, a folk culture academy, classical recognition for Bengali kirtan and Gaudiya dance, and a politics-free Tollywood. Agriculture Minister Dudhkumar Mondal attended the closing session."
+     "detail": "RSS Purba Kshetra sampark pramukh Bidyut Mukhopadhyay spoke on the Sangh and Sanskar Bharati's ideological direction. Resolutions included installing a statue of Shashanka, a Heritage Commission for temples, a folk culture academy, classical recognition for Bengali kirtan and Gaudiya dance, and a politics-free Tollywood. Agriculture Minister Dudhkumar Mondal attended the closing session.",
+     "title_bn": "সংস্কার ভারতী দক্ষিণবঙ্গের বার্ষিক সাধারণ সভা",
+     "org_bn": "অন্যান্য: সংস্কার ভারতী",
+     "type_bn": "সম্মেলন",
+     "where_bn": "সৃজনী শিল্পগ্রাম, শান্তিনিকেতন, বীরভূম",
+     "when_bn": "২৭–২৮ জুন",
+     "detail_bn": "আরএসএস পূর্ব ক্ষেত্র সম্পর্কপ্রমুখ বিদ্যুৎ মুখোপাধ্যায় সংঘ ও সংস্কার ভারতীর আদর্শগত দিশা নিয়ে বক্তব্য রাখেন। প্রস্তাবগুলির মধ্যে ছিল শশাঙ্কের মূর্তি স্থাপন, মন্দিরগুলির জন্য হেরিটেজ কমিশন, লোকসংস্কৃতি অ্যাকাডেমি, বাংলা কীর্তন ও গৌড়ীয় নৃত্যের শাস্ত্রীয় স্বীকৃতি এবং রাজনীতিমুক্ত টলিউড। সমাপনী অধিবেশনে কৃষিমন্ত্রী দুধকুমার মণ্ডল উপস্থিত ছিলেন।"
     },
     {
      "title": "Discussion on Vivekananda, Pranavananda and Syama Prasad Mookerjee",
@@ -3376,7 +4916,13 @@ window.HINDUTVA = {
      "where": "Ballygunge, Kolkata",
      "when": "4 July",
      "page": 27,
-     "detail": "Titled 'Origin of the revolutionary nationalism of undivided India' and 'One country, one constitution, one flag'. State Finance Minister Dr Swapan Dasgupta was the chief speaker."
+     "detail": "Titled 'Origin of the revolutionary nationalism of undivided India' and 'One country, one constitution, one flag'. State Finance Minister Dr Swapan Dasgupta was the chief speaker.",
+     "title_bn": "বিবেকানন্দ, প্রণবানন্দ ও শ্যামাপ্রসাদ মুখোপাধ্যায় নিয়ে আলোচনা",
+     "org_bn": "অন্যান্য: ভারত সেবাশ্রম সঙ্ঘ / বিবেকানন্দ সেন্টার ফর সোশ্যাল সার্ভিস / ধৃতি",
+     "type_bn": "সম্মেলন",
+     "where_bn": "বালিগঞ্জ, কলকাতা",
+     "when_bn": "৪ জুলাই",
+     "detail_bn": "শিরোনাম 'অবিভক্ত ভারতের বিপ্লবী জাতীয়তাবাদের উৎস' ও 'এক দেশ, এক সংবিধান, এক পতাকা'। রাজ্যের অর্থমন্ত্রী ডাঃ স্বপন দাশগুপ্ত ছিলেন প্রধান বক্তা।"
     },
     {
      "title": "Syama Prasad Mookerjee memorial fortnight at Kalyani University",
@@ -3385,7 +4931,13 @@ window.HINDUTVA = {
      "where": "Kalyani, Nadia",
      "when": "4 July",
      "page": 28,
-     "detail": "Observed on the West Bengal government's instruction, with Bharat Sevashram Sangh monks and university officials present. It closed with Vande Mataram."
+     "detail": "Observed on the West Bengal government's instruction, with Bharat Sevashram Sangh monks and university officials present. It closed with Vande Mataram.",
+     "title_bn": "কল্যাণী বিশ্ববিদ্যালয়ে শ্যামাপ্রসাদ মুখোপাধ্যায় স্মরণ পক্ষ",
+     "org_bn": "অন্যান্য: কল্যাণী বিশ্ববিদ্যালয় কর্তৃপক্ষ (রাজ্য সরকারের নির্দেশ)",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "কল্যাণী, নদিয়া",
+     "when_bn": "৪ জুলাই",
+     "detail_bn": "পশ্চিমবঙ্গ সরকারের নির্দেশে পালিত হয়, ভারত সেবাশ্রম সঙ্ঘের সন্ন্যাসী ও বিশ্ববিদ্যালয়ের আধিকারিকরা উপস্থিত ছিলেন। অনুষ্ঠান বন্দে মাতরম গানের মধ্য দিয়ে শেষ হয়।"
     },
     {
      "title": "Nayabad Titas 14th anniversary theatre event",
@@ -3394,7 +4946,13 @@ window.HINDUTVA = {
      "where": "Kolkata",
      "when": "18 June",
      "page": 28,
-     "detail": "Sanskar Bharati central secretary Nilanjana Roy said present-day India needs nationalist plays. National School of Drama director Chittaranjan Tripathi announced a national theatre festival and a workshop in the state."
+     "detail": "Sanskar Bharati central secretary Nilanjana Roy said present-day India needs nationalist plays. National School of Drama director Chittaranjan Tripathi announced a national theatre festival and a workshop in the state.",
+     "title_bn": "নয়াবাদ টাইটাস ১৪তম বার্ষিকী নাট্যানুষ্ঠান",
+     "org_bn": "অন্যান্য: নয়াবাদ তিতাস নাট্যদল / সংস্কার ভারতী",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "কলকাতা",
+     "when_bn": "১৮ জুন",
+     "detail_bn": "সংস্কার ভারতীর কেন্দ্রীয় সম্পাদক নীলাঞ্জনা রায় বলেন, বর্তমান ভারতে জাতীয়তাবাদী নাটকের প্রয়োজন রয়েছে। ন্যাশনাল স্কুল অফ ড্রামার অধিকর্তা চিত্তরঞ্জন ত্রিপাঠী একটি জাতীয় নাট্যোৎসব ও রাজ্যে একটি কর্মশালার ঘোষণা করেন।"
     },
     {
      "title": "Narasimha Vedic yagna and harinam sankirtan",
@@ -3403,7 +4961,13 @@ window.HINDUTVA = {
      "where": "Kathgola Durga Mandir, Entally, Kolkata",
      "when": "14 June",
      "page": 30,
-     "detail": "Organised by Boichitra Welfare Association with Bangiya Hindu Jagaran support. Saints from Juna Akhara and ISKCON attended, and VHP workers were present. Speakers stressed destroying the wicked and protecting the good."
+     "detail": "Organised by Boichitra Welfare Association with Bangiya Hindu Jagaran support. Saints from Juna Akhara and ISKCON attended, and VHP workers were present. Speakers stressed destroying the wicked and protecting the good.",
+     "title_bn": "নৃসিংহ বৈদিক যজ্ঞ ও হরিনাম সংকীর্তন",
+     "org_bn": "হিন্দু জাগরণ মঞ্চ",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "কাঠগোলা দুর্গা মন্দির, এন্টালি, কলকাতা",
+     "when_bn": "১৪ জুন",
+     "detail_bn": "বৈচিত্রা ওয়েলফেয়ার অ্যাসোসিয়েশনের আয়োজনে, বঙ্গীয় হিন্দু জাগরণের সহযোগিতায়। জুনা আখড়া ও ইসকনের সাধুরা উপস্থিত ছিলেন, বিশ্ব হিন্দু পরিষদের কর্মীরাও ছিলেন। বক্তারা দুষ্টের দমন ও শিষ্টের পালনের ওপর জোর দেন।"
     },
     {
      "title": "Memorial for Dr Hedgewar's Rajgir stay (story series)",
@@ -3412,7 +4976,13 @@ window.HINDUTVA = {
      "where": "Rajgir, Bihar",
      "when": "31 January 1940",
      "page": 50,
-     "detail": "A serialised story recounts Dr Hedgewar's hot-spring treatment at Rajgir and his focus on expanding shakhas. He set a target for young uniformed swayamsevaks of 1% of the rural and 3% of the urban population within three years (1940-42)."
+     "detail": "A serialised story recounts Dr Hedgewar's hot-spring treatment at Rajgir and his focus on expanding shakhas. He set a target for young uniformed swayamsevaks of 1% of the rural and 3% of the urban population within three years (1940-42).",
+     "title_bn": "ডাঃ হেডগেওয়ারের রাজগীর অবস্থানের স্মৃতিস্তম্ভ (ধারাবাহিক কাহিনি)",
+     "org_bn": "আরএসএস",
+     "type_bn": "শতবর্ষ",
+     "where_bn": "রাজগীর, বিহার",
+     "when_bn": "৩১ জানুয়ারি ১৯৪০",
+     "detail_bn": "একটি ধারাবাহিক কাহিনীতে রাজগিরে ডাঃ হেডগেওয়ারের উষ্ণ প্রস্রবণে চিকিৎসা এবং শাখা সম্প্রসারণে তাঁর মনোনিবেশের কথা বলা হয়েছে। তিনি তিন বছরের (১৯৪০-৪২) মধ্যে গ্রামীণ জনসংখ্যার ১ শতাংশ ও শহুরে জনসংখ্যার ৩ শতাংশ তরুণ গণবেশধারী স্বয়ংসেবক তৈরির লক্ষ্য স্থির করেছিলেন।"
     }
    ],
    "narratives": [
@@ -3421,72 +4991,104 @@ window.HINDUTVA = {
      "target": "Left Front and TMC governments",
      "claim": "Congress, the Left (34 years of 'red terror' and 'harmad' squads) and TMC all ruled through goonda raj. TMC allegedly allied with jihadi forces and Bangladeshi and Rohingya infiltrators for the 27% Muslim vote bank.",
      "heading": "রাজ্যের মানুষের সুরক্ষা কবচ- গুন্ডা দমন আইন",
-     "page": 5
+     "page": 5,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "বামফ্রন্ট ও তৃণমূল সরকার",
+     "claim_bn": "কংগ্রেস, বামেরা (৩৪ বছরের 'লাল সন্ত্রাস' ও 'হার্মাদ' বাহিনী) এবং তৃণমূল সবাই গুন্ডারাজের মাধ্যমে শাসন করেছে। ২৭ শতাংশ মুসলিম ভোটব্যাংকের জন্য তৃণমূল নাকি জিহাদি শক্তি এবং বাংলাদেশি ও রোহিঙ্গা অনুপ্রবেশকারীদের সঙ্গে জোট বেঁধেছে।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "CPIM",
      "claim": "The CPIM turned Bengal's soil red with innocent blood over 34 years. Its 'harmad' cadres were later absorbed into the TMC's power structure.",
      "heading": "রাজ্যের মানুষের সুরক্ষা কবচ- গুন্ডা দমন আইন",
-     "page": 5
+     "page": 5,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "সিপিআই(এম)",
+     "claim_bn": "চौंतिশ বছর ধরে সিপিআই(এম) নিরীহ মানুষের রক্তে বাংলার মাটি লাল করেছে। তাদের 'হার্মাদ' বাহিনী পরে তৃণমূলের ক্ষমতাকাঠামোয় মিশে গিয়েছে।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "CPIM 'comrades' and an arrested man named Laheq Ali (Baruipur)",
      "claim": "The article says the arrest of Laheq Ali in Baruipur has torn off the masks of the 'comrades'. This is read from the contents page only, so the substance is not confirmed.",
      "heading": "বারুইপুরের সত্য : লাহেক আলির গ্রেপ্তার ও কমরেডদের খসে পড়া মুখোশ",
-     "page": 3
+     "page": 3,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "সিপিআই(এম)-এর 'কমরেডরা' এবং লহেক আলি নামে গ্রেপ্তার হওয়া এক ব্যক্তি (বারুইপুর)",
+     "claim_bn": "নিবন্ধে বলা হয়েছে, বারুইপুরে লাহেক আলির গ্রেপ্তারি 'কমরেড'দের মুখোশ খুলে দিয়েছে। এটি শুধু সূচিপত্র থেকে পড়া, তাই বিষয়বস্তু নিশ্চিত নয়।"
     },
     {
      "theme": "Modi govt achievements",
      "target": "Dr Syama Prasad Mookerjee, Nehru/Congress, Modi",
      "claim": "In a piece credited to Narendra Modi, Mookerjee is praised as a visionary who left Nehru's cabinet, founded the Jana Sangh and built industry. Congress is accused of striking at democratic values with the first constitutional amendment, and youth are urged to build a 'Viksit Bharat'.",
      "heading": "শক্তিশালী ভারতের স্বপ্নদ্রষ্টা রাষ্ট্রনায়ক ড: শ্যামাপ্রসাদ মুখোপাধ্যায়",
-     "page": 9
+     "page": 9,
+     "theme_bn": "মোদী সরকারের কৃতিত্ব",
+     "target_bn": "ডা. শ্যামাপ্রসাদ মুখোপাধ্যায়, নেহরু/কংগ্রেস, মোদী",
+     "claim_bn": "নরেন্দ্র মোদীর নামে প্রকাশিত একটি লেখায় মুখার্জিকে দূরদর্শী বলে প্রশংসা করা হয়েছে, যিনি নেহরুর মন্ত্রিসভা ছেড়ে জনসংঘ প্রতিষ্ঠা করেন ও শিল্প গড়ে তোলেন। প্রথম সংবিধান সংশোধনের মাধ্যমে কংগ্রেস গণতান্ত্রিক মূল্যবোধে আঘাত হেনেছে বলে অভিযোগ করা হয়েছে, এবং যুবকদের 'বিকশিত ভারত' গড়ার আহ্বান জানানো হয়েছে।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "Previous TMC government; new BJP government",
      "claim": "The new government's preventive detention law, with up to 12 months' detention and non-bailable offences, is presented as the answer to political violence. Opponents' civil-liberty concerns are acknowledged but countered.",
      "heading": "পশ্চিমবঙ্গের “গুন্ডা দমন আইন, ২০২৬” : এরাজ্যে আইনের শাসন পুনঃপ্রতিষ্ঠার অনিবার্য অস্ত্র",
-     "page": 11
+     "page": 11,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "আগের তৃণমূল সরকার; নতুন বিজেপি সরকার",
+     "claim_bn": "রাজনৈতিক হিংসার জবাব হিসেবে নতুন সরকারের প্রতিরোধমূলক আটক আইনকে তুলে ধরা হয়েছে, যাতে ১২ মাস পর্যন্ত আটক রাখা যাবে এবং অপরাধগুলি জামিন-অযোগ্য। বিরোধীদের নাগরিক স্বাধীনতা-সংক্রান্ত উদ্বেগের কথা স্বীকার করা হলেও তার পাল্টা যুক্তি দেওয়া হয়েছে।"
     },
     {
      "theme": "infiltration/demography",
      "target": "Jihadi violence, Muslim mobs, Bangladeshi and Rohingya infiltrators",
      "claim": "The paper cites the 2022 Howrah and 2023 Rishra Ram Navami violence and the 2025 Murshidabad violence over the Waqf Act as 'jihadi terror' mainly harming Hindus and displacing families. It also cites an NHRC report and a High Court CBI recommendation on post-poll violence.",
      "heading": "পশ্চিমবঙ্গের নতুন জননিরাপত্তা আইন : সংবিধান, সমাজ, সুশাসনের হাতিয়ার ও জাতীয় ঐক্যের প্রেক্ষাপটে একটি পর্যালোচনা",
-     "page": 43
+     "page": 43,
+     "theme_bn": "অনুপ্রবেশ/জনবিন্যাস",
+     "target_bn": "জিহাদি হিংসা, মুসলিম জনতা, বাংলাদেশি ও রোহিঙ্গা অনুপ্রবেশকারী",
+     "claim_bn": "পত্রিকা ২০২২ সালে হাওড়া ও ২০২৩ সালে রিষড়ায় রামনবমীর হিংসা এবং ওয়াকফ আইন নিয়ে ২০২৫ সালে মুর্শিদাবাদের হিংসাকে 'জেহাদি সন্ত্রাস' বলে উল্লেখ করেছে, যা মূলত হিন্দুদের ক্ষতি করেছে ও পরিবারগুলিকে উদ্বাস্তু করেছে। ভোট-পরবর্তী হিংসা নিয়ে জাতীয় মানবাধিকার কমিশনের একটি প্রতিবেদন এবং হাইকোর্টের সিবিআই-তদন্তের সুপারিশেরও উল্লেখ করা হয়েছে।"
     },
     {
      "theme": "Bangladesh & Hindu persecution",
      "target": "Bangladesh",
      "claim": "The article warns of incitement to another Hindu genocide in Bangladesh like 1971. This is read from the contents page only.",
      "heading": "বাংলাদেশে একাত্তরের মতো আরেকটি হিন্দু গণহত্যার উসকানি",
-     "page": 3
+     "page": 3,
+     "theme_bn": "বাংলাদেশ ও হিন্দু নির্যাতন",
+     "target_bn": "বাংলাদেশ",
+     "claim_bn": "নিবন্ধে ১৯৭১-এর মতো বাংলাদেশে আরও একটি হিন্দু গণহত্যার উস্কানির বিষয়ে সতর্ক করা হয়েছে। এটি শুধু সূচিপত্র থেকে পড়া।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "West Bengal policy, minorities",
      "claim": "The paper calls for an immediate Uniform Civil Code in West Bengal. This is read from the contents page only.",
      "heading": "“অভিন্ন দেওয়ানি বিধি” পশ্চিমবঙ্গে এখনই প্রণয়ন প্রয়োজন",
-     "page": 3
+     "page": 3,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "পশ্চিমবঙ্গের নীতি, সংখ্যালঘু",
+     "claim_bn": "পত্রিকা পশ্চিমবঙ্গে অবিলম্বে অভিন্ন দেওয়ানি বিধি চালুর দাবি জানিয়েছে। এটি শুধু সূচিপত্র দেখে নেওয়া হয়েছে।"
     },
     {
      "theme": "Modi govt achievements",
      "target": "State budget 2026-27",
      "claim": "The new BJP government's first budget is presented as the start of a developed West Bengal. This is read from the contents page only.",
      "heading": "পশ্চিমবঙ্গ বাজেটে ২০২৬-২৭ : “উন্নত পশ্চিমবঙ্গ নির্মাণের পথে নতুন যাত্রা",
-     "page": 3
+     "page": 3,
+     "theme_bn": "মোদী সরকারের কৃতিত্ব",
+     "target_bn": "রাজ্য বাজেট ২০২৬-২৭",
+     "claim_bn": "নতুন বিজেপি সরকারের প্রথম বাজেটকে উন্নত পশ্চিমবঙ্গের সূচনা হিসেবে তুলে ধরা হয়েছে। এটি শুধুমাত্র সূচিপত্র দেখে পড়া।"
     },
     {
      "theme": "history & icons",
      "target": "Hedgewar, Syama Prasad Mookerjee, Pranavananda",
      "claim": "Event reports and the Hedgewar story series elevate the Sangh founder and Mookerjee as icons, and urge spreading the 'Hindutva' ideal and the organisation.",
      "heading": "গল্প কথায় ডাক্তারজী",
-     "page": 50
+     "page": 50,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "হেডগেওয়ার, শ্যামাপ্রসাদ মুখোপাধ্যায়, প্রণবানন্দ",
+     "claim_bn": "অনুষ্ঠানের প্রতিবেদন ও হেডগেওয়ারের গল্পমালা সঙ্ঘের প্রতিষ্ঠাতা ও মুখোপাধ্যায়কে আদর্শ পুরুষ হিসেবে তুলে ধরেছে এবং 'হিন্দুত্ব'-এর আদর্শ ও সংগঠন ছড়িয়ে দেওয়ার আহ্বান জানিয়েছে।"
     }
-   ]
+   ],
+   "label_bn": "",
+   "summary_bn": "স্বস্তিকার ২০২৬ সালের ২০ জুলাইয়ের এই সংখ্যাটি পশ্চিমবঙ্গের নতুন বিজেপি-নেতৃত্বাধীন সরকারের 'গুন্ডা দমন' (জননিরাপত্তা ও সমাজবিরোধী কার্যকলাপ নিয়ন্ত্রণ) আইন এবং ২০২৬-২৭ সালের রাজ্য বাজেটের প্রশংসা করেছে। পূর্ববর্তী বামপন্থী ও তৃণমূল সরকারগুলিকে গুন্ডা, জিহাদি শক্তি ও অনুপ্রবেশকারীদের মাধ্যমে শাসনকারী হিসেবে চিত্রিত করা হয়েছে। এতে শ্যামাপ্রসাদ মুখোপাধ্যায়কে জাতীয়তাবাদী আদর্শ হিসেবে তুলে ধরা হয়েছে— মোদীর শ্রদ্ধার্ঘ্য এবং বাংলায় অভিন্ন দেওয়ানি বিধির দাবিসহ। বাংলাদেশে হিন্দু নির্যাতন নিয়ে সতর্কবার্তা এবং রাজ্যজুড়ে সঙ্ঘ-সংশ্লিষ্ট সাংস্কৃতিক, চিকিৎসা ও ধর্মীয় অনুষ্ঠানের প্রতিবেদনও রয়েছে।"
   },
   {
    "issue": "20260713",
@@ -3502,7 +5104,13 @@ window.HINDUTVA = {
      "where": "Red Fort, New Delhi",
      "when": "24 May 2026",
      "page": 8,
-     "detail": "Over two lakh tribal people gathered at the Red Fort to mark Birsa Munda's 150th birth anniversary and demanded that Article 342 be amended to remove converted Muslims and Christians from the ST list."
+     "detail": "Over two lakh tribal people gathered at the Red Fort to mark Birsa Munda's 150th birth anniversary and demanded that Article 342 be amended to remove converted Muslims and Christians from the ST list.",
+     "title_bn": "বিরসা মুন্ডার ১৫০তম জন্মজয়ন্তী উপলক্ষে জনজাতি সমাবেশ (জনজাতি সুরক্ষা মঞ্চ)",
+     "org_bn": "অন্যান্য: জনজাতি সুরক্ষা মঞ্চ",
+     "type_bn": "মিছিল/শোভাযাত্রা",
+     "where_bn": "লালকেল্লা, নয়াদিল্লি",
+     "when_bn": "২৪ মে ২০২৬",
+     "detail_bn": "বিরসা মুন্ডার ১৫০তম জন্মবার্ষিকী উপলক্ষে লালকেল্লায় দু'লক্ষেরও বেশি আদিবাসী সমবেত হন এবং ধর্মান্তরিত মুসলমান ও খ্রিস্টানদের তফসিলি উপজাতি তালিকা থেকে বাদ দিতে ৩৪২ অনুচ্ছেদ সংশোধনের দাবি জানান।"
     },
     {
      "title": "West Bengal Day celebration, Siliguri",
@@ -3511,7 +5119,13 @@ window.HINDUTVA = {
      "where": "Dinabandhu Mancha, Siliguri",
      "when": "20 June",
      "page": 25,
-     "detail": "Speakers including an ABVP state president and the RSS Siliguri Mahanagar sanghchalak stressed Syama Prasad Mukherjee's role in creating a Hindu homeland in West Bengal."
+     "detail": "Speakers including an ABVP state president and the RSS Siliguri Mahanagar sanghchalak stressed Syama Prasad Mukherjee's role in creating a Hindu homeland in West Bengal.",
+     "title_bn": "পশ্চিমবঙ্গ দিবস উদ্যাপন, শিলিগুড়ি",
+     "org_bn": "অন্যান্য: বিশ্ব সংবাদ কেন্দ্র উত্তরবঙ্গ ও সংস্কার ভারতী",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "দীনবন্ধু মঞ্চ, শিলিগুড়ি",
+     "when_bn": "২০ জুন",
+     "detail_bn": "এবিভিপির এক রাজ্য সভাপতি এবং আরএসএসের শিলিগুড়ি মহানগর সঙ্ঘচালক সহ বক্তারা পশ্চিমবঙ্গে হিন্দুদের আবাসভূমি গঠনে শ্যামাপ্রসাদ মুখোপাধ্যায়ের ভূমিকার উপর জোর দেন।"
     },
     {
      "title": "West Bengal Day celebration, Howrah",
@@ -3520,7 +5134,13 @@ window.HINDUTVA = {
      "where": "Dumurjala Stadium, Howrah",
      "when": "20 June",
      "page": 27,
-     "detail": "Organised by Swastika magazine, with readings from Syama Prasad Mukherjee's 1953 speech published in Swastika and speeches crediting him with creating West Bengal as a Bengali Hindu homeland."
+     "detail": "Organised by Swastika magazine, with readings from Syama Prasad Mukherjee's 1953 speech published in Swastika and speeches crediting him with creating West Bengal as a Bengali Hindu homeland.",
+     "title_bn": "পশ্চিমবঙ্গ দিবস উদ্যাপন, হাওড়া",
+     "org_bn": "অন্যান্য: স্বস্তিকা সাপ্তাহিক",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "ডুমুরজলা স্টেডিয়াম, হাওড়া",
+     "when_bn": "২০ জুন",
+     "detail_bn": "স্বস্তিকা পত্রিকার আয়োজনে স্বস্তিকায় প্রকাশিত শ্যামাপ্রসাদ মুখোপাধ্যায়ের ১৯৫৩ সালের ভাষণ পাঠ এবং পশ্চিমবঙ্গকে বাঙালি হিন্দুর আবাসভূমি হিসেবে গড়ে তোলার কৃতিত্ব তাঁকে দিয়ে বক্তৃতা।"
     },
     {
      "title": "West Bengal Day celebration, Kolkata College Square",
@@ -3529,7 +5149,13 @@ window.HINDUTVA = {
      "where": "College Square, Kolkata",
      "when": "20 June",
      "page": 28,
-     "detail": "Former governor Tathagata Roy was chief guest, Bharat Sevashram Sangha and Kanji Math monks attended, and a new body 'Bangiya Shilpakala Parishad' was launched."
+     "detail": "Former governor Tathagata Roy was chief guest, Bharat Sevashram Sangha and Kanji Math monks attended, and a new body 'Bangiya Shilpakala Parishad' was launched.",
+     "title_bn": "পশ্চিমবঙ্গ দিবস উদ্যাপন, কলকাতা কলেজ স্কোয়ার",
+     "org_bn": "অন্যান্য: রাষ্ট্রীয় লেখক সঙ্ঘ ও সঙ্গচ্ছধ্বম ইকোনমি অ্যান্ড কালচারাল ফাউন্ডেশনের সঙ্গে বঙ্গীয় গ্রন্থশিল্প পরিষদ",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "কলেজ স্কোয়ার, কলকাতা",
+     "when_bn": "২০ জুন",
+     "detail_bn": "প্রাক্তন রাজ্যপাল তথাগত রায় প্রধান অতিথি ছিলেন, ভারত সেবাশ্রম সংঘ ও কাঞ্জি মঠের সন্ন্যাসীরা উপস্থিত ছিলেন এবং 'বঙ্গীয় শিল্পকলা পরিষদ' নামে একটি নতুন সংগঠনের সূচনা হয়।"
     },
     {
      "title": "Discussion 'From Subhaschandra to Syama Prasad: an unknown life story'",
@@ -3538,7 +5164,13 @@ window.HINDUTVA = {
      "where": "Vivekananda's Ancestral House, North Kolkata",
      "when": "21 June",
      "page": 29,
-     "detail": "Speakers, including Swastika sub-editor Sukesh Chandra Mandal, accused the Left of distorting history to erase Syama Prasad Mukherjee and defame Netaji and him. The newly elected Jorasanko MLA was felicitated and two books were released."
+     "detail": "Speakers, including Swastika sub-editor Sukesh Chandra Mandal, accused the Left of distorting history to erase Syama Prasad Mukherjee and defame Netaji and him. The newly elected Jorasanko MLA was felicitated and two books were released.",
+     "title_bn": "আলোচনা 'সুভাষচন্দ্র থেকে শ্যামাপ্রসাদ: এক অজানা জীবনকথা'",
+     "org_bn": "অন্যান্য: রাষ্ট্রবাদী লেখকগণ ও জাতীয় সাহিত্য প্রকাশনী ট্রাস্ট",
+     "type_bn": "সম্মেলন",
+     "where_bn": "বিবেকানন্দের পৈতৃক বাড়ি, উত্তর কলকাতা",
+     "when_bn": "২১ জুন",
+     "detail_bn": "স্বস্তিকার সহ-সম্পাদক সুকেশ চন্দ্র মণ্ডল সহ বক্তারা অভিযোগ করেন যে, বামপন্থীরা ইতিহাস বিকৃত করে শ্যামাপ্রসাদ মুখোপাধ্যায়কে মুছে ফেলতে এবং নেতাজি ও তাঁকে কলঙ্কিত করতে চেয়েছে। নবনির্বাচিত জোড়াসাঁকোর বিধায়ককে সংবর্ধনা দেওয়া হয় এবং দুটি বই প্রকাশিত হয়।"
     },
     {
      "title": "VHP Central Margadarshak Mandal meeting",
@@ -3547,7 +5179,13 @@ window.HINDUTVA = {
      "where": "Haridwar, Uttarakhand",
      "when": "18-19 June",
      "page": 23,
-     "detail": "Saints discussed nationwide cow-protection awareness and gathering public opinion for national recognition of the cow. A second session planned a nationwide anti-drug awareness programme, with Uttarakhand CM Pushkar Singh Dhami attending and 25 saints from West Bengal taking part."
+     "detail": "Saints discussed nationwide cow-protection awareness and gathering public opinion for national recognition of the cow. A second session planned a nationwide anti-drug awareness programme, with Uttarakhand CM Pushkar Singh Dhami attending and 25 saints from West Bengal taking part.",
+     "title_bn": "বিশ্ব হিন্দু পরিষদের কেন্দ্রীয় মার্গদর্শক মণ্ডলের বৈঠক",
+     "org_bn": "বিশ্ব হিন্দু পরিষদ",
+     "type_bn": "সম্মেলন",
+     "where_bn": "হরিদ্বার, উত্তরাখণ্ড",
+     "when_bn": "১৮-১৯ জুন",
+     "detail_bn": "সাধুসন্তরা দেশজুড়ে গোরক্ষা সচেতনতা এবং গরুর জাতীয় স্বীকৃতির জন্য জনমত সংগ্রহ নিয়ে আলোচনা করেন। দ্বিতীয় অধিবেশনে দেশব্যাপী মাদকবিরোধী সচেতনতা কর্মসূচির পরিকল্পনা হয়, যেখানে উত্তরাখণ্ডের মুখ্যমন্ত্রী পুষ্কর সিং ধামি উপস্থিত ছিলেন এবং পশ্চিমবঙ্গের ২৫ জন সাধু অংশ নেন।"
     },
     {
      "title": "VHP meeting with West Bengal saints and Prant Sammelan dates",
@@ -3556,7 +5194,13 @@ window.HINDUTVA = {
      "where": "West Bengal",
      "when": "Prant sammelans on 19, 20 and 22 August",
      "page": 23,
-     "detail": "West Bengal saints met VHP central leaders, and dates were fixed for the South Bengal (19 Aug), Central Bengal (20 Aug) and North Bengal (22 Aug) Prant sammelans."
+     "detail": "West Bengal saints met VHP central leaders, and dates were fixed for the South Bengal (19 Aug), Central Bengal (20 Aug) and North Bengal (22 Aug) Prant sammelans.",
+     "title_bn": "পশ্চিমবঙ্গের সাধুসন্তদের সঙ্গে বিশ্ব হিন্দু পরিষদের বৈঠক এবং প্রান্ত সম্মেলনের তারিখ",
+     "org_bn": "বিশ্ব হিন্দু পরিষদ",
+     "type_bn": "সম্মেলন",
+     "where_bn": "পশ্চিমবঙ্গ",
+     "when_bn": "১৯, ২০ ও ২২ আগস্ট প্রান্ত সম্মেলন",
+     "detail_bn": "পশ্চিমবঙ্গের সাধুসন্তরা বিশ্ব হিন্দু পরিষদের কেন্দ্রীয় নেতাদের সঙ্গে সাক্ষাৎ করেন এবং দক্ষিণবঙ্গ (১৯ আগস্ট), মধ্যবঙ্গ (২০ আগস্ট) ও উত্তরবঙ্গ (২২ আগস্ট) প্রান্ত সম্মেলনের তারিখ স্থির হয়।"
     },
     {
      "title": "Blood donation camp by Nyay Brati",
@@ -3565,7 +5209,13 @@ window.HINDUTVA = {
      "where": "Midnapore, Paschim Medinipur",
      "when": "21 June",
      "page": 23,
-     "detail": "32 people donated blood. The RSS district sanghchalak, the vibhag pracharak and the local BJP MLA attended."
+     "detail": "32 people donated blood. The RSS district sanghchalak, the vibhag pracharak and the local BJP MLA attended.",
+     "title_bn": "ন্যায় ব্রতীর রক্তদান শিবির",
+     "org_bn": "অন্যান্য: ন্যায় ব্রত (আরএসএস নেতারা উপস্থিত ছিলেন)",
+     "type_bn": "সেবা/ত্রাণ",
+     "where_bn": "মেদিনীপুর, পশ্চিম মেদিনীপুর",
+     "when_bn": "২১ জুন",
+     "detail_bn": "৩২ জন রক্তদান করেন। আরএসএসের জেলা সঙ্ঘচালক, বিভাগ প্রচারক এবং স্থানীয় বিজেপি বিধায়ক উপস্থিত ছিলেন।"
     },
     {
      "title": "Felicitation of high-scoring students",
@@ -3574,7 +5224,13 @@ window.HINDUTVA = {
      "where": "Vidyasagar Smriti Mandir, Midnapore",
      "when": "14 June",
      "page": 24,
-     "detail": "Nivedita Seva Trust honoured top Madhyamik and Higher Secondary scorers with certificates, copies of Anandamath and silver medals, with the local BJP MLA present."
+     "detail": "Nivedita Seva Trust honoured top Madhyamik and Higher Secondary scorers with certificates, copies of Anandamath and silver medals, with the local BJP MLA present.",
+     "title_bn": "কৃতী শিক্ষার্থীদের সংবর্ধনা",
+     "org_bn": "সেবা ভারতী",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "বিদ্যাসাগর স্মৃতি মন্দির, মেদিনীপুর",
+     "when_bn": "১৪ জুন",
+     "detail_bn": "নিবেদিতা সেবা ট্রাস্ট মাধ্যমিক ও উচ্চমাধ্যমিকের কৃতী ছাত্রছাত্রীদের শংসাপত্র, আনন্দমঠের কপি ও রুপোর পদক দিয়ে সংবর্ধনা জানায়; স্থানীয় বিজেপি বিধায়ক উপস্থিত ছিলেন।"
     },
     {
      "title": "Swadeshi Jagaran Manch Prant Vichar Varg (South Bengal)",
@@ -3583,7 +5239,13 @@ window.HINDUTVA = {
      "where": "Sonarpur, South 24 Parganas",
      "when": "6-7 June",
      "page": 24,
-     "detail": "110 workers from 7 districts attended sessions on the Swadeshi Swavalambi Bharat Abhiyan, Swadeshi Vikas Yatra and Swadeshi Mela, and on speaker training."
+     "detail": "110 workers from 7 districts attended sessions on the Swadeshi Swavalambi Bharat Abhiyan, Swadeshi Vikas Yatra and Swadeshi Mela, and on speaker training.",
+     "title_bn": "স্বদেশি জাগরণ মঞ্চ প্রান্ত বিচার বর্গ (দক্ষিণবঙ্গ)",
+     "org_bn": "অন্যান্য: স্বদেশী জাগরণ মঞ্চ",
+     "type_bn": "সম্মেলন",
+     "where_bn": "সোনারপুর, দক্ষিণ ২৪ পরগনা",
+     "when_bn": "৬–৭ জুন",
+     "detail_bn": "৭টি জেলার ১১০ জন কার্যকর্তা স্বদেশী স্বাবলম্বী ভারত অভিযান, স্বদেশী বিকাশ যাত্রা ও স্বদেশী মেলা এবং বক্তা প্রশিক্ষণ বিষয়ক অধিবেশনে অংশ নেন।"
     },
     {
      "title": "Swadeshi Jagaran Manch Madhyabanga Prant Vichar Varg",
@@ -3592,7 +5254,13 @@ window.HINDUTVA = {
      "where": "Pandua, Hooghly",
      "when": "13-14 June",
      "page": 28,
-     "detail": "120 delegates attended sessions on swadeshi economy, organic farming, women and youth roles, with speaker training."
+     "detail": "120 delegates attended sessions on swadeshi economy, organic farming, women and youth roles, with speaker training.",
+     "title_bn": "স্বদেশি জাগরণ মঞ্চ মধ্যবঙ্গ প্রান্ত বিচার বর্গ",
+     "org_bn": "অন্যান্য: স্বদেশী জাগরণ মঞ্চ",
+     "type_bn": "সম্মেলন",
+     "where_bn": "পাণ্ডুয়া, হুগলি",
+     "when_bn": "১৩-১৪ জুন",
+     "detail_bn": "১২০ জন প্রতিনিধি স্বদেশী অর্থনীতি, জৈব কৃষি, নারী ও যুবকদের ভূমিকা বিষয়ক অধিবেশনে এবং বক্তা প্রশিক্ষণে অংশ নেন।"
     },
     {
      "title": "Felicitation of MLAs at Saraswati Shishu Mandir",
@@ -3601,7 +5269,13 @@ window.HINDUTVA = {
      "where": "Gangajalghati, Bankura",
      "when": "14 June",
      "page": 25,
-     "detail": "Three MLAs from Chhatna, Saltora and Barjora were honoured and reminded of their duties as public representatives, with Vedic chanting, Vande Mataram and Vivekananda readings."
+     "detail": "Three MLAs from Chhatna, Saltora and Barjora were honoured and reminded of their duties as public representatives, with Vedic chanting, Vande Mataram and Vivekananda readings.",
+     "title_bn": "সরস্বতী শিশু মন্দিরে বিধায়কদের সংবর্ধনা",
+     "org_bn": "অন্যান্য: বিদ্যা ভারতী (সরস্বতী শিশু মন্দির)",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "গঙ্গাজলঘাটি, বাঁকুড়া",
+     "when_bn": "১৪ জুন",
+     "detail_bn": "ছাতনা, শালতোড়া ও বড়জোড়ার তিন বিধায়ককে সংবর্ধনা দেওয়া হয় এবং জনপ্রতিনিধি হিসেবে তাঁদের কর্তব্য মনে করিয়ে দেওয়া হয়; অনুষ্ঠানে বেদমন্ত্র পাঠ, বন্দেমাতরম ও বিবেকানন্দের রচনাপাঠ হয়।"
     },
     {
      "title": "Social harmony seva programme at Domebasti",
@@ -3610,7 +5284,13 @@ window.HINDUTVA = {
      "where": "Khagraghat, Berhampore, Murshidabad",
      "when": "28 June",
      "page": 27,
-     "detail": "VHP's Samajik Samarasata wing gave notebooks and pens to 40 students and clothes and saris to residents of a Dom settlement. Speakers said seva unites Hindu society and helps make India 'Vishwaguru'."
+     "detail": "VHP's Samajik Samarasata wing gave notebooks and pens to 40 students and clothes and saris to residents of a Dom settlement. Speakers said seva unites Hindu society and helps make India 'Vishwaguru'.",
+     "title_bn": "ডোমবস্তিতে সামাজিক সমরসতার সেবা কর্মসূচি",
+     "org_bn": "বিশ্ব হিন্দু পরিষদ",
+     "type_bn": "সেবা/ত্রাণ",
+     "where_bn": "খাগড়াঘাট, বহরমপুর, মুর্শিদাবাদ",
+     "when_bn": "২৮ জুন",
+     "detail_bn": "বিশ্ব হিন্দু পরিষদের সামাজিক সমরসতা বিভাগ ৪০ জন ছাত্রছাত্রীকে খাতা ও কলম এবং এক ডোম বস্তির বাসিন্দাদের জামাকাপড় ও শাড়ি দেয়। বক্তারা বলেন, সেবা হিন্দু সমাজকে ঐক্যবদ্ধ করে এবং ভারতকে 'বিশ্বগুরু' হতে সাহায্য করে।"
     },
     {
      "title": "Sakshm South Bengal planning meeting",
@@ -3619,7 +5299,13 @@ window.HINDUTVA = {
      "where": "Vidhannagar, Kolkata",
      "when": "28 June",
      "page": 29,
-     "detail": "90 workers, including disability workers, attended with Sakshm's all-India organisation secretary and RSS Akhil Bharatiya Karyakarini member Advaitacharan Dutta, planning organisation and future work."
+     "detail": "90 workers, including disability workers, attended with Sakshm's all-India organisation secretary and RSS Akhil Bharatiya Karyakarini member Advaitacharan Dutta, planning organisation and future work.",
+     "title_bn": "সক্ষম দক্ষিণবঙ্গের পরিকল্পনা বৈঠক",
+     "org_bn": "অন্যান্য: সক্ষম",
+     "type_bn": "সম্মেলন",
+     "where_bn": "বিধাননগর, কলকাতা",
+     "when_bn": "২৮ জুন",
+     "detail_bn": "সক্ষমের সর্বভারতীয় সংগঠন সচিব এবং আরএসএসের অখিল ভারতীয় কার্যকারিণী সদস্য অদ্বৈতচরণ দত্তের সঙ্গে প্রতিবন্ধী কর্মী-সহ ৯০ জন কর্মী উপস্থিত ছিলেন; সংগঠন ও ভবিষ্যৎ কাজের পরিকল্পনা করা হয়।"
     },
     {
      "title": "Rath Yatra special issue coverage",
@@ -3628,7 +5314,13 @@ window.HINDUTVA = {
      "where": "Puri, Mahesh and Nihati, West Bengal",
      "when": "Ashadha 1433",
      "page": 5,
-     "detail": "The issue carries a series of articles on Rath Yatra history and traditions, including the Mahesh, Marble Palace and Nihati Kanthalpara celebrations, presenting it as a festival of equality and harmony."
+     "detail": "The issue carries a series of articles on Rath Yatra history and traditions, including the Mahesh, Marble Palace and Nihati Kanthalpara celebrations, presenting it as a festival of equality and harmony.",
+     "title_bn": "রথযাত্রা বিশেষ সংখ্যার কভারেজ",
+     "org_bn": "অন্যান্য: স্বস্তিকা সাপ্তাহিক",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "পুরী, মহেশ ও নিহাটি, পশ্চিমবঙ্গ",
+     "when_bn": "আষাঢ় ১৪৩৩",
+     "detail_bn": "সংখ্যাটিতে রথযাত্রার ইতিহাস ও ঐতিহ্য নিয়ে একাধিক লেখা রয়েছে, যার মধ্যে মহেশ, মার্বেল প্যালেস ও নিহাটি কাঁঠালপাড়ার উদযাপনও আছে; রথযাত্রাকে সাম্য ও সম্প্রীতির উৎসব হিসেবে তুলে ধরা হয়েছে।"
     }
    ],
    "narratives": [
@@ -3637,79 +5329,114 @@ window.HINDUTVA = {
      "target": "Hindu society, Lord Jagannath devotees",
      "claim": "Rath Yatra is a festival of equality and harmony in which all Hindu sects and communities, and even Buddhists and Jains, worship Jagannath, and its message has globalised Hindu tradition.",
      "heading": "সাম্য ও সম্প্রীতির উৎসব — রথযাত্রা",
-     "page": 5
+     "page": 5,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "হিন্দু সমাজ, ভগবান জগন্নাথের ভক্তবৃন্দ",
+     "claim_bn": "রথযাত্রা সাম্য ও সম্প্রীতির উৎসব, যেখানে সমস্ত হিন্দু সম্প্রদায় ও জনগোষ্ঠী, এমনকি বৌদ্ধ ও জৈনরাও জগন্নাথের আরাধনা করেন; এর বার্তা হিন্দু ঐতিহ্যকে বিশ্বজনীন করেছে।"
     },
     {
      "theme": "West Bengal elections",
      "target": "BJP",
      "claim": "The BJP must continue to live up to its image as a 'party with a difference' after taking power in the state.",
      "heading": "বিজেপিকে 'ব্যতিক্রমী দল'-এর ধারাবাহিকতা নিয়ে এগোতেই হবে : এই বাগানে ফুল তোলা মানা",
-     "page": 3
+     "page": 3,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "বিজেপি",
+     "claim_bn": "রাজ্যে ক্ষমতা নেওয়ার পরও বিজেপিকে 'ভিন্ন চরিত্রের দল' হিসেবে নিজের ভাবমূর্তি ধরে রাখতে হবে।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "Previous state government",
      "claim": "Under the previous government West Bengal saw murder, extortion, promoter-raj and attacks on police and became a haven for criminals. The new government's goonda-suppression bill will restore the rule of law.",
      "heading": "গুন্ডাদমন বিল (editorial note on the new law)",
-     "page": 4
+     "page": 4,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "আগের রাজ্য সরকার",
+     "claim_bn": "আগের সরকারের আমলে পশ্চিমবঙ্গে খুন, তোলাবাজি, প্রোমোটার-রাজ ও পুলিশের উপর হামলা হয়েছে এবং রাজ্য অপরাধীদের আশ্রয়স্থলে পরিণত হয়েছে। নতুন সরকারের গুন্ডা দমন বিল আইনের শাসন ফিরিয়ে আনবে।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "Converted tribals (Muslim/Christian)",
      "claim": "Tribals who converted to Islam or Christianity should lose ST status by amending Article 342, as the protections exist to safeguard tribal culture and identity.",
      "heading": "ধর্মান্তরিতদের বিশেষ সুবিধা নয়",
-     "page": 8
+     "page": 8,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "ধর্মান্তরিত আদিবাসী (মুসলিম/খ্রিস্টান)",
+     "claim_bn": "যে আদিবাসীরা ইসলাম বা খ্রিস্টধর্মে ধর্মান্তরিত হয়েছেন, ৩৪২ ধারা সংশোধন করে তাঁদের তফসিলি উপজাতির মর্যাদা বাতিল হওয়া উচিত, কারণ এই সুরক্ষা আদিবাসী সংস্কৃতি ও পরিচয় রক্ষার জন্যই।"
     },
     {
      "theme": "Bangladesh & Hindu persecution",
      "target": "Bangladeshi jihadis",
      "claim": "Bangladeshi jihadis' limitless arrogance is testing India's patience, and if that patience breaks the consequences could be terrible.",
      "heading": "বাংলাদেশি জেহাদিদের সীমাহীন আস্ফালন : ভারতের ধৈর্যের বাঁধ ভেঙে গেলে পরিণতি হতে পারে ভয়াবহ",
-     "page": 3
+     "page": 3,
+     "theme_bn": "বাংলাদেশ ও হিন্দু নির্যাতন",
+     "target_bn": "বাংলাদেশের জিহাদিরা",
+     "claim_bn": "বাংলাদেশের জিহাদিদের সীমাহীন ঔদ্ধত্য ভারতের ধৈর্যের পরীক্ষা নিচ্ছে; সেই ধৈর্যের বাঁধ ভাঙলে পরিণতি ভয়াবহ হতে পারে।"
     },
     {
      "theme": "history & icons",
      "target": "Syama Prasad Mukherjee, praised",
      "claim": "Syama Prasad Mukherjee created West Bengal as a homeland for Bengali Hindus, and 20 June 'West Bengal Day' should be remembered for that.",
      "heading": "হাওড়া শহরে পশ্চিমবঙ্গ দিবস উদ্যাপন অনুষ্ঠান",
-     "page": 27
+     "page": 27,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "শ্যামাপ্রসাদ মুখোপাধ্যায়, প্রশংসিত",
+     "claim_bn": "শ্যামাপ্রসাদ মুখোপাধ্যায় বাঙালি হিন্দুদের জন্য বাসভূমি হিসেবে পশ্চিমবঙ্গ গড়েছিলেন, এবং ২০ জুনের 'পশ্চিমবঙ্গ দিবস' সেই কারণেই স্মরণীয় হওয়া উচিত।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Left/communists",
      "claim": "The Left deliberately erased Syama Prasad Mukherjee from Bengali memory and distorted history to defame him and Netaji Subhas Chandra Bose.",
      "heading": "সুভাষচন্দ্র থেকে শ্যামাপ্রসাদ : এক অজ্ঞাত জীবনের কাহিনি",
-     "page": 29
+     "page": 29,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "বামপন্থী/কমিউনিস্ট",
+     "claim_bn": "বামপন্থীরা পরিকল্পিতভাবে বাঙালির স্মৃতি থেকে শ্যামাপ্রসাদ মুখোপাধ্যায়কে মুছে দিয়েছে এবং তাঁকে ও নেতাজি সুভাষচন্দ্র বসুকে কলঙ্কিত করতে ইতিহাস বিকৃত করেছে।"
     },
     {
      "theme": "Modi govt achievements",
      "target": "West Bengal government",
      "claim": "The 'Swami Vivekananda Scholarship' will bring a transformative change to West Bengal's education and economy.",
      "heading": "পশ্চিমবঙ্গের শিক্ষা ও অর্থনীতির ক্ষেত্রে যুগান্তকারী পরিবর্তন আনতে চলেছে 'স্বামী বিবেকানন্দ স্কলারশিপ'",
-     "page": 3
+     "page": 3,
+     "theme_bn": "মোদী সরকারের কৃতিত্ব",
+     "target_bn": "পশ্চিমবঙ্গ সরকার",
+     "claim_bn": "'স্বামী বিবেকানন্দ স্কলারশিপ' পশ্চিমবঙ্গের শিক্ষা ও অর্থনীতিতে যুগান্তকারী পরিবর্তন আনবে।"
     },
     {
      "theme": "culture/religion",
      "target": "Rath Yatra / Jagannath devotion",
      "claim": "Rath Yatra is the union of the individual soul and the Supreme Soul, and the chariot is a symbol of the human body.",
      "heading": "রথযাত্রা হলো জীবাত্মা-পরমাত্মার মিলন",
-     "page": 3
+     "page": 3,
+     "theme_bn": "সংস্কৃতি/ধর্ম",
+     "target_bn": "রথযাত্রা / জগন্নাথ ভক্তি",
+     "claim_bn": "রথযাত্রা হল জীবাত্মা ও পরমাত্মার মিলন, আর রথ মানবদেহের প্রতীক।"
     },
     {
      "theme": "history & icons",
      "target": "Puri Rath Yatra",
      "claim": "The period when the Puri Rath Yatra was suspended is an unknown chapter of India's history.",
      "heading": "পুরীধামে শ্রীশ্রীজগন্নাথদেবের রথযাত্রা বন্ধ থাকার পর্ব ভারতের ইতিহাসের অজ্ঞাত অধ্যায়",
-     "page": 3
+     "page": 3,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "পুরীর রথযাত্রা",
+     "claim_bn": "পুরীর রথযাত্রা যে সময়ে বন্ধ ছিল, সেই সময়টি ভারতের ইতিহাসের এক অজানা অধ্যায়।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "Hindu society",
      "claim": "Seva work removes caste divisions and unites Hindu society, making India a 'Vishwaguru'.",
      "heading": "বিশ্ব হিন্দু পরিষদের সামাজিক সমরসতা বিভাগের সেবা অনুষ্ঠান",
-     "page": 27
+     "page": 27,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "হিন্দু সমাজ",
+     "claim_bn": "সেবামূলক কাজ জাতিভেদ দূর করে হিন্দু সমাজকে ঐক্যবদ্ধ করে এবং ভারতকে 'বিশ্বগুরু' করে তোলে।"
     }
-   ]
+   ],
+   "label_bn": "",
+   "summary_bn": "২০২৬ সালের ১৩ জুলাইয়ের এই সংখ্যাটি রথযাত্রা বিশেষ সংখ্যা, যেখানে জগন্নাথের রথ উৎসবকে সব সম্প্রদায় ও জাতির মধ্যে সাম্য, সম্প্রীতি ও ঐক্যের হিন্দু উৎসব হিসেবে তুলে ধরা হয়েছে; এর ইতিহাস, প্রসাদ ও স্থানীয় উদ্যাপন নিয়ে বেশ কয়েকটি প্রবন্ধ রয়েছে। পশ্চিমবঙ্গে জয়ের পর বিজেপিকে তার ‘ভিন্ন চরিত্রের দল’ ভাবমূর্তি ধরে রাখতে হবে, এই রাজনৈতিক বক্তব্যও এতে জোরালোভাবে তোলা হয়েছে; নতুন রাজ্য সরকারের গুন্ডা-দমন বিল ও ‘স্বামী বিবেকানন্দ বৃত্তি’র প্রশংসা করা হয়েছে এবং ভারতের বিরুদ্ধে বাংলাদেশি জিহাদি আগ্রাসন নিয়ে সতর্ক করা হয়েছে। হিন্দু পরিচয় ও ইতিহাস একটি প্রধান সুর: ‘পশ্চিমবঙ্গ দিবস’ (২০ জুন) উপলক্ষে অনুষ্ঠানগুলিতে শ্যামাপ্রসাদ মুখোপাধ্যায়কে হিন্দু বাসভূমির স্রষ্টা হিসেবে মহিমান্বিত করা হয়েছে, আর বিরসা মুন্ডার ১৫০তম জন্মবার্ষিকীর মিছিলে ধর্মান্তরিত আদিবাসীদের তফসিলি উপজাতির মর্যাদা কেড়ে নেওয়ার দাবি তোলা হয়েছে। সাংগঠনিক প্রতিবেদনে রয়েছে স্বদেশি জাগরণ মঞ্চের শিবির, বিশ্ব হিন্দু পরিষদের সাধুসভা ও সেবাকাজ এবং বিদ্যা ভারতী ও সক্ষমের কার্যক্রম।"
   },
   {
    "issue": "20260706",
@@ -3725,7 +5452,13 @@ window.HINDUTVA = {
      "where": "",
      "when": "13 July 2026",
      "page": 4,
-     "detail": "The next issue will carry articles by several writers on aspects of Rath Yatra, the festival of Jagannath, Balaram and Subhadra travelling to Gundicha temple."
+     "detail": "The next issue will carry articles by several writers on aspects of Rath Yatra, the festival of Jagannath, Balaram and Subhadra travelling to Gundicha temple.",
+     "title_bn": "স্বস্তিকা রথযাত্রা বিশেষ সংখ্যার ঘোষণা (১৩ জুলাই ২০২৬)",
+     "org_bn": "অন্যান্য: স্বস্তিকা সাপ্তাহিক",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "",
+     "when_bn": "১৩ জুলাই ২০২৬",
+     "detail_bn": "পরবর্তী সংখ্যায় জগন্নাথ, বলরাম ও সুভদ্রার গুণ্ডিচা মন্দিরে যাত্রার উৎসব রথযাত্রার নানা দিক নিয়ে একাধিক লেখকের প্রবন্ধ থাকবে।"
     },
     {
      "title": "Swastika lifetime and ten-year membership drive",
@@ -3734,7 +5467,13 @@ window.HINDUTVA = {
      "where": "Kolkata",
      "when": "",
      "page": 4,
-     "detail": "The weekly announces lifetime (Rs 25,000) and ten-year (Rs 10,000) memberships ahead of its 79th year, with registered-post delivery options for annual subscribers."
+     "detail": "The weekly announces lifetime (Rs 25,000) and ten-year (Rs 10,000) memberships ahead of its 79th year, with registered-post delivery options for annual subscribers.",
+     "title_bn": "স্বস্তিকার আজীবন ও দশ বছরের সদস্যপদ অভিযান",
+     "org_bn": "অন্যান্য: স্বস্তিকা সাপ্তাহিক",
+     "type_bn": "অন্যান্য",
+     "where_bn": "কলকাতা",
+     "when_bn": "",
+     "detail_bn": "সাপ্তাহিকটি তার ৭৯তম বর্ষের আগে আজীবন (২৫,০০০ টাকা) ও দশ বছরের (১০,০০০ টাকা) গ্রাহকপদ ঘোষণা করেছে; বার্ষিক গ্রাহকদের জন্য রেজিস্ট্রি ডাকে পাঠানোর ব্যবস্থাও থাকছে।"
     },
     {
      "title": "Shyama Prasad Mookerjee commemoration special issue",
@@ -3743,7 +5482,13 @@ window.HINDUTVA = {
      "where": "West Bengal",
      "when": "6 July 2026",
      "page": 3,
-     "detail": "A full special number of about 17 articles on Mookerjee's life, education reforms, Bengali language work, Kashmir and politics, timed to his birth anniversary."
+     "detail": "A full special number of about 17 articles on Mookerjee's life, education reforms, Bengali language work, Kashmir and politics, timed to his birth anniversary.",
+     "title_bn": "শ্যামাপ্রসাদ মুখোপাধ্যায় স্মরণে বিশেষ সংখ্যা",
+     "org_bn": "অন্যান্য: স্বস্তিকা সাপ্তাহিক",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "পশ্চিমবঙ্গ",
+     "when_bn": "৬ জুলাই ২০২৬",
+     "detail_bn": "মুখোপাধ্যায়ের জন্মবার্ষিকী উপলক্ষে তাঁর জীবন, শিক্ষা সংস্কার, বাংলা ভাষার কাজ, কাশ্মীর ও রাজনীতি নিয়ে প্রায় ১৭টি প্রবন্ধের একটি পূর্ণাঙ্গ বিশেষ সংখ্যা।"
     }
    ],
    "narratives": [
@@ -3752,72 +5497,104 @@ window.HINDUTVA = {
      "target": "Hindu Bengalis; praises Shyama Prasad Mookerjee",
      "claim": "The goal now is to establish a 'Hindu homeland' in Bengal, regardless of Hindu-opposing voices, as Mookerjee envisioned West Bengal as a refuge for Hindus.",
      "heading": "অপ্রাসঙ্গিক হিন্দু বিরোধিতার তোয়াক্কা না করে ‘হিন্দু হোমল্যান্ড’ প্রতিষ্ঠাই এখন লক্ষ্য : বঙ্গভূমি ত্বয়া হিন্দুভূমে",
-     "page": 6
+     "page": 6,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "হিন্দু বাঙালি; শ্যামাপ্রসাদ মুখোপাধ্যায়ের প্রশংসা",
+     "claim_bn": "হিন্দুবিরোধী কণ্ঠস্বরকে উপেক্ষা করে এখন লক্ষ্য বাংলায় একটি 'হিন্দু homeland' প্রতিষ্ঠা করা, যেমনটি মুখার্জি পশ্চিমবঙ্গকে হিন্দুদের আশ্রয়স্থল হিসেবে কল্পনা করেছিলেন।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Congress, Communists and their offshoot parties",
      "claim": "Congress and Communists deliberately hid Mookerjee from Bengali memory out of fear of his stature, called him communal, never acknowledged him as founder of West Bengal, and are hypocrites and traitors to the country.",
      "heading": "শ্যামাপ্রসাদ শাশ্বত, চির অম্লান",
-     "page": 5
+     "page": 5,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "কংগ্রেস, কমিউনিস্ট ও তাদের শাখা দলগুলি",
+     "claim_bn": "কংগ্রেস ও কমিউনিস্টরা ভয়ের কারণে মুখোপাধ্যায়ের উচ্চতাকে ভয় পেয়ে ইচ্ছাকৃতভাবে তাঁকে বাঙালির স্মৃতি থেকে আড়াল করেছে, তাঁকে সাম্প্রদায়িক বলেছে, পশ্চিমবঙ্গের প্রতিষ্ঠাতা হিসেবে কখনও স্বীকৃতি দেয়নি, এবং তারা ভণ্ড ও দেশের প্রতি বিশ্বাসঘাতক।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "Previous TMC state government",
      "claim": "The party that ruled for fifteen years created anarchy, disgraced Bengalis worldwide, and rejected 20 June in favour of Poila Baishakh as state day, ignoring the history of West Bengal's creation.",
      "heading": "শ্যামাপ্রসাদ শাশ্বত, চির অম্লান",
-     "page": 5
+     "page": 5,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "আগের তৃণমূল রাজ্য সরকার",
+     "claim_bn": "পনেরো বছর ধরে শাসন করা দলটি নৈরাজ্য সৃষ্টি করেছে, বিশ্বজুড়ে বাঙালিকে অপমানিত করেছে এবং পশ্চিমবঙ্গ গঠনের ইতিহাস উপেক্ষা করে ২০ জুনের পরিবর্তে পয়লা বৈশাখকে রাজ্য দিবস হিসেবে বেছে নিয়ে ২০ জুনকে প্রত্যাখ্যান করেছে।"
     },
     {
      "theme": "West Bengal elections",
      "target": "Voters / previous ruling party",
      "claim": "West Bengal has been freed from the 'Rahu' grip of the old regime and Bengalis have restored Mookerjee, creator of the state, to rightful honour.",
      "heading": "শ্যামাপ্রসাদ শাশ্বত, চির অম্লান",
-     "page": 5
+     "page": 5,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "ভোটার / পূর্বতন শাসক দল",
+     "claim_bn": "পশ্চিমবঙ্গ পুরনো শাসনের 'রাহুর গ্রাস' থেকে মুক্ত হয়েছে এবং বাঙালিরা রাজ্যের স্রষ্টা মুখার্জিকে যথাযোগ্য সম্মান ফিরিয়ে দিয়েছে।"
     },
     {
      "theme": "history & icons",
      "target": "Congress/Nehru; praises Mookerjee",
      "claim": "Mookerjee opposed Partition, then organised public opinion to demand partition of Bengal so the Hindu-majority west would escape Pakistan, leading to West Bengal's birth on 20 June 1947.",
      "heading": "বঙ্গবিভাগ থেকে পশ্চিমবঙ্গের জন্ম : হিন্দু বাঙ্গালির পরিত্রাতা শ্যামাপ্রসাদ",
-     "page": 14
+     "page": 14,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "কংগ্রেস/নেহরু; মুখোপাধ্যায়ের প্রশংসা",
+     "claim_bn": "মুখার্জি দেশভাগের বিরোধিতা করেছিলেন, পরে হিন্দু-প্রধান পশ্চিমাংশ যাতে পাকিস্তানের বাইরে থাকে সেজন্য বঙ্গভাগের দাবিতে জনমত সংগঠিত করেন, যার ফলে ১৯৪৭ সালের ২০ জুন পশ্চিমবঙ্গের জন্ম হয়।"
     },
     {
      "theme": "history & icons",
      "target": "Nehru and Sheikh Abdullah; praises Mookerjee",
      "claim": "Mookerjee sacrificed his life against Article 370, died in custody through medical neglect, and Nehru ordered no impartial inquiry; his ideas were realised when Article 370 was abrogated on 5 August 2019.",
      "heading": "শ্যামাপ্রসাদ মুখোপাধ্যায় ও কাশ্মীর : ঐক্যবদ্ধ ভারতের স্বপ্ন ও আত্মবলিদান",
-     "page": 43
+     "page": 43,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "নেহরু ও শেখ আবদুল্লাহ; মুখার্জির প্রশংসা",
+     "claim_bn": "মুখার্জি ৩৭০ অনুচ্ছেদের বিরুদ্ধে প্রাণ বিসর্জন দিয়েছেন, চিকিৎসার অবহেলায় হেফাজতে মারা গিয়েছেন, এবং নেহরু কোনো নিরপেক্ষ তদন্তের নির্দেশ দেননি; ২০১৯ সালের ৫ আগস্ট ৩৭০ অনুচ্ছেদ বাতিল হওয়ায় তাঁর ভাবনা বাস্তবায়িত হয়েছে।"
     },
     {
      "theme": "Modi govt achievements",
      "target": "Modi government / BJP",
      "claim": "Mookerjee's dream of Jammu and Kashmir's full integration is the driving force of the BJP, whose government fulfilled it by scrapping Article 370.",
      "heading": "ভারতীয় রাজনীতিতে ড. শ্যামাপ্রসাদ মুখোপাধ্যায়",
-     "page": 47
+     "page": 47,
+     "theme_bn": "মোদী সরকারের কৃতিত্ব",
+     "target_bn": "মোদী সরকার / বিজেপি",
+     "claim_bn": "জম্মু ও কাশ্মীরের পূর্ণ একীকরণের মুখার্জির স্বপ্নই বিজেপির চালিকাশক্তি, এবং বিজেপি সরকার ৩৭০ অনুচ্ছেদ বাতিল করে তা পূরণ করেছে।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "Hindus; Rabindranath Tagore cited",
      "claim": "Hindus must organise and overcome weakness and disunity; Tagore is quoted to argue Hindus deserve the same freedom to unite as Muslims, and Mookerjee's vision of Hindu solidarity echoes Tagore's.",
      "heading": "রবীন্দ্রনাথ চিরনির্ভর শ্যামাপ্রসাদ",
-     "page": 19
+     "page": 19,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "হিন্দুরা; রবীন্দ্রনাথ ঠাকুরের উদ্ধৃতি",
+     "claim_bn": "হিন্দুদের সংগঠিত হতে হবে এবং দুর্বলতা ও অনৈক্য কাটিয়ে উঠতে হবে; মুসলমানদের মতোই হিন্দুদেরও ঐক্যবদ্ধ হওয়ার স্বাধীনতা প্রাপ্য, এই যুক্তিতে রবীন্দ্রনাথ ঠাকুরকে উদ্ধৃত করা হয়েছে, আর মুখার্জির হিন্দু সংহতির দৃষ্টিভঙ্গি রবীন্দ্রনাথের কথারই প্রতিধ্বনি।"
     },
     {
      "theme": "history & icons",
      "target": "Muslim League, 'united Bengal' proposal; praises Mookerjee",
      "claim": "Mookerjee opposed a 'free united Bengal' and argued partition of Bengal was essential to protect Bengali Hindus from political marginalisation and jihadi violence.",
      "heading": "ড: শ্যামাপ্রসাদ মুখোপাধ্যায় ও মেদিনীপুর : রাজনীতি, জাতীয়তা এবং বঙ্গীয় সমাজ",
-     "page": 39
+     "page": 39,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "মুসলিম লিগ, 'অখণ্ড বাংলা' প্রস্তাব; মুখার্জির প্রশংসা",
+     "claim_bn": "মুখার্জি 'স্বাধীন অখণ্ড বাংলা'-র বিরোধিতা করেছিলেন এবং যুক্তি দিয়েছিলেন যে বাঙালি হিন্দুদের রাজনৈতিক প্রান্তিকীকরণ ও জেহাদি হিংসা থেকে রক্ষা করতে বঙ্গভাগ অপরিহার্য ছিল।"
     },
     {
      "theme": "history & icons",
      "target": "Congress, Nehru; Hindu Mahasabha relief work praised",
      "claim": "Hindu Mahasabha under Mookerjee ran famine relief in Midnapore, criticising colonial administration's failure, and the Jana Sangh's first MLAs came mostly from Midnapore, a forgotten legacy to be revived.",
      "heading": "ড: শ্যামাপ্রসাদ মুখোপাধ্যায় ও মেদিনীপুর : রাজনীতি, জাতীয়তা এবং বঙ্গীয় সমাজ",
-     "page": 39
+     "page": 39,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "কংগ্রেস, নেহরু; হিন্দু মহাসভার ত্রাণকাজের প্রশংসা",
+     "claim_bn": "মুখোপাধ্যায়ের নেতৃত্বে হিন্দু মহাসভা মেদিনীপুরে দুর্ভিক্ষ ত্রাণ চালিয়েছিল এবং ঔপনিবেশিক প্রশাসনের ব্যর্থতার সমালোচনা করেছিল; আর জনসঙ্ঘের প্রথম বিধায়কদের বেশির ভাগই এসেছিলেন মেদিনীপুর থেকে—এটি এক বিস্মৃত উত্তরাধিকার, যা পুনরুজ্জীবিত করা প্রয়োজন।"
     }
-   ]
+   ],
+   "label_bn": "",
+   "summary_bn": "এটি শ্যামাপ্রসাদ মুখোপাধ্যায় স্মরণ বিশেষ সংখ্যা (৬ জুলাই ২০২৬, তাঁর জন্মবার্ষিকী সপ্তাহ)। প্রায় সব প্রবন্ধেই তাঁকে হিন্দু আবাসভূমি হিসেবে পশ্চিমবঙ্গের স্রষ্টা, শিক্ষাবিদ, কাশ্মীরের অন্তর্ভুক্তি ও ৩৭০ ধারা বিলোপের জন্য শহিদ এবং বিজেপির পূর্বসূরি জনসংঘের প্রতিষ্ঠাতা হিসেবে অভিনন্দিত করা হয়েছে। সম্পাদকীয়তে কংগ্রেস, কমিউনিস্ট ও প্রাক্তন তৃণমূল সরকারকে বাঙালির স্মৃতি থেকে তাঁকে আড়াল করে রাখার জন্য আক্রমণ করা হয়েছে এবং পূর্বতন শাসকদলের হাত থেকে পশ্চিমবঙ্গের সাম্প্রতিক 'মুক্তি'-র উদ্‌যাপন করা হয়েছে, যেখানে মানুষ আবার তাঁকে বরণ করে নিয়েছে। প্রধান প্রবন্ধে বিরোধিতা নির্বিশেষে একটি 'হিন্দু আবাসভূমি' প্রতিষ্ঠার ডাক দেওয়া হয়েছে। সংখ্যাটিতে পরবর্তী সংখ্যায় রথযাত্রা বিশেষ সংখ্যার ঘোষণা এবং আজীবন ও দশ বছরের গ্রাহকপদের প্রচারও রয়েছে।"
   },
   {
    "issue": "20260629",
@@ -3833,7 +5610,13 @@ window.HINDUTVA = {
      "where": "Kolkata, West Bengal",
      "when": "19-21 June 2026",
      "page": 26,
-     "detail": "Three-day festival leading up to International Yoga Day 2026, reported with the Prime Minister's presence in Kolkata."
+     "detail": "Three-day festival leading up to International Yoga Day 2026, reported with the Prime Minister's presence in Kolkata.",
+     "title_bn": "বন্দে যোগম তিন দিনের উৎসব, কলকাতা",
+     "org_bn": "অন্যান্য: কেন্দ্রীয় আয়ুষ মন্ত্রক / রাজ্য সরকার",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "কলকাতা, পশ্চিমবঙ্গ",
+     "when_bn": "১৯-২১ জুন ২০২৬",
+     "detail_bn": "২০২৬ সালের আন্তর্জাতিক যোগ দিবসের প্রস্তুতি হিসেবে তিন দিনের উৎসব, যেখানে কলকাতায় প্রধানমন্ত্রীর উপস্থিতির কথা জানানো হয়েছে।"
     },
     {
      "title": "Run for Yoga / 'Daur se Dhyan 2026 - From Movement to Stillness'",
@@ -3842,7 +5625,13 @@ window.HINDUTVA = {
      "where": "All districts of West Bengal; Kolkata",
      "when": "19 June 2026",
      "page": 26,
-     "detail": "2 km marathon flagged off by Union MoS Ayush Prataprao Jadhav and CM Suvendu Adhikari from Kolkata Municipal Corporation HQ, ending at Writers' Buildings, with simultaneous yoga runs at 11 Kolkata locations, including 'RSS Square (Central)'."
+     "detail": "2 km marathon flagged off by Union MoS Ayush Prataprao Jadhav and CM Suvendu Adhikari from Kolkata Municipal Corporation HQ, ending at Writers' Buildings, with simultaneous yoga runs at 11 Kolkata locations, including 'RSS Square (Central)'.",
+     "title_bn": "রান ফর যোগা / 'দৌড় সে ধ্যান ২০২৬ – ফ্রম মুভমেন্ট টু স্টিলনেস'",
+     "org_bn": "অন্যান্য: কেন্দ্রীয় আয়ুষ মন্ত্রক / রাজ্য সরকার",
+     "type_bn": "মিছিল/শোভাযাত্রা",
+     "where_bn": "পশ্চিমবঙ্গের সব জেলা; কলকাতা",
+     "when_bn": "১৯ জুন ২০২৬",
+     "detail_bn": "কলকাতা পুরনিগমের সদর দপ্তর থেকে কেন্দ্রীয় আয়ুষ প্রতিমন্ত্রী প্রতাপরাও যাদব ও মুখ্যমন্ত্রী শুভেন্দু অধিকারী ২ কিলোমিটার ম্যারাথনের সূচনা করেন, যা রাইটার্স বিল্ডিংসে শেষ হয়; একই সঙ্গে 'আরএসএস স্কোয়ার (সেন্ট্রাল)'-সহ কলকাতার ১১টি স্থানে যোগ দৌড় অনুষ্ঠিত হয়।"
     },
     {
      "title": "Run for Yoga and Walk for Yoga, Durgapur",
@@ -3851,7 +5640,13 @@ window.HINDUTVA = {
      "where": "Durgapur, Paschim Bardhaman, West Bengal",
      "when": "19 June 2026",
      "page": 26,
-     "detail": "Marathon, walk and yoga camp held despite rain, starting near ADDA building and ending at Bhagat Singh stadium with group meditation."
+     "detail": "Marathon, walk and yoga camp held despite rain, starting near ADDA building and ending at Bhagat Singh stadium with group meditation.",
+     "title_bn": "রান ফর যোগা ও ওয়াক ফর যোগা, দুর্গাপুর",
+     "org_bn": "অন্যান্য: স্থানীয় প্রশাসন",
+     "type_bn": "মিছিল/শোভাযাত্রা",
+     "where_bn": "দুর্গাপুর, পশ্চিম বর্ধমান, পশ্চিমবঙ্গ",
+     "when_bn": "১৯ জুন ২০২৬",
+     "detail_bn": "বৃষ্টি উপেক্ষা করে ম্যারাথন, পদযাত্রা ও যোগ শিবির অনুষ্ঠিত হয়; শুরু হয় এডিএ ভবনের কাছে এবং শেষ হয় ভগৎ সিং স্টেডিয়ামে সম্মিলিত ধ্যানের মাধ্যমে।"
     },
     {
      "title": "Hooghly Cultural Yoga Carnival and Paschimbanga Dibas celebration",
@@ -3860,7 +5655,13 @@ window.HINDUTVA = {
      "where": "Prinsep Ghat and Millennium Park, Kolkata",
      "when": "20 June 2026 evening",
      "page": 27,
-     "detail": "Cultural carnival with baul music, sand art, laser show and a 3,000-drone show depicting yoga and Indian yoga masters, attended by CM Suvendu Adhikari, themed 'Yoga for Healthy Living'."
+     "detail": "Cultural carnival with baul music, sand art, laser show and a 3,000-drone show depicting yoga and Indian yoga masters, attended by CM Suvendu Adhikari, themed 'Yoga for Healthy Living'.",
+     "title_bn": "হুগলি সাংস্কৃতিক যোগ কার্নিভাল ও পশ্চিমবঙ্গ দিবস উদযাপন",
+     "org_bn": "অন্যান্য: কেন্দ্রীয় আয়ুষ মন্ত্রক / রাজ্য সরকার",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "প্রিন্সেপ ঘাট ও মিলেনিয়াম পার্ক, কলকাতা",
+     "when_bn": "২০ জুন ২০২৬ সন্ধ্যা",
+     "detail_bn": "বাউল গান, বালুশিল্প, লেজার শো এবং যোগব্যায়াম ও ভারতীয় যোগগুরুদের চিত্রায়িত ৩,০০০ ড্রোনের প্রদর্শনী-সহ সাংস্কৃতিক কার্নিভাল, যেখানে মুখ্যমন্ত্রী শুভেন্দু অধিকারী উপস্থিত ছিলেন; বিষয় ছিল 'সুস্থ জীবনের জন্য যোগ'।"
     },
     {
      "title": "International Yoga Day 2026 observance",
@@ -3869,7 +5670,13 @@ window.HINDUTVA = {
      "where": "Kolkata, West Bengal",
      "when": "21 June 2026",
      "page": 5,
-     "detail": "Editorial notes the PM's presence made Yoga Day significant for Kolkata; theme 'Yoga for Healthy Ageing'."
+     "detail": "Editorial notes the PM's presence made Yoga Day significant for Kolkata; theme 'Yoga for Healthy Ageing'.",
+     "title_bn": "আন্তর্জাতিক যোগ দিবস ২০২৬ উদ্যাপন",
+     "org_bn": "অন্যান্য: কেন্দ্রীয় আয়ুষ মন্ত্রক / রাজ্য সরকার",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "কলকাতা, পশ্চিমবঙ্গ",
+     "when_bn": "২১ জুন ২০২৬",
+     "detail_bn": "সম্পাদকীয়তে বলা হয়েছে, প্রধানমন্ত্রীর উপস্থিতি কলকাতার কাছে যোগ দিবসকে তাৎপর্যপূর্ণ করেছে; প্রতিপাদ্য 'সুস্থ বার্ধক্যের জন্য যোগ'।"
     },
     {
      "title": "Snan Yatra of Sri Sri Jagannath Dev",
@@ -3878,7 +5685,13 @@ window.HINDUTVA = {
      "where": "",
      "when": "",
      "page": 3,
-     "detail": "Article by Rabibrata Ghosh listed in contents on the Snan Yatra; article page not in digest."
+     "detail": "Article by Rabibrata Ghosh listed in contents on the Snan Yatra; article page not in digest.",
+     "title_bn": "শ্রীশ্রী জগন্নাথ দেবের স্নানযাত্রা",
+     "org_bn": "অন্যান্য: ধর্মীয় আচার",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "",
+     "when_bn": "",
+     "detail_bn": "সূচিপত্রে স্নানযাত্রা বিষয়ে রবিব্রত ঘোষের একটি প্রবন্ধ তালিকাভুক্ত; প্রবন্ধের পৃষ্ঠা ডাইজেস্টে নেই।"
     },
     {
      "title": "Swastika lifetime and ten-year membership drive",
@@ -3887,7 +5700,13 @@ window.HINDUTVA = {
      "where": "Kolkata",
      "when": "",
      "page": 4,
-     "detail": "The weekly announces lifetime (Rs 25,000) and ten-year (Rs 10,000) memberships and registered-post delivery of the magazine."
+     "detail": "The weekly announces lifetime (Rs 25,000) and ten-year (Rs 10,000) memberships and registered-post delivery of the magazine.",
+     "title_bn": "স্বস্তিকার আজীবন ও দশ বছরের সদস্যপদ অভিযান",
+     "org_bn": "অন্যান্য: স্বস্তিকা / শুভস্বস্তিকা প্রিন্টস ফাউন্ডেশন",
+     "type_bn": "অন্যান্য",
+     "where_bn": "কলকাতা",
+     "when_bn": "",
+     "detail_bn": "সাপ্তাহিকটি আজীবন (২৫,০০০ টাকা) ও দশ বছরের (১০,০০০ টাকা) গ্রাহকপদ এবং রেজিস্ট্রি ডাকে পত্রিকা পাঠানোর ব্যবস্থা ঘোষণা করেছে।"
     },
     {
      "title": "Syama Prasad Mukherjee birth anniversary special issue announcement",
@@ -3896,7 +5715,13 @@ window.HINDUTVA = {
      "where": "",
      "when": "6 July 2026",
      "page": 4,
-     "detail": "Next issue will carry articles by writers and researchers on the life of Syama Prasad Mukherjee, 'creator of West Bengal as the Bengali Hindu homeland'."
+     "detail": "Next issue will carry articles by writers and researchers on the life of Syama Prasad Mukherjee, 'creator of West Bengal as the Bengali Hindu homeland'.",
+     "title_bn": "শ্যামাপ্রসাদ মুখোপাধ্যায়ের জন্মবার্ষিকী বিশেষ সংখ্যার ঘোষণা",
+     "org_bn": "অন্যান্য: স্বস্তিকা",
+     "type_bn": "শতবর্ষ",
+     "where_bn": "",
+     "when_bn": "৬ জুলাই ২০২৬",
+     "detail_bn": "পরবর্তী সংখ্যায় 'পশ্চিমবঙ্গের স্রষ্টা, বাঙালি হিন্দুর আবাসভূমি'-র রূপকার শ্যামাপ্রসাদ মুখোপাধ্যায়ের জীবন নিয়ে লেখক ও গবেষকদের নিবন্ধ থাকবে।"
     }
    ],
    "narratives": [
@@ -3905,72 +5730,104 @@ window.HINDUTVA = {
      "target": "A West Bengal Communist leader / communists",
      "claim": "A communist leader's court complaint against the government Yoga rally at Red Road, rejected by the Calcutta High Court, exposed the communists' 'naked anti-India character' and lack of 'purity of mind'.",
      "heading": "বিশ্বকে ভারতের এক অনন্য উপহার – যোগ",
-     "page": 5
+     "page": 5,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "পশ্চিমবঙ্গের একজন কমিউনিস্ট নেতা / কমিউনিস্টরা",
+     "claim_bn": "রেড রোডে সরকারি যোগ র‍্যালির বিরুদ্ধে একজন কমিউনিস্ট নেতার আদালতে অভিযোগ কলকাতা হাইকোর্ট খারিজ করে দিয়েছে, যা কমিউনিস্টদের 'নগ্ন ভারত-বিরোধী চরিত্র' এবং 'মনের শুদ্ধতার' অভাব প্রকাশ করেছে।"
     },
     {
      "theme": "West Bengal elections",
      "target": "Secular politicians, jihadi extremists, 'cultural Marxists' (praise for voters and central forces)",
      "claim": "The 2026 West Bengal election result is likened to the 1905-11 anti-partition awakening, defeating a conspiracy to divide Bengal on linguistic lines and detach it from India, and reviving Bengali Hindu identity.",
      "heading": "পশ্চিমবঙ্গের 'বন্দে মাতরম্ বিজয়'",
-     "page": 8
+     "page": 8,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "ধর্মনিরপেক্ষ রাজনীতিকরা, জিহাদি চরমপন্থীরা, 'সাংস্কৃতিক মার্ক্সবাদীরা' (ভোটার ও কেন্দ্রীয় বাহিনীর প্রশংসা)",
+     "claim_bn": "২০২৬ সালের পশ্চিমবঙ্গ নির্বাচনের ফলকে ১৯০৫-১১ সালের বঙ্গভঙ্গ-বিরোধী জাগরণের সঙ্গে তুলনা করা হয়েছে; বলা হয়েছে, ভাষার ভিত্তিতে বাংলাকে ভাগ করে ভারত থেকে বিচ্ছিন্ন করার ষড়যন্ত্র পরাজিত হয়েছে এবং বাঙালি হিন্দু পরিচয় পুনরুজ্জীবিত হয়েছে।"
     },
     {
      "theme": "history & icons",
      "target": "Congress/communal forces (blamed); Vande Mataram",
      "claim": "Opposition to Vande Mataram by communal forces after 1921-23 planted the seeds of Partition, and the full song is a spiritual, non-communal national mantra.",
      "heading": "বন্দে মাতরম্ (OCR title not legible in digest)",
-     "page": 9
+     "page": 9,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "কংগ্রেস/সাম্প্রদায়িক শক্তি (দোষারোপ); বন্দে মাতরম",
+     "claim_bn": "১৯২১-২৩ সালের পর সাম্প্রদায়িক শক্তিগুলির বন্দে মাতরম-বিরোধিতা দেশভাগের বীজ বপন করেছিল, এবং পূর্ণ গানটি একটি আধ্যাত্মিক, অসাম্প্রদায়িক জাতীয় মন্ত্র।"
     },
     {
      "theme": "Modi govt achievements",
      "target": "Narendra Modi government",
      "claim": "Twelve years under Modi are portrayed as a period of achievement, transformation and the journey of a new India; the government is praised for mandating full Vande Mataram singing.",
      "heading": "প্রধানমন্ত্রী নরেন্দ্র মোদীর নেতৃত্বে বারো বছরের পথ চলা – অর্জন, রূপান্তর ও নতুন ভারতের অভিযাত্রা",
-     "page": 3
+     "page": 3,
+     "theme_bn": "মোদী সরকারের কৃতিত্ব",
+     "target_bn": "নরেন্দ্র মোদীর সরকার",
+     "claim_bn": "মোদির অধীনে বারো বছরকে সাফল্য, রূপান্তর ও নতুন ভারতের যাত্রার সময় হিসেবে তুলে ধরা হয়েছে; বন্দে মাতরম পূর্ণাঙ্গ গাওয়া বাধ্যতামূলক করার জন্য সরকারের প্রশংসা করা হয়েছে।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "Mamata Banerjee / former state government",
      "claim": "The paper calls for uprooting 125 years of 'anti-Hindu' politics from the state and condemns the former state budget, and probes the 'mystery' behind Netaji's 'vanishing' under ex-CM Mamata Banerjee.",
      "heading": "১২৫ বছরের 'হিন্দু বিরোধিতা'কে এবার রাজ্য থেকে উপড়ে ফেলে দিতে হবে / প্রাক্তন মুখ্যমন্ত্রী মমতা ব্যানার্জির নেতাজী 'ভ্যানিশ'-এর নেপথ্য রহস্য",
-     "page": 3
+     "page": 3,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "মমতা বন্দ্যোপাধ্যায় / প্রাক্তন রাজ্য সরকার",
+     "claim_bn": "পত্রিকা রাজ্য থেকে ১২৫ বছরের 'হিন্দুবিরোধী' রাজনীতি উপড়ে ফেলার ডাক দিয়েছে, প্রাক্তন রাজ্য বাজেটের নিন্দা করেছে এবং প্রাক্তন মুখ্যমন্ত্রী মমতা বন্দ্যোপাধ্যায়ের আমলে নেতাজির 'অন্তর্ধান'-এর পিছনের 'রহস্য' খতিয়ে দেখেছে।"
     },
     {
      "theme": "Bangladesh & Hindu persecution",
      "target": "Bangladeshi Muslims / Pakistan",
      "claim": "Most Muslims in Bangladesh are described as pro-Pakistan, and West Bengal is said to have been saved from becoming a 'West Bangladesh'.",
      "heading": "বাংলাদেশের অধিকাংশ মুসলমান পাকিস্তানপ্রেমী / পশ্চিম বাংলাদেশ হওয়া থেকে বেঁচে গেল পশ্চিমবঙ্গ",
-     "page": 3
+     "page": 3,
+     "theme_bn": "বাংলাদেশ ও হিন্দু নির্যাতন",
+     "target_bn": "বাংলাদেশি মুসলিম / পাকিস্তান",
+     "claim_bn": "বাংলাদেশের অধিকাংশ মুসলমানকে পাকিস্তানপন্থী বলে বর্ণনা করা হয়েছে, এবং বলা হয়েছে পশ্চিমবঙ্গ 'পশ্চিম বাংলাদেশ' হয়ে ওঠা থেকে রক্ষা পেয়েছে।"
     },
     {
      "theme": "infiltration/demography",
      "target": "Cooch Behar demographic change",
      "claim": "Cooch Behar is said to be heading silently towards demographic change, though residents may now become hopeful under the new government.",
      "heading": "নীরব জনসংখ্যাগত পরিবর্তনের পথে কোচবিহার",
-     "page": 3
+     "page": 3,
+     "theme_bn": "অনুপ্রবেশ/জনবিন্যাস",
+     "target_bn": "কোচবিহারের জনবিন্যাসগত পরিবর্তন",
+     "claim_bn": "কোচবিহার নীরবে জনবিন্যাসগত পরিবর্তনের দিকে এগোচ্ছে বলে বলা হচ্ছে, যদিও নতুন সরকারের আমলে বাসিন্দারা এখন আশাবাদী হতে পারেন।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Communists / CPIM",
      "claim": "Communists are asked whether they stand with praise of Hasan Suhrawardy or with the contribution of Gopal Mukherjee, implying communist alignment with the 1946 Direct Action figure.",
      "heading": "কমরেড! হাসান সুরাবর্দির গুণগান না গোপাল মুখার্জির অবদান : কার সঙ্গে আপনারা",
-     "page": 3
+     "page": 3,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "কমিউনিস্ট / সিপিআই(এম)",
+     "claim_bn": "কমিউনিস্টদের জিজ্ঞাসা করা হয়েছে, তাঁরা হাসান সুরাবর্দির প্রশংসার পক্ষে, না গোপাল মুখোপাধ্যায়ের অবদানের পক্ষে, যার মাধ্যমে ১৯৪৬ সালের ডাইরেক্ট অ্যাকশনের ওই ব্যক্তিত্বের সঙ্গে কমিউনিস্টদের মিল ইঙ্গিত করা হয়েছে।"
     },
     {
      "theme": "history & icons",
      "target": "Syama Prasad Mukherjee",
      "claim": "Mukherjee is presented as the founder of Bharatiya Jana Sangh and creator of West Bengal as the Bengali Hindu homeland, to whom Bengalis are eternally indebted.",
      "heading": "ভারতকেশরী শ্যামাপ্রসাদ",
-     "page": 4
+     "page": 4,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "শ্যামাপ্রসাদ মুখোপাধ্যায়",
+     "claim_bn": "মুখার্জিকে ভারতীয় জনসংঘের প্রতিষ্ঠাতা এবং বাঙালি হিন্দুদের স্বদেশভূমি হিসেবে পশ্চিমবঙ্গের স্রষ্টা রূপে উপস্থাপন করা হয়েছে, যাঁর কাছে বাঙালিরা চিরঋণী।"
     },
     {
      "theme": "culture/religion",
      "target": "Hindu devotional practice / yoga",
      "claim": "Yoga is India's unique gift to the world, a rishi-given 5,000-year-old science now adopted even by Islamic countries.",
      "heading": "বিশ্বকে ভারতের এক অনন্য উপহার – যোগ",
-     "page": 5
+     "page": 5,
+     "theme_bn": "সংস্কৃতি/ধর্ম",
+     "target_bn": "হিন্দু ভক্তিচর্চা / যোগ",
+     "claim_bn": "যোগ ভারতের বিশ্বকে অনন্য উপহার, ঋষিপ্রদত্ত ৫,০০০ বছরের পুরনো বিজ্ঞান, যা এখন ইসলামি দেশগুলিও গ্রহণ করেছে।"
     }
-   ]
+   ],
+   "label_bn": "",
+   "summary_bn": "২৯ জুন ২০২৬ সংখ্যাটি পশ্চিমবঙ্গে নির্বাচনের পরবর্তী রাজনৈতিক পরিবর্তনকে উদ্‌যাপন করেছে এবং বিজেপির জয়কে বাঙালি হিন্দু পরিচয়ের পুনরুজ্জীবন ও 'বাম-জিহাদি' শক্তির পরাজয় হিসেবে তুলে ধরেছে। এতে কলকাতায় আন্তর্জাতিক যোগ দিবস ২০২৬-কে প্রধানমন্ত্রী মোদির উপস্থিতি ও মুখ্যমন্ত্রী শুভেন্দু অধিকারীর নেতৃত্বে দৌড়সহ ব্যাপকভাবে প্রচার করা হয়েছে এবং মোদি সরকারের বারো বছরের প্রশংসা করা হয়েছে। এতে বাংলাদেশ/পাকিস্তান-বিরোধিতা, অনুপ্রবেশ ও জনবিন্যাস পরিবর্তনের (কোচবিহার) বিষয়গুলি তোলা হয়েছে, মমতা বন্দ্যোপাধ্যায় ও বামপন্থীদের সমালোচনা করা হয়েছে এবং ৬ জুলাই জন্মবার্ষিকীর আগে শ্যামাপ্রসাদ মুখোপাধ্যায়কে তুলে ধরা হয়েছে।"
   },
   {
    "issue": "20260622",
@@ -3986,7 +5843,13 @@ window.HINDUTVA = {
      "where": "Reshimbagh, Nagpur",
      "when": "4 June (25-day camp)",
      "page": 25,
-     "detail": "25-day training camp for 880 workers concluded with a speech by Sarsanghchalak Mohan Bhagwat, with Kumar Mangalam Birla on stage; Bhagwat said the coming era is India's and society must be roused with 'sva-bodh'."
+     "detail": "25-day training camp for 880 workers concluded with a speech by Sarsanghchalak Mohan Bhagwat, with Kumar Mangalam Birla on stage; Bhagwat said the coming era is India's and society must be roused with 'sva-bodh'.",
+     "title_bn": "কার্যকর্তা বিকাশ বর্গ-২-এর সমাপ্তি অনুষ্ঠান",
+     "org_bn": "আরএসএস",
+     "type_bn": "শাখা/প্রশিক্ষণ শিবির",
+     "where_bn": "রেশিমবাগ, নাগপুর",
+     "when_bn": "৪ জুন (২৫ দিনের শিবির)",
+     "detail_bn": "৮৮০ জন কর্মীর ২৫ দিনের প্রশিক্ষণ শিবির সরসঙ্ঘচালক মোহন ভাগবতের ভাষণের মাধ্যমে শেষ হয়, মঞ্চে ছিলেন কুমার মঙ্গলম বিড়লা; ভাগবত বলেন, আগামী যুগ ভারতের এবং 'স্ব-বোধ'-এর মাধ্যমে সমাজকে জাগিয়ে তুলতে হবে।"
     },
     {
      "title": "VHP North Bengal Province Parishad Varg",
@@ -3995,7 +5858,13 @@ window.HINDUTVA = {
      "where": "Bharat Sevashram Sangha, Ghakshol, Malda",
      "when": "1-10 June",
      "page": 27,
-     "detail": "Ten-day training camp with 180 workers from 11 districts, 48 blocks and 111 villages; physical training displays and speeches by RSS Akhil Bharatiya Karyakarini member Advaitacharan Datta and VHP leaders."
+     "detail": "Ten-day training camp with 180 workers from 11 districts, 48 blocks and 111 villages; physical training displays and speeches by RSS Akhil Bharatiya Karyakarini member Advaitacharan Datta and VHP leaders.",
+     "title_bn": "বিশ্ব হিন্দু পরিষদ উত্তরবঙ্গ প্রান্ত পরিষদ বর্গ",
+     "org_bn": "বিশ্ব হিন্দু পরিষদ",
+     "type_bn": "শাখা/প্রশিক্ষণ শিবির",
+     "where_bn": "ভারত সেবাশ্রম সঙ্ঘ, ঘাকশোল, মালদা",
+     "when_bn": "১-১০ জুন",
+     "detail_bn": "১১টি জেলা, ৪৮টি ব্লক ও ১১১টি গ্রামের ১৮০ জন কর্মীকে নিয়ে দশ দিনের প্রশিক্ষণ শিবির; শারীরিক কসরত প্রদর্শন এবং আরএসএসের অখিল ভারতীয় কার্যকারিণী সদস্য অদ্বৈতচরণ দত্ত ও বিশ্ব হিন্দু পরিষদের নেতাদের বক্তৃতা।"
     },
     {
      "title": "Bangonarishakti Gayatri/Bharatmata puja and prayer event",
@@ -4004,7 +5873,13 @@ window.HINDUTVA = {
      "where": "Behala, Kolkata",
      "when": "7 June",
      "page": 26,
-     "detail": "Gayatri puja, Bharatmata puja, lamp lighting, aarti and kirtan welcoming a safer and more dignified atmosphere for women in West Bengal; East Behala MLA Shankar Sikdar attended."
+     "detail": "Gayatri puja, Bharatmata puja, lamp lighting, aarti and kirtan welcoming a safer and more dignified atmosphere for women in West Bengal; East Behala MLA Shankar Sikdar attended.",
+     "title_bn": "বঙ্গনারীশক্তি গায়ত্রী/ভারতমাতা পুজো ও প্রার্থনা অনুষ্ঠান",
+     "org_bn": "অন্যান্য: বঙ্গনারীশক্তি",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "বেহালা, কলকাতা",
+     "when_bn": "৭ জুন",
+     "detail_bn": "গায়ত্রী পূজা, ভারতমাতা পূজা, প্রদীপ প্রজ্বলন, আরতি ও কীর্তন, যেখানে পশ্চিমবঙ্গে নারীদের জন্য আরও নিরাপদ ও মর্যাদাপূর্ণ পরিবেশকে স্বাগত জানানো হয়; পূর্ব বেহালার বিধায়ক শঙ্কর সিকদার উপস্থিত ছিলেন।"
     },
     {
      "title": "Vishwa Shanti Yajna at Khana Ma's ashram",
@@ -4013,7 +5888,13 @@ window.HINDUTVA = {
      "where": "Behala, Kolkata",
      "when": "",
      "page": 26,
-     "detail": "Yajna attended by VHP leaders, Dharma Jagaran Samanvay Samiti functionaries and Vanavasi Kalyan Ashram/Pratibha Vikas Kendra teachers, with prasad distribution."
+     "detail": "Yajna attended by VHP leaders, Dharma Jagaran Samanvay Samiti functionaries and Vanavasi Kalyan Ashram/Pratibha Vikas Kendra teachers, with prasad distribution.",
+     "title_bn": "খানা মায়ের আশ্রমে বিশ্বশান্তি যজ্ঞ",
+     "org_bn": "বিশ্ব হিন্দু পরিষদ",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "বেহালা, কলকাতা",
+     "when_bn": "",
+     "detail_bn": "বিশ্ব হিন্দু পরিষদের নেতা, ধর্ম জাগরণ সমন্বয় সমিতির কার্যকর্তা এবং বনবাসী কল্যাণ আশ্রম/প্রতিভা বিকাশ কেন্দ্রের শিক্ষকদের উপস্থিতিতে যজ্ঞ, প্রসাদ বিতরণ সহ।"
     },
     {
      "title": "Sanatan Chetna O Ramrajya Jagaran sabha",
@@ -4022,7 +5903,13 @@ window.HINDUTVA = {
      "where": "Dhan-Dhanya Sabhagriha, Kolkata",
      "when": "7 June",
      "page": 30,
-     "detail": "Event headlined by Swami Govind Dev Giri (Ram Janmabhoomi Trust treasurer), Chief Minister Suvendu Adhikari and advocate Ashwini Upadhyay, with several BJP MLAs and industrialists present."
+     "detail": "Event headlined by Swami Govind Dev Giri (Ram Janmabhoomi Trust treasurer), Chief Minister Suvendu Adhikari and advocate Ashwini Upadhyay, with several BJP MLAs and industrialists present.",
+     "title_bn": "সনাতন চেতনা ও রামরাজ্য জাগরণ সভা",
+     "org_bn": "অন্যান্য: ধন-ধান্য অনুষ্ঠানের আয়োজকরা",
+     "type_bn": "সম্মেলন",
+     "where_bn": "ধনধান্য সভাগৃহ, কলকাতা",
+     "when_bn": "৭ জুন",
+     "detail_bn": "অনুষ্ঠানের মুখ্য আকর্ষণ ছিলেন স্বামী গোবিন্দ দেব গিরি (রাম জন্মভূমি ট্রাস্টের কোষাধ্যক্ষ), মুখ্যমন্ত্রী শুভেন্দু অধিকারী ও আইনজীবী অশ্বিনী উপাধ্যায়; বেশ কয়েকজন বিজেপি বিধায়ক ও শিল্পপতি উপস্থিত ছিলেন।"
     },
     {
      "title": "Sangathan Parichiti Varg-26 for college teachers",
@@ -4031,7 +5918,13 @@ window.HINDUTVA = {
      "where": "Malda Women's College, Malda",
      "when": "9 June",
      "page": 29,
-     "detail": "Orientation camp for 130 professors from Malda colleges and Gour University; RSS Malda Vibhag karyavah Shyamal Pal spoke on the RSS's history and philosophy."
+     "detail": "Orientation camp for 130 professors from Malda colleges and Gour University; RSS Malda Vibhag karyavah Shyamal Pal spoke on the RSS's history and philosophy.",
+     "title_bn": "কলেজ শিক্ষকদের জন্য সংগঠন পরিচিতি বর্গ-২৬",
+     "org_bn": "অন্যান্য: অখিল ভারতীয় রাষ্ট্রীয় শৈক্ষিক মহাসংঘ (এবিআরএসএম)",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "মালদা মহিলা কলেজ, মালদা",
+     "when_bn": "৯ জুন",
+     "detail_bn": "মালদা কলেজ ও গৌড় বিশ্ববিদ্যালয়ের ১৩০ জন অধ্যাপকের জন্য অভিমুখীকরণ শিবির; আরএসএসের মালদা বিভাগ কার্যবাহ শ্যামল পাল আরএসএসের ইতিহাস ও দর্শন নিয়ে বক্তব্য রাখেন।"
     },
     {
      "title": "World Environment Day tree plantation by NMO",
@@ -4040,7 +5933,13 @@ window.HINDUTVA = {
      "where": "Medical and dental colleges across West Bengal",
      "when": "5 June",
      "page": 29,
-     "detail": "Plantation drive across 20 medical college units, 5 dental college units and 8 non-campus units, with 1,093 students and 215 doctors planting 709 saplings."
+     "detail": "Plantation drive across 20 medical college units, 5 dental college units and 8 non-campus units, with 1,093 students and 215 doctors planting 709 saplings.",
+     "title_bn": "এনএমও-র বিশ্ব পরিবেশ দিবসে বৃক্ষরোপণ",
+     "org_bn": "অন্যান্য: ন্যাশনাল মেডিকোজ অর্গানাইজেশন (এনএমও)",
+     "type_bn": "সেবা/ত্রাণ",
+     "where_bn": "পশ্চিমবঙ্গ জুড়ে মেডিকেল ও ডেন্টাল কলেজগুলি",
+     "when_bn": "৫ জুন",
+     "detail_bn": "২০টি মেডিক্যাল কলেজ ইউনিট, ৫টি ডেন্টাল কলেজ ইউনিট ও ৮টি ক্যাম্পাস-বহির্ভূত ইউনিটে বৃক্ষরোপণ অভিযান, ১,০৯৩ জন পড়ুয়া ও ২১৫ জন চিকিৎসক ৭০৯টি চারা রোপণ করেন।"
     },
     {
      "title": "World Environment Day walk and tree plantation, Chetla",
@@ -4049,7 +5948,13 @@ window.HINDUTVA = {
      "where": "Chetla, South Kolkata",
      "when": "5 June",
      "page": 27,
-     "detail": "Awareness walk and tree plantation flagged off by Tollygunge MLA Papia Adhikari with SSB personnel and Hind Sangha members."
+     "detail": "Awareness walk and tree plantation flagged off by Tollygunge MLA Papia Adhikari with SSB personnel and Hind Sangha members.",
+     "title_bn": "বিশ্ব পরিবেশ দিবসে পদযাত্রা ও বৃক্ষরোপণ, চেতলা",
+     "org_bn": "অন্যান্য: মেরা যুবা ভারত / হিন্দ সঙ্ঘ / এসএসবি",
+     "type_bn": "সেবা/ত্রাণ",
+     "where_bn": "চেতলা, দক্ষিণ কলকাতা",
+     "when_bn": "৫ জুন",
+     "detail_bn": "টালিগঞ্জের বিধায়ক পাপিয়া অধিকারী এসএসবি কর্মী ও হিন্দ সঙ্ঘের সদস্যদের সঙ্গে একটি সচেতনতা পদযাত্রা ও বৃক্ষরোপণ কর্মসূচির সূচনা করেন।"
     },
     {
      "title": "International Yoga Day 2026 central event",
@@ -4058,7 +5963,13 @@ window.HINDUTVA = {
      "where": "Red Road, Kolkata",
      "when": "21 June (14-day countdown from 7 June)",
      "page": 49,
-     "detail": "Kolkata as host city for the 12th Yoga Day with PM Modi present; state health department ran a 14-day countdown programme and a Guinness record attempt."
+     "detail": "Kolkata as host city for the 12th Yoga Day with PM Modi present; state health department ran a 14-day countdown programme and a Guinness record attempt.",
+     "title_bn": "আন্তর্জাতিক যোগ দিবস ২০২৬-এর কেন্দ্রীয় অনুষ্ঠান",
+     "org_bn": "অন্যান্য: আয়ুষ মন্ত্রক / ভারত সরকার ও ক্রীড়া ভারতী",
+     "type_bn": "অন্যান্য",
+     "where_bn": "রেড রোড, কলকাতা",
+     "when_bn": "২১ জুন (৭ জুন থেকে ১৪ দিনের কাউন্টডাউন)",
+     "detail_bn": "প্রধানমন্ত্রী মোদির উপস্থিতিতে ১২তম যোগ দিবসের আয়োজক শহর হিসেবে কলকাতা; রাজ্য স্বাস্থ্য দপ্তর ১৪ দিনের কাউন্টডাউন কর্মসূচি ও গিনেস রেকর্ডের চেষ্টা করেছে।"
     },
     {
      "title": "Citizens Empowerment Forum event 'Paschimbanga: Mahima, Garima, Sambhavana' with Bankim Jayanti and Vande Mataram 150 years",
@@ -4067,7 +5978,13 @@ window.HINDUTVA = {
      "where": "Rabindra Sadan, Kolkata",
      "when": "26 June, 5 pm (announced)",
      "page": 49,
-     "detail": "Event marking Bankimchandra's birth anniversary and 150 years of Vande Mataram, with CM Suvendu Adhikari as chief guest and the RSS Purva Kshetra karyavah as main speaker."
+     "detail": "Event marking Bankimchandra's birth anniversary and 150 years of Vande Mataram, with CM Suvendu Adhikari as chief guest and the RSS Purva Kshetra karyavah as main speaker.",
+     "title_bn": "সিটিজেনস এমপাওয়ারমেন্ট ফোরামের অনুষ্ঠান 'পশ্চিমবঙ্গ: মহিমা, গরিমা, সম্ভাবনা', সঙ্গে বঙ্কিম জয়ন্তী ও বন্দে মাতরমের ১৫০ বছর",
+     "org_bn": "অন্যান্য: সিটিজেনস এমপাওয়ারমেন্ট ফোরাম",
+     "type_bn": "সম্মেলন",
+     "where_bn": "রবীন্দ্র সদন, কলকাতা",
+     "when_bn": "২৬ জুন, বিকেল ৫টা (ঘোষিত)",
+     "detail_bn": "বঙ্কিমচন্দ্রের জন্মবার্ষিকী ও বন্দেমাতরমের ১৫০ বছর উপলক্ষে অনুষ্ঠান, যেখানে মুখ্য অতিথি ছিলেন মুখ্যমন্ত্রী শুভেন্দু অধিকারী এবং মুখ্য বক্তা ছিলেন আরএসএস পূর্ব ক্ষেত্রের কার্যবাহ।"
     },
     {
      "title": "Hindu Samrajya Dinotsav",
@@ -4076,7 +5993,13 @@ window.HINDUTVA = {
      "where": "RSS shakhas",
      "when": "27 June (Jyeshtha Shukla Trayodashi)",
      "page": 14,
-     "detail": "RSS's annual celebration of Shivaji's coronation, described as the only organisation observing it, as a patriotism-inspiring shakha festival."
+     "detail": "RSS's annual celebration of Shivaji's coronation, described as the only organisation observing it, as a patriotism-inspiring shakha festival.",
+     "title_bn": "হিন্দু সাম্রাজ্য দিনোৎসব",
+     "org_bn": "আরএসএস",
+     "type_bn": "শতবর্ষ",
+     "where_bn": "আরএসএস শাখা",
+     "when_bn": "২৭ জুন (জ্যৈষ্ঠ শুক্ল ত্রয়োদশী)",
+     "detail_bn": "আরএসএসের শিবাজীর রাজ্যাভিষেকের বার্ষিক উদ্‌যাপন, যাকে একমাত্র সংগঠন হিসেবে এটি পালন করে বলে বর্ণনা করা হয়েছে, দেশপ্রেমে অনুপ্রাণিত করা এক শাখা উৎসব হিসেবে।"
     },
     {
      "title": "Swastika Yoga Day special issue announcement",
@@ -4085,7 +6008,13 @@ window.HINDUTVA = {
      "where": "Kolkata",
      "when": "29 June",
      "page": 4,
-     "detail": "Announces the next issue will carry detailed coverage of Yoga Day with PM Modi in Kolkata."
+     "detail": "Announces the next issue will carry detailed coverage of Yoga Day with PM Modi in Kolkata.",
+     "title_bn": "স্বস্তিকা যোগ দিবস বিশেষ সংখ্যার ঘোষণা",
+     "org_bn": "অন্যান্য: স্বস্তিকা সাপ্তাহিক",
+     "type_bn": "অন্যান্য",
+     "where_bn": "কলকাতা",
+     "when_bn": "২৯ জুন",
+     "detail_bn": "পরবর্তী সংখ্যায় কলকাতায় প্রধানমন্ত্রী মোদীর উপস্থিতিতে যোগ দিবসের বিস্তারিত প্রতিবেদন থাকবে বলে জানানো হয়েছে।"
     }
    ],
    "narratives": [
@@ -4094,86 +6023,124 @@ window.HINDUTVA = {
      "target": "TMC (praised overthrow) / Bengali Hindus (praised awakening)",
      "claim": "Bengalis, answering Tagore's call and awakened like Shivaji, have ended an 'Islamic-style' misrule through the ballot, realising 'one-dharma-state' in India.",
      "heading": "এক-ধর্ম-রাজ্য হবে এ ভারতে (সম্পাদকীয়)",
-     "page": 5
+     "page": 5,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "তৃণমূল (উৎখাত প্রশংসিত) / বাঙালি হিন্দু (জাগরণ প্রশংসিত)",
+     "claim_bn": "টেগোরের ডাকে সাড়া দিয়ে ও শিবাজির মতো জেগে উঠে বাঙালিরা ব্যালটের মাধ্যমে এক 'ইসলামি-ধাঁচের' অপশাসনের অবসান ঘটিয়েছে এবং ভারতে 'এক-ধর্ম-রাষ্ট্র' বাস্তবায়িত করেছে।"
     },
     {
      "theme": "West Bengal elections",
      "target": "TMC",
      "claim": "A ballot revolution has brought political change and ended the dark age in West Bengal with the fall of the TMC.",
      "heading": "ব্যালট বিপ্লবে রাজনৈতিক পরিবর্তন : তৃণমূলের পতনে পশ্চিমবঙ্গে অন্ধকার যুগের অবসান",
-     "page": 3
+     "page": 3,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "তৃণমূল",
+     "claim_bn": "ব্যালটের বিপ্লব রাজনৈতিক পরিবর্তন এনেছে এবং তৃণমূলের পতনের মাধ্যমে পশ্চিমবঙ্গে অন্ধকার যুগের অবসান ঘটিয়েছে।"
     },
     {
      "theme": "infiltration/demography",
      "target": "Infiltrators, Muslim population growth, earlier governments",
      "claim": "Demographic shift from infiltration and conversion threatens national unity; the RSS and Swastika raised it for decades, and the Centre's new high-powered committee vindicates this.",
      "heading": "ভারতে জনবিন্যাস পরিবর্তনের বিষয়টি সঙ্ঘ ও স্বস্তিকা পত্রিকাই জনসমক্ষে এনেছে",
-     "page": 8
+     "page": 8,
+     "theme_bn": "অনুপ্রবেশ/জনবিন্যাস",
+     "target_bn": "অনুপ্রবেশকারী, মুসলিম জনসংখ্যা বৃদ্ধি, আগের সরকারগুলি",
+     "claim_bn": "অনুপ্রবেশ ও ধর্মান্তরের ফলে জনবিন্যাসের পরিবর্তন জাতীয় ঐক্যের পক্ষে হুমকি; আরএসএস ও স্বস্তিকা দশকের পর দশক ধরে এই বিষয়টি তুলেছে, এবং কেন্দ্রের নতুন উচ্চ-ক্ষমতাসম্পন্ন কমিটি তা সঠিক প্রমাণ করেছে।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Left Front government in West Bengal",
      "claim": "In 1991 under the Communist government, Bangladeshi infiltrators held a press conference in Kolkata demanding citizenship, which the administration ignored, implying tacit official protection.",
      "heading": "ভারতে জনবিন্যাস পরিবর্তনের বিষয়টি সঙ্ঘ ও স্বস্তিকা পত্রিকাই জনসমক্ষে এনেছে",
-     "page": 8
+     "page": 8,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "পশ্চিমবঙ্গে বামফ্রন্ট সরকার",
+     "claim_bn": "১৯৯১ সালে কমিউনিস্ট সরকারের আমলে বাংলাদেশি অনুপ্রবেশকারীরা কলকাতায় সাংবাদিক সম্মেলন করে নাগরিকত্বের দাবি জানায়, প্রশাসন তা উপেক্ষা করে, যা সরকারি প্রশ্রয়ের ইঙ্গিত দেয়।"
     },
     {
      "theme": "history & icons",
      "target": "Shivaji (praised); Islamic rulers and 'anti-Hindu' historians (attacked)",
      "claim": "Shivaji's coronation revived Hindu sovereignty against Mughal power, and anti-Hindu historians and education ministers have denied him due credit.",
      "heading": "শিবাজী মহারাজের রাজ্যাভিষেক উৎসবের দিনটি আজও প্রাসঙ্গিক",
-     "page": 11
+     "page": 11,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "শিবাজি (প্রশংসিত); ইসলামি শাসকরা ও 'হিন্দু-বিরোধী' ঐতিহাসিকরা (আক্রান্ত)",
+     "claim_bn": "শিবাজির রাজ্যাভিষেক মুঘল শক্তির বিরুদ্ধে হিন্দু সার্বভৌমত্বকে পুনরুজ্জীবিত করেছিল, আর হিন্দু-বিরোধী ঐতিহাসিকরা ও শিক্ষামন্ত্রীরা তাঁকে প্রাপ্য স্বীকৃতি দেননি।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "Bengali Hindus",
      "claim": "Bengali Hindus should follow Shivaji-style Hindu consolidation, a line traced from Swami Pranavananda and Syama Prasad Mukherjee against Muslim dominance in 1930s-40s Bengal.",
      "heading": "শিবাজী মহারাজের রাজ্যাভিষেক উৎসবের দিনটি আজও প্রাসঙ্গিক",
-     "page": 11
+     "page": 11,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "বাঙালি হিন্দু",
+     "claim_bn": "বাঙালি হিন্দুদের শিবাজি-ধাঁচের হিন্দু সংহতির পথ অনুসরণ করা উচিত, যে ধারা ১৯৩০-৪০-এর দশকের বাংলায় মুসলমান আধিপত্যের বিরুদ্ধে স্বামী প্রণবানন্দ ও শ্যামাপ্রসাদ মুখোপাধ্যায় থেকে চলে আসছে।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "RSS (praised)",
      "claim": "The RSS is the only organisation that observes Hindu Samrajya Dinotsav, a festival of Hindu self-respect founded by Hedgewar.",
      "heading": "হিন্দুজাতির স্বাভিমানের প্রতীক",
-     "page": 14
+     "page": 14,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "আরএসএস (প্রশংসিত)",
+     "claim_bn": "হেডগেওয়ার প্রতিষ্ঠিত হিন্দুর আত্মসম্মানের উৎসব হিন্দু সাম্রাজ্য দিনোৎসব পালন করে একমাত্র আরএসএসই।"
     },
     {
      "theme": "nationalism/army/Pakistan",
      "target": "Anti-national forces; Iran-US war powers",
      "claim": "The coming era is India's; the world heeds only the strong, and anti-India forces are working to keep India weak.",
      "heading": "নাগপুরে কার্যকর্তা বিকাশ বর্গ দ্বিতীয়-র সমাপন অনুষ্ঠান",
-     "page": 25
+     "page": 25,
+     "theme_bn": "জাতীয়তাবাদ/সেনা/পাকিস্তান",
+     "target_bn": "দেশবিরোধী শক্তি; ইরান-মার্কিন যুদ্ধ ক্ষমতা",
+     "claim_bn": "আগামী যুগ ভারতের; বিশ্ব কেবল শক্তিমানের কথাই শোনে, আর ভারতবিরোধী শক্তিগুলি ভারতকে দুর্বল রাখতে সক্রিয়।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "Former TMC-era state government",
      "claim": "A 'familiar exploiter' has suddenly rebranded as 'Tatkal BJP', creating a crisis for West Bengal.",
      "heading": "যখন চেনা শোষকই রাতারাতি “তৎকাল বিজেপি” সাজে : পশ্চিমবঙ্গের তখন এক জলজ্যান্ত সংকট",
-     "page": 3
+     "page": 3,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "তৃণমূল আমলের প্রাক্তন রাজ্য সরকার",
+     "claim_bn": "একজন 'পরিচিত শোষক' হঠাৎ 'তৎকাল বিজেপি' নামে নিজেকে নতুনভাবে উপস্থাপন করেছে, যা পশ্চিমবঙ্গের জন্য সংকট তৈরি করেছে।"
     },
     {
      "theme": "Modi govt achievements",
      "target": "Modi government",
      "claim": "Yoga Day, internationalised by Modi's initiative at the UN in 2014, is celebrated with Kolkata as host city and Modi attending.",
      "heading": "কলকাতায় আন্তর্জাতিক যোগ দিবস—২০২৬",
-     "page": 49
+     "page": 49,
+     "theme_bn": "মোদী সরকারের কৃতিত্ব",
+     "target_bn": "মোদী সরকার",
+     "claim_bn": "২০১৪ সালে রাষ্ট্রসংঘে মোদীর উদ্যোগে আন্তর্জাতিক রূপ পাওয়া যোগ দিবস কলকাতাকে আয়োজক শহর করে এবং মোদীর উপস্থিতিতে পালিত হচ্ছে।"
     },
     {
      "theme": "West Bengal elections",
      "target": "Suvendu Adhikari government",
      "claim": "Women of West Bengal now see 'a new light of hope' after years of insecurity, welcoming the changed political atmosphere.",
      "heading": "বঙ্গনারীশক্তির উদ্যোগে প্রার্থনা অনুষ্ঠান (বেহালা)",
-     "page": 26
+     "page": 26,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "শুভেন্দু অধিকারীর সরকার",
+     "claim_bn": "বছরের পর বছর নিরাপত্তাহীনতার পর পশ্চিমবঙ্গের মহিলারা এখন 'আশার নতুন আলো' দেখছেন এবং বদলে যাওয়া রাজনৈতিক পরিবেশকে স্বাগত জানাচ্ছেন।"
     },
     {
      "theme": "history & icons",
      "target": "RSS founder Hedgewar (praised)",
      "claim": "Doctorji prepared swayamsevaks to be always alert and ready, and ignored both criticism and praise.",
      "heading": "গল্প কথায় ডাক্তারজী",
-     "page": 50
+     "page": 50,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "আরএসএস প্রতিষ্ঠাতা হেডগেওয়ার (প্রশংসিত)",
+     "claim_bn": "ডাক্তারজি স্বয়ংসেবকদের সর্বদা সজাগ ও প্রস্তুত থাকতে তৈরি করতেন, এবং সমালোচনা ও প্রশংসা দুটিকেই উপেক্ষা করতেন।"
     }
-   ]
+   ],
+   "label_bn": "",
+   "summary_bn": "২০২৬ সালের ২২ জুন সংখ্যাটির কেন্দ্রে রয়েছে হিন্দু সাম্রাজ্য দিনোৎসব (শিবাজির রাজ্যাভিষেক) নিয়ে প্রচ্ছদ-কাহিনি; শিবাজিকে বাঙালি হিন্দু সংহতির আদর্শ হিসেবে তুলে ধরা হয়েছে এবং দাবি করা হয়েছে, 'ব্যালট বিপ্লবে'র মাধ্যমে বাংলা এখন 'ইসলামি ধাঁচের কুশাসন' (তৃণমূল) থেকে মুক্ত হয়েছে। জনবিন্যাসগত পরিবর্তন ও অনুপ্রবেশের প্রসঙ্গ তোলা হয়েছে; দাবি করা হয়েছে আরএসএস ও স্বস্তিকাই প্রথম এ বিষয়টি তুলেছিল, এবং অমিত শাহ ঘোষিত একটি উচ্চক্ষমতাসম্পন্ন কমিটিকে স্বাগত জানানো হয়েছে। বেশ কয়েকটি লেখায় পশ্চিমবঙ্গে নির্বাচনোত্তর রাজনৈতিক পরিবর্তন এবং মুখ্যমন্ত্রী শুভেন্দু অধিকারীর নেতৃত্বাধীন নতুন বিজেপি সরকারকে নিয়ে উচ্ছ্বাস প্রকাশ করা হয়েছে। সংখ্যাটিতে সাংগঠনিক অনুষ্ঠানের খবরও রয়েছে (বিশ্ব হিন্দু পরিষদের প্রশিক্ষণ শিবির, আরএসএস-এর কার্যকর্তা বিকাশ বর্গ, সনাতন/রামরাজ্য সভা, কলকাতায় যোগ দিবস)। এ ছাড়া আরএসএস-এর ইতিহাসবিষয়ক ধারাবাহিক (ডাক্তারজি) রয়েছে এবং পরবর্তী সংখ্যা যোগ দিবস বিশেষ সংখ্যা হবে বলে ঘোষণা করা হয়েছে।"
   },
   {
    "issue": "20260615",
@@ -4189,7 +6156,13 @@ window.HINDUTVA = {
      "where": "Uluberia Stadium, Howrah (South Bengal)",
      "when": "17 May start; concluded 1 June",
      "page": 27,
-     "detail": "171 trainees took part, including students, teachers, lawyers, doctors and farmers. Sah-Sarkaryavah Ramdatta Chakradhar was the main speaker, and about 5,000 citizens attended the concluding event."
+     "detail": "171 trainees took part, including students, teachers, lawyers, doctors and farmers. Sah-Sarkaryavah Ramdatta Chakradhar was the main speaker, and about 5,000 citizens attended the concluding event.",
+     "title_bn": "আরএসএস দক্ষিণবঙ্গ প্রান্তের ১৫ দিনের সংঘ শিক্ষা বর্গ (সমাপনী অনুষ্ঠান)",
+     "org_bn": "আরএসএস",
+     "type_bn": "শাখা/প্রশিক্ষণ শিবির",
+     "where_bn": "উলুবেড়িয়া স্টেডিয়াম, হাওড়া (দক্ষিণবঙ্গ)",
+     "when_bn": "১৭ মে শুরু; ১ জুন সমাপ্ত",
+     "detail_bn": "ছাত্র, শিক্ষক, আইনজীবী, চিকিৎসক ও কৃষক-সহ ১৭১ জন প্রশিক্ষণার্থী অংশ নেন। সহ-সরকার্যবাহ রামদত্ত চক্রধর প্রধান বক্তা ছিলেন এবং সমাপ্তি অনুষ্ঠানে প্রায় ৫,০০০ নাগরিক উপস্থিত ছিলেন।"
     },
     {
      "title": "Akhil Bharatiya Rashtriya Shaikshik Mahasangh membership drive (school education)",
@@ -4198,7 +6171,13 @@ window.HINDUTVA = {
      "where": "Mejia Tarapur Lodge, Bankura",
      "when": "30 May",
      "page": 27,
-     "detail": "The event introduced the organisation and ran a membership drive, with 93 teachers taking part. VHP and RSS functionaries were present."
+     "detail": "The event introduced the organisation and ran a membership drive, with 93 teachers taking part. VHP and RSS functionaries were present.",
+     "title_bn": "অখিল ভারতীয় রাষ্ট্রীয় শৈক্ষিক মহাসংঘের সদস্য সংগ্রহ অভিযান (স্কুলশিক্ষা)",
+     "org_bn": "অন্যান্য: অখিল ভারতীয় রাষ্ট্রীয় শৈক্ষিক মহাসংঘ (এবিআরএসএম)",
+     "type_bn": "সম্মেলন",
+     "where_bn": "মেজিয়া তারাপুর লজ, বাঁকুড়া",
+     "when_bn": "৩০ মে",
+     "detail_bn": "অনুষ্ঠানে সংগঠনের পরিচয় দেওয়া হয় এবং সদস্য সংগ্রহ অভিযান চালানো হয়, যাতে ৯৩ জন শিক্ষক অংশ নেন। বিশ্ব হিন্দু পরিষদ ও আরএসএসের কার্যকর্তারা উপস্থিত ছিলেন।"
     },
     {
      "title": "Formation of Bangiya Granthashilpa Parishad (publishers' and printers' body) – first general meeting",
@@ -4207,7 +6186,13 @@ window.HINDUTVA = {
      "where": "Tripura Hitasadhani Sabhagriha, College Square, Kolkata",
      "when": "1 June",
      "page": 28,
-     "detail": "The new body brings together publishers, printers and booksellers, including 29 College Street publishers, under a nationalist banner. Office-bearers were chosen, and 53 people attended."
+     "detail": "The new body brings together publishers, printers and booksellers, including 29 College Street publishers, under a nationalist banner. Office-bearers were chosen, and 53 people attended.",
+     "title_bn": "বঙ্গীয় গ্রন্থশিল্প পরিষদ (প্রকাশক ও মুদ্রাকরদের সংগঠন) গঠন – প্রথম সাধারণ সভা",
+     "org_bn": "অন্যান্য: স্বস্তিকা-সংশ্লিষ্ট প্রকাশনা বৃত্ত (আরএসএস/বিশ্ব হিন্দু পরিষদ-সংশ্লিষ্ট ব্যক্তিদের সঙ্গে)",
+     "type_bn": "সম্মেলন",
+     "where_bn": "ত্রিপুরা হিতসাধনী সভাগৃহ, কলেজ স্কোয়ার, কলকাতা",
+     "when_bn": "১ জুন",
+     "detail_bn": "নতুন সংগঠনটি কলেজ স্ট্রিটের ২৯টি প্রকাশনা সংস্থা-সহ প্রকাশক, মুদ্রক ও বই বিক্রেতাদের একটি জাতীয়তাবাদী ছত্রতলে একত্র করেছে। পদাধিকারীদের নির্বাচন করা হয় এবং ৫৩ জন উপস্থিত ছিলেন।"
     },
     {
      "title": "Samskrita Bharati regional Sanskrit training camp (West Bengal & Odisha)",
@@ -4216,7 +6201,13 @@ window.HINDUTVA = {
      "where": "Saraswati Shishu Vidya Mandir, Kesinga, Kalahandi, Odisha",
      "when": "18–29 May",
      "page": 29,
-     "detail": "Over a hundred college students and Sanskrit enthusiasts from Odisha and West Bengal were trained in speaking, writing and teaching Sanskrit. Speakers framed Sanskrit as the basis of national unity and cultural revival."
+     "detail": "Over a hundred college students and Sanskrit enthusiasts from Odisha and West Bengal were trained in speaking, writing and teaching Sanskrit. Speakers framed Sanskrit as the basis of national unity and cultural revival.",
+     "title_bn": "সংস্কৃত ভারতীর আঞ্চলিক সংস্কৃত প্রশিক্ষণ শিবির (পশ্চিমবঙ্গ ও ওড়িশা)",
+     "org_bn": "অন্যান্য: সংস্কৃত ভারতী",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "সরস্বতী শিশু বিদ্যা মন্দির, কেসিঙ্গা, কালাহান্ডি, ওড়িশা",
+     "when_bn": "১৮–২৯ মে",
+     "detail_bn": "ওডিশা ও পশ্চিমবঙ্গের একশোরও বেশি কলেজ পড়ুয়া ও সংস্কৃতপ্রেমীকে সংস্কৃতে কথা বলা, লেখা ও পড়ানোর প্রশিক্ষণ দেওয়া হয়। বক্তারা সংস্কৃতকে জাতীয় ঐক্য ও সাংস্কৃতিক পুনরুজ্জীবনের ভিত্তি হিসেবে তুলে ধরেন।"
     },
     {
      "title": "Hindu Mahasammelan / Hindu Samrajya Dinotsav (Shivaji coronation day)",
@@ -4225,7 +6216,13 @@ window.HINDUTVA = {
      "where": "Jadavpur Vijayagarh, Baghajatin Bhag, South Kolkata",
      "when": "29 May",
      "page": 30,
-     "detail": "Organised by Baghajatin Bhag at Yuva Sangha Maidan. It included a swayamsevak physical display and addresses by Advaitacharan Dutta and Saradaprasad Pal. About 500 or more attended."
+     "detail": "Organised by Baghajatin Bhag at Yuva Sangha Maidan. It included a swayamsevak physical display and addresses by Advaitacharan Dutta and Saradaprasad Pal. About 500 or more attended.",
+     "title_bn": "হিন্দু মহাসম্মেলন / হিন্দু সাম্রাজ্য দিনোৎসব (শিবাজীর রাজ্যাভিষেক দিবস)",
+     "org_bn": "আরএসএস",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "যাদবপুর বিজয়গড়, বাঘাযতীন ভাগ, দক্ষিণ কলকাতা",
+     "when_bn": "২৯ মে",
+     "detail_bn": "বাঘাযতীন ভাগের উদ্যোগে যুব সঙ্ঘ ময়দানে আয়োজিত। এতে স্বয়ংসেবকদের শারীরিক প্রদর্শন এবং অদ্বৈতচরণ দত্ত ও সারদাপ্রসাদ পালের ভাষণ ছিল। প্রায় ৫০০ বা তার বেশি মানুষ উপস্থিত ছিলেন।"
     },
     {
      "title": "Annual programme of Vivekananda Ideal Public School",
@@ -4234,7 +6231,13 @@ window.HINDUTVA = {
      "where": "Tara-Atpur, Jangipara, Hooghly",
      "when": "24 May",
      "page": 30,
-     "detail": "The programme included felicitation of Madhyamik rank-holders, student performances and patriotic songs. Local BJP MLA Prasenjit Bag and Dr Anand Pande attended."
+     "detail": "The programme included felicitation of Madhyamik rank-holders, student performances and patriotic songs. Local BJP MLA Prasenjit Bag and Dr Anand Pande attended.",
+     "title_bn": "বিবেকানন্দ আদর্শ পাবলিক স্কুলের বার্ষিক অনুষ্ঠান",
+     "org_bn": "অন্যান্য: বিদ্যা ভারতী ধাঁচের স্কুল (বিবেকানন্দ আইডিয়াল পাবলিক স্কুল)",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "তারা-আতপুর, জাঙ্গিপাড়া, হুগলি",
+     "when_bn": "২৪ মে",
+     "detail_bn": "অনুষ্ঠানে মাধ্যমিকে কৃতী ছাত্রছাত্রীদের সংবর্ধনা, শিক্ষার্থীদের পরিবেশনা ও দেশাত্মবোধক গান ছিল। স্থানীয় বিজেপি বিধায়ক প্রসেনজিৎ বাগ ও ডঃ আনন্দ পান্ডে উপস্থিত ছিলেন।"
     },
     {
      "title": "Announcement: Shivaji Maharaj coronation (Rajyabhishek) special in next issue",
@@ -4243,7 +6246,13 @@ window.HINDUTVA = {
      "where": "",
      "when": "22 June 2026 issue",
      "page": 4,
-     "detail": "The next issue is announced as focusing on Chhatrapati Shivaji's coronation, presenting him as founder of a Hindu Padpadshahi who inspired Hindu independence."
+     "detail": "The next issue is announced as focusing on Chhatrapati Shivaji's coronation, presenting him as founder of a Hindu Padpadshahi who inspired Hindu independence.",
+     "title_bn": "ঘোষণা: পরবর্তী সংখ্যায় শিবাজী মহারাজের রাজ্যাভিষেক বিশেষ আয়োজন",
+     "org_bn": "অন্যান্য: স্বস্তিকা সাপ্তাহিক",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "",
+     "when_bn": "২২ জুন ২০২৬ সংখ্যা",
+     "detail_bn": "পরবর্তী সংখ্যাটি ছত্রপতি শিবাজীর রাজ্যাভিষেককে কেন্দ্র করে হবে বলে ঘোষণা করা হয়েছে; তাঁকে হিন্দু পদপাদশাহির প্রতিষ্ঠাতা হিসেবে তুলে ধরা হবে, যিনি হিন্দুদের স্বাধীনতার প্রেরণা দিয়েছিলেন।"
     },
     {
      "title": "Swastika life membership and subscription drive",
@@ -4252,7 +6261,13 @@ window.HINDUTVA = {
      "where": "Kolkata",
      "when": "",
      "page": 4,
-     "detail": "The paper seeks lifetime members (Rs 25,000) and 10-year members (Rs 10,000), and offers registered-post delivery for annual subscribers."
+     "detail": "The paper seeks lifetime members (Rs 25,000) and 10-year members (Rs 10,000), and offers registered-post delivery for annual subscribers.",
+     "title_bn": "স্বস্তিকার আজীবন সদস্যপদ ও গ্রাহক অভিযান",
+     "org_bn": "অন্যান্য: স্বস্তিকা সাপ্তাহিক (শুভস্বস্তিকা প্রিন্টস ফাউন্ডেশন)",
+     "type_bn": "অন্যান্য",
+     "where_bn": "কলকাতা",
+     "when_bn": "",
+     "detail_bn": "পত্রিকা আজীবন সদস্য (২৫,০০০ টাকা) ও ১০ বছরের সদস্য (১০,০০০ টাকা) খুঁজছে এবং বার্ষিক গ্রাহকদের জন্য রেজিস্ট্রি ডাকে বিতরণের ব্যবস্থা দিচ্ছে।"
     },
     {
      "title": "Paschimbanga Dibas (20 June) public observance campaign",
@@ -4261,7 +6276,13 @@ window.HINDUTVA = {
      "where": "West Bengal (first public event at Theosophical Society Hall, College Square, 2014)",
      "when": "20 June",
      "page": 16,
-     "detail": "The article traces the campaign for 20 June to a first public observance in 2014 and a 2020 BJP MLA request to the Speaker. It says the day is now to be observed officially."
+     "detail": "The article traces the campaign for 20 June to a first public observance in 2014 and a 2020 BJP MLA request to the Speaker. It says the day is now to be observed officially.",
+     "title_bn": "পশ্চিমবঙ্গ দিবস (২০ জুন) উপলক্ষে গণ-উদযাপন অভিযান",
+     "org_bn": "অন্যান্য: 'পশ্চিমবঙ্গের জন্য' থিঙ্ক-ট্যাংক / বিজেপি-ঘনিষ্ঠ",
+     "type_bn": "রাজনৈতিক প্রচার",
+     "where_bn": "পশ্চিমবঙ্গ (২০১৪ সালে কলেজ স্কোয়ারের থিওজফিক্যাল সোসাইটি হলে প্রথম প্রকাশ্য অনুষ্ঠান)",
+     "when_bn": "২০ জুন",
+     "detail_bn": "নিবন্ধে ২০ জুনের দাবির প্রচারের সূচনা ২০১৪ সালের প্রথম জনসমক্ষে পালন এবং ২০২০ সালে বিজেপি বিধায়কের স্পিকারের কাছে অনুরোধ পর্যন্ত খুঁজে দেখা হয়েছে। এতে বলা হয়েছে, দিনটি এবার সরকারিভাবে পালিত হবে।"
     }
    ],
    "narratives": [
@@ -4270,79 +6291,114 @@ window.HINDUTVA = {
      "target": "Syama Prasad Mukherjee (praised); Congress, Left and TMC (blamed)",
      "claim": "20 June 1947 was the day Syama Prasad Mukherjee's movement secured a Hindu-majority West Bengal, and the day is now to be celebrated officially as 'Paschimbanga Dibas'.",
      "heading": "সম্পাদকীয়",
-     "page": 5
+     "page": 5,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "শ্যামাপ্রসাদ মুখোপাধ্যায় (প্রশংসিত); কংগ্রেস, বামপন্থী ও তৃণমূল (দোষারোপিত)",
+     "claim_bn": "১৯৪৭ সালের ২০ জুন সেই দিন, যেদিন শ্যামাপ্রসাদ মুখোপাধ্যায়ের আন্দোলনের ফলে পশ্চিমবঙ্গ হিন্দু-সংখ্যাগরিষ্ঠ রাজ্য হিসেবে নিশ্চিত হয়, এবং এখন থেকে দিনটি সরকারিভাবে 'পশ্চিমবঙ্গ দিবস' হিসেবে পালিত হবে।"
     },
     {
      "theme": "history & icons",
      "target": "Left-secular historians and intellectuals; Congress",
      "claim": "Left-secular historians and the Congress kept Syama Prasad out of Bengali memory for decades, and a leader of the Congress and the Left such as Jyoti Basu backed him in 1947 but never admitted it.",
      "heading": "২০ জুন পশ্চিমবঙ্গের জন্মদিবস : ড. শ্যামাপ্রসাদ মুখোপাধ্যায়ের অবদানকে স্বীকার করে না কেন কংগ্রেস?",
-     "page": 11
+     "page": 11,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "বামপন্থী-ধর্মনিরপেক্ষ ইতিহাসবিদ ও বুদ্ধিজীবী; কংগ্রেস",
+     "claim_bn": "বামপন্থী-ধর্মনিরপেক্ষ ইতিহাসবিদ ও কংগ্রেস দশকের পর দশক শ্যামাপ্রসাদকে বাঙালির স্মৃতির বাইরে রেখেছে, আর জ্যোতি বসুর মতো কংগ্রেস ও বামপন্থী নেতা ১৯৪৭ সালে তাঁকে সমর্থন করেছিলেন, কিন্তু তা কখনও স্বীকার করেননি।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "Bengali Hindus",
      "claim": "West Bengal is the homeland that protects the existence of Bengali Hindus, secured from Pakistan by Syama Prasad Mukherjee.",
      "heading": "বাঙ্গালি হিন্দুর অস্তিত্ব রক্ষার ভূমি পশ্চিমবঙ্গ এবং ড. শ্যামাপ্রসাদ মুখোপাধ্যায়ের অবদান",
-     "page": 14
+     "page": 14,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "বাঙালি হিন্দু",
+     "claim_bn": "পশ্চিমবঙ্গ সেই বাসভূমি, যা বাঙালি হিন্দুদের অস্তিত্ব রক্ষা করে এবং যাকে শ্যামাপ্রসাদ মুখোপাধ্যায় পাকিস্তানের হাত থেকে রক্ষা করেছিলেন।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "Congress, Left Front and TMC",
      "claim": "About 80 years of Muslim appeasement by Congress, the Left Front and the TMC has endangered the very existence of West Bengal, and the state government must formally declare 20 June 'Paschimbanga Dibas'.",
      "heading": "২০ জুন “পশ্চিমবঙ্গ দিবস” সরকারি ভাবে রাজ্য সরকারকে ঘোষণা করতে হবে",
-     "page": 16
+     "page": 16,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "কংগ্রেস, বামফ্রন্ট ও তৃণমূল",
+     "claim_bn": "কংগ্রেস, বামফ্রন্ট ও তৃণমূলের প্রায় ৮০ বছরের মুসলিম তোষণ পশ্চিমবঙ্গের অস্তিত্বকেই বিপন্ন করেছে, এবং রাজ্য সরকারের উচিত আনুষ্ঠানিকভাবে ২০ জুনকে 'পশ্চিমবঙ্গ দিবস' ঘোষণা করা।"
     },
     {
      "theme": "Bangladesh & Hindu persecution",
      "target": "Muslim League, Jinnah-Suhrawardy; 'jihadi Muslims'",
      "claim": "Muslim League rule from 1937 and the 1946 Calcutta and Noakhali killings showed Bengali Hindus the fate awaiting them in a Muslim-majority Bengal, which is why partition was needed.",
      "heading": "২০ জুন “পশ্চিমবঙ্গ দিবস” সরকারি ভাবে রাজ্য সরকারকে ঘোষণা করতে হবে",
-     "page": 16
+     "page": 16,
+     "theme_bn": "বাংলাদেশ ও হিন্দু নির্যাতন",
+     "target_bn": "মুসলিম লিগ, জিন্না-সোহরাওয়ার্দি; 'জেহাদি মুসলমান'",
+     "claim_bn": "১৯৩৭ সাল থেকে মুসলিম লিগের শাসন এবং ১৯৪৬ সালের কলকাতা ও নোয়াখালির হত্যাকাণ্ড বাঙালি হিন্দুদের দেখিয়েছিল মুসলিম-প্রধান বাংলায় তাদের কী পরিণতি অপেক্ষা করছে; সেজন্যই দেশভাগ প্রয়োজন ছিল।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Left (Bamponthi) intellectuals and parties",
      "claim": "The Left is said to harbour a hidden current of anti-Hindu hostility in India.",
      "heading": "বামপন্থীদের হিন্দু বিদ্বেষ-ভারতবর্ষে একটি চোরা স্রোত",
-     "page": 8
+     "page": 8,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "বামপন্থী বুদ্ধিজীবী ও দলগুলি",
+     "claim_bn": "বলা হয়েছে, ভারতে বামপন্থীরা হিন্দুবিরোধী বিদ্বেষের একটি গোপন স্রোত বহন করে।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "Bratya Basu (former TMC education minister)",
      "claim": "The paper lists the misdeeds of the former TMC education minister Bratya Basu.",
      "heading": "প্রাক্তন শিক্ষামন্ত্রী ব্রাত্য বসুর কিছু কীর্তিকলাপ",
-     "page": 7
+     "page": 7,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "ব্রাত্য বসু (তৃণমূলের প্রাক্তন শিক্ষামন্ত্রী)",
+     "claim_bn": "পত্রিকা তৃণমূলের প্রাক্তন শিক্ষামন্ত্রী ব্রাত্য বসুর অপকর্মের তালিকা প্রকাশ করেছে।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "TMC leadership and its 'so-called crown prince'",
      "claim": "The TMC's so-called crown prince is mocked as having been forced to concede a walkover after entering the contest.",
      "heading": "বড় কাঁচা নাটক : খেলতে নেমে ওয়াকওভার দিতে হলো তৃণমূলের তথাকথিত যুবরাজকে",
-     "page": 37
+     "page": 37,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "তৃণমূল নেতৃত্ব ও তাদের 'তথাকথিত যুবরাজ'",
+     "claim_bn": "তৃণমূলের তথাকথিত যুবরাজকে নিয়ে বিদ্রুপ করা হয়েছে যে, লড়াইয়ে নেমে তাঁকে ওয়াকওভার দিতে বাধ্য হতে হয়েছে।"
     },
     {
      "theme": "other",
      "target": "Supreme Court; critics of the SIR (voter-roll revision)",
      "claim": "The Supreme Court's ruling on the SIR is presented as a historic judgment worth remembering.",
      "heading": "এসআইআর রায়ের সুপ্রিম ব্যাখ্যা : যে রায় ইতিহাসে স্মরণীয় হয়ে থাকবে",
-     "page": 18
+     "page": 18,
+     "theme_bn": "অন্যান্য",
+     "target_bn": "সুপ্রিম কোর্ট; এসআইআর (ভোটার তালিকা সংশোধন)-এর সমালোচকরা",
+     "claim_bn": "এসআইআর নিয়ে সুপ্রিম কোর্টের রায়কে একটি ঐতিহাসিক রায় হিসেবে তুলে ধরা হয়েছে, যা স্মরণযোগ্য।"
     },
     {
      "theme": "other",
      "target": "Global 'deep state'",
      "claim": "A secret parallel administration called the 'Global Deep State' is said to operate in countries around the world.",
      "heading": "দেশে দেশে একটি গোপন ও সমান্তরাল প্রশাসন হিসেবে সক্রিয় দ্য গ্লোবাল ডিপ স্টেট",
-     "page": 43
+     "page": 43,
+     "theme_bn": "অন্যান্য",
+     "target_bn": "বৈশ্বিক 'ডিপ স্টেট'",
+     "claim_bn": "বিশ্বজুড়ে বিভিন্ন দেশে 'গ্লোবাল ডিপ স্টেট' নামে একটি গোপন সমান্তরাল প্রশাসন কাজ করছে বলে বলা হয়েছে।"
     },
     {
      "theme": "history & icons",
      "target": "Syama Prasad Mukherjee; Hindu Mahasabha and Congress leaders",
      "claim": "The Bengal Partition League, the Tarakeswar Hindu rally and a 98.6% newspaper poll are cited to argue that Bengali Hindus overwhelmingly demanded West Bengal.",
      "heading": "২০ জুন “পশ্চিমবঙ্গ দিবস” সরকারি ভাবে রাজ্য সরকারকে ঘোষণা করতে হবে",
-     "page": 16
+     "page": 16,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "শ্যামাপ্রসাদ মুখোপাধ্যায়; হিন্দু মহাসভা ও কংগ্রেস নেতৃবৃন্দ",
+     "claim_bn": "বঙ্গ বিভাজন লিগ, তারকেশ্বরের হিন্দু সমাবেশ এবং একটি সংবাদপত্রের ৯৮.৬ শতাংশ ভোটের উল্লেখ করে যুক্তি দেওয়া হয়েছে যে বাঙালি হিন্দুরা অধিকাংশই পশ্চিমবঙ্গ দাবি করেছিলেন।"
     }
-   ]
+   ],
+   "label_bn": "",
+   "summary_bn": "২০২৬ সালের ১৫ জুনের এই সংখ্যাটি ২০ জুনকে ‘পশ্চিমবঙ্গ দিবস’ হিসেবে কেন্দ্র করে সাজানো, যেখানে শ্যামাপ্রসাদ মুখোপাধ্যায়কে পশ্চিমবঙ্গের প্রতিষ্ঠাতা এবং পাকিস্তান থেকে বাঙালি হিন্দুদের রক্ষাকর্তা হিসেবে তুলে ধরা হয়েছে। দিনটিকে সরকারিভাবে ঘোষণা করার জন্য রাজ্য সরকারের কাছে দাবি জানানো হয়েছে। এই ইতিহাস চেপে রাখা ও ‘তোষণ’-এর জন্য কংগ্রেস, বামপন্থী ও তৃণমূলকে আক্রমণ করা হয়েছে। এছাড়া সুপ্রিম কোর্টের SIR (ভোটার তালিকা সংশোধন) রায়, বামপন্থীদের মধ্যে হিন্দু-বিরোধী পক্ষপাত এবং ‘বিশ্বব্যাপী ডিপ স্টেট’ প্রসঙ্গও রয়েছে। সাংগঠনিক পাতায় আরএসএস-এর সঙ্ঘ শিক্ষা বর্গ, হিন্দু সাম্রাজ্য দিনোৎসব ও অনুসারী সংগঠনগুলির কার্যক্রমের খবর রয়েছে।"
   },
   {
    "issue": "20260608",
@@ -4358,7 +6414,13 @@ window.HINDUTVA = {
      "where": "Gajol, Malda",
      "when": "19 May",
      "page": 25,
-     "detail": "Sanskar Bharati's local unit held a Rabindra Jayanti programme with songs, recitation and dance. The local MLA was felicitated, and RSS and VHP office-bearers attended."
+     "detail": "Sanskar Bharati's local unit held a Rabindra Jayanti programme with songs, recitation and dance. The local MLA was felicitated, and RSS and VHP office-bearers attended.",
+     "title_bn": "রবীন্দ্র জয়ন্তী উদ্‌যাপন, গাজোল",
+     "org_bn": "অন্যান্য: সংস্কার ভারতী",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "গাজোল, মালদা",
+     "when_bn": "১৯ মে",
+     "detail_bn": "সংস্কার ভারতীর স্থানীয় শাখা গান, আবৃত্তি ও নৃত্যের মাধ্যমে রবীন্দ্র জয়ন্তী অনুষ্ঠান করে। স্থানীয় বিধায়ককে সংবর্ধনা দেওয়া হয় এবং আরএসএস ও বিশ্ব হিন্দু পরিষদের পদাধিকারীরা উপস্থিত ছিলেন।"
     },
     {
      "title": "Savarkar 143rd birth anniversary programme",
@@ -4367,7 +6429,13 @@ window.HINDUTVA = {
      "where": "Kolkata Press Club",
      "when": "28 May",
      "page": 26,
-     "detail": "The Hindu Mahasabha marked Savarkar's birth anniversary. It passed resolutions to install his portrait in the state assembly and to rename a major Kolkata road after him."
+     "detail": "The Hindu Mahasabha marked Savarkar's birth anniversary. It passed resolutions to install his portrait in the state assembly and to rename a major Kolkata road after him.",
+     "title_bn": "সাভারকরের ১৪৩তম জন্মবার্ষিকী অনুষ্ঠান",
+     "org_bn": "অন্যান্য: বঙ্গীয় প্রাদেশিক হিন্দু মহাসভা",
+     "type_bn": "সম্মেলন",
+     "where_bn": "কলকাতা প্রেস ক্লাব",
+     "when_bn": "২৮ মে",
+     "detail_bn": "হিন্দু মহাসভা সাভারকরের জন্মবার্ষিকী পালন করেছে। রাজ্য বিধানসভায় তাঁর প্রতিকৃতি স্থাপন এবং কলকাতার একটি প্রধান সড়কের নাম তাঁর নামে রাখার প্রস্তাব তারা গ্রহণ করেছে।"
     },
     {
      "title": "Rashbehari Bose 141st birth anniversary",
@@ -4376,7 +6444,13 @@ window.HINDUTVA = {
      "where": "Mahajati Sadan, Kolkata",
      "when": "25 May",
      "page": 27,
-     "detail": "The samiti and descendants of freedom fighters paid tribute to Rashbehari Bose and Basanta Kumar Biswas. The programme included patriotic songs and poetry."
+     "detail": "The samiti and descendants of freedom fighters paid tribute to Rashbehari Bose and Basanta Kumar Biswas. The programme included patriotic songs and poetry.",
+     "title_bn": "রাসবিহারী বসুর ১৪১তম জন্মজয়ন্তী",
+     "org_bn": "অন্যান্য: বিপ্লবী বসন্ত বিশ্বাস স্মারক সমিতি",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "মহাজাতি সদন, কলকাতা",
+     "when_bn": "২৫ মে",
+     "detail_bn": "সমিতি ও স্বাধীনতা সংগ্রামীদের বংশধরেরা রাসবিহারী বসু ও বসন্তকুমার বিশ্বাসের প্রতি শ্রদ্ধা জানান। অনুষ্ঠানে দেশাত্মবোধক গান ও কবিতা ছিল।"
     },
     {
      "title": "Felicitation of meritorious students",
@@ -4385,7 +6459,13 @@ window.HINDUTVA = {
      "where": "Malda town",
      "when": "27 May",
      "page": 27,
-     "detail": "The Mandal honoured the district's top ten Madhyamik and Higher Secondary scorers. An RSS functionary spoke on character building and national consciousness."
+     "detail": "The Mandal honoured the district's top ten Madhyamik and Higher Secondary scorers. An RSS functionary spoke on character building and national consciousness.",
+     "title_bn": "মেধাবী শিক্ষার্থীদের সংবর্ধনা",
+     "org_bn": "অন্যান্য: ভারতীয় শিক্ষণ মণ্ডল",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "মালদা শহর",
+     "when_bn": "২৭ মে",
+     "detail_bn": "মণ্ডল জেলার মাধ্যমিক ও উচ্চমাধ্যমিকের প্রথম দশজন কৃতী ছাত্রছাত্রীকে সংবর্ধনা জানিয়েছে। একজন আরএসএস কার্যকর্তা চরিত্র গঠন ও রাষ্ট্রীয় চেতনা নিয়ে বক্তব্য রাখেন।"
     },
     {
      "title": "Basanta Kumar Biswas 112th martyrdom day",
@@ -4394,7 +6474,13 @@ window.HINDUTVA = {
      "where": "Mahajati Sadan, Kolkata",
      "when": "11 May",
      "page": 29,
-     "detail": "A remembrance programme for the revolutionary hanged in 1915. It had floral tributes, patriotic songs and attendance by descendants of freedom fighters."
+     "detail": "A remembrance programme for the revolutionary hanged in 1915. It had floral tributes, patriotic songs and attendance by descendants of freedom fighters.",
+     "title_bn": "বসন্তকুমার বিশ্বাসের ১১২তম শহিদ দিবস",
+     "org_bn": "অন্যান্য: বিপ্লবী বসন্ত বিশ্বাস স্মারক সমিতি",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "মহাজাতি সদন, কলকাতা",
+     "when_bn": "১১ মে",
+     "detail_bn": "১৯১৫ সালে ফাঁসিতে ঝোলানো বিপ্লবীর স্মরণ অনুষ্ঠান। অনুষ্ঠানে ছিল পুষ্পার্ঘ্য, দেশাত্মবোধক গান এবং স্বাধীনতা সংগ্রামীদের বংশধরদের উপস্থিতি।"
     },
     {
      "title": "Su-Jok and Ayurvedic acupressure training camp",
@@ -4403,7 +6489,13 @@ window.HINDUTVA = {
      "where": "Kolkata (Kalikrishna Tagore Street)",
      "when": "From 28 May, five days",
      "page": 29,
-     "detail": "Seva Bharati's Bhanwarlal Mallawat Seva Kendra ran a five-day training course in Su-Jok and acupressure therapy. Certificates were given at the close."
+     "detail": "Seva Bharati's Bhanwarlal Mallawat Seva Kendra ran a five-day training course in Su-Jok and acupressure therapy. Certificates were given at the close.",
+     "title_bn": "সু-জক ও আয়ুর্বেদিক আকুপ্রেসার প্রশিক্ষণ শিবির",
+     "org_bn": "সেবা ভারতী",
+     "type_bn": "সেবা/ত্রাণ",
+     "where_bn": "কলকাতা (কালীকৃষ্ণ ঠাকুর স্ট্রিট)",
+     "when_bn": "২৮ মে থেকে পাঁচ দিন",
+     "detail_bn": "সেবা ভারতীর ভানওয়ারলাল মল্লাওয়াত সেবা কেন্দ্র সু-জক ও অ্যাকুপ্রেশার চিকিৎসার পাঁচ দিনের প্রশিক্ষণ কোর্স চালায়। শেষে শংসাপত্র দেওয়া হয়।"
     },
     {
      "title": "Shraddha 173rd tribute programme",
@@ -4412,7 +6504,13 @@ window.HINDUTVA = {
      "where": "Suri, Birbhum",
      "when": "10 May",
      "page": 25,
-     "detail": "A local social organisation held its 173rd tribute event honouring an 86-year-old woman. It included prayers and the gift of a Bhagavad Gita."
+     "detail": "A local social organisation held its 173rd tribute event honouring an 86-year-old woman. It included prayers and the gift of a Bhagavad Gita.",
+     "title_bn": "শ্রদ্ধা ১৭৩তম শ্রদ্ধার্ঘ্য অনুষ্ঠান",
+     "org_bn": "অন্যান্য: শ্রদ্ধা (সিউড়ির সামাজিক সংগঠন)",
+     "type_bn": "অন্যান্য",
+     "where_bn": "সিউড়ি, বীরভূম",
+     "when_bn": "১০ মে",
+     "detail_bn": "একটি স্থানীয় সামাজিক সংগঠন ৮৬ বছর বয়সী এক মহিলাকে সম্মান জানিয়ে তাদের ১৭৩তম শ্রদ্ধানুষ্ঠান আয়োজন করেছে। এতে প্রার্থনা ও ভগবদ্গীতা উপহার দেওয়া হয়েছে।"
     },
     {
      "title": "Tribute to Dr Nirmalendu Bikash Rakshit",
@@ -4421,7 +6519,13 @@ window.HINDUTVA = {
      "where": "Kolkata (Baghajatin)",
      "when": "26 May",
      "page": 10,
-     "detail": "RSS local shakha swayamsevaks and Swastika garlanded the body of the scholar and Swastika writer who died on 26 May."
+     "detail": "RSS local shakha swayamsevaks and Swastika garlanded the body of the scholar and Swastika writer who died on 26 May.",
+     "title_bn": "ডাঃ নির্মলেন্দু বিকাশ রক্ষিতের প্রতি শ্রদ্ধাঞ্জলি",
+     "org_bn": "আরএসএস",
+     "type_bn": "অন্যান্য",
+     "where_bn": "কলকাতা (বাঘাযতীন)",
+     "when_bn": "২৬ মে",
+     "detail_bn": "আরএসএসের স্থানীয় শাখার স্বয়ংসেবকরা এবং স্বস্তিকা ২৬ মে প্রয়াত পণ্ডিত ও স্বস্তিকার লেখকের মরদেহে মাল্যদান করেন।"
     }
    ],
    "narratives": [
@@ -4430,86 +6534,124 @@ window.HINDUTVA = {
      "target": "BJP and the new state government (praised); Hindu society",
      "claim": "BJP's landslide in 2026 is a divinely granted 'yogakshem' and a 'second independence' for Bengal's Hindus, who voted united for the first time, and both government and people must protect it.",
      "heading": "এই “যোগক্ষেম” রক্ষা করিতেই হইবে (সম্পাদকীয়)",
-     "page": 5
+     "page": 5,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "বিজেপি ও নতুন রাজ্য সরকার (প্রশংসিত); হিন্দু সমাজ",
+     "claim_bn": "২০২৬ সালে বিজেপির বিপুল জয় ঈশ্বরদত্ত 'যোগক্ষেম' এবং বাংলার হিন্দুদের জন্য 'দ্বিতীয় স্বাধীনতা', যাঁরা প্রথমবার ঐক্যবদ্ধভাবে ভোট দিয়েছেন; সরকার ও জনগণ উভয়কেই এটি রক্ষা করতে হবে।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Congress and Left Front governments",
      "claim": "Left rule is painted as 34 years of 'red terror', citing the Sainbari killings, Marichjhapi, and the Bijon Setu killing of Ananda Margi monks.",
      "heading": "এই “যোগক্ষেম” রক্ষা করিতেই হইবে (সম্পাদকীয়)",
-     "page": 5
+     "page": 5,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "কংগ্রেস ও বামফ্রন্ট সরকারগুলি",
+     "claim_bn": "বামপন্থী শাসনকে ৩৪ বছরের 'লাল সন্ত্রাস' হিসেবে চিত্রিত করা হয়েছে; এ প্রসঙ্গে সাঁইবাড়ি হত্যা, মরিচঝাঁপি এবং বিজন সেতুতে আনন্দমার্গী সন্ন্যাসীদের হত্যার উল্লেখ করা হয়েছে।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "TMC and its leader",
      "claim": "The TMC is accused of killing opponents, mass corruption, and legitimising Bangladeshi and Rohingya infiltrators by making false documents for them.",
      "heading": "এই “যোগক্ষেম” রক্ষা করিতেই হইবে (সম্পাদকীয়)",
-     "page": 5
+     "page": 5,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "তৃণমূল ও তার নেত্রী",
+     "claim_bn": "তৃণমূলের বিরুদ্ধে অভিযোগ: বিরোধীদের হত্যা, ব্যাপক দুর্নীতি, এবং বাংলাদেশি ও রোহিঙ্গা অনুপ্রবেশকারীদের জন্য জাল নথি তৈরি করে তাদের বৈধতা দেওয়া।"
     },
     {
      "theme": "infiltration/demography",
      "target": "TMC and infiltrators",
      "claim": "The editorial says Hindu lives were endangered in Muslim-majority areas and the state seemed to be turning into Islamic rule, and it welcomes completed land acquisition for border fencing.",
      "heading": "এই “যোগক্ষেম” রক্ষা করিতেই হইবে (সম্পাদকীয়)",
-     "page": 5
+     "page": 5,
+     "theme_bn": "অনুপ্রবেশ/জনবিন্যাস",
+     "target_bn": "তৃণমূল ও অনুপ্রবেশকারী",
+     "claim_bn": "সম্পাদকীয়তে বলা হয়েছে, মুসলিম-প্রধান এলাকায় হিন্দুদের জীবন বিপন্ন ছিল এবং রাজ্য ইসলামি শাসনের দিকে যাচ্ছে বলে মনে হচ্ছিল; সীমান্তে বেড়া দেওয়ার জন্য জমি অধিগ্রহণ সম্পূর্ণ হওয়াকে এতে স্বাগত জানানো হয়েছে।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "CPIM, ISF and Left students and intellectuals (Jadavpur, Calcutta University)",
      "claim": "CPIM's Falta result is said to reflect Muslim votes moving to the ISF alliance, not a Left revival. The piece calls campuses a Left 'sanctuary' to be cleared with strong measures, says Marx-Lenin teaching should give way to nationalist figures, and calls for ABVP to be given free entry.",
      "heading": "শয়তানেরা ঘুমায় না, শয়তানির মূল্য মৃত্যু",
-     "page": 8
+     "page": 8,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "সিপিআই(এম), আইএসএফ এবং বামপন্থী ছাত্র ও বুদ্ধিজীবীরা (যাদবপুর, কলকাতা বিশ্ববিদ্যালয়)",
+     "claim_bn": "ফলতায় সিপিআই(এম)-এর ফলাফল বামপন্থার পুনরুত্থান নয়, বরং আইএসএফ জোটের দিকে মুসলিম ভোট সরে যাওয়ার প্রতিফলন বলে বলা হয়েছে। লেখাটিতে ক্যাম্পাসগুলিকে বামপন্থীদের 'অভয়ারণ্য' বলে অভিহিত করে কড়া পদক্ষেপে তা সাফ করার কথা বলা হয়েছে, মার্কস-লেনিন পাঠের জায়গায় জাতীয়তাবাদী ব্যক্তিত্বদের পাঠ চালুর কথা বলা হয়েছে এবং এবিভিপি-কে অবাধ প্রবেশাধিকার দেওয়ার দাবি জানানো হয়েছে।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Left student leaders (named individually) and 'urban Maoists'",
      "claim": "The article names several young Left figures as products of campus 'production' that will be shut down. It says communists have no place in West Bengal and threatens them with 'death' or a 'final destination'.",
      "heading": "শয়তানেরা ঘুমায় না, শয়তানির মূল্য মৃত্যু",
-     "page": 8
+     "page": 8,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "বামপন্থী ছাত্রনেতারা (নাম ধরে উল্লিখিত) ও 'শহুরে মাওবাদীরা'",
+     "claim_bn": "প্রবন্ধটি কয়েকজন তরুণ বামপন্থী নেতার নাম করে তাদের ক্যাম্পাসের 'উৎপাদন' বলেছে, যা বন্ধ করে দেওয়া হবে। এতে বলা হয়েছে পশ্চিমবঙ্গে কমিউনিস্টদের কোনও স্থান নেই এবং তাদের 'মৃত্যু' বা 'শেষ গন্তব্য'-এর হুমকি দেওয়া হয়েছে।"
     },
     {
      "theme": "Modi govt achievements",
      "target": "New West Bengal BJP government",
      "claim": "The new government's steps on good governance, security and welfare are presented as the start of building a new West Bengal.",
      "heading": "সুশাসন, নিরাপত্তা ও জনকল্যাণ নতুন পশ্চিমবঙ্গ নির্মাণের অভিযাত্রা",
-     "page": 3
+     "page": 3,
+     "theme_bn": "মোদী সরকারের কৃতিত্ব",
+     "target_bn": "পশ্চিমবঙ্গের নতুন বিজেপি সরকার",
+     "claim_bn": "সুশাসন, নিরাপত্তা ও কল্যাণের ক্ষেত্রে নতুন সরকারের পদক্ষেপগুলিকে নতুন পশ্চিমবঙ্গ গড়ার সূচনা হিসেবে তুলে ধরা হয়েছে।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "Hindu society of Bengal",
      "claim": "The contents list an essay on West Bengal's political revival through Hindutva, nationalism and the new horizons of 2026.",
      "heading": "পশ্চিমবঙ্গের রাজনৈতিক পুনর্জাগরণ— হিন্দুত্ব, জাতীয়তাবোধ ও ২০২৬-এর নতুন দিগন্ত",
-     "page": 3
+     "page": 3,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "বাংলার হিন্দু সমাজ",
+     "claim_bn": "সূচিপত্রে হিন্দুত্ব, জাতীয়তাবাদ ও ২০২৬-এর নতুন দিগন্তের মাধ্যমে পশ্চিমবঙ্গের রাজনৈতিক পুনরুজ্জীবন নিয়ে একটি প্রবন্ধের উল্লেখ আছে।"
     },
     {
      "theme": "infiltration/demography",
      "target": "Rohingya and Bangladeshi infiltrators",
      "claim": "The contents list an article saying only genuine Indians, not Rohingya or Bangladeshi infiltrators, are 'my brothers'.",
      "heading": "রোহিঙ্গা নয়, বাংলাদেশি অনুপ্রবেশকারী নয়, প্রকৃত ভারতবাসীই শুধু আমার ভাই",
-     "page": 3
+     "page": 3,
+     "theme_bn": "অনুপ্রবেশ/জনবিন্যাস",
+     "target_bn": "রোহিঙ্গা ও বাংলাদেশি অনুপ্রবেশকারী",
+     "claim_bn": "সূচিপত্রে একটি নিবন্ধের উল্লেখ আছে, যাতে বলা হয়েছে শুধু প্রকৃত ভারতীয়রাই 'আমার ভাই', রোহিঙ্গা বা বাংলাদেশি অনুপ্রবেশকারীরা নয়।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "TMC",
      "claim": "The contents list a piece comparing the fall of Mughal rule and TMC rule as having the same cause.",
      "heading": "মোগল শাসন আর তৃণমূল শাসনের পতনের কারণ একই",
-     "page": 3
+     "page": 3,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "তৃণমূল",
+     "claim_bn": "সূচিপত্রে একটি লেখার উল্লেখ আছে, যাতে মুঘল শাসনের পতন ও তৃণমূল শাসনের পতনের একই কারণ বলে তুলনা করা হয়েছে।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "TMC",
      "claim": "The contents list an article welcoming the public's 'instant justice' after 15 years of 'TMC terror'.",
      "heading": "দেড় দশকের “তৃণমূলি ত্রাস” জনতার “তাৎক্ষণিক বিচার”!",
-     "page": 3
+     "page": 3,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "তৃণমূল",
+     "claim_bn": "সূচিপত্রে একটি নিবন্ধের উল্লেখ আছে, যাতে ১৫ বছরের 'তৃণমূলী সন্ত্রাসে'র পর জনতার 'তাৎক্ষণিক বিচার'-কে স্বাগত জানানো হয়েছে।"
     },
     {
      "theme": "history & icons",
      "target": "Savarkar and Hindu Mahasabha",
      "claim": "Speakers said the 1947 partition caused ongoing persecution of Hindus and Sikhs in Pakistan and Bangladesh, and urged building an undivided India on Savarkar's ideals.",
      "heading": "বীর সাভারকরের ১৪৩তম জন্মবার্ষিকী অনুষ্ঠান (সমাবেশ সমাচার)",
-     "page": 26
+     "page": 26,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "সাভারকর ও হিন্দু মহাসভা",
+     "claim_bn": "বক্তারা বলেন, ১৯৪৭ সালের দেশভাগের কারণে পাকিস্তান ও বাংলাদেশে হিন্দু ও শিখদের উপর নির্যাতন আজও চলছে; তাঁরা সাভারকরের আদর্শে অখণ্ড ভারত গড়ে তোলার আহ্বান জানান।"
     }
-   ]
+   ],
+   "label_bn": "",
+   "summary_bn": "৮ জুন ২০২৬ সংখ্যাটি ২০২৬ সালের পশ্চিমবঙ্গ বিধানসভা নির্বাচনে বিজেপির জয়কে হিন্দুদের 'দ্বিতীয় স্বাধীনতা' হিসেবে উদ্‌যাপন করেছে এবং হিন্দুদের এই 'যোগক্ষেম' (আশীর্বাদ) রক্ষা করার আহ্বান জানিয়েছে। এতে নতুন রাজ্য সরকারের শাসন, সীমান্তে বেড়া ও নিরাপত্তা বিষয়ে প্রাথমিক পদক্ষেপের প্রশংসা করা হয়েছে এবং কংগ্রেস, বামপন্থী ও তৃণমূলের শাসনকে হিংসাত্মক, দুর্নীতিগ্রস্ত ও অনুপ্রবেশকারীদের তোষণকারী বলে দীর্ঘ অভিযোগনামা তুলে ধরা হয়েছে। এতে ক্যাম্পাস থেকে বামপন্থী প্রভাব দূর করা এবং সেখানে এবিভিপির মতো জাতীয়তাবাদী সংগঠনগুলিকে এগিয়ে নেওয়ার দাবি জানানো হয়েছে। এছাড়া বিপ্লবী, সাভারকর ও ডঃ হেডগেওয়ারের প্রতি শ্রদ্ধার্ঘ্য এবং সংঘের সহযোগী সংগঠনগুলির সাংস্কৃতিক ও সেবামূলক অনুষ্ঠানের প্রতিবেদনও রয়েছে।"
   },
   {
    "issue": "20260601",
@@ -4525,7 +6667,13 @@ window.HINDUTVA = {
      "where": "Nagpur, Maharashtra (Reshimbagh, Dr. Hedgewar Smriti Bhavan)",
      "when": "11 May to 4 June 2026",
      "page": 28,
-     "detail": "25-day advanced training camp with 880 participants from across India, including 18 from North Bengal, 18 from Central Bengal and 17 from South Bengal. Sah-sarkaryavah Atul Limaye said Bharat is a Hindu Rashtra and stressed individual-building through the daily shakha."
+     "detail": "25-day advanced training camp with 880 participants from across India, including 18 from North Bengal, 18 from Central Bengal and 17 from South Bengal. Sah-sarkaryavah Atul Limaye said Bharat is a Hindu Rashtra and stressed individual-building through the daily shakha.",
+     "title_bn": "কার্যকর্তা বিকাশ বর্গ-২ (সঙ্ঘের শতবর্ষ)",
+     "org_bn": "আরএসএস",
+     "type_bn": "শাখা/প্রশিক্ষণ শিবির",
+     "where_bn": "নাগপুর, মহারাষ্ট্র (রেশিমবাগ, ডঃ হেডগেওয়ার স্মৃতি ভবন)",
+     "when_bn": "১১ মে থেকে ৪ জুন ২০২৬",
+     "detail_bn": "উত্তরবঙ্গের ১৮, মধ্যবঙ্গের ১৮ এবং দক্ষিণবঙ্গের ১৭ জন-সহ সারা ভারত থেকে ৮৮০ জন অংশগ্রহণকারীর ২৫ দিনের উচ্চতর প্রশিক্ষণ শিবির। সহ-সরকার্যবাহ অতুল লিমায়ে বলেন, ভারত হিন্দু রাষ্ট্র এবং দৈনন্দিন শাখার মাধ্যমে ব্যক্তি-নির্মাণের উপর জোর দেন।"
     },
     {
      "title": "Karyakarta Vikas Varg-1",
@@ -4534,7 +6682,13 @@ window.HINDUTVA = {
      "where": "Sambalpur, Odisha",
      "when": "",
      "page": 28,
-     "detail": "Participants from Bengal included 43 from North Bengal, 69 from Central Bengal and 60 from South Bengal."
+     "detail": "Participants from Bengal included 43 from North Bengal, 69 from Central Bengal and 60 from South Bengal.",
+     "title_bn": "কার্যকর্তা বিকাশ বর্গ-১",
+     "org_bn": "আরএসএস",
+     "type_bn": "শাখা/প্রশিক্ষণ শিবির",
+     "where_bn": "সম্বলপুর, ওড়িশা",
+     "when_bn": "",
+     "detail_bn": "বাংলা থেকে অংশগ্রহণকারীদের মধ্যে উত্তরবঙ্গের ৪৩ জন, মধ্যবঙ্গের ৬৯ জন এবং দক্ষিণবঙ্গের ৬০ জন ছিলেন।"
     },
     {
      "title": "Sangh Shiksha Varg (General) – North Bengal",
@@ -4543,7 +6697,13 @@ window.HINDUTVA = {
      "where": "Raiganj, Sarada Vidyamandir, North Bengal",
      "when": "from 9 May",
      "page": 28,
-     "detail": "Basic training camp attended by 161 trainees."
+     "detail": "Basic training camp attended by 161 trainees.",
+     "title_bn": "সঙ্ঘ শিক্ষা বর্গ (সাধারণ) – উত্তরবঙ্গ",
+     "org_bn": "আরএসএস",
+     "type_bn": "শাখা/প্রশিক্ষণ শিবির",
+     "where_bn": "রায়গঞ্জ, সারদা বিদ্যামন্দির, উত্তরবঙ্গ",
+     "when_bn": "৯ মে থেকে",
+     "detail_bn": "১৬১ জন প্রশিক্ষণার্থীর অংশগ্রহণে প্রাথমিক প্রশিক্ষণ শিবির।"
     },
     {
      "title": "Sangh Shiksha Varg (General) – Central Bengal",
@@ -4552,7 +6712,13 @@ window.HINDUTVA = {
      "where": "Santipur, Nadia",
      "when": "from 23 May",
      "page": 28,
-     "detail": "Training camp with 287 trainees."
+     "detail": "Training camp with 287 trainees.",
+     "title_bn": "সঙ্ঘ শিক্ষা বর্গ (সাধারণ) – মধ্যবঙ্গ",
+     "org_bn": "আরএসএস",
+     "type_bn": "শাখা/প্রশিক্ষণ শিবির",
+     "where_bn": "শান্তিপুর, নদিয়া",
+     "when_bn": "২৩ মে থেকে",
+     "detail_bn": "২৮৭ জন প্রশিক্ষার্থীর প্রশিক্ষণ শিবির।"
     },
     {
      "title": "Sangh Shiksha Varg (General) – South Bengal",
@@ -4561,7 +6727,13 @@ window.HINDUTVA = {
      "where": "Tatibaria Sarada Vidyamandir, Howrah",
      "when": "from 17 May",
      "page": 28,
-     "detail": "Training camp with 177 trainees."
+     "detail": "Training camp with 177 trainees.",
+     "title_bn": "সঙ্ঘ শিক্ষা বর্গ (সাধারণ) – দক্ষিণবঙ্গ",
+     "org_bn": "আরএসএস",
+     "type_bn": "শাখা/প্রশিক্ষণ শিবির",
+     "where_bn": "তাতিবেড়িয়া সারদা বিদ্যামন্দির, হাওড়া",
+     "when_bn": "১৭ মে থেকে",
+     "detail_bn": "১৭৭ জন প্রশিক্ষার্থীর প্রশিক্ষণ শিবির।"
     },
     {
      "title": "Sangh Shiksha Varg (Special) – three Bengal prants",
@@ -4570,7 +6742,13 @@ window.HINDUTVA = {
      "where": "Tarapur Saraswati Shishu Mandir, Birbhum",
      "when": "from 17 May",
      "page": 28,
-     "detail": "Joint special camp with 196 trainees (46 North, 85 Central, 65 South Bengal)."
+     "detail": "Joint special camp with 196 trainees (46 North, 85 Central, 65 South Bengal).",
+     "title_bn": "সঙ্ঘ শিক্ষা বর্গ (বিশেষ) – বঙ্গের তিনটি প্রান্ত",
+     "org_bn": "আরএসএস",
+     "type_bn": "শাখা/প্রশিক্ষণ শিবির",
+     "where_bn": "তারাপুর সরস্বতী শিশু মন্দির, বীরভূম",
+     "when_bn": "১৭ মে থেকে",
+     "detail_bn": "১৯৬ জন প্রশিক্ষণার্থীর (৪৬ উত্তর, ৮৫ মধ্য, ৬৫ দক্ষিণবঙ্গ) যৌথ বিশেষ শিবির।"
     },
     {
      "title": "State executive meeting of teachers' organisation (Buddha Dharmankur Mahasangha school education wing)",
@@ -4579,7 +6757,13 @@ window.HINDUTVA = {
      "where": "Kolkata",
      "when": "11 May",
      "page": 29,
-     "detail": "Attended by national organising secretary Mahendra Kapur, Purvakshetra sanghchalak Jayanta Roychowdhury and 100+ office-bearers. Reviewed membership drive, media team, the 'My School My Tirtha' programme, and protest against alleged distortion in the Class 8 history book. Also planned a talent-search test and Madhyamik mock tests."
+     "detail": "Attended by national organising secretary Mahendra Kapur, Purvakshetra sanghchalak Jayanta Roychowdhury and 100+ office-bearers. Reviewed membership drive, media team, the 'My School My Tirtha' programme, and protest against alleged distortion in the Class 8 history book. Also planned a talent-search test and Madhyamik mock tests.",
+     "title_bn": "শিক্ষক সংগঠনের রাজ্য কার্যকরী সমিতির বৈঠক (বুদ্ধ ধর্মাঙ্কুর মহাসঙ্ঘের স্কুলশিক্ষা শাখা)",
+     "org_bn": "অন্যান্য: সঙ্ঘ-সংশ্লিষ্ট অখিল ভারতীয় শিক্ষক সংগঠন (রাজ্য স্কুলশিক্ষা শাখা)",
+     "type_bn": "সম্মেলন",
+     "where_bn": "কলকাতা",
+     "when_bn": "১১ মে",
+     "detail_bn": "জাতীয় সংগঠন সম্পাদক মহেন্দ্র কাপুর, পূর্বক্ষেত্র সঙ্ঘচালক জয়ন্ত রায়চৌধুরী এবং ১০০-র বেশি পদাধিকারী উপস্থিত ছিলেন। সদস্যতা অভিযান, মিডিয়া টিম, 'আমার স্কুল আমার তীর্থ' কর্মসূচি এবং অষ্টম শ্রেণির ইতিহাস বইয়ে কথিত বিকৃতির বিরুদ্ধে প্রতিবাদ পর্যালোচনা করা হয়। একটি প্রতিভা অন্বেষণ পরীক্ষা ও মাধ্যমিক মক টেস্টের পরিকল্পনাও করা হয়।"
     },
     {
      "title": "Blood donation camp",
@@ -4588,7 +6772,13 @@ window.HINDUTVA = {
      "where": "Suri, Birbhum",
      "when": "",
      "page": 29,
-     "detail": "Held at Saraswati Shishu Mandir near Shyamaprasad Mor; 20 men and women donated blood."
+     "detail": "Held at Saraswati Shishu Mandir near Shyamaprasad Mor; 20 men and women donated blood.",
+     "title_bn": "রক্তদান শিবির",
+     "org_bn": "অন্যান্য: সরস্বতী শিশু মন্দির সোসাইটি, সিউড়ি ও মাতৃ ভারতী",
+     "type_bn": "সেবা/ত্রাণ",
+     "where_bn": "সিউড়ি, বীরভূম",
+     "when_bn": "",
+     "detail_bn": "শ্যামাপ্রসাদ মোড়ের কাছে সরস্বতী শিশু মন্দিরে অনুষ্ঠিত; ২০ জন নারী-পুরুষ রক্তদান করেন।"
     },
     {
      "title": "Rabindra Jayanti celebration",
@@ -4597,7 +6787,13 @@ window.HINDUTVA = {
      "where": "Malda town, North Bengal",
      "when": "25 Baishakh",
      "page": 30,
-     "detail": "Sanskar Bharati Malda unit celebrated with songs, recitation and dance for children, attended by prant office-bearers."
+     "detail": "Sanskar Bharati Malda unit celebrated with songs, recitation and dance for children, attended by prant office-bearers.",
+     "title_bn": "রবীন্দ্র জয়ন্তী উদ্‌যাপন",
+     "org_bn": "অন্যান্য: সংস্কার ভারতী",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "মালদা শহর, উত্তরবঙ্গ",
+     "when_bn": "২৫ বৈশাখ",
+     "detail_bn": "সংস্কার ভারতী মালদা শাখা শিশুদের জন্য গান, আবৃত্তি ও নৃত্যের মাধ্যমে অনুষ্ঠান পালন করে, যেখানে প্রান্তীয় পদাধিকারীরা উপস্থিত ছিলেন।"
     },
     {
      "title": "Cultural programme and stationery distribution",
@@ -4606,7 +6802,13 @@ window.HINDUTVA = {
      "where": "Thakurpukur, Kolkata",
      "when": "17 May",
      "page": 30,
-     "detail": "Children from eight Shishu Sanskar Kendras performed, and notebooks and pens were given to 56 underprivileged children. Attended by the Thakurpukur sanghchalak and South Bengal seva pramukh."
+     "detail": "Children from eight Shishu Sanskar Kendras performed, and notebooks and pens were given to 56 underprivileged children. Attended by the Thakurpukur sanghchalak and South Bengal seva pramukh.",
+     "title_bn": "সাংস্কৃতিক অনুষ্ঠান ও লেখনসামগ্রী বিতরণ",
+     "org_bn": "অন্যান্য: সমাজ সেবা ভারতী, ঠাকুরপুকুর ভাগ",
+     "type_bn": "সেবা/ত্রাণ",
+     "where_bn": "ঠাকুরপুকুর, কলকাতা",
+     "when_bn": "১৭ মে",
+     "detail_bn": "আটটি শিশু সংস্কার কেন্দ্রের শিশুরা অনুষ্ঠান করে এবং ৫৬ জন সুবিধাবঞ্চিত শিশুকে খাতা ও কলম দেওয়া হয়। ঠাকুরপুকুরের সঙ্ঘচালক ও দক্ষিণবঙ্গ সেবা প্রমুখ উপস্থিত ছিলেন।"
     }
    ],
    "narratives": [
@@ -4615,79 +6817,114 @@ window.HINDUTVA = {
      "target": "Congress and Communists (attacked); Savarkar (praised)",
      "claim": "Congress and Communists have shamelessly distorted history and slandered Savarkar, whose mercy petitions were a tactic written with Gandhi's advice and who inspired Netaji's INA.",
      "heading": "ইতিহাসের নির্লজ্জ বিকৃতি",
-     "page": 5
+     "page": 5,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "কংগ্রেস ও কমিউনিস্টরা (আক্রমণ); সাভারকর (প্রশংসা)",
+     "claim_bn": "কংগ্রেস ও কমিউনিস্টরা নির্লজ্জভাবে ইতিহাস বিকৃত করেছে এবং সাভারকরকে কুৎসা করেছে, যাঁর ক্ষমাভিক্ষার আবেদন ছিল গান্ধীর পরামর্শে লেখা একটি কৌশল এবং যিনি নেতাজির আইএনএ-কে অনুপ্রাণিত করেছিলেন।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Communists",
      "claim": "The editorial brands Communists as 'traitors' and 'fake patriots' for opposing Savarkar.",
      "heading": "ইতিহাসের নির্লজ্জ বিকৃতি",
-     "page": 5
+     "page": 5,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "কমিউনিস্টরা",
+     "claim_bn": "সম্পাদকীয়তে সাভারকরের বিরোধিতার কারণে কমিউনিস্টদের 'বিশ্বাসঘাতক' ও 'ভুয়ো দেশপ্রেমিক' বলা হয়েছে।"
     },
     {
      "theme": "culture/religion",
      "target": "Pseudo-secularism and 'jihadi mullah-ism'",
      "claim": "Pseudo-secularism and jihadi mullah-ism kept Bengal's cultural awakening suppressed.",
      "heading": "সিউডো সেকুলারিজম আর জেহাদি মোল্লাবাদ রাজ্যের সাংস্কৃতিক জাগরণকে রুদ্ধ করে রেখেছিল : সাংস্কৃতায়ন",
-     "page": 6
+     "page": 6,
+     "theme_bn": "সংস্কৃতি/ধর্ম",
+     "target_bn": "ছদ্ম-ধর্মনিরপেক্ষতা ও 'জিহাদি মোল্লাতন্ত্র'",
+     "claim_bn": "ছদ্ম-ধর্মনিরপেক্ষতা ও জিহাদি মোল্লাতন্ত্র বাংলার সাংস্কৃতিক জাগরণকে দমিয়ে রেখেছিল।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "Mamata Banerjee / TMC",
      "claim": "The TMC leader ruined herself and the state by her own actions.",
      "heading": "স্বখাত সলিলে ডুবেছেন তৃণমূলনেত্রী, ডুবিয়েছেন রাজ্যটিকেও",
-     "page": 11
+     "page": 11,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "মমতা বন্দ্যোপাধ্যায় / তৃণমূল",
+     "claim_bn": "তৃণমূল নেত্রী নিজের কাজের দ্বারাই নিজের ও রাজ্যের সর্বনাশ করেছেন।"
     },
     {
      "theme": "West Bengal elections",
      "target": "New BJP state government under Suvendu Adhikari (praised)",
      "claim": "Suvendu Adhikari's swearing-in as Chief Minister marks the beginning of good governance, law and order, investment and civic services in West Bengal; the next issue will discuss the government's plans.",
      "heading": "পশ্চিমবঙ্গে সুশাসনের সূত্রপাত",
-     "page": 4
+     "page": 4,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "শুভেন্দু অধিকারীর নেতৃত্বাধীন বিজেপির নতুন রাজ্য সরকার (প্রশংসা)",
+     "claim_bn": "মুখ্যমন্ত্রী হিসেবে শুভেন্দু অধিকারীর শপথগ্রহণ পশ্চিমবঙ্গে সুশাসন, আইনশৃঙ্খলা, বিনিয়োগ ও নাগরিক পরিষেবার সূচনা চিহ্নিত করছে; পরবর্তী সংখ্যায় সরকারের পরিকল্পনা নিয়ে আলোচনা করা হবে।"
     },
     {
      "theme": "West Bengal elections",
      "target": "Bengal politics / voters",
      "claim": "Bengal's mood has changed and healthy politics should return to the state.",
      "heading": "মন বদলালো পশ্চিমবঙ্গ : বঙ্গ রাজনীতিতে ফিরে আসুক সুস্থ পরিবেশ?",
-     "page": 13
+     "page": 13,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "বাংলার রাজনীতি / ভোটার",
+     "claim_bn": "বাংলার মেজাজ বদলে গেছে এবং রাজ্যে সুস্থ রাজনীতি ফিরে আসা উচিত।"
     },
     {
      "theme": "West Bengal elections",
      "target": "West Bengal government (praised)",
      "claim": "The West Bengal government continues to take and implement significant decisions.",
      "heading": "উল্লেখযোগ্য সিদ্ধান্ত গ্রহণ ও বাস্তবায়ন অব্যাহত রেখেছে পশ্চিমবঙ্গ সরকার",
-     "page": 23
+     "page": 23,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "পশ্চিমবঙ্গ সরকার (প্রশংসিত)",
+     "claim_bn": "পশ্চিমবঙ্গ সরকার উল্লেখযোগ্য সিদ্ধান্ত নিয়ে চলেছে এবং সেগুলি কার্যকর করছে।"
     },
     {
      "theme": "nationalism/army/Pakistan",
      "target": "Pakistan",
      "claim": "Savarkar's stance on Akhand Bharat and opposition to Pakistan is held up as the model.",
      "heading": "অখণ্ড ভারতের অস্তিত্ব এবং পাকিস্তান বিরোধিতা প্রসঙ্গে বীর সাভারকর",
-     "page": 15
+     "page": 15,
+     "theme_bn": "জাতীয়তাবাদ/সেনা/পাকিস্তান",
+     "target_bn": "পাকিস্তান",
+     "claim_bn": "সাভারকরের অখণ্ড ভারত ও পাকিস্তান-বিরোধী অবস্থানকে আদর্শ হিসেবে তুলে ধরা হয়েছে।"
     },
     {
      "theme": "Modi govt achievements",
      "target": "Modi government (praised)",
      "claim": "The Indian government is meeting the challenges of the international economic crisis, and India-Italy ties in the Mediterranean are important.",
      "heading": "আন্তর্জাতিক অর্থনৈতিক সংকটের চ্যালেঞ্জ মোকাবিলায় অবতীর্ণ হয়েছে ভারত সরকার",
-     "page": 9
+     "page": 9,
+     "theme_bn": "মোদী সরকারের কৃতিত্ব",
+     "target_bn": "মোদী সরকার (প্রশংসিত)",
+     "claim_bn": "ভারত সরকার আন্তর্জাতিক অর্থনৈতিক সংকটের চ্যালেঞ্জ মোকাবিলা করছে, এবং ভূমধ্যসাগর অঞ্চলে ভারত-ইতালি সম্পর্ক গুরুত্বপূর্ণ।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Communists",
      "claim": "A feature on the 'Communist character' of India and a piece recalling 'Operation Sunshine' in the night, addressed to 'Comrade', target the Left.",
      "heading": "ভারতের কমিউনিস্ট চরিত্র / রাতের অন্ধকারে “অপারেশন সানশাইন”, মনে আছে তো কমরেড",
-     "page": 47
+     "page": 47,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "কমিউনিস্টরা",
+     "claim_bn": "ভারতের 'কমিউনিস্ট চরিত্র' নিয়ে একটি প্রতিবেদন এবং 'কমরেড'-কে সম্বোধন করে রাতের 'অপারেশন সানশাইন' স্মরণ করা একটি লেখা বামপন্থীদের লক্ষ্য করে লেখা।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "Hindu society",
      "claim": "Hindutva is presented as uniting Hindu society beyond caste; RSS says Bharat is a Hindu Rashtra and its centenary journey survived three bans.",
      "heading": "বীর বিনায়ক দামোদর সাভারকর হিন্দু জাতীয়তার প্রখর প্রবক্তা",
-     "page": 35
+     "page": 35,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "হিন্দু সমাজ",
+     "claim_bn": "হিন্দুত্বকে জাতপাতের ঊর্ধ্বে হিন্দু সমাজকে ঐক্যবদ্ধ করার শক্তি হিসেবে তুলে ধরা হয়েছে; আরএসএস বলছে ভারত হিন্দু রাষ্ট্র এবং তার শতবর্ষের যাত্রা তিনটি নিষেধাজ্ঞা পেরিয়ে এসেছে।"
     }
-   ]
+   ],
+   "label_bn": "",
+   "summary_bn": "১ জুনের সংখ্যায় প্রাধান্য পেয়েছে সাভারকর বিশেষ আয়োজন (প্রচ্ছদ, সম্পাদকীয় ও একাধিক নিবন্ধ), যেখানে কংগ্রেস ও কমিউনিস্টদের সমালোচনার বিরুদ্ধে তাঁর পক্ষ নেওয়া হয়েছে এবং তাঁকে হিন্দুত্ব ও জাতীয়তাবাদের পথিকৃৎ হিসেবে তুলে ধরা হয়েছে। পশ্চিমবঙ্গে শুভেন্দু অধিকারীর নেতৃত্বাধীন নতুন বিজেপি রাজ্য সরকারকে সুশাসনের সূচনা বলে অভিনন্দন জানানো হয়েছে; অন্যদিকে মমতা বন্দ্যোপাধ্যায় ও তৃণমূলকে রাজ্যের সর্বনাশের জন্য আক্রমণ করা হয়েছে এবং ছদ্ম-ধর্মনিরপেক্ষতা ও 'জিহাদি মোল্লাতন্ত্র'কে বাংলার সাংস্কৃতিক জাগরণ দমনের জন্য দায়ী করা হয়েছে। সংখ্যাটিতে বিদেশনীতি ও অর্থনৈতিক ব্যবস্থাপনা নিয়ে মোদী-প্রশংসামূলক লেখা এবং আইএনএ-র বিচার ও ভারতের 'কমিউনিস্ট চরিত্র' নিয়ে ঐতিহাসিক নিবন্ধ রয়েছে। সাংগঠনিক পাতায় আরএসএসের শতবর্ষ উপলক্ষে প্রশিক্ষণ শিবির, এবিভিপি-ঘনিষ্ঠ একটি শিক্ষক সংগঠনের সভা এবং সঙ্ঘ-সংশ্লিষ্ট সেবা ও সাংস্কৃতিক অনুষ্ঠানের খবর দেওয়া হয়েছে।"
   },
   {
    "issue": "20260525",
@@ -4703,7 +6940,13 @@ window.HINDUTVA = {
      "where": "Kolkata, West Bengal",
      "when": "November 2011 (as recalled)",
      "page": 43,
-     "detail": "Then Sarsanghchalak Sudarshanji and Mohan Bhagwat held a discussion meeting with monks and heads of ashrams and maths; recalled by Swami Muktananda as a warning about a coming change of rule."
+     "detail": "Then Sarsanghchalak Sudarshanji and Mohan Bhagwat held a discussion meeting with monks and heads of ashrams and maths; recalled by Swami Muktananda as a warning about a coming change of rule.",
+     "title_bn": "কেশব ভবনে, কলকাতায় সঙ্ঘ নেতা ও সাধুসন্তদের বৈঠক (স্মৃতিচারণ)",
+     "org_bn": "আরএসএস",
+     "type_bn": "সম্মেলন",
+     "where_bn": "কলকাতা, পশ্চিমবঙ্গ",
+     "when_bn": "নভেম্বর ২০১১ (স্মৃতি থেকে)",
+     "detail_bn": "তৎকালীন সরসঙ্ঘচালক সুদর্শনজি ও মোহন ভাগবত সন্ন্যাসী এবং আশ্রম ও মঠের প্রধানদের নিয়ে একটি আলোচনা সভা করেছিলেন; স্বামী মুক্তানন্দ এটিকে আসন্ন শাসনবদলের সতর্কবার্তা হিসেবে স্মরণ করেছেন।"
     },
     {
      "title": "Pune Sangh Shiksha Varg and bell-ringing satyagraha (historical account)",
@@ -4712,7 +6955,13 @@ window.HINDUTVA = {
      "where": "Pune, Maharashtra",
      "when": "25 April 1939; 13 May",
      "page": 50,
-     "detail": "Historical anecdote in which Dr Hedgewar, while the Sangh training camp ran in Pune, joined a satyagraha against a ban on temple bell music near a mosque and was briefly arrested."
+     "detail": "Historical anecdote in which Dr Hedgewar, while the Sangh training camp ran in Pune, joined a satyagraha against a ban on temple bell music near a mosque and was briefly arrested.",
+     "title_bn": "পুনে সংঘ শিক্ষা বর্গ ও ঘণ্টা বাজানো সত্যাগ্রহ (ঐতিহাসিক বিবরণ)",
+     "org_bn": "আরএসএস",
+     "type_bn": "শাখা/প্রশিক্ষণ শিবির",
+     "where_bn": "পুনে, মহারাষ্ট্র",
+     "when_bn": "২৫ এপ্রিল ১৯৩৯; ১৩ মে",
+     "detail_bn": "একটি ঐতিহাসিক উপাখ্যান, যেখানে পুনেতে সংঘের প্রশিক্ষণ শিবির চলাকালীন ডা. হেডগেওয়ার মসজিদের কাছে মন্দিরের ঘণ্টাধ্বনি নিষিদ্ধ করার বিরুদ্ধে সত্যাগ্রহে যোগ দেন এবং অল্প সময়ের জন্য গ্রেপ্তার হন।"
     },
     {
      "title": "Muslim Rashtriya Manch launch (historical, 2002)",
@@ -4721,7 +6970,13 @@ window.HINDUTVA = {
      "where": "Delhi",
      "when": "24 December 2002",
      "page": 46,
-     "detail": "Mentioned in the Sudarshanji article as launched in his presence to bring Muslims into the national mainstream."
+     "detail": "Mentioned in the Sudarshanji article as launched in his presence to bring Muslims into the national mainstream.",
+     "title_bn": "মুসলিম রাষ্ট্রীয় মঞ্চের সূচনা (ঐতিহাসিক, ২০০২)",
+     "org_bn": "আরএসএস",
+     "type_bn": "অন্যান্য",
+     "where_bn": "দিল্লি",
+     "when_bn": "২৪ ডিসেম্বর ২০০২",
+     "detail_bn": "সুদর্শনজিকে নিয়ে লেখায় উল্লিখিত যে মুসলমানদের জাতীয় মূলস্রোতে আনতে তাঁর উপস্থিতিতে এটি শুরু হয়েছিল।"
     },
     {
      "title": "Swearing-in ceremony of Suvendu Adhikari as Chief Minister",
@@ -4730,7 +6985,13 @@ window.HINDUTVA = {
      "where": "West Bengal",
      "when": "",
      "page": 15,
-     "detail": "Contents-page article calls the oath-taking a historic event; article page itself is not in the digest."
+     "detail": "Contents-page article calls the oath-taking a historic event; article page itself is not in the digest.",
+     "title_bn": "শুভেন্দু অধিকারীর মুখ্যমন্ত্রী হিসেবে শপথগ্রহণ অনুষ্ঠান",
+     "org_bn": "বিজেপি",
+     "type_bn": "রাজনৈতিক প্রচার",
+     "where_bn": "পশ্চিমবঙ্গ",
+     "when_bn": "",
+     "detail_bn": "সূচিপত্রের নিবন্ধে শপথগ্রহণকে ঐতিহাসিক ঘটনা বলা হয়েছে; নিবন্ধের পৃষ্ঠাটি নিজে ডাইজেস্টে নেই।"
     },
     {
      "title": "Sangh affiliates' work in North Bengal (Seema Chetana Manch, Vanavasi Kalyan Ashram, VHP, Vidya Bharati schools)",
@@ -4739,7 +7000,13 @@ window.HINDUTVA = {
      "where": "North Bengal",
      "when": "",
      "page": 12,
-     "detail": "The article credits Sangh volunteers and affiliates with building nationalist consciousness in remote North Bengal."
+     "detail": "The article credits Sangh volunteers and affiliates with building nationalist consciousness in remote North Bengal.",
+     "title_bn": "উত্তরবঙ্গে সঙ্ঘের সহযোগী সংগঠনগুলির কাজ (সীমা চেতনা মঞ্চ, বনবাসী কল্যাণ আশ্রম, বিশ্ব হিন্দু পরিষদ, বিদ্যা ভারতী বিদ্যালয়)",
+     "org_bn": "আরএসএস",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "উত্তরবঙ্গ",
+     "when_bn": "",
+     "detail_bn": "প্রবন্ধটি উত্তরবঙ্গের প্রত্যন্ত অঞ্চলে জাতীয়তাবাদী চেতনা গড়ে তোলার কৃতিত্ব সংঘের স্বেচ্ছাসেবক ও সহযোগী সংগঠনগুলিকে দিয়েছে।"
     }
    ],
    "narratives": [
@@ -4748,86 +7015,124 @@ window.HINDUTVA = {
      "target": "BJP / Hindutva",
      "claim": "The BJP's win in this election is a victory of Hindutva.",
      "heading": "এবারের নির্বাচনে বিজেপির জয় হিন্দুত্বের জয়",
-     "page": 47
+     "page": 47,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "বিজেপি / হিন্দুত্ব",
+     "claim_bn": "এই নির্বাচনে বিজেপির জয় হিন্দুত্বের জয়।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "North Bengal Hindus / BJP",
      "claim": "North Bengal showed the way by voting as one larger Hindu community against attempts to split it into Rajbanshi, tribal and Matua groups, and so began Hindu awakening in West Bengal.",
      "heading": "উত্তরবঙ্গের পথ ধরেই পশ্চিমবঙ্গে হিন্দু জাগরণের সূচনা",
-     "page": 11
+     "page": 11,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "উত্তরবঙ্গের হিন্দুরা / বিজেপি",
+     "claim_bn": "উত্তরবঙ্গ রাজবংশী, আদিবাসী ও মতুয়া হিসেবে হিন্দুদের ভাগ করার চেষ্টার বিরুদ্ধে একটি বৃহত্তর হিন্দু সম্প্রদায় হিসেবে ভোট দিয়ে পথ দেখিয়েছে, এবং এভাবেই পশ্চিমবঙ্গে হিন্দু জাগরণের সূচনা হয়েছে।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "Mamata Banerjee government and 'jihadi' Muslims",
      "claim": "Mamata Banerjee's corrupt government survived 15 years on about 30 percent vote-bank support, including jihadi Muslims, and neglected North Bengal.",
      "heading": "উত্তরবঙ্গের পথ ধরেই পশ্চিমবঙ্গে হিন্দু জাগরণের সূচনা",
-     "page": 11
+     "page": 11,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "মমতা বন্দ্যোপাধ্যায়ের সরকার ও 'জিহাদি' মুসলিমরা",
+     "claim_bn": "মমতা বন্দ্যোপাধ্যায়ের দুর্নীতিগ্রস্ত সরকার জিহাদি মুসলিম সহ প্রায় ৩০ শতাংশ ভোটব্যাঙ্কের সমর্থনে ১৫ বছর টিকে ছিল এবং উত্তরবঙ্গকে অবহেলা করেছে।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Left Front",
      "claim": "Left rule drove industry in West Bengal to its death-throes, and making the state industry-friendly is now the new government's big challenge.",
      "heading": "বামশাসনে পশ্চিমবঙ্গে শিল্পের অন্তর্জলি : রাজ্যকে শিল্পবান্ধব করে তোলা নতুন সরকারের কাছে বড়ো চ্যালেঞ্জ",
-     "page": 13
+     "page": 13,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "বামফ্রন্ট",
+     "claim_bn": "বামপন্থী শাসন পশ্চিমবঙ্গের শিল্পকে মৃতপ্রায় করে তুলেছিল, আর রাজ্যকে শিল্পবান্ধব করে তোলাই এখন নতুন সরকারের বড় চ্যালেঞ্জ।"
     },
     {
      "theme": "infiltration/demography",
      "target": "Muslim infiltrators / Bangladesh",
      "claim": "North Bengal, like Assam, is plagued by Muslim infiltration, and Yunus's threat over the Siliguri corridor shows the national security stakes.",
      "heading": "উত্তরবঙ্গের পথ ধরেই পশ্চিমবঙ্গে হিন্দু জাগরণের সূচনা",
-     "page": 11
+     "page": 11,
+     "theme_bn": "অনুপ্রবেশ/জনবিন্যাস",
+     "target_bn": "মুসলিম অনুপ্রবেশকারী / বাংলাদেশ",
+     "claim_bn": "অসমের মতো উত্তরবঙ্গও মুসলিম অনুপ্রবেশে জর্জরিত, এবং শিলিগুড়ি করিডর নিয়ে ইউনূসের হুমকি জাতীয় নিরাপত্তার গুরুত্ব তুলে ধরে।"
     },
     {
      "theme": "Bangladesh & Hindu persecution",
      "target": "Bangladesh interim government",
      "claim": "Since August 2024 Hindus in Bangladesh have faced killing, rape, forced conversion and temple attacks, and ISKCON monk Chinmoy Prabhu is jailed on false cases and must be freed.",
      "heading": "চিন্ময় প্রভুর মুক্তি চাই",
-     "page": 20
+     "page": 20,
+     "theme_bn": "বাংলাদেশ ও হিন্দু নির্যাতন",
+     "target_bn": "বাংলাদেশের অন্তর্বর্তী সরকার",
+     "claim_bn": "২০২৪ সালের আগস্ট থেকে বাংলাদেশের হিন্দুরা হত্যা, ধর্ষণ, জোরপূর্বক ধর্মান্তরণ ও মন্দিরে হামলার শিকার হচ্ছেন, এবং ইসকনের সন্ন্যাসী চিন্ময় প্রভু মিথ্যা মামলায় জেলে আছেন, তাঁকে মুক্তি দিতে হবে।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "Muslim places of worship / TMC",
      "claim": "A reader's letter demands that mosques on government land, including the High Court premises, be removed or turned into schools and that illegal slaughterhouses be shut under the new government.",
      "heading": "সরকারি স্থানে এত মসজিদ কেন?",
-     "page": 19
+     "page": 19,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "মুসলিম উপাসনাস্থল / তৃণমূল",
+     "claim_bn": "এক পাঠকের চিঠিতে দাবি করা হয়েছে, নতুন সরকারের আমলে হাইকোর্ট চত্বর-সহ সরকারি জমিতে থাকা মসজিদ সরিয়ে দেওয়া হোক বা স্কুলে রূপান্তরিত করা হোক এবং অবৈধ কসাইখানা বন্ধ করা হোক।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "TMC-era ministers and the Chief Minister",
      "claim": "Swami Muktananda says the TMC-era rulers made Hindus fear for their lives, citing alleged threats by an MLA, a minister and the CM, and says relief has come with the change of government and Modi, Shah and Yogi.",
      "heading": "সবই ঈশ্বরের ইচ্ছে...",
-     "page": 44
+     "page": 44,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "তৃণমূল আমলের মন্ত্রীরা ও মুখ্যমন্ত্রী",
+     "claim_bn": "স্বামী মুক্তানন্দ বলেন, তৃণমূল আমলের শাসকরা হিন্দুদের প্রাণভয়ে ভীত করে রেখেছিলেন; তিনি এক বিধায়ক, এক মন্ত্রী ও মুখ্যমন্ত্রীর কথিত হুমকির উল্লেখ করেন এবং বলেন সরকার বদল এবং মোদি, শাহ ও যোগীর কারণে স্বস্তি এসেছে।"
     },
     {
      "theme": "Modi govt achievements",
      "target": "Central government",
      "claim": "The Centre improved North Bengal's rail and air links and gave it political representation, which the BJP says the TMC and Left never did.",
      "heading": "উত্তরবঙ্গের পথ ধরেই পশ্চিমবঙ্গে হিন্দু জাগরণের সূচনা",
-     "page": 11
+     "page": 11,
+     "theme_bn": "মোদী সরকারের কৃতিত্ব",
+     "target_bn": "কেন্দ্রীয় সরকার",
+     "claim_bn": "কেন্দ্র উত্তরবঙ্গের রেল ও বিমান যোগাযোগের উন্নতি করেছে এবং তাকে রাজনৈতিক প্রতিনিধিত্ব দিয়েছে, যা বিজেপির দাবি অনুযায়ী তৃণমূল ও বামপন্থীরা কখনও করেনি।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Left parties",
      "claim": "Sudarshanji's swadeshi economics is held up against the Left's claim that only it fights for workers.",
      "heading": "রাষ্ট্র পুননির্মাণে পঞ্চম সরসঙ্ঘচালক সুদর্শনজীর ভূমিকা",
-     "page": 45
+     "page": 45,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "বামপন্থী দলগুলি",
+     "claim_bn": "সুদর্শনজির স্বদেশি অর্থনীতিকে বামপন্থীদের এই দাবির বিপরীতে তুলে ধরা হয়েছে যে একমাত্র তারাই শ্রমিকদের জন্য লড়াই করে।"
     },
     {
      "theme": "culture/religion",
      "target": "Sangh Parivar",
      "claim": "The Sangh and its affiliates form a single integrated national force touching every part of society, with the shared aim of building a culturally united nation.",
      "heading": "সঙ্ঘ ও আনুষঙ্গিক সংগঠনের শক্তি",
-     "page": 19
+     "page": 19,
+     "theme_bn": "সংস্কৃতি/ধর্ম",
+     "target_bn": "সঙ্ঘ পরিবার",
+     "claim_bn": "সংঘ ও তার সহযোগী সংগঠনগুলি সমাজের প্রতিটি অংশকে স্পর্শ করা একটিমাত্র সুসংহত জাতীয় শক্তি, যার অভিন্ন লক্ষ্য সাংস্কৃতিকভাবে ঐক্যবদ্ধ একটি রাষ্ট্র গড়ে তোলা।"
     },
     {
      "theme": "history & icons",
      "target": "Rash Behari Bose",
      "claim": "Rash Behari Bose was the indomitable pioneer of India's freedom struggle, and his birthplace should get a museum and a place in textbooks.",
      "heading": "ভারতের স্বাধীনতাযুদ্ধের অক্লান্ত যোদ্ধা",
-     "page": 5
+     "page": 5,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "রাসবিহারী বসু",
+     "claim_bn": "রাসবিহারী বসু ভারতের স্বাধীনতা সংগ্রামের অদম্য পথিকৃৎ ছিলেন; তাঁর জন্মস্থানে একটি জাদুঘর এবং পাঠ্যপুস্তকে তাঁর স্থান পাওয়া উচিত।"
     }
-   ]
+   ],
+   "label_bn": "",
+   "summary_bn": "২০২৬ সালের ২৫ মে-র এই সংখ্যাটি পশ্চিমবঙ্গ বিধানসভা নির্বাচনে বিজেপির জয়কে হিন্দুত্বের জয় এবং তৃণমূল শাসনের অবসান হিসেবে উদযাপন করেছে। এতে শুভেন্দু অধিকারীর মুখ্যমন্ত্রী হিসেবে শপথগ্রহণ এবং নতুন সরকারের প্রথম দিকের সিদ্ধান্তগুলি তুলে ধরা হয়েছে। দাবি করা হয়েছে যে উত্তরবঙ্গ থেকেই হিন্দু জাগরণের সূচনা হয়েছে, আর বামফ্রন্টের ৩৪ বছরের শাসনকে শিল্পের অবনতির জন্য আক্রমণ করা হয়েছে। এছাড়া আরএসএস-এর শতবর্ষ-পর্বের সুদর্শনজি ও ডাঃ হেডগেওয়ারের জীবনীমূলক গুণকীর্তন, বিপ্লবী প্রতীকদের (রাসবিহারী বসু, সাভারকর, সাবিত্রীবাই ফুলে), বাংলাদেশে হিন্দু নির্যাতন (চিন্ময় প্রভু) এবং সরকারি জমি থেকে মসজিদ সরানোর দাবি তুলে ধরা হয়েছে।"
   },
   {
    "issue": "20260518",
@@ -4843,7 +7148,13 @@ window.HINDUTVA = {
      "where": "Kolkata, West Bengal",
      "when": "May 2026",
      "page": 3,
-     "detail": "Mass swearing-in of the state cabinet at the Brigade Parade Ground, reported as a grand ceremony."
+     "detail": "Mass swearing-in of the state cabinet at the Brigade Parade Ground, reported as a grand ceremony.",
+     "title_bn": "ব্রিগেডে বিজেপির নতুন রাজ্য মন্ত্রিসভার শপথগ্রহণ অনুষ্ঠান",
+     "org_bn": "বিজেপি",
+     "type_bn": "রাজনৈতিক প্রচার",
+     "where_bn": "কলকাতা, পশ্চিমবঙ্গ",
+     "when_bn": "২০২৬ সালের মে",
+     "detail_bn": "ব্রিগেড প্যারেড গ্রাউন্ডে রাজ্য মন্ত্রিসভার গণশপথগ্রহণ, যাকে জমকালো অনুষ্ঠান হিসেবে বর্ণনা করা হয়েছে।"
     },
     {
      "title": "Vande Mataram 150th anniversary programme",
@@ -4852,7 +7163,13 @@ window.HINDUTVA = {
      "where": "Sarada Shishutirtha, Suryasen Colony, Siliguri",
      "when": "22 March",
      "page": 39,
-     "detail": "Programme titled 'Vande Mataram at 150 years' with songs, dance and a hundred-voice chorus. Attendees included Bankim Chandra's great-grandson Joydev Chattopadhyay and Pragya Pravah's J. Nandakumar."
+     "detail": "Programme titled 'Vande Mataram at 150 years' with songs, dance and a hundred-voice chorus. Attendees included Bankim Chandra's great-grandson Joydev Chattopadhyay and Pragya Pravah's J. Nandakumar.",
+     "title_bn": "বন্দে মাতরমের ১৫০তম বার্ষিকী অনুষ্ঠান",
+     "org_bn": "অন্যান্য: সংস্কার ভারতী (উত্তরবঙ্গ), কালেজপাড়া চর্চাকেন্দ্র ও ওয়েলফেয়ার অর্গানাইজেশন",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "শারদা শিশুতীর্থ, সূর্য সেন কলোনি, শিলিগুড়ি",
+     "when_bn": "২২ মার্চ",
+     "detail_bn": "'বন্দে মাতরম ১৫০ বছরে' শীর্ষক অনুষ্ঠান, যেখানে ছিল গান, নাচ ও শতকণ্ঠের সমবেত গান। উপস্থিত ছিলেন বঙ্কিমচন্দ্রের প্রপৌত্র জয়দেব চট্টোপাধ্যায় এবং প্রজ্ঞা প্রবাহের জে. নন্দকুমার।"
     },
     {
      "title": "Dr. Hedgewar anecdote series (Galpokathay Doctorji)",
@@ -4861,7 +7178,13 @@ window.HINDUTVA = {
      "where": "Maharashtra (Kolhapur, Satara, Nashik)",
      "when": "1937 (historical)",
      "page": 50,
-     "detail": "Serialised stories of Dr. Hedgewar's 1937 tours and the sangathan ethos, part of the RSS founder-focused content."
+     "detail": "Serialised stories of Dr. Hedgewar's 1937 tours and the sangathan ethos, part of the RSS founder-focused content.",
+     "title_bn": "ডা. হেডগেওয়ারের গল্পমালা (গল্পকথায় ডাক্তারজী)",
+     "org_bn": "আরএসএস",
+     "type_bn": "শতবর্ষ",
+     "where_bn": "মহারাষ্ট্র (কোলহাপুর, সাতারা, নাসিক)",
+     "when_bn": "১৯৩৭ (ঐতিহাসিক)",
+     "detail_bn": "ডাঃ হেডগেওয়ারের ১৯৩৭ সালের সফর ও সংগঠনের ভাবধারা নিয়ে ধারাবাহিক গল্প, আরএসএস প্রতিষ্ঠাতা-কেন্দ্রিক বিষয়বস্তুর অংশ।"
     }
    ],
    "narratives": [
@@ -4870,65 +7193,94 @@ window.HINDUTVA = {
      "target": "BJP / Bengal voters (praised); TMC (attacked)",
      "claim": "The BJP win is not the party's alone but the victory of an awakened public, ending TMC's 15 years of misrule and goonda raj.",
      "heading": "সম্পাদকীয় (পশ্চিমবঙ্গে অপশাসনের অবসান ঘটিয়াছে)",
-     "page": 5
+     "page": 5,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "বিজেপি / বাংলার ভোটাররা (প্রশংসিত); তৃণমূল (আক্রান্ত)",
+     "claim_bn": "বিজেপির এই জয় শুধু দলের নয়, জাগ্রত জনতার জয়; এর মাধ্যমে তৃণমূলের ১৫ বছরের অপশাসন ও গুন্ডারাজের অবসান ঘটেছে।"
     },
     {
      "theme": "Modi govt achievements",
      "target": "New BJP state government",
      "claim": "The new cabinet's first meeting adopted Ayushman Bharat and other central schemes, applied the Bharatiya Nyaya Sanhita, gave BSF land for fencing within 45 days and raised the recruitment age limit by five years.",
      "heading": "সম্পাদকীয় (পশ্চিমবঙ্গে অপশাসনের অবসান ঘটিয়াছে)",
-     "page": 5
+     "page": 5,
+     "theme_bn": "মোদী সরকারের কৃতিত্ব",
+     "target_bn": "বিজেপির নতুন রাজ্য সরকার",
+     "claim_bn": "নতুন মন্ত্রিসভার প্রথম বৈঠকে আয়ুষ্মান ভারত ও অন্যান্য কেন্দ্রীয় প্রকল্প গ্রহণ করা হয়, ভারতীয় ন্যায় সংহিতা কার্যকর করা হয়, সীমান্তে বেড়া দেওয়ার জন্য ৪৫ দিনের মধ্যে বিএসএফকে জমি দেওয়া হয় এবং নিয়োগের বয়সসীমা পাঁচ বছর বাড়ানো হয়।"
     },
     {
      "theme": "infiltration/demography",
      "target": "TMC govt; Bangladeshi and Rohingya infiltrators",
      "claim": "Bangladeshi Muslim and Rohingya infiltrators endanger security across India, and the BJP promises zero tolerance and a UCC within six months.",
      "heading": "সম্পাদকীয় (পশ্চিমবঙ্গে অপশাসনের অবসান ঘটিয়াছে)",
-     "page": 5
+     "page": 5,
+     "theme_bn": "অনুপ্রবেশ/জনবিন্যাস",
+     "target_bn": "তৃণমূল সরকার; বাংলাদেশি ও রোহিঙ্গা অনুপ্রবেশকারী",
+     "claim_bn": "বাংলাদেশি মুসলিম ও রোহিঙ্গা অনুপ্রবেশকারীরা সারা ভারতের নিরাপত্তা বিপন্ন করছে; বিজেপি শূন্য সহনশীলতা এবং ছয় মাসের মধ্যে অভিন্ন দেওয়ানি বিধির প্রতিশ্রুতি দিয়েছে।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Left Front and left-wing intellectuals",
      "claim": "Over five to six decades the Left's politics of conflict and distribution, rather than creation, wasted Bengal's potential, and Bengalis must beware of 'intellectuals' who served foreign ideology.",
      "heading": "আগামী পঞ্চাশ বছর হোক বাঙ্গালির নয়া অভ্যুদয়-যুগ",
-     "page": 13
+     "page": 13,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "বামফ্রন্ট ও বামপন্থী বুদ্ধিজীবীরা",
+     "claim_bn": "পাঁচ-ছয় দশক ধরে বামপন্থীদের সংঘাত ও বণ্টনের রাজনীতি, সৃষ্টির নয়, বাংলার সম্ভাবনা নষ্ট করেছে, এবং বিদেশি মতাদর্শের সেবা করা 'বুদ্ধিজীবী'দের থেকে বাঙালিদের সতর্ক থাকতে হবে।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "Mamata Banerjee and Abhishek Banerjee ('pishi-bhaipo')",
      "claim": "Fifteen years of TMC rule left Bengal bankrupt, with cultural decay, violence and fear, and the voters answered with a 'tsunami' (BJP 45.84% vs TMC 40.80%).",
      "heading": "ভোট : ২০২৬ (ভেঙ্গেছে দুয়ার এসেছো জ্যোতির্ময় তোমারই হউক জয়)",
-     "page": 18
+     "page": 18,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "মমতা বন্দ্যোপাধ্যায় ও অভিষেক বন্দ্যোপাধ্যায় ('পিসি-ভাইপো')",
+     "claim_bn": "তৃণমূলের পনেরো বছরের শাসনে বাংলা দেউলিয়া হয়ে গেছে, সঙ্গে সাংস্কৃতিক অবক্ষয়, সহিংসতা ও ভয়ের পরিবেশ; ভোটাররা 'সুনামি'র মাধ্যমে জবাব দিয়েছেন (বিজেপি ৪৫.৮৪% বনাম তৃণমূল ৪০.৮০%)।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "Bengali Hindus",
      "claim": "Hindutva has been reborn in Bengal after 823 years and this Hindu awakening cannot be put back to sleep.",
      "heading": "ভোট : ২০২৬ (ভেঙ্গেছে দুয়ার এসেছো জ্যোতির্ময় তোমারই হউক জয়)",
-     "page": 18
+     "page": 18,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "বাঙালি হিন্দু",
+     "claim_bn": "৮২৩ বছর পর বাংলায় হিন্দুত্বের পুনর্জন্ম হয়েছে, এবং এই হিন্দু জাগরণকে আর ঘুম পাড়ানো যাবে না।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Kerala LDF / Left cadres",
      "claim": "Left cadres killed about 52 swayamsevaks and BJP workers in Kerala in ten years, and after Bengal's win Kerala will be next for a nationalist government.",
      "heading": "আজ পশ্চিমবঙ্গ জিতেছে, আগামীতে কেরলম জিতবে",
-     "page": 20
+     "page": 20,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "কেরলের এলডিএফ / বামপন্থী ক্যাডাররা",
+     "claim_bn": "কেরলে দশ বছরে বামপন্থী ক্যাডাররা প্রায় ৫২ জন স্বয়ংসেবক ও বিজেপি কর্মীকে হত্যা করেছে, এবং বাংলায় জয়ের পর এবার কেরলে জাতীয়তাবাদী সরকার গঠনের পালা।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "CPIM",
      "claim": "CPIM is trying to revive itself by courting Muslim votes after the election.",
      "heading": "মুসলমান ভোটে প্রাণ স্পন্দন শুরু হয়েছে সিপিএমের",
-     "page": 3
+     "page": 3,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "সিপিআই(এম)",
+     "claim_bn": "নির্বাচনের পর সিপিআই(এম) মুসলিম ভোট টানার চেষ্টা করে নিজেদের পুনরুজ্জীবিত করার চেষ্টা চালাচ্ছে।"
     },
     {
      "theme": "history & icons",
      "target": "Bankim Chandra, Dr. Hedgewar, Vande Mataram",
      "claim": "Vande Mataram was the mantra of the revolutionaries and Bengal was the cradle of nationalism from which Hedgewar gathered the foundations of the RSS.",
      "heading": "বন্দে মাতরমের সার্ধশতবর্ষ",
-     "page": 39
+     "page": 39,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "বঙ্কিমচন্দ্র, ডাঃ হেডগেওয়ার, বন্দে মাতরম",
+     "claim_bn": "বন্দে মাতরম ছিল বিপ্লবীদের মন্ত্র এবং বাংলা ছিল জাতীয়তাবাদের দোলনা, যেখান থেকে হেডগেওয়ার আরএসএসের ভিত্তি সংগ্রহ করেছিলেন।"
     }
-   ]
+   ],
+   "label_bn": "",
+   "summary_bn": "নির্বাচন-পরবর্তী এই সংখ্যায় ২০২৬ সালের পশ্চিমবঙ্গ বিধানসভা নির্বাচনে বিজেপির জয় (২০৭টি আসন) এবং শুভেন্দু অধিকারীর মুখ্যমন্ত্রী হিসেবে শপথগ্রহণ উদ্‌যাপন করা হয়েছে এবং একে ১৫ বছরের তৃণমূলি কুশাসন ও ৩৪ বছরের বামপন্থী শাসনের অবসান হিসেবে তুলে ধরা হয়েছে। নতুন সরকারের প্রথম মন্ত্রিসভার সিদ্ধান্তগুলি (কেন্দ্রীয় প্রকল্প, বিএনএস, সীমান্তে কাঁটাতার দেওয়ার জমি, অভিন্ন দেওয়ানি বিধির প্রতিশ্রুতি) তালিকাভুক্ত করা হয়েছে এবং বিজেপির পরিচয়ে তৃণমূলের 'গুন্ডাদের' ঢুকে পড়া নিয়ে সতর্ক করা হয়েছে। বিভিন্ন লেখায় ফলাফলকে হিন্দু জাগরণ ও সাংস্কৃতিক পরিবর্তন হিসেবে চিত্রিত করা হয়েছে, কেরলকে পরবর্তী লক্ষ্য হিসেবে তুলে ধরা হয়েছে এবং দাবি করা হয়েছে যে সিপিআই(এম) মুসলিম ভোটের মাধ্যমে নিজেদের পুনরুজ্জীবিত করার চেষ্টা করছে। বন্দেমাতরমের ১৫০ বছর ও ডাঃ হেডগেওয়ারের নানা ঘটনার মতো সাংস্কৃতিক ও শতবর্ষ-ধর্মী লেখাও রয়েছে।"
   },
   {
    "issue": "20260511",
@@ -4944,7 +7296,13 @@ window.HINDUTVA = {
      "where": "Gadkhali village, South 24 Parganas, West Bengal",
      "when": "3-4 April 2026",
      "page": 29,
-     "detail": "Villagers organised Gau Mata and Bharat Mata worship, a kalash procession, and the annual programme of the Gadkhali Swamiji Shakha, with 52 swayamsevaks in full uniform doing physical and intellectual sessions. On 4 April 151 girls from 44 villages were worshipped in a Mahabharata-style 'vyuha' pandal, 400 Gitas were distributed, and about 3,500 people attended, with RSS Purba Kshetra and Hindu Jagaran Manch office-bearers present."
+     "detail": "Villagers organised Gau Mata and Bharat Mata worship, a kalash procession, and the annual programme of the Gadkhali Swamiji Shakha, with 52 swayamsevaks in full uniform doing physical and intellectual sessions. On 4 April 151 girls from 44 villages were worshipped in a Mahabharata-style 'vyuha' pandal, 400 Gitas were distributed, and about 3,500 people attended, with RSS Purba Kshetra and Hindu Jagaran Manch office-bearers present.",
+     "title_bn": "শাখার বার্ষিক অনুষ্ঠানসহ গোমাতা, ভারতমাতা ও কন্যাপূজন",
+     "org_bn": "আরএসএস",
+     "type_bn": "শাখা/প্রশিক্ষণ শিবির",
+     "where_bn": "গাদখালি গ্রাম, দক্ষিণ ২৪ পরগনা, পশ্চিমবঙ্গ",
+     "when_bn": "৩–৪ এপ্রিল ২০২৬",
+     "detail_bn": "গ্রামবাসীরা গৌমাতা ও ভারতমাতার পূজা, কলস শোভাযাত্রা এবং গাড়খালি স্বামীজি শাখার বার্ষিক অনুষ্ঠানের আয়োজন করেন, যেখানে ৫২ জন স্বয়ংসেবক পূর্ণ गणবেশে শারীরিক ও বৌদ্ধিক অধিবেশনে অংশ নেন। ৪ এপ্রিল মহাভারতের ধাঁচে 'ব্যূহ' প্যান্ডেলে ৪৪টি গ্রামের ১৫১ জন কন্যাকে পূজা করা হয়, ৪০০টি গীতা বিতরণ করা হয় এবং প্রায় ৩,৫০০ মানুষ উপস্থিত ছিলেন; আরএসএস পূর্ব ক্ষেত্র ও হিন্দু জাগরণ মঞ্চের पদাধিকারীরাও উপস্থিত ছিলেন।"
     },
     {
      "title": "Alleged attack on RSS swayamsevaks in Behala",
@@ -4953,7 +7311,13 @@ window.HINDUTVA = {
      "where": "Behala (Rabindranagar/Parnashree area), Kolkata",
      "when": "29 April 2026, night after phase-2 polling",
      "page": 19,
-     "detail": "Letters report that two swayamsevaks were beaten by TMC-linked miscreants after the second phase of voting, and that the RSS demanded punishment of the culprits. The letters say police detained the swayamsevaks, protests spread, and the incident was framed as an attack on nationalist ideology."
+     "detail": "Letters report that two swayamsevaks were beaten by TMC-linked miscreants after the second phase of voting, and that the RSS demanded punishment of the culprits. The letters say police detained the swayamsevaks, protests spread, and the incident was framed as an attack on nationalist ideology.",
+     "title_bn": "বেহালায় আরএসএস স্বয়ংসেবকদের উপর হামলার অভিযোগ",
+     "org_bn": "আরএসএস",
+     "type_bn": "অন্যান্য",
+     "where_bn": "বেহালা (রবীন্দ্রনগর/পর্ণশ্রী এলাকা), কলকাতা",
+     "when_bn": "২৯ এপ্রিল ২০২৬, দ্বিতীয় দফার ভোটের পরের রাত",
+     "detail_bn": "চিঠিগুলিতে জানানো হয়েছে, দ্বিতীয় দফার ভোটের পর তৃণমূলের সঙ্গে যুক্ত দুষ্কৃতীদের হাতে দুই স্বয়ংসেবক মার খেয়েছেন এবং আরএসএস দোষীদের শাস্তি দাবি করেছে। চিঠিগুলিতে বলা হয়েছে, পুলিশ স্বয়ংসেবকদের আটক করেছে, বিক্ষোভ ছড়িয়ে পড়েছে এবং ঘটনাটিকে জাতীয়তাবাদী আদর্শের উপর আক্রমণ হিসেবে তুলে ধরা হয়েছে।"
     },
     {
      "title": "Voter awareness / door-to-door 'jan-jagaran' by nationalist workers ahead of the election",
@@ -4962,7 +7326,13 @@ window.HINDUTVA = {
      "where": "West Bengal (towns, villages, neighbourhoods)",
      "when": "'for several months' before the 2026 poll",
      "page": 5,
-     "detail": "The editorial thanks nationalist, social-service-minded people who went door to door for months to awaken voters about the state's 'anarchy'."
+     "detail": "The editorial thanks nationalist, social-service-minded people who went door to door for months to awaken voters about the state's 'anarchy'.",
+     "title_bn": "নির্বাচনের আগে জাতীয়তাবাদী কর্মীদের ভোটার সচেতনতা / বাড়ি বাড়ি 'জনজাগরণ'",
+     "org_bn": "অন্যান্য: সঙ্ঘ-অনুপ্রাণিত জাতীয়তাবাদী স্বেচ্ছাসেবকরা (নামহীন)",
+     "type_bn": "রাজনৈতিক প্রচার",
+     "where_bn": "পশ্চিমবঙ্গ (শহর, গ্রাম, পাড়া)",
+     "when_bn": "২০২৬ সালের নির্বাচনের আগে 'কয়েক মাস ধরে'",
+     "detail_bn": "সম্পাদকীয়তে রাজ্যের 'অরাজকতা' সম্পর্কে ভোটারদের সচেতন করতে মাসের পর মাস বাড়ি বাড়ি ঘুরে প্রচার চালানো জাতীয়তাবাদী, সমাজসেবী মনোভাবাপন্ন মানুষদের ধন্যবাদ জানানো হয়েছে।"
     },
     {
      "title": "Swastika annual-subscriber registered-post and lifetime/10-year membership drive",
@@ -4971,7 +7341,13 @@ window.HINDUTVA = {
      "where": "Kolkata",
      "when": "",
      "page": 4,
-     "detail": "The paper announces registered-post delivery for annual subscribers and lifetime (Rs 25,000) and 10-year (Rs 10,000) memberships."
+     "detail": "The paper announces registered-post delivery for annual subscribers and lifetime (Rs 25,000) and 10-year (Rs 10,000) memberships.",
+     "title_bn": "স্বস্তিকার বার্ষিক গ্রাহকদের রেজিস্টার্ড ডাকে পাঠানো এবং আজীবন/১০ বছরের সদস্যপদ অভিযান",
+     "org_bn": "অন্যান্য: স্বস্তিকা সাপ্তাহিক (শুভস্বস্তিকা প্রিন্টস ফাউন্ডেশন)",
+     "type_bn": "অন্যান্য",
+     "where_bn": "কলকাতা",
+     "when_bn": "",
+     "detail_bn": "পত্রিকা বার্ষিক গ্রাহকদের জন্য রেজিস্ট্রি ডাকে বিতরণের এবং আজীবন (২৫,০০০ টাকা) ও ১০ বছরের (১০,০০০ টাকা) সদস্যপদের কথা ঘোষণা করেছে।"
     }
    ],
    "narratives": [
@@ -4980,86 +7356,124 @@ window.HINDUTVA = {
      "target": "BJP / West Bengal voters (praised); TMC and CPI(M) (attacked)",
      "claim": "The BJP's 2026 win is the people's victory and Bengal's 'second independence', ending 34 years of Left misrule and 15 years of TMC anarchy.",
      "heading": "অপশাসনের অবসান",
-     "page": 5
+     "page": 5,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "বিজেপি / পশ্চিমবঙ্গের ভোটাররা (প্রশংসিত); তৃণমূল ও সিপিআই(এম) (আক্রান্ত)",
+     "claim_bn": "বিজেপির ২০২৬-এর জয় জনগণের জয় এবং বাংলার 'দ্বিতীয় স্বাধীনতা', যা বামপন্থীদের ৩৪ বছরের অপশাসন ও তৃণমূলের ১৫ বছরের নৈরাজ্যের অবসান ঘটিয়েছে।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "CPI(M)/Left Front",
      "claim": "The Left's 34-year rule was bloody, citing Marichjhapi, Bijon Setu, Sainbari, Nanur, Nandigram and Netai, and it ruined education, culture, industry and agriculture and left a generation with an anti-India mindset.",
      "heading": "অপশাসনের অবসান",
-     "page": 5
+     "page": 5,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "সিপিআই(এম)/বামফ্রন্ট",
+     "claim_bn": "বামপন্থীদের ৩৪ বছরের শাসন রক্তাক্ত ছিল বলে মরিচঝাঁপি, বিজন সেতু, সাঁইবাড়ি, নানুর, নন্দীগ্রাম ও নেতাইয়ের উল্লেখ করা হয়েছে; তারা শিক্ষা, সংস্কৃতি, শিল্প ও কৃষি ধ্বংস করেছে এবং একটি প্রজন্মকে ভারতবিরোধী মানসিকতা নিয়ে বড় হতে বাধ্য করেছে।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Marxism/Communism and the Left worldwide",
      "claim": "May Day propaganda hides the brutality of Marxism, shown by the Soviet Gulag labour camps. The Left is accused of crocodile tears for workers.",
      "heading": "'মে দিবস'-এর প্রোপাগান্ডা মার্ক্সবাদের নৃশংস স্বরূপ ঢাকতে চায়",
-     "page": 43
+     "page": 43,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "মার্কসবাদ/কমিউনিজম ও বিশ্বজুড়ে বামপন্থীরা",
+     "claim_bn": "মে দিবসের প্রচার মার্কসবাদের নির্মমতা আড়াল করে, যার প্রমাণ সোভিয়েত গুলাগ শ্রমশিবির। বামপন্থীদের বিরুদ্ধে শ্রমিকদের জন্য কুমিরের কান্নার অভিযোগ আনা হয়েছে।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "Bengali Hindus / TMC",
      "claim": "The poll was a 'dharmayuddha' in which the 70% Hindus voted together for the first time, the fruit of 85 years of RSS and affiliate work, ending Muslim vote-bank politics. It names 'Batenge toh katenge' and 'Rahenge toh safe rahenge' as the slogans behind it.",
      "heading": "(Article on Hindutva awakening and the election result, p.12; title not in the OCR digest, the contents page lists 'রাজ্যের বিধানসভা নির্বাচনে জেহাদি শক্তির রমরমা ঘুচে গেল')",
-     "page": 8
+     "page": 8,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "বাঙালি হিন্দু / তৃণমূল",
+     "claim_bn": "নির্বাচনটি ছিল এক 'ধর্মযুদ্ধ', যেখানে ৭০ শতাংশ হিন্দু প্রথমবার একসঙ্গে ভোট দিয়েছেন। এটি আরএসএস ও তার সহযোগী সংগঠনগুলির ৮৫ বছরের কাজের ফল এবং এর ফলে মুসলিম ভোটব্যাংকের রাজনীতির অবসান ঘটেছে। এর পিছনে কাজ করা স্লোগান হিসেবে 'বাটেঙ্গে তো কাটেঙ্গে' ও 'রহেঙ্গে তো সেফ রহেঙ্গে'-র উল্লেখ করা হয়েছে।"
     },
     {
      "theme": "infiltration/demography",
      "target": "TMC and Mamata Banerjee",
      "claim": "TMC gave Bangladeshi Muslim and Rohingya infiltrators documents and benefits, and was turning Bengal into 'West Bangladesh', which voters rejected.",
      "heading": "অপশাসনের অবসান",
-     "page": 5
+     "page": 5,
+     "theme_bn": "অনুপ্রবেশ/জনবিন্যাস",
+     "target_bn": "তৃণমূল ও মমতা বন্দ্যোপাধ্যায়",
+     "claim_bn": "তৃণমূল বাংলাদেশি মুসলমান ও রোহিঙ্গা অনুপ্রবেশকারীদের নথিপত্র ও সুবিধা দিয়েছে এবং বাংলাকে 'পশ্চিম বাংলাদেশ'-এ পরিণত করছিল, যা ভোটাররা প্রত্যাখ্যান করেছেন।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "TMC government",
      "claim": "The TMC is accused of favouring Muslims through imam and muezzin allowances and Muslim-only scholarships, of inciting a Babri Masjid construction, of the Sandeshkhali, Kamduni and RG Kar failures, and of calling Kolkata 'mini Pakistan'. The result is presented as a protest against all of this.",
      "heading": "(Article on Hindutva awakening and the election result)",
-     "page": 12
+     "page": 12,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "তৃণমূল সরকার",
+     "claim_bn": "তৃণমূলের বিরুদ্ধে অভিযোগ: ইমাম ও মুয়াজ্জিনদের ভাতা এবং শুধু মুসলিমদের জন্য বৃত্তির মাধ্যমে মুসলিমদের প্রতি পক্ষপাত, বাবরি মসজিদ নির্মাণে উসকানি, সন্দেশখালি, কামদুনি ও আরজি কর-এর ব্যর্থতা, এবং কলকাতাকে 'মিনি পাকিস্তান' বলা। ফলাফলকে এই সবকিছুর বিরুদ্ধে প্রতিবাদ হিসেবে উপস্থাপন করা হয়েছে।"
     },
     {
      "theme": "West Bengal elections",
      "target": "Election Commission / SIR / Chief Election Commissioner Gyanesh Kumar",
      "claim": "A peaceful, record-turnout poll after the SIR removed about 90.6 lakh names produced the 'saffron storm'.",
      "heading": "ম্যান অফ দ্য সিরিজ নির্বাচন কমিশন: অবাধ ও নিরপেক্ষ নির্বাচন হতেই পশ্চিমবঙ্গে গেরুয়া ঝড়",
-     "page": 13
+     "page": 13,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "নির্বাচন কমিশন / এসআইআর / মুখ্য নির্বাচন কমিশনার জ্ঞানেশ কুমার",
+     "claim_bn": "এসআইআর-এ প্রায় ৯০.৬ লক্ষ নাম বাদ যাওয়ার পর শান্তিপূর্ণ ও রেকর্ড ভোটদানের নির্বাচন 'গেরুয়া ঝড়' তৈরি করেছে।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Congress, CPI(M) and TMC",
      "claim": "Congress's Emergency-era terror, 35 years of Communist rule and 15 years of TMC rule made 50 years of darkness. The BJP win is 'liberation', and the new government should make Bengal first in education again, as under Syama Prasad Mukherjee.",
      "heading": "তমসো মা জ্যোতির্গময়",
-     "page": 15
+     "page": 15,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "কংগ্রেস, সিপিআই(এম) ও তৃণমূল",
+     "claim_bn": "কংগ্রেসের জরুরি অবস্থার আতঙ্ক, ৩৫ বছরের কমিউনিস্ট শাসন ও ১৫ বছরের তৃণমূল শাসন মিলে ৫০ বছরের অন্ধকার তৈরি করেছে। বিজেপির জয় 'মুক্তি', আর নতুন সরকারের উচিত শ্যামাপ্রসাদ মুখোপাধ্যায়ের আমলের মতো বাংলাকে আবার শিক্ষায় প্রথম স্থানে নিয়ে যাওয়া।"
     },
     {
      "theme": "history & icons",
      "target": "Syama Prasad Mukherjee / RSS-Jana Sangh lineage",
      "claim": "The result fulfils Swami Pranavananda's blessing to Syama Prasad Mukherjee. It is presented as the return of Hindu rule in Bengal after 820 years and a tribute to Hindu martyrs from Bengal, including a swayamsevak killed in 1984.",
      "heading": "(Article on Hindutva awakening and the election result)",
-     "page": 12
+     "page": 12,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "শ্যামাপ্রসাদ মুখোপাধ্যায় / আরএসএস-জনসঙ্ঘ ধারা",
+     "claim_bn": "নির্বাচনের ফল স্বামী প্রণবানন্দের শ্যামাপ্রসাদ মুখোপাধ্যায়কে দেওয়া আশীর্বাদের পূর্ণতা। এটিকে ৮২০ বছর পরে বাংলায় হিন্দু শাসনের প্রত্যাবর্তন এবং ১৯৮৪ সালে নিহত এক স্বয়ংসেবক-সহ বাংলার হিন্দু শহিদদের প্রতি শ্রদ্ধার্ঘ্য হিসেবে তুলে ধরা হয়েছে।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "TMC and its alleged violence against nationalists",
      "claim": "TMC-sheltered miscreants attacked RSS swayamsevaks in Behala, which the letters call a sign of the ruling party's panic ahead of political change.",
      "heading": "শাসকদলের হামলা : ভয়, হতাশা নাকি পরিবর্তনের আগাম সংকেত / বেহালায় স্বয়ংসেবকদের উপর আক্রমণ রাজ্যের শাসক দলের নতুন নাটক",
-     "page": 19
+     "page": 19,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "তৃণমূল ও জাতীয়তাবাদীদের বিরুদ্ধে তাদের কথিত হিংসা",
+     "claim_bn": "তৃণমূলের আশ্রিত দুষ্কৃতীরা বেহালায় আরএসএস স্বয়ংসেবকদের উপর হামলা চালিয়েছে, যাকে চিঠিগুলিতে রাজনৈতিক পরিবর্তনের আগে শাসক দলের আতঙ্কের লক্ষণ বলা হয়েছে।"
     },
     {
      "theme": "history & icons",
      "target": "Dr Hedgewar (Doctorji) and RSS women's wing",
      "claim": "Anecdotes present Doctorji as averse to self-publicity and describe how the Rashtra Sevika Samiti was founded in 1936 under Lakshmibai Kelkar with his blessing.",
      "heading": "গল্প কথায় ডাক্তারজী",
-     "page": 39
+     "page": 39,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "ডাঃ হেডগেওয়ার (ডাক্তারজি) ও আরএসএসের মহিলা শাখা",
+     "claim_bn": "কাহিনিগুলিতে ডাক্তারজিকে আত্মপ্রচারবিমুখ হিসেবে তুলে ধরা হয়েছে এবং বর্ণনা করা হয়েছে কীভাবে ১৯৩৬ সালে লক্ষ্মীবাঈ কেলকরের নেতৃত্বে তাঁর আশীর্বাদে রাষ্ট্র সেবিকা সমিতি প্রতিষ্ঠিত হয়।"
     },
     {
      "theme": "West Bengal elections",
      "target": "New BJP state government",
      "claim": "The paper says the people expect good governance from the new government: jobs, women's safety, industry, health and education, and Centre-State coordination rather than conflict.",
      "heading": "সুশাসনের প্রত্যাশা",
-     "page": 4
+     "page": 4,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "বিজেপির নতুন রাজ্য সরকার",
+     "claim_bn": "পত্রিকার বক্তব্য, মানুষ নতুন সরকারের কাছে সুশাসন আশা করে: কর্মসংস্থান, নারীর নিরাপত্তা, শিল্প, স্বাস্থ্য ও শিক্ষা, এবং কেন্দ্র-রাজ্য সংঘাতের বদলে সমন্বয়।"
     }
-   ]
+   ],
+   "label_bn": "",
+   "summary_bn": "২০২৬ সালের ১১ মে-র এই সংখ্যাটি নির্বাচনোত্তর বিজয় সংখ্যা। এতে ২০২৬ সালের পশ্চিমবঙ্গ বিধানসভা নির্বাচনে বিজেপির জয়কে বাংলার ‘দ্বিতীয় স্বাধীনতা’ এবং তৃণমূল ও ‘জিহাদি’ শক্তির বিরুদ্ধে হিন্দু সংহতির ‘ধর্মযুদ্ধ’ হিসেবে তুলে ধরা হয়েছে। জয়ের কৃতিত্ব দেওয়া হয়েছে নির্বাচন কমিশন, SIR ভোটার তালিকা সংশোধন এবং আরএসএস ও তার অনুসারী সংগঠনগুলির দীর্ঘ কাজকে। সম্পাদকীয় ও বেশ কয়েকটি প্রবন্ধে ৩৪ বছরের বামফ্রন্ট শাসন ও ১৫ বছরের তৃণমূল শাসনের নিন্দা করা হয়েছে, আর সিপিআই(এম)-কে কুশাসনের মূল উৎস হিসেবে চিহ্নিত করা হয়েছে। এছাড়া রয়েছে আরএসএস-এর শতবর্ষ উপলক্ষে ঐতিহাসিক লেখা (ডাঃ হেডগেওয়ারের কাহিনি, রাষ্ট্র সেবিকা সমিতির প্রতিষ্ঠা), মে দিবস উপলক্ষে কমিউনিস্ট-বিরোধী একটি দীর্ঘ ‘গুলাগ’ প্রবন্ধ এবং দক্ষিণ ২৪ পরগনায় গো-মাতা, ভারত মাতা ও কন্যা পূজন সহ আরএসএস শাখার বার্ষিক অনুষ্ঠানের প্রতিবেদন।"
   },
   {
    "issue": "20260504",
@@ -5075,7 +7489,13 @@ window.HINDUTVA = {
      "where": "New Delhi",
      "when": "20 April (Akshaya Tritiya)",
      "page": 27,
-     "detail": "RSS Sarsanghchalak Mohan Bhagwat inaugurated the new central office after a Vedic ritual and Shatachandi yajna, calling Sanskrit the soul of India. Modi sent a message and finance minister Nirmala Sitharaman and Anurag Thakur attended."
+     "detail": "RSS Sarsanghchalak Mohan Bhagwat inaugurated the new central office after a Vedic ritual and Shatachandi yajna, calling Sanskrit the soul of India. Modi sent a message and finance minister Nirmala Sitharaman and Anurag Thakur attended.",
+     "title_bn": "সংস্কৃত ভারতীর কেন্দ্রীয় কার্যালয় 'প্রণব'-এর উদ্বোধন",
+     "org_bn": "অন্যান্য: সংস্কৃত ভারতী (সঙ্ঘ-অনুমোদিত)",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "নয়াদিল্লি",
+     "when_bn": "২০ এপ্রিল (অক্ষয় তৃতীয়া)",
+     "detail_bn": "বৈদিক রীতি ও শতচণ্ডী যজ্ঞের পর আরএসএস সরসংঘচালক মোহন ভাগবত নতুন কেন্দ্রীয় কার্যালয়ের উদ্বোধন করেন এবং সংস্কৃতকে ভারতের আত্মা বলে উল্লেখ করেন। মোদী বার্তা পাঠান এবং অর্থমন্ত্রী নির্মলা সীতারামন ও অনুরাগ ঠাকুর উপস্থিত ছিলেন।"
     },
     {
      "title": "Sanskrit Bharati expansion and goals announced",
@@ -5084,7 +7504,13 @@ window.HINDUTVA = {
      "where": "New Delhi / 28 countries, 660 districts",
      "when": "20 April",
      "page": 28,
-     "detail": "The organisation said its movement, begun in 1981, now spans 28 countries and 660 Indian districts. It aims to bring Sanskrit to 10% of the population and teach it in 12 languages."
+     "detail": "The organisation said its movement, begun in 1981, now spans 28 countries and 660 Indian districts. It aims to bring Sanskrit to 10% of the population and teach it in 12 languages.",
+     "title_bn": "সংস্কৃত ভারতীর প্রসার ও লক্ষ্য ঘোষণা",
+     "org_bn": "অন্যান্য: সংস্কৃত ভারতী (সঙ্ঘ-অনুমোদিত)",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "নয়াদিল্লি / ২৮টি দেশ, ৬৬০টি জেলা",
+     "when_bn": "২০ এপ্রিল",
+     "detail_bn": "সংগঠনটি জানিয়েছে, ১৯৮১ সালে শুরু হওয়া তাদের আন্দোলন এখন ২৮টি দেশ ও ভারতের ৬৬০টি জেলায় ছড়িয়ে পড়েছে। তাদের লক্ষ্য জনসংখ্যার ১০ শতাংশের কাছে সংস্কৃত পৌঁছে দেওয়া এবং ১২টি ভাষায় তা শেখানো।"
     },
     {
      "title": "Nature-study river outing for Shishu Mandir pupils",
@@ -5093,7 +7519,13 @@ window.HINDUTVA = {
      "where": "Bachamari, Malda",
      "when": "22 April",
      "page": 28,
-     "detail": "Class 5 pupils of Bachamari Vivekananda Shishu Mandir spent a day at the Mahananda riverbank for nature learning, framed around NEP 2020, with boating and river play."
+     "detail": "Class 5 pupils of Bachamari Vivekananda Shishu Mandir spent a day at the Mahananda riverbank for nature learning, framed around NEP 2020, with boating and river play.",
+     "title_bn": "শিশু মন্দিরের পড়ুয়াদের জন্য প্রকৃতি-পাঠ নদীভ্রমণ",
+     "org_bn": "বিদ্যা ভারতী",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "বাচামারি, মালদহ",
+     "when_bn": "২২ এপ্রিল",
+     "detail_bn": "বাচামারি বিবেকানন্দ শিশু মন্দিরের পঞ্চম শ্রেণির পড়ুয়ারা জাতীয় শিক্ষানীতি ২০২০-এর আদলে প্রকৃতিপাঠের জন্য মহানন্দা নদীর তীরে একটি দিন কাটিয়েছে, যেখানে ছিল নৌকাবিহার ও নদীতে খেলা।"
     },
     {
      "title": "National seminar 'Religion and Dharma: Reassessment in Sister Nivedita's thought'",
@@ -5102,7 +7534,13 @@ window.HINDUTVA = {
      "where": "Deshapran Utsav Bhavan, Kalikapur, Contai (Purba Medinipur)",
      "when": "9 April",
      "page": 29,
-     "detail": "About 150 academics and researchers attended. Speakers distinguished 'religion' from 'dharma', and two books on Vande Mataram's 150th year were released."
+     "detail": "About 150 academics and researchers attended. Speakers distinguished 'religion' from 'dharma', and two books on Vande Mataram's 150th year were released.",
+     "title_bn": "জাতীয় সেমিনার 'ধর্ম ও রিলিজিয়ন: ভগিনী নিবেদিতার চিন্তায় পুনর্মূল্যায়ন'",
+     "org_bn": "অন্যান্য: লোকপ্রজ্ঞা কীর্তি চর্চা কেন্দ্র / প্রজ্ঞা প্রবাহ",
+     "type_bn": "সম্মেলন",
+     "where_bn": "দেশপ্রাণ উৎসব ভবন, কালিকাপুর, কাঁথি (পূর্ব মেদিনীপুর)",
+     "when_bn": "৯ এপ্রিল",
+     "detail_bn": "প্রায় ১৫০ জন শিক্ষাবিদ ও গবেষক উপস্থিত ছিলেন। বক্তারা 'রিলিজিয়ন' ও 'ধর্ম'-এর মধ্যে পার্থক্য তুলে ধরেন এবং বন্দে মাতরমের ১৫০তম বর্ষ নিয়ে দুটি বই প্রকাশিত হয়।"
     },
     {
      "title": "Paribarik Milan Utsav 2026 (family reunion festival)",
@@ -5111,7 +7549,13 @@ window.HINDUTVA = {
      "where": "Tollygunge, South Kolkata",
      "when": "22 April",
      "page": 30,
-     "detail": "Held by residents and the Sachetan Nagarik Mancha with Sangh functionaries present. Speakers expressed concern over the political situation in West Bengal and urged distinguished citizens to help a 'nationalist' party win in the assembly election."
+     "detail": "Held by residents and the Sachetan Nagarik Mancha with Sangh functionaries present. Speakers expressed concern over the political situation in West Bengal and urged distinguished citizens to help a 'nationalist' party win in the assembly election.",
+     "title_bn": "পারিবারিক মিলন উৎসব ২০২৬",
+     "org_bn": "আরএসএস",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "টালিগঞ্জ, দক্ষিণ কলকাতা",
+     "when_bn": "২২ এপ্রিল",
+     "detail_bn": "স্থানীয় বাসিন্দারা ও সচেতন নাগরিক মঞ্চের উদ্যোগে সঙ্ঘের কার্যকর্তাদের উপস্থিতিতে অনুষ্ঠিত। বক্তারা পশ্চিমবঙ্গের রাজনৈতিক পরিস্থিতি নিয়ে উদ্বেগ প্রকাশ করেন এবং বিধানসভা নির্বাচনে একটি 'জাতীয়তাবাদী' দলের জয়ে বিশিষ্ট নাগরিকদের সহায়তার আহ্বান জানান।"
     },
     {
      "title": "Fruit distribution to patients on Akshaya Tritiya",
@@ -5120,7 +7564,13 @@ window.HINDUTVA = {
      "where": "Medinipur Medical College and Hospital",
      "when": "20 April",
      "page": 30,
-     "detail": "Patients were given fruit, packed in paper bags rather than plastic to carry an environmental message."
+     "detail": "Patients were given fruit, packed in paper bags rather than plastic to carry an environmental message.",
+     "title_bn": "অক্ষয় তৃতীয়ায় রোগীদের ফল বিতরণ",
+     "org_bn": "অন্যান্য: একটি সামাজিক সংগঠন (সঙ্ঘের কর্মীরা উপস্থিত)",
+     "type_bn": "সেবা/ত্রাণ",
+     "where_bn": "মেদিনীপুর মেডিকেল কলেজ ও হাসপাতাল",
+     "when_bn": "২০ এপ্রিল",
+     "detail_bn": "রোগীদের ফল দেওয়া হয়, পরিবেশ রক্ষার বার্তা দিতে প্লাস্টিকের বদলে কাগজের ঠোঙায় মুড়ে।"
     },
     {
      "title": "Obituary notices for Sangh workers",
@@ -5129,7 +7579,13 @@ window.HINDUTVA = {
      "where": "South Kolkata (Patuli), North Bengal",
      "when": "28 March and 19 April",
      "page": 9,
-     "detail": "The issue mourns swayamsevak Balaram Kachhar of the Patuli shakha. It also mourns Bandana Roy, Rashtra Sevika Samiti guardian for the North Bengal prant and former Malda district karyavahika."
+     "detail": "The issue mourns swayamsevak Balaram Kachhar of the Patuli shakha. It also mourns Bandana Roy, Rashtra Sevika Samiti guardian for the North Bengal prant and former Malda district karyavahika.",
+     "title_bn": "সঙ্ঘের কর্মীদের প্রয়াণ সংবাদ",
+     "org_bn": "আরএসএস",
+     "type_bn": "অন্যান্য",
+     "where_bn": "দক্ষিণ কলকাতা (পাটুলি), উত্তরবঙ্গ",
+     "when_bn": "২৮ মার্চ ও ১৯ এপ্রিল",
+     "detail_bn": "সংখ্যাটিতে পাটুলি শাখার স্বয়ংসেবক বলরাম কাছার-এর প্রয়াণে শোক জানানো হয়েছে। একই সঙ্গে উত্তরবঙ্গ প্রান্তের রাষ্ট্র সেবিকা সমিতির অভিভাবিকা ও মালদা জেলার প্রাক্তন কার্যবাহিকা বন্দনা রায়ের প্রয়াণেও শোক জানানো হয়েছে।"
     }
    ],
    "narratives": [
@@ -5138,72 +7594,104 @@ window.HINDUTVA = {
      "target": "Voters / TMC rule",
      "claim": "Voting at full strength has brought a hint of change, and the ruling establishment is shaking.",
      "heading": "“হাতে পাঁজি মঙ্গলবার” তাই পূর্ণমাত্রায় ভোটদান — হাওয়া বদলের ইঙ্গিত থরহরি কম্প",
-     "page": 6
+     "page": 6,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "ভোটার / তৃণমূলের শাসন",
+     "claim_bn": "পূর্ণ শক্তিতে ভোটদান পরিবর্তনের আভাস এনেছে, শাসক প্রতিষ্ঠান কাঁপছে।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "West Bengal state government",
      "claim": "Attacks on sadhus and sants prove the state government is hostile to Hindus.",
      "heading": "সাধুসন্তদের ওপর আক্রমণ প্রমাণ করল রাজ্য সরকার হিন্দু বিদ্বেষী",
-     "page": 17
+     "page": 17,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "পশ্চিমবঙ্গ রাজ্য সরকার",
+     "claim_bn": "সাধু-সন্তদের উপর হামলা প্রমাণ করে যে রাজ্য সরকার হিন্দুদের প্রতি বিরূপ।"
     },
     {
      "theme": "other",
      "target": "Supreme Court",
      "claim": "By using Article 142 to run the electoral-roll exercise (19 appellate tribunals, deploying judicial officers), the Supreme Court is overreaching into the executive and undermining the Election Commission.",
      "heading": "বিচার বিভাগীয় আধিপত্য – অনুচ্ছেদ ১৪২-এর ব্যবহার এবং সাংবিধানিক ভারসাম্যের সংকট – একটি পর্যালোচনা",
-     "page": 8
+     "page": 8,
+     "theme_bn": "অন্যান্য",
+     "target_bn": "সুপ্রিম কোর্ট",
+     "claim_bn": "৩৫৬ নয়, ১৪২ ধারা প্রয়োগ করে ভোটার তালিকা সংক্রান্ত প্রক্রিয়া (১৯টি আপিল ট্রাইবুনাল, বিচারবিভাগীয় আধিকারিক নিয়োগ) চালিয়ে সুপ্রিম কোর্ট শাসনবিভাগের এখতিয়ারে হস্তক্ষেপ করছে এবং নির্বাচন কমিশনকে খাটো করছে।"
     },
     {
      "theme": "Bangladesh & Hindu persecution",
      "target": "Bangladesh government and Indian silence",
      "claim": "Minorities in Bangladesh face limitless brutality, and official silence continues.",
      "heading": "সীমাহীন নৃশংসতা : বাংলাদেশে সংখ্যালঘু নির্যাতনে সরকারি নীরবতা আর কতদিন অব্যাহত থাকবে?",
-     "page": 48
+     "page": 48,
+     "theme_bn": "বাংলাদেশ ও হিন্দু নির্যাতন",
+     "target_bn": "বাংলাদেশ সরকার ও ভারতের নীরবতা",
+     "claim_bn": "বাংলাদেশে সংখ্যালঘুরা সীমাহীন নির্যাতনের শিকার, আর সরকারি নীরবতা চলছেই।"
     },
     {
      "theme": "'love jihad'/conversion",
      "target": "Secularism / secular politics",
      "claim": "Secularism is condemned for not speaking about the protection of Hindu girls.",
      "heading": "ধিক্‌ সেকুলারিজম্‌! হিন্দু মেয়েদের সুরক্ষার কথা বলে না",
-     "page": 13
+     "page": 13,
+     "theme_bn": "'লাভ জিহাদ'/ধর্মান্তরণ",
+     "target_bn": "ধর্মনিরপেক্ষতা / ধর্মনিরপেক্ষ রাজনীতি",
+     "claim_bn": "হিন্দু মেয়েদের সুরক্ষা নিয়ে কথা না বলার জন্য ধর্মনিরপেক্ষতার নিন্দা করা হয়েছে।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "Appeasement politics",
      "claim": "Appeasement has sacrificed 'Vande Mataram' on the altar of vote-bank politics.",
      "heading": "তোষণনীতির যূপকাষ্ঠে “বন্দে মাতরম্‌”",
-     "page": 38
+     "page": 38,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "তোষণের রাজনীতি",
+     "claim_bn": "তোষণ ভোটব্যাঙ্কের রাজনীতির বেদিতে 'বন্দে মাতরম্‌'কে বলি দিয়েছে।"
     },
     {
      "theme": "history & icons",
      "target": "Left 'alien-ideology' Bengalis; Tagore as Hindu icon",
      "claim": "Tagore is cast as a 'Bharat-rishi' who said Hindu is the national identity of India, and is said to have been mocked as 'bourgeois' by ultra-Left revolutionaries who broke his statues.",
      "heading": "ভারতঋষি রবীন্দ্রনাথ (editorial) / রবীন্দ্রনাথ ঠাকুর ও হিন্দুত্ব",
-     "page": 24
+     "page": 24,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "বামপন্থী 'বিজাতীয় মতাদর্শের' বাঙালিরা; হিন্দু প্রতীক হিসেবে ঠাকুর (রবীন্দ্রনাথ)",
+     "claim_bn": "ঠাকুরকে 'ভারত-ঋষি' হিসেবে তুলে ধরা হয়েছে, যিনি বলেছিলেন হিন্দুই ভারতের জাতীয় পরিচয়, এবং বলা হয়েছে যে অতি-বামপন্থী বিপ্লবীরা তাঁকে 'বুর্জোয়া' বলে বিদ্রূপ করেছিল ও তাঁর মূর্তি ভেঙেছিল।"
     },
     {
      "theme": "culture/religion",
      "target": "Bengali media",
      "claim": "A section of the Bengali media is ruining Bengali culture.",
      "heading": "বঙ্গ সংস্কৃতির সর্বনাশ করছে একশ্রেণীর বাংলা সংবাদমাধ্যম",
-     "page": 10
+     "page": 10,
+     "theme_bn": "সংস্কৃতি/ধর্ম",
+     "target_bn": "বাংলা সংবাদমাধ্যম",
+     "claim_bn": "বাংলা মিডিয়ার একাংশ বাঙালি সংস্কৃতির সর্বনাশ করছে।"
     },
     {
      "theme": "West Bengal elections",
      "target": "Nationalist party / 'democratic awakening'",
      "claim": "Speakers at the Tollygunge event called for democratic awakening and for victory of a 'nationalist' party across the state in the assembly election.",
      "heading": "টালিগঞ্জে পারিবারিক মিলন উৎসব ২০২৬",
-     "page": 30
+     "page": 30,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "জাতীয়তাবাদী দল / 'গণতান্ত্রিক জাগরণ'",
+     "claim_bn": "টালিগঞ্জের অনুষ্ঠানে বক্তারা গণতান্ত্রিক জাগরণের আহ্বান জানান এবং বিধানসভা নির্বাচনে রাজ্যজুড়ে একটি 'জাতীয়তাবাদী' দলের জয় কামনা করেন।"
     },
     {
      "theme": "Modi govt achievements",
      "target": "Modi government / NEP",
      "claim": "The National Education Policy is credited with giving new direction to Sanskrit and Indian languages.",
      "heading": "নয়াদিল্লিতে “সংস্কৃতভারতী”র কেন্দ্রীয় কার্যালয় উদ্বোধন",
-     "page": 28
+     "page": 28,
+     "theme_bn": "মোদী সরকারের কৃতিত্ব",
+     "target_bn": "মোদী সরকার / এনইপি",
+     "claim_bn": "জাতীয় শিক্ষানীতি সংস্কৃত ও ভারতীয় ভাষাগুলিকে নতুন দিশা দিয়েছে বলে কৃতিত্ব দেওয়া হয়েছে।"
     }
-   ]
+   ],
+   "label_bn": "",
+   "summary_bn": "২০২৬ সালের ৪ মে-র এই সংখ্যাটি পশ্চিমবঙ্গ বিধানসভার দু'দফা নির্বাচনের (২৩ ও ২৯ এপ্রিল, গণনা ৪ মে) কয়েক দিন পর প্রকাশিত; এতে পূর্ণ ভোটদানের আহ্বান জানানো হয়েছে এবং রাজ্যের রাজনৈতিক হাওয়া বদলের ইঙ্গিত দেওয়া হয়েছে। তৃণমূল রাজ্য সরকারকে হিন্দুবিরোধী এবং সাধুদের উপর হামলাকারীদের রক্ষাকারী বলে আক্রমণ করা হয়েছে, আর ভোটার তালিকা সংশোধন প্রক্রিয়ায় সুপ্রিম কোর্টের ৩৪২ নয়, ১৪২ অনুচ্ছেদ প্রয়োগের সমালোচনা করা হয়েছে। একটি বড় অংশ জুড়ে রয়েছে রবীন্দ্রনাথ ঠাকুরের জন্মবার্ষিকী, যেখানে তাঁকে 'ভারত-ঋষি' এবং হিন্দুত্বের সঙ্গে সামঞ্জস্যপূর্ণ ব্যক্তিত্ব হিসেবে উপস্থাপন করা হয়েছে। এছাড়া বাংলাদেশে সংখ্যালঘু নির্যাতন, 'বন্দে মাতরম'-এর উপর তোষণের প্রভাব এবং 'ধর্মনিরপেক্ষতা হিন্দু মেয়েদের উপেক্ষা করে' এই ধারার বক্তব্য তোলা হয়েছে। প্রতিবেদন বিভাগে রয়েছে সংস্কৃত ভারতীর নতুন দিল্লি কার্যালয়, বন্দে মাতরমের ১৫০তম বর্ষ উপলক্ষে আলোচনাচক্র, কলকাতায় পারিবারিক মিলন অনুষ্ঠান এবং ডাক্তারজি সম্পর্কে সঙ্ঘের জীবনীমূলক কাহিনি।"
   },
   {
    "issue": "20260427",
@@ -5219,7 +7707,13 @@ window.HINDUTVA = {
      "where": "Keshav Bhavan, Manicktala, Kolkata",
      "when": "11 April",
      "page": 24,
-     "detail": "Unveiling of the 13 April 2026 Bengali New Year issue of Swastika and release of Sanskar Bharati's cultural wall calendar themed on 150 years of Vande Mataram. The 'Swastika Lekhak Sammanana' was given to veteran journalist Nandalal Bhattacharya."
+     "detail": "Unveiling of the 13 April 2026 Bengali New Year issue of Swastika and release of Sanskar Bharati's cultural wall calendar themed on 150 years of Vande Mataram. The 'Swastika Lekhak Sammanana' was given to veteran journalist Nandalal Bhattacharya.",
+     "title_bn": "স্বস্তিকার বাংলা নববর্ষ সংখ্যার উন্মোচন ও সংস্কার ভারতীর দেওয়াল ক্যালেন্ডার প্রকাশ",
+     "org_bn": "অন্যান্য: স্বস্তিকা / সংস্কার ভারতী",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "কেশব ভবন, মানিকতলা, কলকাতা",
+     "when_bn": "১১ এপ্রিল",
+     "detail_bn": "স্বস্তিকার ১৩ এপ্রিল ২০২৬ বাংলা নববর্ষ সংখ্যার উন্মোচন এবং বন্দে মাতরমের ১৫০ বছর বিষয়ক সংস্কার ভারতীর সাংস্কৃতিক দেওয়ালপঞ্জির প্রকাশ। প্রবীণ সাংবাদিক নন্দলাল ভট্টাচার্যকে 'স্বস্তিকা লেখক সম্মাননা' দেওয়া হয়।"
     },
     {
      "title": "Saraswati Shishu Mandir Bengali New Year celebration",
@@ -5228,7 +7722,13 @@ window.HINDUTVA = {
      "where": "West Bengal (Shishu Sanskar Kendras: Bhola Giri and Bishohori)",
      "when": "15 April",
      "page": 27,
-     "detail": "Prabhat pheri, patriotic songs, dance and recitation by children of two Shishu Sanskar Kendras, with an advisory session for mothers, gifts and a meal for disadvantaged children."
+     "detail": "Prabhat pheri, patriotic songs, dance and recitation by children of two Shishu Sanskar Kendras, with an advisory session for mothers, gifts and a meal for disadvantaged children.",
+     "title_bn": "সরস্বতী শিশু মন্দিরের বাংলা নববর্ষ উদযাপন",
+     "org_bn": "অন্যান্য: সরস্বতী শিশু মন্দির (বিদ্যা ভারতী)",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "পশ্চিমবঙ্গ (শিশু সংস্কার কেন্দ্র: ভোলা গিরি ও বিষহরি)",
+     "when_bn": "১৫ এপ্রিল",
+     "detail_bn": "দু'টি শিশু সংস্কার কেন্দ্রের শিশুদের প্রভাতফেরি, দেশাত্মবোধক গান, নাচ ও আবৃত্তি, সঙ্গে মায়েদের জন্য পরামর্শ অধিবেশন এবং সুবিধাবঞ্চিত শিশুদের উপহার ও খাবার বিতরণ।"
     },
     {
      "title": "Birat Hindu Sammelan, Behala",
@@ -5237,7 +7737,13 @@ window.HINDUTVA = {
      "where": "KFR Railway ground, Behala, South Kolkata",
      "when": "29 March",
      "page": 27,
-     "detail": "Saffron-themed rally with conch calls and 'Jai Shri Ram' slogans. Swami Pradiptananda Maharaj of Bharat Sevashram Sangha called on Hindus to unite for an impending 'dharma-yuddha', saying 'this is the last train'. Organised by veteran swayamsevak Rabindranath Bandyopadhyay."
+     "detail": "Saffron-themed rally with conch calls and 'Jai Shri Ram' slogans. Swami Pradiptananda Maharaj of Bharat Sevashram Sangha called on Hindus to unite for an impending 'dharma-yuddha', saying 'this is the last train'. Organised by veteran swayamsevak Rabindranath Bandyopadhyay.",
+     "title_bn": "বিরাট হিন্দু সম্মেলন, বেহালা",
+     "org_bn": "অন্যান্য: ভারত সেবাশ্রম সঙ্ঘের সন্ন্যাসীদের সঙ্গে সঙ্ঘ-সংশ্লিষ্ট স্বয়ংসেবক আয়োজকরা",
+     "type_bn": "সম্মেলন",
+     "where_bn": "কেএফআর রেলওয়ে মাঠ, বেহালা, দক্ষিণ কলকাতা",
+     "when_bn": "২৯ মার্চ",
+     "detail_bn": "শঙ্খধ্বনি ও 'জয় শ্রী রাম' স্লোগান সহ গৈরিক-থিমের মিছিল। ভারত সেবাশ্রম সঙ্ঘের স্বামী প্রদীপ্তানন্দ মহারাজ আসন্ন 'ধর্মযুদ্ধ'-এর জন্য হিন্দুদের ঐক্যবদ্ধ হওয়ার ডাক দেন, বলেন 'এটাই শেষ ট্রেন'। আয়োজক ছিলেন প্রবীণ স্বয়ংসেবক রবীন্দ্রনাথ বন্দ্যোপাধ্যায়।"
     },
     {
      "title": "Mangal Shobhajatra for Bengali New Year (Pohela Boishakh) honouring Maharaja Shashanka",
@@ -5246,7 +7752,13 @@ window.HINDUTVA = {
      "where": "Kolkata, from Mohor Kunj opposite Rabindra Sadan",
      "when": "15 April",
      "page": 28,
-     "detail": "Cultural procession with banners, mangal ghat, Gaudiya dance and kirtan. A wall calendar featuring Shashanka was distributed free. The paper presents it as countering a supposed attempt to credit Mughal emperor Akbar with the Bengali calendar."
+     "detail": "Cultural procession with banners, mangal ghat, Gaudiya dance and kirtan. A wall calendar featuring Shashanka was distributed free. The paper presents it as countering a supposed attempt to credit Mughal emperor Akbar with the Bengali calendar.",
+     "title_bn": "মহারাজা শশাঙ্কের প্রতি শ্রদ্ধা জানিয়ে বাংলা নববর্ষ (পয়লা বৈশাখ) উপলক্ষে মঙ্গল শোভাযাত্রা",
+     "org_bn": "অন্যান্য: বঙ্গীয় সনাতনী সংস্কৃতি পরিষদ",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "কলকাতা, রবীন্দ্র সদনের উল্টো দিকের মোহর কুঞ্জ থেকে",
+     "when_bn": "১৫ এপ্রিল",
+     "detail_bn": "ব্যানার, মঙ্গলঘট, গৌড়ীয় নৃত্য ও কীর্তন-সহ সাংস্কৃতিক শোভাযাত্রা। শশাঙ্ক-সংবলিত একটি দেওয়াল ক্যালেন্ডার বিনামূল্যে বিতরণ করা হয়। পত্রিকাটি এটিকে বাংলা সনের কৃতিত্ব মুঘল সম্রাট আকবরকে দেওয়ার কথিত প্রচেষ্টার পাল্টা হিসেবে তুলে ধরেছে।"
     },
     {
      "title": "Vande Mataram 150th anniversary remembrance programme",
@@ -5255,7 +7767,13 @@ window.HINDUTVA = {
      "where": "Maulana Abul Kalam Azad Institute of Asian Studies, Bidhannagar, Kolkata",
      "when": "12 April",
      "page": 28,
-     "detail": "Event titled 'Vande Mataram Sardhashatabarshe: Smarane o Manane' with a full rendition of the song and tributes to freedom fighters. Swami Suparnananda of Ramakrishna Mission Institute of Culture was chief guest."
+     "detail": "Event titled 'Vande Mataram Sardhashatabarshe: Smarane o Manane' with a full rendition of the song and tributes to freedom fighters. Swami Suparnananda of Ramakrishna Mission Institute of Culture was chief guest.",
+     "title_bn": "বন্দে মাতরমের ১৫০তম বার্ষিকীর স্মরণ অনুষ্ঠান",
+     "org_bn": "অন্যান্য: সংস্কৃতি মন্ত্রক ও বিদ্যার্থী বিকাশ ট্রাস্ট",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "মৌলানা আবুল কালাম আজাদ ইনস্টিটিউট অফ এশিয়ান স্টাডিজ, বিধাননগর, কলকাতা",
+     "when_bn": "১২ এপ্রিল",
+     "detail_bn": "'বন্দেমাতরম সার্ধশতবর্ষে: স্মরণে ও মননে' শীর্ষক অনুষ্ঠানে সম্পূর্ণ গানটি পরিবেশিত হয় এবং স্বাধীনতা সংগ্রামীদের শ্রদ্ধা জানানো হয়। রামকৃষ্ণ মিশন ইনস্টিটিউট অফ কালচারের স্বামী সুপর্ণানন্দ ছিলেন মুখ্য অতিথি।"
     },
     {
      "title": "Election awareness push: 'fearless democratic vote' appeal and SIR support",
@@ -5264,7 +7782,13 @@ window.HINDUTVA = {
      "where": "West Bengal",
      "when": "April 2026",
      "page": 5,
-     "detail": "Editorial and articles urge voters to cast their vote fearlessly and call this assembly election the last chance to end alleged lawlessness."
+     "detail": "Editorial and articles urge voters to cast their vote fearlessly and call this assembly election the last chance to end alleged lawlessness.",
+     "title_bn": "নির্বাচনী সচেতনতার উদ্যোগ: 'নির্ভয় গণতান্ত্রিক ভোট'-এর আহ্বান ও এসআইআর-এর প্রতি সমর্থন",
+     "org_bn": "অন্যান্য: স্বস্তিকার সম্পাদকীয় অবস্থান (সঙ্ঘ পরিবারের সংবাদমাধ্যম)",
+     "type_bn": "রাজনৈতিক প্রচার",
+     "where_bn": "পশ্চিমবঙ্গ",
+     "when_bn": "এপ্রিল ২০২৬",
+     "detail_bn": "সম্পাদকীয় ও প্রবন্ধে ভোটারদের নির্ভয়ে ভোট দেওয়ার আহ্বান জানানো হয়েছে এবং এই বিধানসভা নির্বাচনকে কথিত নৈরাজ্যের অবসানের শেষ সুযোগ বলা হয়েছে।"
     }
    ],
    "narratives": [
@@ -5273,79 +7797,114 @@ window.HINDUTVA = {
      "target": "Voters / Election Commission",
      "claim": "The assembly election is the last opportunity to save democracy and the Constitution in West Bengal, and voters must pass this 'hard test'.",
      "heading": "পশ্চিমবঙ্গের গণতন্ত্র রক্ষার নির্বাচন",
-     "page": 5
+     "page": 5,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "ভোটার / নির্বাচন কমিশন",
+     "claim_bn": "বিধানসভা নির্বাচনই পশ্চিমবঙ্গে গণতন্ত্র ও সংবিধান রক্ষার শেষ সুযোগ, আর ভোটারদের এই 'কঠিন পরীক্ষা'য় উত্তীর্ণ হতে হবে।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Left Front, Congress and TMC",
      "claim": "After Congress, 35 years of 'communist misrule' ruined Bengal, with only two political forces ruling for 60 years, and TMC's rule since 2011 is a continuation of the Left's.",
      "heading": "পশ্চিমবঙ্গের গণতন্ত্র রক্ষার নির্বাচন",
-     "page": 5
+     "page": 5,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "বামফ্রন্ট, কংগ্রেস ও তৃণমূল",
+     "claim_bn": "কংগ্রেসের পর ৩৫ বছরের 'কমিউনিস্ট কুশাসন' বাংলাকে ধ্বংস করেছে; ৬০ বছর ধরে মাত্র দুটি রাজনৈতিক শক্তি শাসন করেছে, এবং ২০১১ সাল থেকে তৃণমূলের শাসন বামেদেরই ধারাবাহিকতা।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "Mamata Banerjee, her nephew and I-PAC",
      "claim": "TMC rule means chit-fund scams, recruitment corruption (26,000 jobs cancelled), cut-money, syndicate 'mafia raj', violence against women, post-poll violence and a debt of about Rs 8 lakh crore.",
      "heading": "পশ্চিমবঙ্গের গণতন্ত্র রক্ষার নির্বাচন",
-     "page": 5
+     "page": 5,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "মমতা বন্দ্যোপাধ্যায়, তাঁর ভাইপো ও আই-প্যাক",
+     "claim_bn": "তৃণমূলের শাসনের অর্থ চিটফান্ড কেলেঙ্কারি, নিয়োগ দুর্নীতি (২৬,০০০ চাকরি বাতিল), কাটমানি, সিন্ডিকেটের 'মাফিয়া রাজ', নারীদের বিরুদ্ধে হিংসা, ভোট-পরবর্তী হিংসা এবং প্রায় ৮ লক্ষ কোটি টাকার ঋণ।"
     },
     {
      "theme": "infiltration/demography",
      "target": "Left and TMC governments",
      "claim": "Both ruling forces encouraged infiltration from Bangladesh for votes, dangerously changing the demography of border districts.",
      "heading": "পশ্চিমবঙ্গের গণতন্ত্র রক্ষার নির্বাচন",
-     "page": 5
+     "page": 5,
+     "theme_bn": "অনুপ্রবেশ/জনবিন্যাস",
+     "target_bn": "বামপন্থী ও তৃণমূল সরকার",
+     "claim_bn": "ভোটের স্বার্থে দুই শাসক শক্তিই বাংলাদেশ থেকে অনুপ্রবেশে উৎসাহ জুগিয়েছে, ফলে সীমান্তবর্তী জেলাগুলির জনবিন্যাস বিপজ্জনকভাবে বদলে গেছে।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "Mamata Banerjee / Muslim community / police",
      "claim": "Hindu festivals and processions (Ram Navami, Hanuman Jayanti, Durga immersion) are repeatedly attacked by 'jihadi' mobs while police stay silent, and the CM's 'community' remarks amount to a threat to Hindus.",
      "heading": "(article on page 14, heading not in digest; related to the contents-page piece 'পশ্চিমবঙ্গকে বাঁচাতে এবং নিজেরা বাঁচতে হিন্দুদের একজোট হতেই হবে')",
-     "page": 13
+     "page": 13,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "মমতা বন্দ্যোপাধ্যায় / মুসলিম সম্প্রদায় / পুলিশ",
+     "claim_bn": "হিন্দুদের উৎসব ও শোভাযাত্রা (রামনবমী, হনুমান জয়ন্তী, দুর্গা বিসর্জন) বারবার 'জিহাদি' জনতার হামলার শিকার হয় আর পুলিশ নীরব থাকে; মুখ্যমন্ত্রীর 'সম্প্রদায়' সংক্রান্ত মন্তব্য হিন্দুদের প্রতি হুমকির শামিল।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "TMC government",
      "claim": "TMC's 15 years brought 26,000 jobs cancelled, 40 lakh migrant youth, about 6,688 industrial units leaving, 80% of tea gardens shut and 8,000 schools closed.",
      "heading": "(article on page 14, heading not in digest)",
-     "page": 14
+     "page": 14,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "তৃণমূল সরকার",
+     "claim_bn": "তৃণমূলের ১৫ বছরে ২৬,০০০ চাকরি বাতিল, ৪০ লক্ষ পরিযায়ী যুবক, প্রায় ৬,৬৮৮টি শিল্প প্রতিষ্ঠানের রাজ্য ছাড়া, ৮০% চা বাগান বন্ধ এবং ৮,০০০ স্কুল বন্ধ হয়েছে।"
     },
     {
      "theme": "infiltration/demography",
      "target": "TMC government / open border",
      "claim": "About 260 km of the Bengal-Bangladesh border is unfenced and fake IDs for infiltrators are made in the state.",
      "heading": "(article on page 14, heading not in digest)",
-     "page": 14
+     "page": 14,
+     "theme_bn": "অনুপ্রবেশ/জনবিন্যাস",
+     "target_bn": "তৃণমূল সরকার / খোলা সীমান্ত",
+     "claim_bn": "বাংলা-বাংলাদেশ সীমান্তের প্রায় ২৬০ কিলোমিটার অংশ কাঁটাতারহীন এবং রাজ্যে অনুপ্রবেশকারীদের জন্য জাল পরিচয়পত্র তৈরি হয়।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "Bengali Hindus",
      "claim": "This is the 'last train' for Hindus, who must unite for the coming 'dharma-yuddha' or lose their place.",
      "heading": "বেহালায় বিরাট হিন্দু সম্মেলন",
-     "page": 27
+     "page": 27,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "বাঙালি হিন্দু",
+     "claim_bn": "এটি হিন্দুদের জন্য 'শেষ ট্রেন'; তাদের ঐক্যবদ্ধ হতে হবে আসন্ন 'ধর্মযুদ্ধে', নইলে নিজেদের স্থান হারাতে হবে।"
     },
     {
      "theme": "history & icons",
      "target": "Alleged 'conspirators' / Mughal emperor Akbar",
      "claim": "A conspiracy is attempting to credit Akbar with the Bengali calendar instead of Gauda king Shashanka, as an attempt to impose 'desert culture' on Bengal.",
      "heading": "বঙ্গীয় সনাতনী সংস্কৃতি পরিষদের মঙ্গল শোভাযাত্রা (heading approximate)",
-     "page": 28
+     "page": 28,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "অভিযুক্ত 'ষড়যন্ত্রকারী' / মুঘল সম্রাট আকবর",
+     "claim_bn": "গৌড়েশ্বর শশাঙ্কের পরিবর্তে আকবরকে বাংলা সনের কৃতিত্ব দেওয়ার একটি ষড়যন্ত্র চলছে, যা বাংলার উপর 'মরুভূমির সংস্কৃতি' চাপিয়ে দেওয়ার প্রচেষ্টা।"
     },
     {
      "theme": "Bangladesh & Hindu persecution",
      "target": "Bangladesh",
      "claim": "The issue carries a piece on a 'new version of anarchy' in Bangladesh and an appeal to Bengali Hindus of West Bengal.",
      "heading": "বাংলাদেশে নৈরাজ্যের নতুন সংস্করণ / পশ্চিমবঙ্গের বাঙ্গালি হিন্দুদের প্রতি আবেদন",
-     "page": 39
+     "page": 39,
+     "theme_bn": "বাংলাদেশ ও হিন্দু নির্যাতন",
+     "target_bn": "বাংলাদেশ",
+     "claim_bn": "সংখ্যাটিতে বাংলাদেশে 'অরাজকতার নতুন সংস্করণ' এবং পশ্চিমবঙ্গের বাঙালি হিন্দুদের প্রতি একটি আবেদন নিয়ে লেখা রয়েছে।"
     },
     {
      "theme": "history & icons",
      "target": "RSS founder Dr Hedgewar / Gandhi",
      "claim": "A serialised account of Hedgewar's meeting with Gandhi at the Wardha camp portrays Gandhi as impressed by Sangh discipline, thrift and Hedgewar's character.",
      "heading": "গল্প কথায় ডাক্তারজী: গান্ধীজীর সঙ্ঘ দর্শন",
-     "page": 50
+     "page": 50,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "আরএসএস প্রতিষ্ঠাতা ডা. হেডগেওয়ার / গান্ধী",
+     "claim_bn": "ওয়ার্ধা শিবিরে হেডগেওয়ার ও গান্ধীর সাক্ষাতের ধারাবাহিক বিবরণে গান্ধীকে সঙ্ঘের শৃঙ্খলা, মিতব্যয়িতা ও হেডগেওয়ারের চরিত্রে প্রভাবিত রূপে দেখানো হয়েছে।"
     }
-   ]
+   ],
+   "label_bn": "",
+   "summary_bn": "২০২৬ সালের ২৭ এপ্রিল সংখ্যাটি পশ্চিমবঙ্গ বিধানসভা নির্বাচনের আগে একটি বিশেষ সংখ্যা। নির্বাচনকে তৃণমূলের কথিত কুশাসন শেষ করার চূড়ান্ত 'অগ্নিপরীক্ষা' হিসেবে তুলে ধরা হয়েছে; বাম ও তৃণমূল উভয়কেই ধারাবাহিক 'কুশাসন' হিসেবে চিত্রিত করা হয়েছে, যা অনুপ্রবেশ ও জনবিন্যাসগত পরিবর্তন সম্ভব করেছে, এবং হিন্দুদের ঐক্যবদ্ধ হয়ে নির্ভয়ে ভোট দেওয়ার আহ্বান জানানো হয়েছে। সংখ্যাটিতে সঙ্ঘ-সংশ্লিষ্ট সাংস্কৃতিক অনুষ্ঠানের (বাংলা নববর্ষ, হিন্দু সম্মেলন, বন্দে মাতরমের ১৫০ বছর) খবরও আছে এবং আরএসএস-এর শতবর্ষের ঐতিহ্যে ডাক্তারজি (হেডগেওয়ার) বিষয়ক একটি লেখা রয়েছে।"
   },
   {
    "issue": "20260420",
@@ -5361,7 +7920,13 @@ window.HINDUTVA = {
      "where": "Aikatan Sabhagriha, Purbanchal Sanskriti Kendra, Bidhannagar, Kolkata",
      "when": "1 April 2026",
      "page": 28,
-     "detail": "About 80 PhD-holding academics and administrators attended. VHP all-India organising secretary Milind Parande was the chief speaker, and a Hindutva 'theoretical fight' was urged. This was reportedly WAHA's first event in Kolkata, co-hosted with the Maulana Abul Kalam Azad Institute of Asian Studies and Purbanchal Sanskriti Kendra. VHP South Bengal president Subir Sanyal gave the vote of thanks."
+     "detail": "About 80 PhD-holding academics and administrators attended. VHP all-India organising secretary Milind Parande was the chief speaker, and a Hindutva 'theoretical fight' was urged. This was reportedly WAHA's first event in Kolkata, co-hosted with the Maulana Abul Kalam Azad Institute of Asian Studies and Purbanchal Sanskriti Kendra. VHP South Bengal president Subir Sanyal gave the vote of thanks.",
+     "title_bn": "হিন্দুত্ব নিয়ে ওয়াহা (ওয়ার্ল্ড অ্যাসোসিয়েশন অব হিন্দু অ্যাকাডেমিশিয়ানস) আলোচনা",
+     "org_bn": "অন্যান্য: ওয়ার্ল্ড অ্যাসোসিয়েশন অফ হিন্দু অ্যাকাডেমিশিয়ান্স (ডব্লিউএএইচএ), বিশ্ব হিন্দু পরিষদ নেতা মিলিন্দ পারান্দের সঙ্গে",
+     "type_bn": "সম্মেলন",
+     "where_bn": "ঐক্যতান সভাগৃহ, পূর্বাঞ্চল সংস্কৃতি কেন্দ্র, বিধাননগর, কলকাতা",
+     "when_bn": "১ এপ্রিল ২০২৬",
+     "detail_bn": "পিএইচডি-ধারী প্রায় ৮০ জন শিক্ষাবিদ ও প্রশাসক উপস্থিত ছিলেন। বিশ্ব হিন্দু পরিষদের সর্বভারতীয় সংগঠন সম্পাদক মিলিন্দ পারান্ডে ছিলেন মুখ্য বক্তা, এবং হিন্দুত্বের এক 'তাত্ত্বিক লড়াইয়ের' আহ্বান জানানো হয়। জানা যায়, এটি কলকাতায় ডব্লিউএএইচএ-র প্রথম অনুষ্ঠান, যা মৌলানা আবুল কালাম আজাদ ইনস্টিটিউট অফ এশিয়ান স্টাডিজ ও পূর্বাঞ্চল সংস্কৃতি কেন্দ্রের সঙ্গে যৌথভাবে আয়োজিত হয়। বিশ্ব হিন্দু পরিষদের দক্ষিণবঙ্গ সভাপতি সুবীর সান্যাল ধন্যবাদ জ্ঞাপন করেন।"
     },
     {
      "title": "150th anniversary of Vande Mataram at Victoria Memorial",
@@ -5370,7 +7935,13 @@ window.HINDUTVA = {
      "where": "Kolkata",
      "when": "8 April 2026",
      "page": 29,
-     "detail": "Marked Bankimchandra's 132nd death anniversary with Governor R. N. Ravi as chief guest. The programme included an exhibition and a Sanskar Bharati cultural programme titled 'Bankim and Swadesh Consciousness'."
+     "detail": "Marked Bankimchandra's 132nd death anniversary with Governor R. N. Ravi as chief guest. The programme included an exhibition and a Sanskar Bharati cultural programme titled 'Bankim and Swadesh Consciousness'.",
+     "title_bn": "ভিক্টোরিয়া মেমোরিয়ালে বন্দে মাতরমের ১৫০তম বার্ষিকী",
+     "org_bn": "অন্যান্য: ভিক্টোরিয়া মেমোরিয়াল হল ও সংস্কার ভারতী",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "কলকাতা",
+     "when_bn": "৮ এপ্রিল ২০২৬",
+     "detail_bn": "রাজ্যপাল আর. এন. রবিকে মুখ্য অতিথি করে বঙ্কিমচন্দ্রের ১৩২তম প্রয়াণ দিবস পালিত হয়। অনুষ্ঠানে একটি প্রদর্শনী এবং সংস্কার ভারতীর 'বঙ্কিম ও স্বদেশ চেতনা' শীর্ষক সাংস্কৃতিক অনুষ্ঠান ছিল।"
     },
     {
      "title": "Vande Mataram 150th anniversary session at the National Library",
@@ -5379,7 +7950,13 @@ window.HINDUTVA = {
      "where": "Kolkata",
      "when": "3 April 2026",
      "page": 30,
-     "detail": "Descendants of freedom fighters attended, along with RSS South Bengal prant pracharak Prashanta Bhatt and prant prachar pramukh Biplab Roy and the Bharatiya Kisan Sangh's Srinivasji. The theme was Bengal's contribution to the freedom struggle and a pledge to build society through patriotic awareness."
+     "detail": "Descendants of freedom fighters attended, along with RSS South Bengal prant pracharak Prashanta Bhatt and prant prachar pramukh Biplab Roy and the Bharatiya Kisan Sangh's Srinivasji. The theme was Bengal's contribution to the freedom struggle and a pledge to build society through patriotic awareness.",
+     "title_bn": "জাতীয় গ্রন্থাগারে বন্দে মাতরমের ১৫০তম বার্ষিকীর অধিবেশন",
+     "org_bn": "অন্যান্য: জাতীয় গ্রন্থাগার, কাঙালদা ফাউন্ডেশন ও সিপিআরডি",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "কলকাতা",
+     "when_bn": "৩ এপ্রিল ২০২৬",
+     "detail_bn": "স্বাধীনতা সংগ্রামীদের বংশধরেরা উপস্থিত ছিলেন, সঙ্গে ছিলেন আরএসএসের দক্ষিণবঙ্গ প্রান্ত প্রচারক প্রশান্ত ভট্ট, প্রান্ত প্রচার প্রমুখ বিপ্লব রায় এবং ভারতীয় কিষাণ সংঘের শ্রীনিবাসজি। আলোচ্য বিষয় ছিল স্বাধীনতা সংগ্রামে বাংলার অবদান এবং দেশাত্মবোধক সচেতনতার মাধ্যমে সমাজ গঠনের অঙ্গীকার।"
     },
     {
      "title": "Literary conference at Nandigram",
@@ -5388,7 +7965,13 @@ window.HINDUTVA = {
      "where": "Nandigram, Purba Medinipur",
      "when": "5 April 2026",
      "page": 30,
-     "detail": "Around 100 poets and writers attended a recitation, music and discussion programme at Ved Mandir Primary School. Four people were honoured."
+     "detail": "Around 100 poets and writers attended a recitation, music and discussion programme at Ved Mandir Primary School. Four people were honoured.",
+     "title_bn": "নন্দীগ্রামে সাহিত্য সম্মেলন",
+     "org_bn": "অন্যান্য: সাহিত্যের আঙিনা সাহিত্যগোষ্ঠী",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "নন্দীগ্রাম, পূর্ব মেদিনীপুর",
+     "when_bn": "৫ এপ্রিল ২০২৬",
+     "detail_bn": "বেদ মন্দির প্রাথমিক বিদ্যালয়ে আবৃত্তি, সংগীত ও আলোচনার অনুষ্ঠানে প্রায় ১০০ জন কবি ও লেখক উপস্থিত ছিলেন। চারজনকে সম্মানিত করা হয়।"
     },
     {
      "title": "Sri Ram Navami procession",
@@ -5397,7 +7980,13 @@ window.HINDUTVA = {
      "where": "Kolkata (from the Hanuman temple near Subodh Mallick Square to the Ram temple beside Thanthania Kalibari)",
      "when": "27 March 2026",
      "page": 41,
-     "detail": "A large procession led by 50 motorcycles with Ram flags, with tableaux of Ram-Sita and Hanuman and thousands of participants. It is reported through a child's letter in the Nabankur section."
+     "detail": "A large procession led by 50 motorcycles with Ram flags, with tableaux of Ram-Sita and Hanuman and thousands of participants. It is reported through a child's letter in the Nabankur section.",
+     "title_bn": "শ্রীরামনবমীর শোভাযাত্রা",
+     "org_bn": "অন্যান্য: শ্রী রামনবমী উদ্‌যাপন সমিতি",
+     "type_bn": "মিছিল/শোভাযাত্রা",
+     "where_bn": "কলকাতা (সুবোধ মল্লিক স্কোয়্যারের কাছে হনুমান মন্দির থেকে ঠনঠনিয়া কালীবাড়ির পাশের রাম মন্দির পর্যন্ত)",
+     "when_bn": "২৭ মার্চ ২০২৬",
+     "detail_bn": "রামের পতাকাসহ ৫০টি মোটরসাইকেলের নেতৃত্বে একটি বিশাল শোভাযাত্রা, যেখানে রাম-সীতা ও হনুমানের ট্যাবলো এবং হাজার হাজার অংশগ্রহণকারী ছিলেন। এটি নবাঙ্কুর বিভাগে একটি শিশুর চিঠির মাধ্যমে প্রকাশিত হয়েছে।"
     },
     {
      "title": "Panch Parivartan (five transformations) campaign for RSS centenary",
@@ -5406,7 +7995,13 @@ window.HINDUTVA = {
      "where": "All India",
      "when": "",
      "page": 8,
-     "detail": "As part of the RSS centenary, the 'Sajjan Shakti Jagaran' outreach to society includes five themes: swadeshi lifestyle, 'sva' expression, civic harmony, environment protection and family awakening (Parivar Prabodhan). An article by RSS Akhil Bharatiya Karyakari Mandal member Manmohan Vaidya explains the campaign."
+     "detail": "As part of the RSS centenary, the 'Sajjan Shakti Jagaran' outreach to society includes five themes: swadeshi lifestyle, 'sva' expression, civic harmony, environment protection and family awakening (Parivar Prabodhan). An article by RSS Akhil Bharatiya Karyakari Mandal member Manmohan Vaidya explains the campaign.",
+     "title_bn": "আরএসএসের শতবর্ষ উপলক্ষে পঞ্চ পরিবর্তন অভিযান",
+     "org_bn": "আরএসএস",
+     "type_bn": "শতবর্ষ",
+     "where_bn": "সারা ভারত",
+     "when_bn": "",
+     "detail_bn": "আরএসএস-এর শতবর্ষ উপলক্ষে সমাজের কাছে পৌঁছনোর 'সজ্জন শক্তি জাগরণ' কর্মসূচিতে পাঁচটি বিষয় রয়েছে: স্বদেশি জীবনশৈলী, 'স্ব'-এর প্রকাশ, নাগরিক সম্প্রীতি, পরিবেশ সুরক্ষা এবং পরিবার প্রবোধন। আরএসএসের অখিল ভারতীয় কার্যকারী মণ্ডলের সদস্য মনমোহন বৈদ্য একটি প্রবন্ধে এই অভিযানের ব্যাখ্যা দিয়েছেন।"
     },
     {
      "title": "Gandhi's visit to an RSS winter camp (historical account)",
@@ -5415,7 +8010,13 @@ window.HINDUTVA = {
      "where": "Wardha (Sevagram), Maharashtra",
      "when": "22 December 1934",
      "page": 50,
-     "detail": "A historical retelling of Gandhi visiting an RSS winter camp, where he is shown as impressed by the discipline and the absence of caste distinctions among swayamsevaks. It is used to burnish the RSS's image."
+     "detail": "A historical retelling of Gandhi visiting an RSS winter camp, where he is shown as impressed by the discipline and the absence of caste distinctions among swayamsevaks. It is used to burnish the RSS's image.",
+     "title_bn": "আরএসএসের শীতকালীন শিবিরে গান্ধীর পরিদর্শন (ঐতিহাসিক বিবরণ)",
+     "org_bn": "আরএসএস",
+     "type_bn": "শাখা/প্রশিক্ষণ শিবির",
+     "where_bn": "ওয়ার্ধা (সেবাগ্রাম), মহারাষ্ট্র",
+     "when_bn": "২২ ডিসেম্বর ১৯৩৪",
+     "detail_bn": "গান্ধীর একটি আরএসএস শীতকালীন শিবির পরিদর্শনের ঐতিহাসিক বিবরণ, যেখানে তাঁকে স্বয়ংসেবকদের শৃঙ্খলা ও জাতিভেদহীনতায় মুগ্ধ হিসেবে দেখানো হয়েছে। এটি আরএসএসের ভাবমূর্তি উজ্জ্বল করতে ব্যবহার করা হয়েছে।"
     }
    ],
    "narratives": [
@@ -5424,79 +8025,114 @@ window.HINDUTVA = {
      "target": "BJP (praised) and TMC (attacked)",
      "claim": "Poll surveys show a huge rise for BJP and a fall for TMC, and the paper asks whether this signals change.",
      "heading": "ভোট সমীক্ষায় বিজেপি-র বিশাল উত্থান আর তৃণমূলের পতন কি পরিবর্তনের ইঙ্গিত? যে কেবল পালিয়ে বেড়ায়",
-     "page": 6
+     "page": 6,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "বিজেপি (প্রশংসিত) ও তৃণমূল (আক্রান্ত)",
+     "claim_bn": "নির্বাচনী সমীক্ষায় বিজেপির বিপুল বৃদ্ধি ও তৃণমূলের পতন দেখা যাচ্ছে, এবং পত্রিকাটি প্রশ্ন তুলেছে এটি পরিবর্তনের ইঙ্গিত কি না।"
     },
     {
      "theme": "West Bengal elections",
      "target": "TMC/state government and the Left",
      "claim": "The ruling party is attacking opposition candidates, supporters and workers in several districts and is trying to make the state 'opposition-free'. The Left is trying to split the opposition vote, so the Election Commission and Supreme Court are the voters' only hope.",
      "heading": "বিধানসভা নির্বাচন - ২০২৬ (আগামী সংখ্যার আকর্ষণ)",
-     "page": 4
+     "page": 4,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "তৃণমূল/রাজ্য সরকার ও বামপন্থী",
+     "claim_bn": "শাসক দল কয়েকটি জেলায় বিরোধী প্রার্থী, সমর্থক ও কর্মীদের উপর আক্রমণ চালাচ্ছে এবং রাজ্যকে 'বিরোধীশূন্য' করার চেষ্টা করছে। বামপন্থীরা বিরোধী ভোট ভাগ করার চেষ্টা করছে, তাই নির্বাচন কমিশন ও সুপ্রিম কোর্টই ভোটারদের একমাত্র ভরসা।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "The Left and Islamic extremism",
      "claim": "The Left and Islamic fundamentalism are two sides of the same coin.",
      "heading": "বাম ও ইসলামি কট্টরপন্থা একই মুদ্রার এপিঠ-ওপিঠ",
-     "page": 36
+     "page": 36,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "বামপন্থী ও ইসলামি উগ্রবাদ",
+     "claim_bn": "বামপন্থী ও ইসলামি মৌলবাদ একই মুদ্রার দুই পিঠ।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "Election Commission and the judiciary",
      "claim": "A 'jihadi rampage' against judges in Kaliachak is alleged, and the paper asks why the Election Commission and the judiciary stay silent.",
      "heading": "কালিয়াচকে বিচারপতিদের ওপর জেহাদি তাণ্ডবে নির্বাচন কমিশন ও বিচারব্যবস্থা চুপ কেন?",
-     "page": 11
+     "page": 11,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "নির্বাচন কমিশন ও বিচারবিভাগ",
+     "claim_bn": "কালিয়াচকে বিচারকদের বিরুদ্ধে 'জিহাদি তাণ্ডব'-এর অভিযোগ তোলা হয়েছে, এবং পত্রিকাটি প্রশ্ন তুলেছে নির্বাচন কমিশন ও বিচারবিভাগ কেন নীরব।"
     },
     {
      "theme": "infiltration/demography",
      "target": "Hindu demography",
      "claim": "Hindus are heading towards becoming a minority in Hindustan.",
      "heading": "হিন্দুস্থানে হিন্দুরাই সংখ্যালঘু হওয়ার পথে",
-     "page": 47
+     "page": 47,
+     "theme_bn": "অনুপ্রবেশ/জনবিন্যাস",
+     "target_bn": "হিন্দু জনবিন্যাস",
+     "claim_bn": "হিন্দুরা হিন্দুস্থানে সংখ্যালঘু হওয়ার দিকে এগোচ্ছে।"
     },
     {
      "theme": "West Bengal elections",
      "target": "Left/Bengali politics",
      "claim": "A 'small mistake' in the vote could expose Bengalis to an experience like Partition, the paper warns.",
      "heading": "একটা ছোটো ভুল আবার বাঙ্গালিকে দেশভাগের মতো অভিজ্ঞতার সম্মুখীন করবে না তো?",
-     "page": 48
+     "page": 48,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "বামপন্থী/বাংলার রাজনীতি",
+     "claim_bn": "ভোটে একটি 'ছোট ভুল' বাঙালিদের দেশভাগের মতো অভিজ্ঞতার মুখে ফেলতে পারে, পত্রিকাটি সতর্ক করেছে।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "Bengali identity",
      "claim": "Bengali identity is welcome but must not deny Indian identity.",
      "heading": "বাঙ্গালিয়ানা কাম্য কিন্তু ভারতীয়ত্বকে অস্বীকার করে নয়",
-     "page": 38
+     "page": 38,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "বাঙালি পরিচয়",
+     "claim_bn": "বাঙালি পরিচয় স্বাগত, কিন্তু তা ভারতীয় পরিচয়কে অস্বীকার করতে পারে না।"
     },
     {
      "theme": "culture/religion",
      "target": "Hindu values",
      "claim": "The editorial and several articles present Akshaya Tritiya as a pan-Indian Hindu festival of spiritual merit and charity.",
      "heading": "মানব কল্যাণের এক শুভ মুহূর্ত",
-     "page": 5
+     "page": 5,
+     "theme_bn": "সংস্কৃতি/ধর্ম",
+     "target_bn": "হিন্দু মূল্যবোধ",
+     "claim_bn": "সম্পাদকীয় ও একাধিক নিবন্ধে অক্ষয় তৃতীয়াকে পুণ্য ও দানের সর্বভারতীয় হিন্দু উৎসব হিসেবে তুলে ধরা হয়েছে।"
     },
     {
      "theme": "culture/religion",
      "target": "RSS Panch Parivartan",
      "claim": "The RSS's five-point programme is presented as a resolve to establish Bharatiya identity.",
      "heading": "সঙ্ঘের পঞ্চ পরিবর্তন কর্মসূচি ভারতীয় প্রতিষ্ঠারই সংকল্প",
-     "page": 8
+     "page": 8,
+     "theme_bn": "সংস্কৃতি/ধর্ম",
+     "target_bn": "আরএসএস পঞ্চ পরিবর্তন",
+     "claim_bn": "আরএসএসের পাঁচ দফা কর্মসূচিকে ভারতীয় পরিচয় প্রতিষ্ঠার সংকল্প হিসেবে তুলে ধরা হয়েছে।"
     },
     {
      "theme": "history & icons",
      "target": "Left-liberals and Congress",
      "claim": "At the WAHA event, Left-liberals were said to spread propaganda that creates artificial divisions among Bengalis. The speaker also rejected the 'Left-Congress narrative' that the RSS was indifferent to the freedom struggle.",
      "heading": "ডবুএএইচএ আলোচনাসভা",
-     "page": 29
+     "page": 29,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "বাম-উদারপন্থী ও কংগ্রেস",
+     "claim_bn": "ওয়াহা-র অনুষ্ঠানে বলা হয়, বাম-উদারপন্থীরা এমন প্রচার চালায় যা বাঙালিদের মধ্যে কৃত্রিম বিভাজন তৈরি করে। বক্তা 'বাম-কংগ্রেসি ভাষ্য'-ও প্রত্যাখ্যান করেন যে আরএসএস স্বাধীনতা সংগ্রামে উদাসীন ছিল।"
     },
     {
      "theme": "history & icons",
      "target": "Subhas Chandra Bose",
      "claim": "The formation of the Azad Hind government is presented as the decisive last blow against the British.",
      "heading": "আজাদ হিন্দ সরকার গঠন ও ব্রিটিশের বিরুদ্ধে শেষ মোক্ষম লড়াই",
-     "page": 43
+     "page": 43,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "সুভাষচন্দ্র বসু",
+     "claim_bn": "আজাদ হিন্দ সরকার গঠনকে ব্রিটিশদের বিরুদ্ধে নির্ণায়ক শেষ আঘাত হিসেবে তুলে ধরা হয়েছে।"
     }
-   ]
+   ],
+   "label_bn": "",
+   "summary_bn": "২০২৬ সালের ২০ এপ্রিল সংখ্যাটি পশ্চিমবঙ্গ বিধানসভা নির্বাচনের ঠিক আগে প্রকাশিত। এতে নির্বাচনের একটি হিন্দু-জাতীয়তাবাদী ব্যাখ্যা তুলে ধরা হয়েছে: দাবি করা হয়েছে বিজেপি এগিয়ে চলেছে আর তৃণমূল ধসে পড়ছে; শাসক দলের সন্ত্রাস ও জেহাদি আগ্রাসনের অভিযোগ তোলা হয়েছে; এবং বলা হয়েছে বামপন্থীরা বিরোধী ভোট ভাগ করে এবং তারা ইসলামি উগ্রবাদের সঙ্গে অভিন্ন। আরএসএস-এর শতবর্ষের কর্মসূচি, বিশেষত 'পঞ্চ পরিবর্তন' ও 'স্বদেশি জীবনশৈলী', এবং হিন্দুত্বের আঙ্গিকে বাঙালি পরিচয়কে সামনে আনা হয়েছে। এ ছাড়াও রয়েছে অক্ষয় তৃতীয়ার ভক্তিমূলক লেখা, বন্দে মাতরমের ১৫০ বছর উপলক্ষে অনুষ্ঠান এবং ভারতে হিন্দুরা সংখ্যালঘু হয়ে পড়ছে—এই দাবি। পরবর্তী সংখ্যায় নির্বাচন, প্রধান বিরোধী দলের ওপর হামলার অভিযোগ এবং নিরাপদ ভোট নিশ্চিত করতে নির্বাচন কমিশন ও সুপ্রিম কোর্টের প্রতি আহ্বান থাকবে বলে বিজ্ঞাপন দেওয়া হয়েছে।"
   },
   {
    "issue": "20260413",
@@ -5512,7 +8148,13 @@ window.HINDUTVA = {
      "where": "West Bengal (all districts)",
      "when": "25 March to 2 April (Hanuman Jayanti) 2026",
      "page": 24,
-     "detail": "Ram Navami celebration committees formed in villages and city wards; the paper claims 3 crore Hindus took part, with 138 large processions and about 4,000 in total, around 70 in Kolkata."
+     "detail": "Ram Navami celebration committees formed in villages and city wards; the paper claims 3 crore Hindus took part, with 138 large processions and about 4,000 in total, around 70 in Kolkata.",
+     "title_bn": "শ্রীরাম মহোৎসব (রাজ্যজুড়ে রামনবমী উদ্যাপন)",
+     "org_bn": "অন্যান্য: শ্রী রামনবমী উদ্‌যাপন সমিতিগুলি (বিশ্ব হিন্দু পরিষদের সঙ্গে)",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "পশ্চিমবঙ্গ (সব জেলা)",
+     "when_bn": "২৫ মার্চ থেকে ২ এপ্রিল (হনুমান জয়ন্তী) ২০২৬",
+     "detail_bn": "গ্রাম ও শহরের ওয়ার্ডে ওয়ার্ডে রামনবমী উদ্‌যাপন কমিটি গঠিত হয়; পত্রিকাটির দাবি, ৩ কোটি হিন্দু অংশ নিয়েছেন, ১৩৮টি বড় শোভাযাত্রা সহ মোট প্রায় ৪,০০০টি, কলকাতায় প্রায় ৭০টি।"
     },
     {
      "title": "Foundation stone of Sri Krittibas Ram Mandir",
@@ -5521,7 +8163,13 @@ window.HINDUTVA = {
      "where": "Phulia, Shantipur, Nadia",
      "when": "25 March",
      "page": 24,
-     "detail": "Bhoomi pujan with soil from Ayodhya and sacred paduka; 108 priests performed homa, and about 10,000 people took prasad."
+     "detail": "Bhoomi pujan with soil from Ayodhya and sacred paduka; 108 priests performed homa, and about 10,000 people took prasad.",
+     "title_bn": "শ্রী কৃত্তিবাস রাম মন্দিরের শিলান্যাস",
+     "org_bn": "অন্যান্য: শ্রী কৃত্তিবাস রাম মন্দির ট্রাস্ট",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "ফুলিয়া, শান্তিপুর, নদিয়া",
+     "when_bn": "২৫ মার্চ",
+     "detail_bn": "অযোধ্যার মাটি ও পবিত্র পাদুকাসহ ভূমি পূজন; ১০৮ জন পুরোহিত হোম করেন এবং প্রায় ১০,০০০ মানুষ প্রসাদ গ্রহণ করেন।"
     },
     {
      "title": "Ram Navami procession with Suvendu Adhikari",
@@ -5530,7 +8178,13 @@ window.HINDUTVA = {
      "where": "Bhabanipur, Kolkata",
      "when": "26 March",
      "page": 24,
-     "detail": "Leader of Opposition Suvendu Adhikari joined a procession from Jadubabur Bazar with kirtan and 'Jai Shri Ram' chants, worshipped at a temple and met locals."
+     "detail": "Leader of Opposition Suvendu Adhikari joined a procession from Jadubabur Bazar with kirtan and 'Jai Shri Ram' chants, worshipped at a temple and met locals.",
+     "title_bn": "শুভেন্দু অধিকারীর সঙ্গে রামনবমীর শোভাযাত্রা",
+     "org_bn": "বিজেপি",
+     "type_bn": "মিছিল/শোভাযাত্রা",
+     "where_bn": "ভবানীপুর, কলকাতা",
+     "when_bn": "২৬ মার্চ",
+     "detail_bn": "বিরোধী দলনেতা শুভেন্দু অধিকারী যদুবাবুর বাজার থেকে কীর্তন ও 'জয় শ্রীরাম' ধ্বনিসহ একটি শোভাযাত্রায় যোগ দেন, মন্দিরে পুজো দেন এবং স্থানীয়দের সঙ্গে সাক্ষাৎ করেন।"
     },
     {
      "title": "ABVP Ram Navami puja at Jadavpur University",
@@ -5539,7 +8193,13 @@ window.HINDUTVA = {
      "where": "Jadavpur University, Kolkata",
      "when": "26 March",
      "page": 24,
-     "detail": "ABVP held Ram puja at two campus spots; Left and ultra-Left students gathered and raised slogans, and the Vice-Chancellor intervened. The paper says 'Jai Shri Ram' drowned out the Left."
+     "detail": "ABVP held Ram puja at two campus spots; Left and ultra-Left students gathered and raised slogans, and the Vice-Chancellor intervened. The paper says 'Jai Shri Ram' drowned out the Left.",
+     "title_bn": "যাদবপুর বিশ্ববিদ্যালয়ে এবিভিপি-র রামনবমী পুজো",
+     "org_bn": "এবিভিপি",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "যাদবপুর বিশ্ববিদ্যালয়, কলকাতা",
+     "when_bn": "২৬ মার্চ",
+     "detail_bn": "এবিভিপি ক্যাম্পাসের দুটি জায়গায় রামপুজো করে; বামপন্থী ও চরম বামপন্থী ছাত্ররা জড়ো হয়ে স্লোগান দেয় এবং উপাচার্য হস্তক্ষেপ করেন। পত্রিকার দাবি, 'জয় শ্রীরাম' ধ্বনিতে বামপন্থীদের স্লোগান ঢাকা পড়ে যায়।"
     },
     {
      "title": "ABVP Ram Navami puja outside Calcutta University gate",
@@ -5548,7 +8208,13 @@ window.HINDUTVA = {
      "where": "Calcutta University, Kolkata",
      "when": "26 March",
      "page": 25,
-     "detail": "With permission refused, ABVP members performed Ram Navami puja outside the main gate of the college campus."
+     "detail": "With permission refused, ABVP members performed Ram Navami puja outside the main gate of the college campus.",
+     "title_bn": "কলকাতা বিশ্ববিদ্যালয়ের গেটের বাইরে এবিভিপি-র রামনবমী পুজো",
+     "org_bn": "এবিভিপি",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "কলকাতা বিশ্ববিদ্যালয়, কলকাতা",
+     "when_bn": "২৬ মার্চ",
+     "detail_bn": "অনুমতি প্রত্যাখ্যাত হওয়ায় এবিভিপি সদস্যরা কলেজ চত্বরের প্রধান ফটকের বাইরে রামনবমীর পূজা করেন।"
     },
     {
      "title": "Belgachia/Beleghata Ram Navami procession",
@@ -5557,7 +8223,13 @@ window.HINDUTVA = {
      "where": "Beleghata, East Kolkata",
      "when": "26 March",
      "page": 25,
-     "detail": "A roughly 4 km procession with tableaux, women's dhak drummers, sannyasis, motorbike rally and DJ, from Baraf Kol Mor to CIT Building Mor."
+     "detail": "A roughly 4 km procession with tableaux, women's dhak drummers, sannyasis, motorbike rally and DJ, from Baraf Kol Mor to CIT Building Mor.",
+     "title_bn": "বেলগাছিয়া/বেলেঘাটার রামনবমী শোভাযাত্রা",
+     "org_bn": "অন্যান্য: বেলেঘাটা নাগরিক সমাজ / রামনবমী উদ্‌যাপন সমিতি",
+     "type_bn": "মিছিল/শোভাযাত্রা",
+     "where_bn": "বেলেঘাটা, পূর্ব কলকাতা",
+     "when_bn": "২৬ মার্চ",
+     "detail_bn": "বরফ কল মোড় থেকে সিআইটি বিল্ডিং মোড় পর্যন্ত প্রায় ৪ কিলোমিটারের একটি শোভাযাত্রা, যাতে ছিল ট্যাবলো, মহিলা ঢাকিদের দল, সন্ন্যাসী, মোটরবাইক র‍্যালি ও ডিজে।"
     },
     {
      "title": "Bajbaj to Satgachia/Vidyanagar Math religious procession",
@@ -5566,7 +8238,13 @@ window.HINDUTVA = {
      "where": "Bajbaj, South 24 Parganas (Gangasagar district)",
      "when": "27 March",
      "page": 25,
-     "detail": "Organised by Bakhrahat Ram Navami committee with Gangasagar district VHP; the paper says thousands joined, and it marked the 10th year."
+     "detail": "Organised by Bakhrahat Ram Navami committee with Gangasagar district VHP; the paper says thousands joined, and it marked the 10th year.",
+     "title_bn": "বাজবাজ থেকে সাতগেছিয়া/বিদ্যানগর মঠ পর্যন্ত ধর্মীয় শোভাযাত্রা",
+     "org_bn": "বিশ্ব হিন্দু পরিষদ",
+     "type_bn": "মিছিল/শোভাযাত্রা",
+     "where_bn": "বাজবাজ, দক্ষিণ ২৪ পরগনা (গঙ্গাসাগর জেলা)",
+     "when_bn": "২৭ মার্চ",
+     "detail_bn": "বাখরাহাট রামনবমী কমিটি গঙ্গাসাগর জেলা বিশ্ব হিন্দু পরিষদের সঙ্গে মিলে আয়োজন করে; পত্রিকাটির দাবি, হাজার হাজার মানুষ যোগ দিয়েছিলেন, এবং এটি ছিল দশম বর্ষ।"
     },
     {
      "title": "Barnpur Ram Navami puja with Agnimitra Paul",
@@ -5575,7 +8253,13 @@ window.HINDUTVA = {
      "where": "Barnpur, Asansol (South)",
      "when": "27 March",
      "page": 25,
-     "detail": "BJP's Agnimitra Paul took part in a puja organised by Yuba Samiti Club."
+     "detail": "BJP's Agnimitra Paul took part in a puja organised by Yuba Samiti Club.",
+     "title_bn": "অগ্নিমিত্রা পালের উপস্থিতিতে বার্নপুরে রামনবমী পুজো",
+     "org_bn": "বিজেপি",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "বার্নপুর, আসানসোল (দক্ষিণ)",
+     "when_bn": "২৭ মার্চ",
+     "detail_bn": "যুবক সমিতি ক্লাব আয়োজিত পুজোয় বিজেপির অগ্নিমিত্রা পাল অংশ নেন।"
     },
     {
      "title": "Ram Navami processions in multiple towns",
@@ -5584,7 +8268,13 @@ window.HINDUTVA = {
      "where": "Siliguri, Ishwarpur, Kharagpur, Debra, Shantipur, Ranaghat, Krishnanagar, Kakdwip, Gaighata",
      "when": "26-27 March",
      "page": 25,
-     "detail": "Processions in many towns; BJP candidate Dr Shankar Ghosh attended in Siliguri."
+     "detail": "Processions in many towns; BJP candidate Dr Shankar Ghosh attended in Siliguri.",
+     "title_bn": "একাধিক শহরে রামনবমীর শোভাযাত্রা",
+     "org_bn": "অন্যান্য: স্থানীয় রামনবমী কমিটিগুলি",
+     "type_bn": "মিছিল/শোভাযাত্রা",
+     "where_bn": "শিলিগুড়ি, ঈশ্বরপুর, খড়্গপুর, দেবড়া, শান্তিপুর, রানাঘাট, কৃষ্ণনগর, কাকদ্বীপ, গাইঘাটা",
+     "when_bn": "২৬–২৭ মার্চ",
+     "detail_bn": "বহু শহরে শোভাযাত্রা; শিলিগুড়িতে বিজেপি প্রার্থী ডা. শঙ্কর ঘোষ উপস্থিত ছিলেন।"
     },
     {
      "title": "Ram puja at Benipur, Murshidabad",
@@ -5593,7 +8283,13 @@ window.HINDUTVA = {
      "where": "Mukundabag, Murshidabad",
      "when": "27 March",
      "page": 25,
-     "detail": "Local BJP candidate Gaurishankar Ghosh attended Ram puja in Benipur village."
+     "detail": "Local BJP candidate Gaurishankar Ghosh attended Ram puja in Benipur village.",
+     "title_bn": "মুর্শিদাবাদের বেনিপুরে রামপূজা",
+     "org_bn": "বিজেপি",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "মুকুন্দবাগ, মুর্শিদাবাদ",
+     "when_bn": "২৭ মার্চ",
+     "detail_bn": "স্থানীয় বিজেপি প্রার্থী গৌরীশঙ্কর ঘোষ বেনিপুর গ্রামে রাম পুজোয় যোগ দেন।"
     },
     {
      "title": "BMS-organised Ram Navami procession, Bongaon",
@@ -5602,7 +8298,13 @@ window.HINDUTVA = {
      "where": "Bongaon, North 24 Parganas",
      "when": "",
      "page": 25,
-     "detail": "Bharatiya Mazdoor Sangh organised a large procession; organisers held puja inside a hired vehicle after the ruling party's threat, without a pandal."
+     "detail": "Bharatiya Mazdoor Sangh organised a large procession; organisers held puja inside a hired vehicle after the ruling party's threat, without a pandal.",
+     "title_bn": "বিএমএস আয়োজিত রামনবমীর শোভাযাত্রা, বনগাঁ",
+     "org_bn": "বিএমএস",
+     "type_bn": "মিছিল/শোভাযাত্রা",
+     "where_bn": "বনগাঁ, উত্তর ২৪ পরগনা",
+     "when_bn": "",
+     "detail_bn": "ভারতীয় মজদুর সঙ্ঘ এক বিশাল মিছিলের আয়োজন করে; শাসকদলের হুমকির পর আয়োজকেরা প্যান্ডেল ছাড়াই ভাড়া করা একটি গাড়ির ভেতরে পুজো করেন।"
     },
     {
      "title": "VHP and Bajrang Dal Ram Navami procession, Nadia",
@@ -5611,7 +8313,13 @@ window.HINDUTVA = {
      "where": "Nadia",
      "when": "",
      "page": 25,
-     "detail": "A procession from Chandmari to Bhimpur and on to the VHP building, jointly by VHP and Bajrang Dal."
+     "detail": "A procession from Chandmari to Bhimpur and on to the VHP building, jointly by VHP and Bajrang Dal.",
+     "title_bn": "বিশ্ব হিন্দু পরিষদ ও বজরং দলের রামনবমী শোভাযাত্রা, নদিয়া",
+     "org_bn": "বিশ্ব হিন্দু পরিষদ",
+     "type_bn": "মিছিল/শোভাযাত্রা",
+     "where_bn": "নদিয়া",
+     "when_bn": "",
+     "detail_bn": "চাঁদমারি থেকে ভীমপুর হয়ে বিশ্ব হিন্দু পরিষদ ভবন পর্যন্ত বিশ্ব হিন্দু পরিষদ ও বজরং দলের যৌথ শোভাযাত্রা।"
     },
     {
      "title": "Attack on Ram Navami procession, Velatar, Purulia",
@@ -5620,7 +8328,13 @@ window.HINDUTVA = {
      "where": "Para, Purulia",
      "when": "",
      "page": 27,
-     "detail": "The paper alleges ruling-party miscreants threw stones and police lathi-charged the victims; MP Jyotirmoy Singh Mahato and BJP candidate Nadiarchand Bauri visited."
+     "detail": "The paper alleges ruling-party miscreants threw stones and police lathi-charged the victims; MP Jyotirmoy Singh Mahato and BJP candidate Nadiarchand Bauri visited.",
+     "title_bn": "রামনবমীর শোভাযাত্রায় হামলা, বেলাতার, পুরুলিয়া",
+     "org_bn": "অন্যান্য: হিন্দু সম্প্রদায়ের শোভাযাত্রা (বিজেপি নেতারা গিয়েছিলেন)",
+     "type_bn": "মিছিল/শোভাযাত্রা",
+     "where_bn": "পারা, পুরুলিয়া",
+     "when_bn": "",
+     "detail_bn": "পত্রিকার অভিযোগ, শাসকদলের দুষ্কৃতীরা পাথর ছুড়েছে এবং পুলিশ আক্রান্তদের উপরই লাঠিচার্জ করেছে; সাংসদ জ্যোতির্ময় সিং মাহাতো ও বিজেপি প্রার্থী নদিয়ারচাঁদ বাউরি সেখানে গিয়েছিলেন।"
     },
     {
      "title": "Attack on Ram Navami procession, Raghunathganj",
@@ -5629,7 +8343,13 @@ window.HINDUTVA = {
      "where": "Raghunathganj, Murshidabad",
      "when": "",
      "page": 27,
-     "detail": "The paper alleges 'jihadis' pelted stones at Phultala Mor, injuring many and vandalising and burning Hindu shops."
+     "detail": "The paper alleges 'jihadis' pelted stones at Phultala Mor, injuring many and vandalising and burning Hindu shops.",
+     "title_bn": "রামনবমীর শোভাযাত্রায় হামলা, রঘুনাথগঞ্জ",
+     "org_bn": "অন্যান্য: হিন্দু সম্প্রদায়ের শোভাযাত্রা",
+     "type_bn": "মিছিল/শোভাযাত্রা",
+     "where_bn": "রঘুনাথগঞ্জ, মুর্শিদাবাদ",
+     "when_bn": "",
+     "detail_bn": "পত্রিকার অভিযোগ, ফুলতলা মোড়ে 'জেহাদিরা' ইট ছুড়েছে, তাতে বহু মানুষ আহত হয়েছেন এবং হিন্দুদের দোকান ভাঙচুর ও পোড়ানো হয়েছে।"
     },
     {
      "title": "Alleged police harassment at Nalhati procession",
@@ -5638,7 +8358,13 @@ window.HINDUTVA = {
      "where": "Nalhati, Birbhum",
      "when": "",
      "page": 27,
-     "detail": "Allegations of police high-handedness against Hindus in a Ram Navami procession."
+     "detail": "Allegations of police high-handedness against Hindus in a Ram Navami procession.",
+     "title_bn": "নলহাটির শোভাযাত্রায় পুলিশি হয়রানির অভিযোগ",
+     "org_bn": "অন্যান্য: হিন্দু সম্প্রদায়ের শোভাযাত্রা",
+     "type_bn": "মিছিল/শোভাযাত্রা",
+     "where_bn": "নলহাটি, বীরভূম",
+     "when_bn": "",
+     "detail_bn": "রামনবমীর শোভাযাত্রায় হিন্দুদের উপর পুলিশের বাড়াবাড়ির অভিযোগ।"
     },
     {
      "title": "Shri Ram Pujan Mahotsav and procession, Bhatpara",
@@ -5647,7 +8373,13 @@ window.HINDUTVA = {
      "where": "Bhatpara and Kankinara, Barrackpore, North 24 Parganas",
      "when": "25 and 27 March",
      "page": 27,
-     "detail": "VHP (Kankinara Prakhand) held Ram pujan and a procession from Arya Samaj Mor to Hanuman Mandir at Madral; VHP, Bajrang Dal, Matri Shakti, Durga Vahini and Matua community members joined."
+     "detail": "VHP (Kankinara Prakhand) held Ram pujan and a procession from Arya Samaj Mor to Hanuman Mandir at Madral; VHP, Bajrang Dal, Matri Shakti, Durga Vahini and Matua community members joined.",
+     "title_bn": "শ্রীরাম পূজন মহোৎসব ও শোভাযাত্রা, ভাটপাড়া",
+     "org_bn": "বিশ্ব হিন্দু পরিষদ",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "ভাটপাড়া ও কাঁকিনাড়া, ব্যারাকপুর, উত্তর ২৪ পরগনা",
+     "when_bn": "২৫ ও ২৭ মার্চ",
+     "detail_bn": "বিশ্ব হিন্দু পরিষদ (কাঁকিনাড়া প্রখণ্ড) রাম পুজো এবং আর্য সমাজ মোড় থেকে মাদ্রালের হনুমান মন্দির পর্যন্ত শোভাযাত্রার আয়োজন করে; বিশ্ব হিন্দু পরিষদ, বজরং দল, মাতৃশক্তি, দুর্গাবাহিনী ও মতুয়া সম্প্রদায়ের সদস্যরা যোগ দেন।"
     },
     {
      "title": "VHP Ram Navami procession, Basirhat",
@@ -5656,7 +8388,13 @@ window.HINDUTVA = {
      "where": "Basirhat, North 24 Parganas",
      "when": "27 March",
      "page": 27,
-     "detail": "Attended by VHP South Bengal organising secretary Manik Chandra Pal and district functionary Shambhu Kundu."
+     "detail": "Attended by VHP South Bengal organising secretary Manik Chandra Pal and district functionary Shambhu Kundu.",
+     "title_bn": "বিশ্ব হিন্দু পরিষদের রামনবমী শোভাযাত্রা, বসিরহাট",
+     "org_bn": "বিশ্ব হিন্দু পরিষদ",
+     "type_bn": "মিছিল/শোভাযাত্রা",
+     "where_bn": "বসিরহাট, উত্তর ২৪ পরগনা",
+     "when_bn": "২৭ মার্চ",
+     "detail_bn": "বিশ্ব হিন্দু পরিষদের দক্ষিণবঙ্গ সংগঠন সম্পাদক মাণিক চন্দ্র পাল ও জেলা কার্যকর্তা শম্ভু কুণ্ডু উপস্থিত ছিলেন।"
     },
     {
      "title": "Andharthol Ram Navami festival",
@@ -5665,7 +8403,13 @@ window.HINDUTVA = {
      "where": "Bankura-1 block",
      "when": "27 March",
      "page": 27,
-     "detail": "Prasad distribution and a Ramayana picture exhibition."
+     "detail": "Prasad distribution and a Ramayana picture exhibition.",
+     "title_bn": "আন্ধারথোল রামনবমী উৎসব",
+     "org_bn": "অন্যান্য: আঁধারথোল গ্রাম উদ্যাপন সমিতি",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "বাঁকুড়া-১ ব্লক",
+     "when_bn": "২৭ মার্চ",
+     "detail_bn": "প্রসাদ বিতরণ ও রামায়ণের চিত্র প্রদর্শনী।"
     },
     {
      "title": "North Kolkata VHP Ram Navami procession",
@@ -5674,7 +8418,13 @@ window.HINDUTVA = {
      "where": "North Kolkata (Baranagar to Cossipore)",
      "when": "27 March",
      "page": 27,
-     "detail": "Held by VHP North Kolkata district and the Ram Navami committee, from the Baranagar Ramakrishna Mission school to Lalbabu Lane."
+     "detail": "Held by VHP North Kolkata district and the Ram Navami committee, from the Baranagar Ramakrishna Mission school to Lalbabu Lane.",
+     "title_bn": "উত্তর কলকাতা বিশ্ব হিন্দু পরিষদের রামনবমী শোভাযাত্রা",
+     "org_bn": "বিশ্ব হিন্দু পরিষদ",
+     "type_bn": "মিছিল/শোভাযাত্রা",
+     "where_bn": "উত্তর কলকাতা (বরানগর থেকে কাশীপুর)",
+     "when_bn": "২৭ মার্চ",
+     "detail_bn": "বিশ্ব হিন্দু পরিষদ উত্তর কলকাতা জেলা ও রামনবমী কমিটির উদ্যোগে বরানগর রামকৃষ্ণ মিশন স্কুল থেকে লালবাবু লেন পর্যন্ত অনুষ্ঠিত।"
     },
     {
      "title": "South Kolkata four-stream Ram Navami processions",
@@ -5683,7 +8433,13 @@ window.HINDUTVA = {
      "where": "South Kolkata (Garia, Tollygunge, Netajinagar, Mukundapur converging at Sulekha More)",
      "when": "27 March",
      "page": 27,
-     "detail": "Four processions from separate starting points converged at Sulekha More."
+     "detail": "Four processions from separate starting points converged at Sulekha More.",
+     "title_bn": "দক্ষিণ কলকাতার চার ধারার রামনবমী শোভাযাত্রা",
+     "org_bn": "অন্যান্য: শ্রী রামনবমী উদ্‌যাপন সমিতি, দক্ষিণ কলকাতা",
+     "type_bn": "মিছিল/শোভাযাত্রা",
+     "where_bn": "দক্ষিণ কলকাতা (গড়িয়া, টালিগঞ্জ, নেতাজিনগর, মুকুন্দপুর থেকে সুলেখা মোড়ে মিলিত)",
+     "when_bn": "২৭ মার্চ",
+     "detail_bn": "আলাদা আলাদা স্থান থেকে শুরু হওয়া চারটি মিছিল সুলেখা মোড়ে এসে মিলিত হয়।"
     },
     {
      "title": "RSS Deshapriya Bhag Ram Navami procession",
@@ -5692,7 +8448,13 @@ window.HINDUTVA = {
      "where": "South Kolkata (Tollygunge, Dhakuria, Rashbehari; 18 bastis)",
      "when": "27 March",
      "page": 28,
-     "detail": "About 625 swayamsevaks, boys, students and Matri Shakti took part; Rashbehari BJP candidate Dr Swapan Dasgupta attended."
+     "detail": "About 625 swayamsevaks, boys, students and Matri Shakti took part; Rashbehari BJP candidate Dr Swapan Dasgupta attended.",
+     "title_bn": "আরএসএস দেশপ্রিয় ভাগের রামনবমীর শোভাযাত্রা",
+     "org_bn": "আরএসএস",
+     "type_bn": "মিছিল/শোভাযাত্রা",
+     "where_bn": "দক্ষিণ কলকাতা (টালিগঞ্জ, ঢাকুরিয়া, রাসবিহারী; ১৮টি বস্তি)",
+     "when_bn": "২৭ মার্চ",
+     "detail_bn": "প্রায় ৬২৫ জন স্বয়ংসেবক, বালক, ছাত্র ও মাতৃশক্তি অংশ নেন; রাসবিহারীর বিজেপি প্রার্থী ডঃ স্বপন দাশগুপ্ত উপস্থিত ছিলেন।"
     },
     {
      "title": "Central Kolkata Ram Navami procession",
@@ -5701,7 +8463,13 @@ window.HINDUTVA = {
      "where": "Central Kolkata (Hind Cinema, Bowbazar, College Street to Bechu Chatterjee Street Ram Mandir)",
      "when": "27 March",
      "page": 28,
-     "detail": "Attended by advocate Ajay Nandi, Swastika sub-editor Sukeshchandra Mandal, Sanskar Bharati's Bharat Kundu and BJP candidate Bijay Ojha."
+     "detail": "Attended by advocate Ajay Nandi, Swastika sub-editor Sukeshchandra Mandal, Sanskar Bharati's Bharat Kundu and BJP candidate Bijay Ojha.",
+     "title_bn": "মধ্য কলকাতার রামনবমীর শোভাযাত্রা",
+     "org_bn": "অন্যান্য: শ্রী শ্রী রামনবমী উদ্‌যাপন সমিতি, মধ্য কলকাতা",
+     "type_bn": "মিছিল/শোভাযাত্রা",
+     "where_bn": "মধ্য কলকাতা (হিন্দ সিনেমা, বউবাজার, কলেজ স্ট্রিট থেকে বেচু চ্যাটার্জি স্ট্রিটের রাম মন্দির)",
+     "when_bn": "২৭ মার্চ",
+     "detail_bn": "আইনজীবী অজয় নন্দী, স্বস্তিকার সহ-সম্পাদক সুকেশচন্দ্র মণ্ডল, সংস্কার ভারতীর ভরত কুণ্ডু এবং বিজেপি প্রার্থী বিজয় ওঝা উপস্থিত ছিলেন।"
     },
     {
      "title": "Nimta-Mahajati Nagar Ram Navami Mahotsav",
@@ -5710,7 +8478,13 @@ window.HINDUTVA = {
      "where": "Nimta to Mahajati Nagar (Hanuman Mandir), North Kolkata",
      "when": "26 March",
      "page": 28,
-     "detail": "A large procession along Madhusudan Bandyopadhyay Road with sadhus and RSS and VHP members; BJP leader Keya Ghosh attended."
+     "detail": "A large procession along Madhusudan Bandyopadhyay Road with sadhus and RSS and VHP members; BJP leader Keya Ghosh attended.",
+     "title_bn": "নিমতা-মহাজাতি নগর রামনবমী মহোৎসব",
+     "org_bn": "অন্যান্য: পূর্ব সৈনিক সেবা পরিষদ (পশ্চিমবঙ্গ)",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "নিমতা থেকে মহাজাতি নগর (হনুমান মন্দির), উত্তর কলকাতা",
+     "when_bn": "২৬ মার্চ",
+     "detail_bn": "সাধু এবং আরএসএস ও বিশ্ব হিন্দু পরিষদের সদস্যদের নিয়ে মধুসূদন বন্দ্যোপাধ্যায় রোড ধরে একটি বিশাল শোভাযাত্রা; বিজেপি নেত্রী কেয়া ঘোষ উপস্থিত ছিলেন।"
     }
    ],
    "narratives": [
@@ -5719,86 +8493,124 @@ window.HINDUTVA = {
      "target": "BJP praised; TMC and CPIM attacked",
      "claim": "The paper says CPIM ruled 34 years and TMC 15 years with killings and ruin, and that West Bengal will revive only if voters choose BJP, the heir of Syama Prasad's Jana Sangh, in the 2026 election.",
      "heading": "(বঙ্গের অতীত-বর্তমান নিয়ে নিবন্ধ; শিরোনাম পাতায় দৃশ্যমান নয়)",
-     "page": 16
+     "page": 16,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "বিজেপি প্রশংসিত; তৃণমূল ও সিপিআই(এম) আক্রান্ত",
+     "claim_bn": "পত্রিকার বক্তব্য, সিপিআই(এম) ৩৪ বছর ও তৃণমূল ১৫ বছর খুন ও ধ্বংসের মধ্য দিয়ে শাসন করেছে, এবং ২০২৬ সালের নির্বাচনে ভোটাররা শ্যামাপ্রসাদের জনসঙ্ঘের উত্তরসূরি বিজেপিকে বেছে নিলেই কেবল পশ্চিমবঙ্গ আবার জেগে উঠবে।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Left parties / CPIM",
      "claim": "Leftists must be eradicated for good because they destroyed Bengal's heritage and culture, per the contents-page heading.",
      "heading": "বঙ্গের ঐতিহ্য ও সংস্কৃতি ধ্বংসকারী বামপন্থীদের চিরতরে নির্মূল করতে হবে",
-     "page": 35
+     "page": 35,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "বামপন্থী দলগুলি / সিপিআই(এম)",
+     "claim_bn": "সূচিপত্রের শিরোনাম অনুযায়ী, বামপন্থীদের চিরতরে নির্মূল করতে হবে, কারণ তারা বাংলার ঐতিহ্য ও সংস্কৃতি ধ্বংস করেছে।"
     },
     {
      "theme": "history & icons",
      "target": "Congress and Communists",
      "claim": "The editorial says Congress and Communists branded Syama Prasad communal, kept Bengalis feeling inferior, and let Bengali identity, language and the Bengali calendar be 'stolen'.",
      "heading": "সম্পাদকীয়",
-     "page": 5
+     "page": 5,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "কংগ্রেস ও কমিউনিস্টরা",
+     "claim_bn": "সম্পাদকীয়তে বলা হয়েছে, কংগ্রেস ও কমিউনিস্টরা শ্যামাপ্রসাদকে সাম্প্রদায়িক তকমা দিয়েছে, বাঙালিকে হীনম্মন্যতায় রেখেছে এবং বাঙালি পরিচয়, ভাষা ও বাংলা পঞ্জিকা 'চুরি' হতে দিয়েছে।"
     },
     {
      "theme": "history & icons",
      "target": "Communists / Mughal attribution of the calendar",
      "claim": "The editorial says Raja Shashanka founded the Bengali era, and Communists falsely credited it to Akbar to keep Bengalis mentally subdued for over three decades.",
      "heading": "সম্পাদকীয়",
-     "page": 5
+     "page": 5,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "কমিউনিস্ট / ক্যালেন্ডারের মুঘল আরোপ",
+     "claim_bn": "সম্পাদকীয়তে বলা হয়েছে, গৌড়াধিপতি রাজা শশাঙ্কই বঙ্গাব্দের প্রবর্তক, আর কমিউনিস্টরা তিন দশকেরও বেশি সময় ধরে বাঙালিকে মানসিকভাবে দমিয়ে রাখতে মিথ্যে করে এর কৃতিত্ব আকবরকে দিয়েছে।"
     },
     {
      "theme": "history & icons",
      "target": "Raja Shashanka",
      "claim": "Shashanka is presented as Bengal's first independent sovereign emperor and founder of the Bengali era, in several articles.",
      "heading": "বঙ্গাব্দের প্রবর্তক বঙ্গের প্রথম স্বাধীন ও সার্বভৌম সম্রাট মহারাজা শশাঙ্ক",
-     "page": 34
+     "page": 34,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "রাজা শশাঙ্ক",
+     "claim_bn": "একাধিক প্রবন্ধে শশাঙ্ককে বাংলার প্রথম স্বাধীন সার্বভৌম সম্রাট ও বঙ্গাব্দের প্রবর্তক হিসেবে তুলে ধরা হয়েছে।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "CPIM and the Left",
      "claim": "The Left is blamed for Marichjhapi, Bijon Setu, Dhantala, Bantala, the Sainbari killings and attacks on universities, plus industrial collapse; Jyoti Basu's era is described as 'a crocodile in water instead of a tiger on land'.",
      "heading": "(বামপন্থীদের শাসন নিয়ে নিবন্ধ; শিরোনাম পাতায় দৃশ্যমান নয়)",
-     "page": 16
+     "page": 16,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "সিপিআই(এম) ও বামপন্থীরা",
+     "claim_bn": "মরিচঝাঁপি, বিজন সেতু, ধান্তলা, বান্তলা, সাঁইবাড়ির হত্যাকাণ্ড ও বিশ্ববিদ্যালয়ে হামলা, পাশাপাশি শিল্পের পতনের জন্য বামপন্থীদের দায়ী করা হয়েছে; জ্যোতি বসুর আমলকে বর্ণনা করা হয়েছে 'ডাঙায় বাঘের বদলে জলে কুমির' বলে।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "TMC",
      "claim": "TMC is described as a by-product of Indira Congress, made up of goons, repeating the same killings and ruin from Kamduni and Sandeshkhali to Murshidabad.",
      "heading": "(বঙ্গের অতীত-বর্তমান নিয়ে নিবন্ধ; শিরোনাম পাতায় দৃশ্যমান নয়)",
-     "page": 16
+     "page": 16,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "তৃণমূল",
+     "claim_bn": "তৃণমূলকে ইন্দিরা কংগ্রেসের উপজাত এবং গুন্ডাদের দল হিসেবে বর্ণনা করা হয়েছে, যারা কামদুনি ও সন্দেশখালি থেকে মুর্শিদাবাদ পর্যন্ত একই হত্যা ও ধ্বংসের পুনরাবৃত্তি করছে।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "Bengali Hindus",
      "claim": "The issue calls on Bengalis to take a 'swadesh diksha' and restore their 'swa' identity, with the coming fight billed as one of life and death.",
      "heading": "বাঙ্গালির ভবিষ্যৎ : ছেলেখেলা নয়, লড়াইটা এবার মরা-বাঁচার",
-     "page": 11
+     "page": 11,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "বাঙালি হিন্দু",
+     "claim_bn": "সংখ্যাটিতে বাঙালিদের 'স্বদেশ দীক্ষা' নিতে ও তাদের 'স্ব' পরিচয় ফিরিয়ে আনতে আহ্বান জানানো হয়েছে; আসন্ন লড়াইকে জীবন-মরণের লড়াই বলা হয়েছে।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "Bengali Hindus / ruling party",
      "claim": "The paper says Ram Navami drew 3 crore Hindus and 4,000 processions across the state despite alleged ruling-party threats and attacks.",
      "heading": "শ্রীরামমহোৎসব (সমাবেশ সমাচার)",
-     "page": 24
+     "page": 24,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "বাঙালি হিন্দু / শাসকদল",
+     "claim_bn": "পত্রিকার বক্তব্য, শাসকদলের কথিত হুমকি ও হামলা সত্ত্বেও রামনবমীতে রাজ্যজুড়ে ৩ কোটি হিন্দু ও ৪,০০০ শোভাযাত্রা অংশ নিয়েছে।"
     },
     {
      "theme": "Bangladesh & Hindu persecution",
      "target": "'Jihadis' / ruling-party miscreants / police",
      "claim": "Ram Navami processions at Raghunathganj, Purulia and Nalhati are alleged to have been attacked by 'jihadis' or ruling-party miscreants, with police acting against the victims.",
      "heading": "সমাবেশ সমাচার (শ্রীরামনবমী শোভাযাত্রায় হামলা)",
-     "page": 27
+     "page": 27,
+     "theme_bn": "বাংলাদেশ ও হিন্দু নির্যাতন",
+     "target_bn": "'জিহাদি' / শাসক দলের দুষ্কৃতী / পুলিশ",
+     "claim_bn": "রঘুনাথগঞ্জ, পুরুলিয়া ও নলহাটিতে রামনবমীর শোভাযাত্রায় 'জেহাদি' বা শাসকদলের দুষ্কৃতীরা হামলা চালিয়েছে বলে অভিযোগ, আর পুলিশ নাকি ক্ষতিগ্রস্তদের বিরুদ্ধেই ব্যবস্থা নিয়েছে।"
     },
     {
      "theme": "history & icons",
      "target": "Women revolutionaries / Syama Prasad Mookerjee",
      "claim": "Bengal is presented as the cradle of women revolutionaries of the freedom struggle, and the editorial credits Syama Prasad with creating West Bengal to protect Hindu Bengalis from Pakistan.",
      "heading": "স্বাধীনতা সংগ্রামে নারী বিপ্লবীদেরও পীঠস্থান এই বঙ্গভূমি",
-     "page": 10
+     "page": 10,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "নারী বিপ্লবী / শ্যামাপ্রসাদ মুখোপাধ্যায়",
+     "claim_bn": "বাংলাকে স্বাধীনতা সংগ্রামের নারী বিপ্লবীদের সূতিকাগার হিসেবে তুলে ধরা হয়েছে, এবং সম্পাদকীয়তে বাঙালি হিন্দুদের পাকিস্তানের হাত থেকে রক্ষা করতে পশ্চিমবঙ্গ গঠনের কৃতিত্ব শ্যামাপ্রসাদকে দেওয়া হয়েছে।"
     },
     {
      "theme": "history & icons",
      "target": "RSS / Dr Hedgewar",
      "claim": "The serialised Doctorji story shows the Sangh as apolitical and non-communal, depicts it winning over literary figures despite colonial bans in 1932-33, and holds it up as 'the manifestation of power'.",
      "heading": "গল্পকথায় ডাক্তারজী",
-     "page": 48
+     "page": 48,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "আরএসএস / ডা. হেডগেওয়ার",
+     "claim_bn": "ধারাবাহিক ডাক্তারজি কাহিনিতে সংঘকে অরাজনৈতিক ও অসাম্প্রদায়িক হিসেবে দেখানো হয়েছে, ১৯৩২-৩৩ সালে ঔপনিবেশিক নিষেধাজ্ঞা সত্ত্বেও সাহিত্যিকদের মন জয় করার চিত্র আঁকা হয়েছে এবং একে 'শক্তির প্রকাশ' হিসেবে তুলে ধরা হয়েছে।"
     }
-   ]
+   ],
+   "label_bn": "",
+   "summary_bn": "এই বাংলা নববর্ষ (পয়লা বৈশাখ ১৪৩৩) বিশেষ সংখ্যা ২০২৬ সালের পশ্চিমবঙ্গ বিধানসভা নির্বাচনকে একটি সভ্যতাগত পছন্দ হিসেবে উপস্থাপন করেছে। এতে 'বাঙালি পরিচয়'-এর বয়ান তুলে ধরা হয়েছে: বঙ্গাব্দের প্রতিষ্ঠাতা হিসেবে রাজা শশাঙ্কের মহিমা কীর্তন করা হয়েছে, দাবি করা হয়েছে কংগ্রেস ও কমিউনিস্টরা বাঙালির ঐতিহ্য চুরি করে বাঙালিকে 'হীন' করে রেখেছে, এবং ৩৪ বছরের সিপিআই(এম) ও ১৫ বছরের তৃণমূল শাসনকে ধ্বংসের কাল হিসেবে চিত্রিত করা হয়েছে। এতে স্পষ্টভাবে ভোটারদের শ্যামাপ্রসাদ মুখোপাধ্যায়ের জনসঙ্গের উত্তরসূরি হিসেবে বিজেপিকে বেছে নিতে আহ্বান জানানো হয়েছে এবং বামপন্থীদের নিশ্চিহ্ন করার ডাক দেওয়া হয়েছে। প্রতিবেদনগুলিতে রয়েছে রামনবমী কমিটিগুলির উদ্যোগে বিশ্ব হিন্দু পরিষদ, বজরং দল, আরএসএস ও এবিভিপি-র সঙ্গে রাজ্যজুড়ে শ্রীরামনবমীর মহা-উদ্যাপন (শ্রীরাম মহোৎসব), যেখানে বিজেপি প্রার্থীরা ও শুভেন্দু অধিকারী শোভাযাত্রায় যোগ দেন, পাশাপাশি 'জিহাদি' ও শাসক দলের দুষ্কৃতীদের শোভাযাত্রায় হামলার বিবরণ। ধারাবাহিক ডাক্তারজি (হেডগেওয়ার) কাহিনি আরএসএসের শতবর্ষ-পর্বের বয়ানকে সমর্থন করেছে।"
   },
   {
    "issue": "20260406",
@@ -5814,7 +8626,13 @@ window.HINDUTVA = {
      "where": "Kolkata (Pathuriaghat to Bhutnath Ghat, Nimtala)",
      "when": "19 March",
      "page": 26,
-     "detail": "A large procession with Vedic chanting, a Ram Darbar, Durga Mata, Rana Pratap and Bharat Mata tableaux, and regional dances. It ended with a Ganga aarti at Bhutnath Ghat. Many organisations took part, including VHP and Nirmal Ganga Chetana Mancha."
+     "detail": "A large procession with Vedic chanting, a Ram Darbar, Durga Mata, Rana Pratap and Bharat Mata tableaux, and regional dances. It ended with a Ganga aarti at Bhutnath Ghat. Many organisations took part, including VHP and Nirmal Ganga Chetana Mancha.",
+     "title_bn": "হিন্দু নববর্ষ (কলিযুগাব্দ ৫১২৮ / বিক্রম সংবৎ ২০৮৩) বরণ শোভাযাত্রা",
+     "org_bn": "অন্যান্য: ভারতীয় সংস্কৃতি সংবর্ধন সমিতি (বিশ্ব হিন্দু পরিষদ ও অন্যান্য সংগঠনের সঙ্গে)",
+     "type_bn": "মিছিল/শোভাযাত্রা",
+     "where_bn": "কলকাতা (পাথুরিয়াঘাট থেকে নিমতলার ভূতনাথ ঘাট)",
+     "when_bn": "১৯ মার্চ",
+     "detail_bn": "বৈদিক মন্ত্রোচ্চারণ, রাম দরবার, দুর্গা মাতা, রানা প্রতাপ ও ভারত মাতার ট্যাবলো এবং আঞ্চলিক নৃত্যসহ একটি বিশাল শোভাযাত্রা। এটি ভূতনাথ ঘাটে গঙ্গা আরতির মাধ্যমে শেষ হয়। বিশ্ব হিন্দু পরিষদ ও নির্মল গঙ্গা চেতনা মঞ্চসহ বহু সংগঠন অংশ নিয়েছিল।"
     },
     {
      "title": "Sant Prabas (saints' tour) inauguration at Gangasagar",
@@ -5823,7 +8641,13 @@ window.HINDUTVA = {
      "where": "Gangasagar, South 24 Parganas, and across West Bengal",
      "when": "11-18 March",
      "page": 26,
-     "detail": "A statewide saints' tour that opened at Gangasagar on 11 March with cow worship, tulsi worship, Ganga aarti and a Vishwa Shanti Yajna attended by about 5,000 locals. The saints said it will continue through the year."
+     "detail": "A statewide saints' tour that opened at Gangasagar on 11 March with cow worship, tulsi worship, Ganga aarti and a Vishwa Shanti Yajna attended by about 5,000 locals. The saints said it will continue through the year.",
+     "title_bn": "গঙ্গাসাগরে সন্ত প্রবাসের (সন্তদের সফর) উদ্বোধন",
+     "org_bn": "বিশ্ব হিন্দু পরিষদ",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "গঙ্গাসাগর, দক্ষিণ ২৪ পরগনা এবং সারা পশ্চিমবঙ্গে",
+     "when_bn": "১১-১৮ মার্চ",
+     "detail_bn": "১১ মার্চ গঙ্গাসাগরে শুরু হওয়া রাজ্যব্যাপী সাধুসন্তদের সফর, যেখানে গোপূজা, তুলসীপূজা, গঙ্গা আরতি ও বিশ্বশান্তি যজ্ঞ হয় এবং প্রায় ৫,০০০ স্থানীয় মানুষ উপস্থিত ছিলেন। সাধুসন্তরা জানান, সারা বছর এই সফর চলবে।"
     },
     {
      "title": "Gita recitation and Varaha avatar worship",
@@ -5832,7 +8656,13 @@ window.HINDUTVA = {
      "where": "Baranagar, Kolkata (Lakshmi Narayan temple)",
      "when": "",
      "page": 28,
-     "detail": "Gita recitation and a special puja of Vishnu's Varaha avatar, with a homa and talks by monks and saints from several mathas and ashrams."
+     "detail": "Gita recitation and a special puja of Vishnu's Varaha avatar, with a homa and talks by monks and saints from several mathas and ashrams.",
+     "title_bn": "গীতাপাঠ ও বরাহ অবতারের পূজা",
+     "org_bn": "হিন্দু জাগরণ মঞ্চ",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "বরানগর, কলকাতা (লক্ষ্মীনারায়ণ মন্দির)",
+     "when_bn": "",
+     "detail_bn": "গীতাপাঠ এবং বিষ্ণুর বরাহ অবতারের বিশেষ পূজা, হোম এবং বিভিন্ন মঠ ও আশ্রমের সন্ন্যাসী ও সাধুদের বক্তব্যসহ।"
     },
     {
      "title": "Swami Vivekananda and Netaji Subhas remembrance programme",
@@ -5841,7 +8671,13 @@ window.HINDUTVA = {
      "where": "Kolkata",
      "when": "25 January",
      "page": 30,
-     "detail": "Vedic chanting, speeches on Vivekananda and Netaji, and a musical tribute, with academics, sannyasinis and the Vidyapith heads taking part."
+     "detail": "Vedic chanting, speeches on Vivekananda and Netaji, and a musical tribute, with academics, sannyasinis and the Vidyapith heads taking part.",
+     "title_bn": "স্বামী বিবেকানন্দ ও নেতাজি সুভাষ স্মরণ অনুষ্ঠান",
+     "org_bn": "অন্যান্য: শ্রী শ্রী ওঙ্কারনাথ দেব বৈদিক বিদ্যাপীঠ",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "কলকাতা",
+     "when_bn": "২৫ জানুয়ারি",
+     "detail_bn": "বৈদিক মন্ত্রোচ্চারণ, বিবেকানন্দ ও নেতাজি বিষয়ে বক্তৃতা এবং সঙ্গীতাঞ্জলি, যেখানে শিক্ষাবিদ, সন্ন্যাসিনী ও বিদ্যাপীঠের প্রধানরা অংশ নেন।"
     },
     {
      "title": "Sevika route march (path sanchalan)",
@@ -5850,7 +8686,13 @@ window.HINDUTVA = {
      "where": "Malda",
      "when": "",
      "page": 30,
-     "detail": "More than 100 sevikas from the district's shakhas took part in a route march through Malda town. The report says the administration cooperated."
+     "detail": "More than 100 sevikas from the district's shakhas took part in a route march through Malda town. The report says the administration cooperated.",
+     "title_bn": "সেবিকাদের পথসঞ্চলন",
+     "org_bn": "আরএসএস",
+     "type_bn": "শাখা/প্রশিক্ষণ শিবির",
+     "where_bn": "মালদা",
+     "when_bn": "",
+     "detail_bn": "জেলার শাখাগুলির একশোরও বেশি সেবিকা মালদা শহরে একটি রুটমার্চে অংশ নেন। প্রতিবেদন অনুযায়ী প্রশাসন সহযোগিতা করেছে।"
     },
     {
      "title": "Shraddha Nibedan tribute to an elderly woman (171st)",
@@ -5859,7 +8701,13 @@ window.HINDUTVA = {
      "where": "Suri (Birbhum)",
      "when": "22 March",
      "page": 28,
-     "detail": "The Suri social group honoured an 81-year-old woman on 22 March. The event included puja, a citation, gifts of cloth and a Gita, and remarks by local figures. The report does not link it to the Sangh."
+     "detail": "The Suri social group honoured an 81-year-old woman on 22 March. The event included puja, a citation, gifts of cloth and a Gita, and remarks by local figures. The report does not link it to the Sangh.",
+     "title_bn": "এক বয়োবৃদ্ধার প্রতি শ্রদ্ধা নিবেদন (১৭১তম)",
+     "org_bn": "অন্যান্য: শ্রদ্ধা (সিউড়ির সামাজিক সংগঠন)",
+     "type_bn": "সেবা/ত্রাণ",
+     "where_bn": "সিউড়ি (বীরভূম)",
+     "when_bn": "২২ মার্চ",
+     "detail_bn": "সুরি সামাজিক গোষ্ঠী ২২ মার্চ এক ৮১ বছর বয়সী মহিলাকে সংবর্ধনা জানায়। অনুষ্ঠানে পূজা, মানপত্র পাঠ, বস্ত্র ও গীতা উপহার এবং স্থানীয় ব্যক্তিদের বক্তব্য ছিল। প্রতিবেদনে অনুষ্ঠানটিকে সংঘের সঙ্গে যুক্ত করা হয়নি।"
     },
     {
      "title": "Pre-election appeal for 100% voting",
@@ -5868,7 +8716,13 @@ window.HINDUTVA = {
      "where": "West Bengal",
      "when": "23 and 29 April",
      "page": 5,
-     "detail": "The editorial urges well-meaning voters to vote in full, calling the election decisive for the survival of Hindu society."
+     "detail": "The editorial urges well-meaning voters to vote in full, calling the election decisive for the survival of Hindu society.",
+     "title_bn": "নির্বাচনের আগে ১০০ শতাংশ ভোটদানের আবেদন",
+     "org_bn": "অন্যান্য: স্বস্তিকার সম্পাদকীয়",
+     "type_bn": "রাজনৈতিক প্রচার",
+     "where_bn": "পশ্চিমবঙ্গ",
+     "when_bn": "২৩ ও ২৯ এপ্রিল",
+     "detail_bn": "সম্পাদকীয়তে শুভবুদ্ধিসম্পন্ন ভোটারদের পূর্ণ সংখ্যায় ভোট দেওয়ার আহ্বান জানানো হয়েছে এবং এই নির্বাচনকে হিন্দু সমাজের অস্তিত্ব রক্ষার জন্য নির্ণায়ক বলা হয়েছে।"
     }
    ],
    "narratives": [
@@ -5877,86 +8731,124 @@ window.HINDUTVA = {
      "target": "Hindu voters / TMC regime",
      "claim": "The coming assembly election will decide whether Hindu society in West Bengal can survive, and 100% voting can end the misrule.",
      "heading": "হিন্দু সমাজের অস্তিত্ব রক্ষার নির্বাচন",
-     "page": 5
+     "page": 5,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "হিন্দু ভোটার / তৃণমূল শাসন",
+     "claim_bn": "আসন্ন বিধানসভা নির্বাচনই ঠিক করবে পশ্চিমবঙ্গে হিন্দু সমাজ টিকে থাকতে পারবে কি না, আর ১০০ শতাংশ ভোটদান কুশাসনের অবসান ঘটাতে পারে।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Left parties and the Left Front",
      "claim": "The Left turned elections into bloody wars, and its 'harmad' cadres terrorised voters, and the TMC continued this.",
      "heading": "হিন্দু সমাজের অস্তিত্ব রক্ষার নির্বাচন",
-     "page": 5
+     "page": 5,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "বামপন্থী দলগুলি ও বামফ্রন্ট",
+     "claim_bn": "বামপন্থীরা নির্বাচনকে রক্তাক্ত যুদ্ধে পরিণত করেছিল, তাদের 'হার্মাদ' বাহিনী ভোটারদের আতঙ্কিত করত, আর তৃণমূল সেই ধারাই বজায় রেখেছে।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "TMC and the chief minister",
      "claim": "The ruling party spreads post-poll violence, obstructs the SIR voter-roll revision, and the state's 'jungle raj' is worse than Bihar's was.",
      "heading": "হিন্দু সমাজের অস্তিত্ব রক্ষার নির্বাচন",
-     "page": 5
+     "page": 5,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "তৃণমূল ও মুখ্যমন্ত্রী",
+     "claim_bn": "শাসক দল ভোট-পরবর্তী হিংসা ছড়াচ্ছে, এসআইআর ভোটার তালিকা সংশোধনে বাধা দিচ্ছে, আর রাজ্যের 'জঙ্গলরাজ' একসময়ের বিহারের চেয়েও খারাপ।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "TMC and the chief minister",
      "claim": "After 15 years the TMC has failed on jobs, industry and law and order, relies on doles and has taken in defectors and jailed leaders as candidates.",
      "heading": "পরিবর্তনের এক সুবর্ণ সুযোগ বাঙালির সামনে",
-     "page": 35
+     "page": 35,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "তৃণমূল ও মুখ্যমন্ত্রী",
+     "claim_bn": "১৫ বছর পর তৃণমূল চাকরি, শিল্প ও আইনশৃঙ্খলায় ব্যর্থ হয়েছে, অনুদানের উপর নির্ভর করছে এবং দলত্যাগী ও জেলফেরত নেতাদের প্রার্থী করেছে।"
     },
     {
      "theme": "infiltration/demography",
      "target": "Chief minister / appeasement of one community",
      "claim": "The chief minister's remarks about a 'community' that could bring the state to a halt prove the opposition's charge of communal appeasement, and the state resisted SIR with state funds.",
      "heading": "পরিবর্তনের এক সুবর্ণ সুযোগ বাঙালির সামনে",
-     "page": 35
+     "page": 35,
+     "theme_bn": "অনুপ্রবেশ/জনবিন্যাস",
+     "target_bn": "মুখ্যমন্ত্রী / একটি সম্প্রদায়ের তোষণ",
+     "claim_bn": "এমন এক 'সম্প্রদায়' সম্পর্কে মুখ্যমন্ত্রীর মন্তব্য, যারা রাজ্যকে স্তব্ধ করে দিতে পারে, বিরোধীদের তোষণের অভিযোগকেই প্রমাণ করে; আর রাজ্য সরকারি অর্থ খরচ করে এসআইআর-এর বিরোধিতা করেছে।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Marxist historians and the communist movement",
      "claim": "Marxist historians distorted Indian history, including by hiding the communists' backing for the British in WWII, for Pakistan and for China in 1962, and the record must be rewritten.",
      "heading": "পুনর্লিখনের সময় এসেছে",
-     "page": 8
+     "page": 8,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "মার্কসবাদী ইতিহাসবিদ ও কমিউনিস্ট আন্দোলন",
+     "claim_bn": "মার্কসবাদী ইতিহাসবিদরা ভারতের ইতিহাস বিকৃত করেছেন, যার মধ্যে রয়েছে দ্বিতীয় বিশ্বযুদ্ধে ব্রিটিশদের প্রতি, পাকিস্তানের প্রতি এবং ১৯৬২ সালে চিনের প্রতি কমিউনিস্টদের সমর্থন লুকানো; এই ইতিহাস নতুন করে লিখতে হবে।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Communists / CPIM",
      "claim": "A pracharak's recollection says BMS founder Dattopant Thengadi predicted communists would vanish, and today they are indeed hard to find.",
      "heading": "সঙ্ঘ শতবর্ষের আলোকে কিছু স্মৃতিচারণ",
-     "page": 43
+     "page": 43,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "কমিউনিস্ট / সিপিআই(এম)",
+     "claim_bn": "একজন প্রচারকের স্মৃতিচারণ অনুযায়ী, বিএমএস প্রতিষ্ঠাতা দত্তোপন্থ ঠেংড়ি ভবিষ্যদ্বাণী করেছিলেন যে কমিউনিস্টরা অদৃশ্য হয়ে যাবে, আর আজ সত্যিই তাদের খুঁজে পাওয়া কঠিন।"
     },
     {
      "theme": "'love jihad'/conversion",
      "target": "Muslims / 'love jihad'",
      "claim": "The cover story presents 'love jihad' as a Hindu concern grounded in reality and perception.",
      "heading": "“লাভ জেহাদ” বিতর্ক এবং হিন্দু সমাজের উদ্বেগ, বাস্তবতা, ধারণা ও প্রেক্ষাপট",
-     "page": 17
+     "page": 17,
+     "theme_bn": "'লাভ জিহাদ'/ধর্মান্তরণ",
+     "target_bn": "মুসলমান / 'লাভ জেহাদ'",
+     "claim_bn": "প্রচ্ছদ কাহিনিতে 'লাভ জিহাদ'-কে বাস্তব ও ধারণার ভিত্তিতে একটি হিন্দু উদ্বেগ হিসেবে তুলে ধরা হয়েছে।"
     },
     {
      "theme": "Bangladesh & Hindu persecution",
      "target": "Bangladesh under Tarique Zia",
      "claim": "The paper asks whether minorities' fate in Bangladesh will change under Tarique Zia as prime minister.",
      "heading": "বাংলাদেশে তারেক জিয়ার প্রধানমন্ত্রিত্বে সংখ্যালঘুদের কিভাগ্যের পরিবর্তন হবে?",
-     "page": 37
+     "page": 37,
+     "theme_bn": "বাংলাদেশ ও হিন্দু নির্যাতন",
+     "target_bn": "তারেক জিয়ার অধীনে বাংলাদেশ",
+     "claim_bn": "পত্রিকা প্রশ্ন তুলেছে, তারেক জিয়া প্রধানমন্ত্রী হলে বাংলাদেশে সংখ্যালঘুদের ভাগ্য বদলাবে কি না।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "Sangh pracharaks and the centenary",
      "claim": "Sangh is a family-based organisation of selfless pracharaks, 'saffron-less sannyasis' working to make India a world teacher.",
      "heading": "সঙ্ঘ শতবর্ষের আলোকে কিছু স্মৃতিচারণ",
-     "page": 43
+     "page": 43,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "সঙ্ঘের প্রচারক ও শতবর্ষ",
+     "claim_bn": "সঙ্ঘ নিঃস্বার্থ প্রচারকদের নিয়ে গঠিত একটি পরিবারভিত্তিক সংগঠন, যেখানে 'গেরুয়াহীন সন্ন্যাসী'রা ভারতকে বিশ্বগুরু করে তুলতে কাজ করছেন।"
     },
     {
      "theme": "Modi govt achievements",
      "target": "Narendra Modi",
      "claim": "Narendra Modi is presented as the source of inspiration for present-day India.",
      "heading": "নরেন্দ্র মোদী বর্তমান ভারতের প্রেরণাপুরুষ",
-     "page": 23
+     "page": 23,
+     "theme_bn": "মোদী সরকারের কৃতিত্ব",
+     "target_bn": "নরেন্দ্র মোদী",
+     "claim_bn": "নরেন্দ্র মোদীকে বর্তমান ভারতের অনুপ্রেরণার উৎস হিসেবে তুলে ধরা হয়েছে।"
     },
     {
      "theme": "history & icons",
      "target": "Hedgewar and the Karachi trip",
      "claim": "Hedgewar's account of train journeys to Karachi cites 'Muslim goondaism' and Hindu weakness as reasons for organisation.",
      "heading": "করাচীর কথা (গল্প কথায় ডাক্তারজী)",
-     "page": 50
+     "page": 50,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "হেডগেওয়ার ও করাচি যাত্রা",
+     "claim_bn": "করাচি যাওয়ার ট্রেনযাত্রা সম্পর্কে হেডগেওয়ারের বিবরণে সংগঠনের কারণ হিসেবে 'মুসলিম গুন্ডামি' ও হিন্দুদের দুর্বলতার কথা উল্লিখিত হয়েছে।"
     }
-   ]
+   ],
+   "label_bn": "",
+   "summary_bn": "২০২৬ সালের ৬ এপ্রিলের সংখ্যাটি নির্বাচনের আগের বিশেষ সংখ্যা, কারণ পশ্চিমবঙ্গের বিধানসভা নির্বাচন ২৩ ও ২৯ এপ্রিল। এতে নির্বাচনকে হিন্দু সমাজের অস্তিত্ব রক্ষার লড়াই হিসেবে তুলে ধরা হয়েছে এবং ১০০ শতাংশ ভোটদান ও শাসক দলের শাসনের অবসানের আহ্বান জানানো হয়েছে। এতে তৃণমূল সরকারকে হিংসা, এসআইআর ভোটার তালিকা সংশোধন, বেকারত্ব, দুর্নীতি এবং তাদের ভাষায় তোষণের জন্য আক্রমণ করা হয়েছে। এছাড়া বামপন্থী ও মার্কসবাদী ইতিহাসবিদ এবং সিপিআই(এম)-কেও আক্রমণ করা হয়েছে, একটি 'লাভ জিহাদ' কভার স্টোরি রয়েছে এবং বাংলাদেশ, মোদি, শ্যামাপ্রসাদ মুখোপাধ্যায় ও হিন্দু উৎসব নিয়ে লেখা ছাপা হয়েছে। সাংগঠনিক প্রতিবেদনে হিন্দু নববর্ষের শোভাযাত্রা, সন্ত প্রবাস সফর, হিন্দু জাগরণ মঞ্চের অনুষ্ঠান ও সেবিকাদের রুট মার্চের খবর রয়েছে, আর পরের পাতাগুলিতে সংঘ প্রচারকদের শতবর্ষের স্মৃতিচারণ স্থান পেয়েছে।"
   },
   {
    "issue": "20260330",
@@ -5972,7 +8864,13 @@ window.HINDUTVA = {
      "where": "Samalkha, Haryana",
      "when": "13-15 March 2026",
      "page": 36,
-     "detail": "Annual national delegates' meeting with 1435 delegates; Sarkaryavah Dattatreya Hosabale presented the report and Sarsanghchalak Mohan Bhagwat gave the concluding address."
+     "detail": "Annual national delegates' meeting with 1435 delegates; Sarkaryavah Dattatreya Hosabale presented the report and Sarsanghchalak Mohan Bhagwat gave the concluding address.",
+     "title_bn": "আরএসএস অখিল ভারতীয় প্রতিনিধি সভা",
+     "org_bn": "আরএসএস",
+     "type_bn": "সম্মেলন",
+     "where_bn": "সামালখা, হরিয়ানা",
+     "when_bn": "১৩-১৫ মার্চ ২০২৬",
+     "detail_bn": "১৪৩৫ জন প্রতিনিধির উপস্থিতিতে বার্ষিক সর্বভারতীয় প্রতিনিধি সভা অনুষ্ঠিত হয়; সরকার্যবাহ দত্তাত্রেয় হোসবালে প্রতিবেদন পেশ করেন এবং সরসঙ্ঘচালক মোহন ভাগবত সমাপনী ভাষণ দেন।"
     },
     {
      "title": "RSS centenary programmes",
@@ -5981,7 +8879,13 @@ window.HINDUTVA = {
      "where": "All India",
      "when": "From Vijayadashami 2025",
      "page": 36,
-     "detail": "Nationwide centenary events; the government issued a commemorative coin and postage stamp."
+     "detail": "Nationwide centenary events; the government issued a commemorative coin and postage stamp.",
+     "title_bn": "আরএসএসের শতবর্ষ কর্মসূচি",
+     "org_bn": "আরএসএস",
+     "type_bn": "শতবর্ষ",
+     "where_bn": "সারা ভারত",
+     "when_bn": "২০২৫ সালের বিজয়াদশমী থেকে",
+     "detail_bn": "দেশজুড়ে শতবর্ষের অনুষ্ঠান; সরকার একটি স্মারক মুদ্রা ও ডাকটিকিট প্রকাশ করেছে।"
     },
     {
      "title": "Griha Sampark Abhiyan",
@@ -5990,7 +8894,13 @@ window.HINDUTVA = {
      "where": "46 prants, all India",
      "when": "",
      "page": 37,
-     "detail": "Door-to-door contact campaign reaching over 10 crore families in 3.89 lakh villages and 31,143 bastis."
+     "detail": "Door-to-door contact campaign reaching over 10 crore families in 3.89 lakh villages and 31,143 bastis.",
+     "title_bn": "গৃহ সম্পর্ক অভিযান",
+     "org_bn": "আরএসএস",
+     "type_bn": "শতবর্ষ",
+     "where_bn": "সারা ভারতের ৪৬টি প্রান্ত",
+     "when_bn": "",
+     "detail_bn": "৩.৮৯ লক্ষ গ্রাম ও ৩১,১৪৩টি বস্তিতে ১০ কোটিরও বেশি পরিবারের কাছে পৌঁছানো ঘরে ঘরে যোগাযোগ অভিযান।"
     },
     {
      "title": "Hindu Sammelans",
@@ -5999,7 +8909,13 @@ window.HINDUTVA = {
      "where": "All India, including Andaman and Arunachal",
      "when": "",
      "page": 37,
-     "detail": "About 23,143 rural mandal and 13,905 urban basti sammelans; 13,000+ attended in the Andamans and 37,000+ at 21 Swadharma sammelans in Arunachal."
+     "detail": "About 23,143 rural mandal and 13,905 urban basti sammelans; 13,000+ attended in the Andamans and 37,000+ at 21 Swadharma sammelans in Arunachal.",
+     "title_bn": "হিন্দু সম্মেলনসমূহ",
+     "org_bn": "আরএসএস",
+     "type_bn": "সম্মেলন",
+     "where_bn": "সারা ভারত, আন্দামান ও অরুণাচল-সহ",
+     "when_bn": "",
+     "detail_bn": "প্রায় ২৩,১৪৩টি গ্রামীণ মণ্ডল ও ১৩,৯০৫টি শহুরে বস্তি সম্মেলন; আন্দামানে ১৩,০০০-এরও বেশি এবং অরুণাচলে ২১টি স্বধর্ম সম্মেলনে ৩৭,০০০-এরও বেশি মানুষ উপস্থিত ছিলেন।"
     },
     {
      "title": "Guru Tegh Bahadur 350th martyrdom day programmes",
@@ -6008,7 +8924,13 @@ window.HINDUTVA = {
      "where": "All India",
      "when": "",
      "page": 37,
-     "detail": "Over 2000 programmes by swayamsevaks with more than 7 lakh participants."
+     "detail": "Over 2000 programmes by swayamsevaks with more than 7 lakh participants.",
+     "title_bn": "গুরু তেগ বাহাদুরের ৩৫০তম শহিদ দিবস উপলক্ষে অনুষ্ঠান",
+     "org_bn": "আরএসএস",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "সারা ভারত",
+     "when_bn": "",
+     "detail_bn": "স্বয়ংসেবকদের উদ্যোগে ২০০০-এরও বেশি কর্মসূচি, অংশগ্রহণকারী ৭ লক্ষেরও বেশি।"
     },
     {
      "title": "Vande Mataram 150th anniversary celebrations",
@@ -6017,7 +8939,13 @@ window.HINDUTVA = {
      "where": "All India",
      "when": "",
      "page": 37,
-     "detail": "National song's 150th year celebrated enthusiastically, including a dance-drama by village children in Bankura."
+     "detail": "National song's 150th year celebrated enthusiastically, including a dance-drama by village children in Bankura.",
+     "title_bn": "বন্দে মাতরমের ১৫০তম বার্ষিকী উদযাপন",
+     "org_bn": "আরএসএস",
+     "type_bn": "শতবর্ষ",
+     "where_bn": "সারা ভারত",
+     "when_bn": "",
+     "detail_bn": "জাতীয় সঙ্গীতের ১৫০তম বর্ষ উৎসাহের সঙ্গে পালিত হয়েছে, বাঁকুড়ায় গ্রামের শিশুদের নৃত্যনাট্য সহ।"
     },
     {
      "title": "Sant Ravidas 650th birth year observance",
@@ -6026,7 +8954,13 @@ window.HINDUTVA = {
      "where": "All India",
      "when": "Coming year",
      "page": 38,
-     "detail": "The Pratinidhi Sabha resolved to observe Sant Ravidas's 650th year of appearance nationwide."
+     "detail": "The Pratinidhi Sabha resolved to observe Sant Ravidas's 650th year of appearance nationwide.",
+     "title_bn": "সন্ত রবিদাসের ৬৫০তম জন্মবর্ষ পালন",
+     "org_bn": "আরএসএস",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "সারা ভারত",
+     "when_bn": "আগামী বছর",
+     "detail_bn": "প্রতিনিধি সভা সন্ত রবিদাসের ৬৫০তম আবির্ভাব বর্ষ সারা দেশে পালনের সিদ্ধান্ত নিয়েছে।"
     },
     {
      "title": "Panch Parivartan campaign",
@@ -6035,7 +8969,13 @@ window.HINDUTVA = {
      "where": "All India",
      "when": "",
      "page": 37,
-     "detail": "Five-point social change agenda promoted via family-level practice, with emphasis on green homes, cow service, reduced polythene and water conservation."
+     "detail": "Five-point social change agenda promoted via family-level practice, with emphasis on green homes, cow service, reduced polythene and water conservation.",
+     "title_bn": "পঞ্চ পরিবর্তন অভিযান",
+     "org_bn": "আরএসএস",
+     "type_bn": "অন্যান্য",
+     "where_bn": "সারা ভারত",
+     "when_bn": "",
+     "detail_bn": "পরিবারস্তরে অনুশীলনের মাধ্যমে পাঁচ দফা সামাজিক পরিবর্তনের কর্মসূচির প্রচার, যেখানে সবুজ গৃহ, গোসেবা, পলিথিন হ্রাস ও জলসংরক্ষণের ওপর জোর দেওয়া হয়েছে।"
     },
     {
      "title": "Planned 96 Sangh training camps",
@@ -6044,7 +8984,13 @@ window.HINDUTVA = {
      "where": "All India, incl. Nagpur",
      "when": "Upcoming",
      "page": 37,
-     "detail": "96 training camps planned, 11 of them at kshetra level; proposal to replace prants with smaller 'sambhags' (80+)."
+     "detail": "96 training camps planned, 11 of them at kshetra level; proposal to replace prants with smaller 'sambhags' (80+).",
+     "title_bn": "৯৬টি সঙ্ঘ শিক্ষা বর্গের পরিকল্পনা",
+     "org_bn": "আরএসএস",
+     "type_bn": "শাখা/প্রশিক্ষণ শিবির",
+     "where_bn": "সারা ভারত, নাগপুর-সহ",
+     "when_bn": "আসন্ন",
+     "detail_bn": "৯৬টি প্রশিক্ষণ শিবিরের পরিকল্পনা, তার মধ্যে ১১টি ক্ষেত্র স্তরে; প্রান্তের জায়গায় ক্ষুদ্রতর 'সম্ভাগ' (৮০টিরও বেশি) করার প্রস্তাব।"
     },
     {
      "title": "Paribesh Pathshala",
@@ -6053,7 +8999,13 @@ window.HINDUTVA = {
      "where": "Behala, Kolkata",
      "when": "29 Jan 2026",
      "page": 37,
-     "detail": "Environmental awareness workshop for 89 visually impaired students at Calcutta Blind School."
+     "detail": "Environmental awareness workshop for 89 visually impaired students at Calcutta Blind School.",
+     "title_bn": "পরিবেশ পাঠশালা",
+     "org_bn": "আরএসএস",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "বেহালা, কলকাতা",
+     "when_bn": "২৯ জানুয়ারি ২০২৬",
+     "detail_bn": "ক্যালকাটা ব্লাইন্ড স্কুলে ৮৯ জন দৃষ্টিহীন শিক্ষার্থীর জন্য পরিবেশ সচেতনতা কর্মশালা।"
     },
     {
      "title": "Shishu Sanskar Kendras annual festival",
@@ -6062,7 +9014,13 @@ window.HINDUTVA = {
      "where": "Sarenga and Raipur blocks, South Bankura",
      "when": "9 Feb 2026",
      "page": 37,
-     "detail": "13 child-culture centres run by village women held an annual function with Vande Mataram dance-drama; 82 guardians and 37 guests attended."
+     "detail": "13 child-culture centres run by village women held an annual function with Vande Mataram dance-drama; 82 guardians and 37 guests attended.",
+     "title_bn": "শিশু সংস্কার কেন্দ্রের বার্ষিক উৎসব",
+     "org_bn": "আরএসএস",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "সারেঙ্গা ও রায়পুর ব্লক, দক্ষিণ বাঁকুড়া",
+     "when_bn": "৯ ফেব্রুয়ারি ২০২৬",
+     "detail_bn": "গ্রামের মহিলাদের পরিচালিত ১৩টি শিশু-সংস্কৃতি কেন্দ্র বন্দে মাতরম নৃত্যনাট্যসহ বার্ষিক অনুষ্ঠান করে; ৮২ জন অভিভাবক ও ৩৭ জন অতিথি উপস্থিত ছিলেন।"
     },
     {
      "title": "Tree plantation along Torsa, Kaljani and Mansai rivers",
@@ -6071,7 +9029,13 @@ window.HINDUTVA = {
      "where": "Cooch Behar",
      "when": "",
      "page": 37,
-     "detail": "13,500 native trees planted and 5 dense mini-forests created, with tree-worship and a 'tree ambulance' scheme."
+     "detail": "13,500 native trees planted and 5 dense mini-forests created, with tree-worship and a 'tree ambulance' scheme.",
+     "title_bn": "তোর্সা, কালজানি ও মানসাই নদীর ধারে বৃক্ষরোপণ",
+     "org_bn": "আরএসএস",
+     "type_bn": "সেবা/ত্রাণ",
+     "where_bn": "কোচবিহার",
+     "when_bn": "",
+     "detail_bn": "১৩,৫০০ দেশি গাছ রোপণ ও ৫টি ঘন মিনি-বন তৈরি করা হয়, সঙ্গে বৃক্ষপূজা ও 'বৃক্ষ অ্যাম্বুলেন্স' প্রকল্প চালু হয়।"
     },
     {
      "title": "Parivar Prabodhan workshop, Madhyabanga prant",
@@ -6080,7 +9044,13 @@ window.HINDUTVA = {
      "where": "Mayapur, Nadia",
      "when": "11-12 Feb 2026",
      "page": 30,
-     "detail": "35 workers from 15 districts attended with national convener Ravindra Joshi, hosted with help from Gaudiya Math."
+     "detail": "35 workers from 15 districts attended with national convener Ravindra Joshi, hosted with help from Gaudiya Math.",
+     "title_bn": "পরিবার প্রবোধন কর্মশালা, মধ্যবঙ্গ প্রান্ত",
+     "org_bn": "আরএসএস",
+     "type_bn": "শাখা/প্রশিক্ষণ শিবির",
+     "where_bn": "মায়াপুর, নদিয়া",
+     "when_bn": "১১-১২ ফেব্রুয়ারি ২০২৬",
+     "detail_bn": "জাতীয় আহ্বায়ক রবীন্দ্র জোশীর সঙ্গে ১৫টি জেলা থেকে ৩৫ জন কর্মী উপস্থিত ছিলেন; গৌড়ীয় মঠের সহায়তায় অনুষ্ঠানটি আয়োজিত হয়।"
     },
     {
      "title": "BMS 21st All India Conference",
@@ -6089,7 +9059,13 @@ window.HINDUTVA = {
      "where": "Puri, Odisha",
      "when": "6-8 Feb 2026",
      "page": 30,
-     "detail": "Triennial conference with West Bengal delegates raising worker employment and wage issues; stressed apolitical character."
+     "detail": "Triennial conference with West Bengal delegates raising worker employment and wage issues; stressed apolitical character.",
+     "title_bn": "বিএমএসের ২১তম সর্বভারতীয় সম্মেলন",
+     "org_bn": "বিএমএস",
+     "type_bn": "সম্মেলন",
+     "where_bn": "পুরী, ওড়িশা",
+     "when_bn": "৬–৮ ফেব্রুয়ারি ২০২৬",
+     "detail_bn": "ত্রিবার্ষিক সম্মেলন, যেখানে পশ্চিমবঙ্গের প্রতিনিধিরা শ্রমিকদের কর্মসংস্থান ও মজুরির বিষয় তুলেছেন; সংগঠনের অরাজনৈতিক চরিত্রের ওপর জোর দেওয়া হয়েছে।"
     },
     {
      "title": "Smaran Sabha at Hili",
@@ -6098,7 +9074,13 @@ window.HINDUTVA = {
      "where": "Hili, Dakshin Dinajpur",
      "when": "16 March 2026",
      "page": 29,
-     "detail": "Annual memorial gathering of swayamsevaks from 19 villages with the district sanghchalak and prant executive member present."
+     "detail": "Annual memorial gathering of swayamsevaks from 19 villages with the district sanghchalak and prant executive member present.",
+     "title_bn": "হিলিতে স্মরণসভা",
+     "org_bn": "আরএসএস",
+     "type_bn": "অন্যান্য",
+     "where_bn": "হিলি, দক্ষিণ দিনাজপুর",
+     "when_bn": "১৬ মার্চ ২০২৬",
+     "detail_bn": "১৯টি গ্রামের স্বয়ংসেবকদের বার্ষিক স্মরণ সমাবেশে জেলা সঙ্ঘচালক ও প্রান্ত কার্যকারিণী সদস্য উপস্থিত ছিলেন।"
     },
     {
      "title": "Bharatiya Kisan Sangh farmers' sammelan",
@@ -6107,7 +9089,13 @@ window.HINDUTVA = {
      "where": "Gajol, Malda",
      "when": "16 March 2026",
      "page": 29,
-     "detail": "Gajol police-station-level farmers' conference at Saraswati Shishu Mandir."
+     "detail": "Gajol police-station-level farmers' conference at Saraswati Shishu Mandir.",
+     "title_bn": "ভারতীয় কিসান সঙ্ঘের কৃষক সম্মেলন",
+     "org_bn": "অন্যান্য: ভারতীয় কিষান সঙ্ঘ",
+     "type_bn": "সম্মেলন",
+     "where_bn": "গাজোল, মালদা",
+     "when_bn": "১৬ মার্চ ২০২৬",
+     "detail_bn": "সরস্বতী শিশু মন্দিরে গাজোল থানা স্তরের কৃষক সম্মেলন।"
     },
     {
      "title": "Blood donation camp by Gaur Sanskriti Utthan Trust",
@@ -6116,7 +9104,13 @@ window.HINDUTVA = {
      "where": "Malda town",
      "when": "15 March 2026",
      "page": 29,
-     "detail": "Swayamsevak-run trust's annual camp, held for 25 years, collected blood from 32 donors."
+     "detail": "Swayamsevak-run trust's annual camp, held for 25 years, collected blood from 32 donors.",
+     "title_bn": "গৌড় সংস্কৃতি উত্থান ট্রাস্টের রক্তদান শিবির",
+     "org_bn": "আরএসএস",
+     "type_bn": "সেবা/ত্রাণ",
+     "where_bn": "মালদা শহর",
+     "when_bn": "১৫ মার্চ ২০২৬",
+     "detail_bn": "স্বয়ংসেবকদের পরিচালিত ট্রাস্টের ২৫ বছর ধরে চলা বার্ষিক শিবিরে ৩২ জন রক্তদাতার রক্ত সংগৃহীত হয়েছে।"
     },
     {
      "title": "Shraddha tribute programme",
@@ -6125,7 +9119,13 @@ window.HINDUTVA = {
      "where": "Haripurdanga, Suri, Birbhum",
      "when": "15 March 2026",
      "page": 30,
-     "detail": "170th honouring event paying tribute to an 83-year-old teacher with Gita and shawl."
+     "detail": "170th honouring event paying tribute to an 83-year-old teacher with Gita and shawl.",
+     "title_bn": "শ্রদ্ধা নিবেদন অনুষ্ঠান",
+     "org_bn": "অন্যান্য: শ্রদ্ধা (বীরভূমের সাংস্কৃতিক সংগঠন)",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "হরিপুরডাঙ্গা, সিউড়ি, বীরভূম",
+     "when_bn": "১৫ মার্চ ২০২৬",
+     "detail_bn": "৮৩ বছর বয়সী একজন শিক্ষককে গীতা ও শাল দিয়ে শ্রদ্ধা জানিয়ে ১৭০তম সংবর্ধনা অনুষ্ঠান।"
     },
     {
      "title": "Mahavir Jayanti observance",
@@ -6134,7 +9134,13 @@ window.HINDUTVA = {
      "where": "Bihar, Gujarat, Kolkata Manicktala",
      "when": "",
      "page": 32,
-     "detail": "Article describes Mahavir Jayanti celebrations and portrays Jainism as a reformed form of Hindu dharma."
+     "detail": "Article describes Mahavir Jayanti celebrations and portrays Jainism as a reformed form of Hindu dharma.",
+     "title_bn": "মহাবীর জয়ন্তী পালন",
+     "org_bn": "অন্যান্য: জৈন সম্প্রদায়",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "বিহার, গুজরাত, কলকাতার মানিকতলা",
+     "when_bn": "",
+     "detail_bn": "প্রবন্ধে মহাবীর জয়ন্তী উদযাপনের বর্ণনা রয়েছে এবং জৈন ধর্মকে হিন্দু ধর্মের একটি সংস্কারিত রূপ হিসেবে তুলে ধরা হয়েছে।"
     }
    ],
    "narratives": [
@@ -6143,93 +9149,134 @@ window.HINDUTVA = {
      "target": "TMC government and Hindu voters",
      "claim": "This election is a chance for Hindus of West Bengal to escape an existential crisis and end a misrule.",
      "heading": "নির্বাচন ২০২৬ পশ্চিমবঙ্গে হিন্দুদের অস্তিত্ব সংকট থেকে মুক্তির নির্বাচন",
-     "page": 17
+     "page": 17,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "তৃণমূল সরকার ও হিন্দু ভোটার",
+     "claim_bn": "এই নির্বাচন পশ্চিমবঙ্গের হিন্দুদের জন্য অস্তিত্বের সংকট থেকে মুক্তি পাওয়ার এবং কুশাসনের অবসান ঘটানোর একটি সুযোগ।"
     },
     {
      "theme": "West Bengal elections",
      "target": "Suvendu Adhikari (praised); TMC (attacked)",
      "claim": "Suvendu Adhikari is projected as the face of West Bengal and this election will end a misrule.",
      "heading": "পশ্চিমবঙ্গের মুখ শুভেন্দু অধিকারী / এবারের নির্বাচন এক অপশাসন অবসানের নির্বাচন",
-     "page": 19
+     "page": 19,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "শুভেন্দু অধিকারী (প্রশংসিত); তৃণমূল (আক্রান্ত)",
+     "claim_bn": "শুভেন্দু অধিকারীকে পশ্চিমবঙ্গের মুখ হিসেবে তুলে ধরা হচ্ছে এবং এই নির্বাচন একটি কুশাসনের অবসান ঘটাবে।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "TMC",
      "claim": "The arrival of TMC through the 'Delhi leader' carried the seeds of its own farewell, with the title 'the path by which the Pathans came'.",
      "heading": "“যে পথ দিয়ে পাঠান এসেছিল...” (তৃণমূলের বিদায়বার্তা)",
-     "page": 3
+     "page": 3,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "তৃণমূল",
+     "claim_bn": "'দিল্লির নেতা'র মাধ্যমে তৃণমূলের আগমনেই তার বিদায়ের বীজ নিহিত ছিল, যার শিরোনাম 'যে পথে পাঠানরা এসেছিল'।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "CPIM and Left parties, Congress, SP",
      "claim": "CPIM and other Left parties took to the streets for Iran in the name of the Islamic ummah, practising Muslim appeasement.",
      "heading": "ভারসাম্যপূর্ণ মধ্যপ্রাচ্য নীতি : ভারতের শক্তিশালী কূটনৈতিক অবস্থানের পরিচয় বহন করছে",
-     "page": 15
+     "page": 15,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "সিপিআই(এম) ও বামপন্থী দলগুলি, কংগ্রেস, সমাজবাদী পার্টি",
+     "claim_bn": "সিপিআই(এম) ও অন্যান্য বামপন্থী দল ইসলামি উম্মাহর নামে ইরানের পক্ষে রাস্তায় নেমেছে এবং মুসলিম তোষণ করছে।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Left intellectuals",
      "claim": "The Iran-Israel war situation has exposed the character of Left-wing intellectuals.",
      "heading": "ইরান-ইজরায়েল যুদ্ধ পরিস্থিতিতে বামপন্থী বুদ্ধিজীবীদের চরিত্র উন্মোচিত হয়েছে",
-     "page": 3
+     "page": 3,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "বামপন্থী বুদ্ধিজীবীরা",
+     "claim_bn": "ইরান-ইজরায়েল যুদ্ধ পরিস্থিতি বামপন্থী বুদ্ধিজীবীদের চরিত্র উন্মোচিত করেছে।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "CPIM leader Mukur Sarbadhikari and Maoists",
      "claim": "A prominent CPIM leader turned Maoist and his followers attacked an RSS shakha at Lebutala; Maoist red terror is now at the edge of collapse even in Lalgarh.",
      "heading": "মাওমুক্ত ভারতের লক্ষ্যে মাওবাদী লাল সন্ত্রাস এখন লালগড়েও খাদের কিনারায়",
-     "page": 43
+     "page": 43,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "সিপিআই(এম) নেতা মুকুর সর্বাধিকারী ও মাওবাদীরা",
+     "claim_bn": "সিপিআই(এম)-এর এক বিশিষ্ট নেতা মাওবাদীতে পরিণত হয়ে তাঁর অনুগামীদের নিয়ে লেবুতলায় আরএসএস-এর একটি শাখায় হামলা চালান; লালগড়েও এখন মাওবাদী লাল সন্ত্রাস পতনের মুখে।"
     },
     {
      "theme": "infiltration/demography",
      "target": "Muslims in India",
      "claim": "Pro-Iran marches by a particular community are riots in disguise, endanger internal security, and show divided loyalty.",
      "heading": "ইরান, আমেরিকা, ইজরায়েলের দ্বন্দ্ব—খোমেইনির মৃত্যুতে ভারতের এক বিশেষ সম্প্রদায়ের মাথাব্যথা কেন?",
-     "page": 12
+     "page": 12,
+     "theme_bn": "অনুপ্রবেশ/জনবিন্যাস",
+     "target_bn": "ভারতের মুসলমান",
+     "claim_bn": "একটি বিশেষ সম্প্রদায়ের ইরানপন্থী মিছিল আসলে ছদ্মবেশী দাঙ্গা, অভ্যন্তরীণ নিরাপত্তার পক্ষে বিপজ্জনক এবং বিভক্ত আনুগত্যের পরিচায়ক।"
     },
     {
      "theme": "nationalism/army/Pakistan",
      "target": "Indian celebrities and Muslim protesters",
      "claim": "Selective protest for Iran while staying silent on terror attacks in India is double standards; real patriotism is respecting India's neutral diplomatic stance.",
      "heading": "ইরান, আমেরিকা, ইজরায়েলের দ্বন্দ্ব—খোমেইনির মৃত্যুতে ভারতের এক বিশেষ সম্প্রদায়ের মাথাব্যথা কেন?",
-     "page": 12
+     "page": 12,
+     "theme_bn": "জাতীয়তাবাদ/সেনা/পাকিস্তান",
+     "target_bn": "ভারতীয় তারকারা ও মুসলিম বিক্ষোভকারীরা",
+     "claim_bn": "ভারতে সন্ত্রাসী হামলা নিয়ে নীরব থেকে ইরানের পক্ষে বেছে বেছে প্রতিবাদ করা দ্বিচারিতা; ভারতের নিরপেক্ষ কূটনৈতিক অবস্থানকে সম্মান করাই প্রকৃত দেশপ্রেম।"
     },
     {
      "theme": "Modi govt achievements",
      "target": "Modi government",
      "claim": "India's balanced West Asia policy kept petrol and diesel prices unchanged and won Iran's green signal for Indian tankers through Hormuz.",
      "heading": "ভারসাম্যপূর্ণ মধ্যপ্রাচ্য নীতি : ভারতের শক্তিশালী কূটনৈতিক অবস্থানের পরিচয় বহন করছে",
-     "page": 15
+     "page": 15,
+     "theme_bn": "মোদী সরকারের কৃতিত্ব",
+     "target_bn": "মোদী সরকার",
+     "claim_bn": "ভারতের ভারসাম্যপূর্ণ পশ্চিম এশিয়া নীতির ফলে পেট্রোল ও ডিজেলের দাম অপরিবর্তিত থেকেছে এবং হরমুজ প্রণালী দিয়ে ভারতীয় ট্যাঙ্কার চলাচলের জন্য ইরানের সবুজ সংকেত মিলেছে।"
     },
     {
      "theme": "Modi govt achievements",
      "target": "Modi government",
      "claim": "Women's empowerment under Modi, through the 33% reservation law, Mudra loans and welfare schemes, explains women's rising support for BJP.",
      "heading": "নারীর ক্ষমতায়নে নরেন্দ্র মোদীর নেতৃত্বাধীন কেন্দ্রীয় সরকার",
-     "page": 21
+     "page": 21,
+     "theme_bn": "মোদী সরকারের কৃতিত্ব",
+     "target_bn": "মোদী সরকার",
+     "claim_bn": "মোদীর আমলে ৩৩ শতাংশ সংরক্ষণ আইন, মুদ্রা ঋণ ও কল্যাণমূলক প্রকল্পের মাধ্যমে নারীর ক্ষমতায়ন বিজেপির প্রতি মহিলাদের ক্রমবর্ধমান সমর্থনের কারণ বলে ব্যাখ্যা করা হয়েছে।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "Hindu society",
      "claim": "A Hindutva tide has risen and in 20-30 years India will become supremely prosperous; Panch Parivartan must succeed in each family.",
      "heading": "আগামী বিশ-পঁচিশ বছরের মধ্যে দেশ পরম বৈভবশালী হবে : ডাঃ মোহনরাও ভাগবত",
-     "page": 36
+     "page": 36,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "হিন্দু সমাজ",
+     "claim_bn": "হিন্দুত্বের জোয়ার উঠেছে এবং ২০–৩০ বছরে ভারত পরম সমৃদ্ধশালী হবে; পঞ্চ পরিবর্তন প্রতিটি পরিবারে সফল হতেই হবে।"
     },
     {
      "theme": "history & icons",
      "target": "Babri structure, Mulayam government, Ayodhya kar sevaks",
      "claim": "The 1992 kar sevaks demolished the Babri structure and freed Ayodhya of 500 years of disgrace; Mulayam's police shot Kothari brothers and the Sangh ban failed.",
      "heading": "আমার সঙ্ঘজীবনের ইতিকথা (অবনীভূষণ মণ্ডল)",
-     "page": 47
+     "page": 47,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "বাবরি কাঠামো, মুলায়ম সরকার, অযোধ্যার কারসেবকরা",
+     "claim_bn": "১৯৯২ সালে করসেবকরা বাবরি কাঠামো ভেঙে অযোধ্যাকে ৫০০ বছরের কলঙ্ক থেকে মুক্ত করেছিলেন; মুলায়মের পুলিশ কোঠারি ভাইদের গুলি করেছিল এবং সঙ্ঘের উপর নিষেধাজ্ঞা ব্যর্থ হয়েছিল।"
     },
     {
      "theme": "culture/religion",
      "target": "Jain community",
      "claim": "Jainism is essentially a reformed form of Sanatan Hindu dharma and Jains should be counted as Hindus.",
      "heading": "সততা, অহিংসা ও প্রেমের বাণী প্রচার করেছেন তীর্থঙ্কর মহাবীর",
-     "page": 32
+     "page": 32,
+     "theme_bn": "সংস্কৃতি/ধর্ম",
+     "target_bn": "জৈন সম্প্রদায়",
+     "claim_bn": "জৈন ধর্ম মূলত সনাতন হিন্দু ধর্মেরই একটি সংস্কারিত রূপ এবং জৈনদের হিন্দু হিসেবে গণ্য করা উচিত।"
     }
-   ]
+   ],
+   "label_bn": "",
+   "summary_bn": "২০২৬ সালের ৩০ মার্চের এই সংখ্যাটি আসন্ন পশ্চিমবঙ্গ বিধানসভা নির্বাচনকে ঘিরেই সাজানো; নির্বাচনকে তৃণমূলের অপশাসনের অবসান এবং হিন্দুদের 'অস্তিত্ব সংকট' থেকে উদ্ধারের ভোট হিসেবে উপস্থাপন করা হয়েছে এবং শুভেন্দু অধিকারীকে রাজ্যের মুখ হিসেবে তুলে ধরা হয়েছে। পৃষ্ঠার একটি বড় অংশ জুড়ে রয়েছে মার্কিন/ইসরায়েল–ইরান যুদ্ধ; মোদীর ভারসাম্যপূর্ণ পশ্চিম এশিয়া নীতির প্রশংসা করা হয়েছে, আর ইরানপন্থী অবস্থানের জন্য বামপন্থী বুদ্ধিজীবী, সিপিআই(এম) ও মুসলিম বিক্ষোভকারীদের আক্রমণ করা হয়েছে। এতে আরএসএস-এর অখিল ভারতীয় প্রতিনিধি সভার প্রতিবেদন (সমালখা, ১৩–১৫ মার্চ) রয়েছে, যেখানে শতবর্ষের প্রচার, পঞ্চ পরিবর্তন ও হিন্দু ঐক্যের উপর জোর দেওয়া হয়েছে, এবং সিপিআই(এম)-সংশ্লিষ্ট ব্যক্তিদের জড়িত মাওবাদী হিংসা নিয়ে একটি ঐতিহাসিক লেখাও রয়েছে।"
   },
   {
    "issue": "20260323",
@@ -6245,7 +9292,13 @@ window.HINDUTVA = {
      "where": "Cooch Behar and Raidighi, South 24 Parganas, West Bengal",
      "when": "1 and 2 March 2026",
      "page": 7,
-     "detail": "BJP president Nitin Nabin launched the yatra from Cooch Behar on 1 March, and Amit Shah launched it in Raidighi on 2 March. The paper says it toured assembly constituencies on the themes of corruption, infiltration and development."
+     "detail": "BJP president Nitin Nabin launched the yatra from Cooch Behar on 1 March, and Amit Shah launched it in Raidighi on 2 March. The paper says it toured assembly constituencies on the themes of corruption, infiltration and development.",
+     "title_bn": "বিজেপির 'পরিবর্তন সংকল্প যাত্রা'র সূচনা",
+     "org_bn": "বিজেপি",
+     "type_bn": "রাজনৈতিক প্রচার",
+     "where_bn": "কোচবিহার ও রায়দিঘি, দক্ষিণ ২৪ পরগনা, পশ্চিমবঙ্গ",
+     "when_bn": "১ ও ২ মার্চ ২০২৬",
+     "detail_bn": "বিজেপি সভাপতি নীতিন নবীন ১ মার্চ কোচবিহার থেকে এবং অমিত শাহ ২ মার্চ রায়দিঘিতে যাত্রার সূচনা করেন। পত্রিকার মতে, দুর্নীতি, অনুপ্রবেশ ও উন্নয়নের বিষয় নিয়ে যাত্রাটি বিভিন্ন বিধানসভা কেন্দ্রে ঘুরেছে।"
     },
     {
      "title": "BJP 'Parivartan Sankalp Sabha' at Brigade Parade Ground",
@@ -6254,7 +9307,13 @@ window.HINDUTVA = {
      "where": "Kolkata",
      "when": "14 March 2026",
      "page": 7,
-     "detail": "Narendra Modi was the main speaker at a mass rally closing the yatra. The paper claims over 10 lakh attended and that buses on the way were attacked by TMC supporters, with police passive."
+     "detail": "Narendra Modi was the main speaker at a mass rally closing the yatra. The paper claims over 10 lakh attended and that buses on the way were attacked by TMC supporters, with police passive.",
+     "title_bn": "ব্রিগেড প্যারেড গ্রাউন্ডে বিজেপির 'পরিবর্তন সংকল্প সভা'",
+     "org_bn": "বিজেপি",
+     "type_bn": "মিছিল/শোভাযাত্রা",
+     "where_bn": "কলকাতা",
+     "when_bn": "১৪ মার্চ ২০২৬",
+     "detail_bn": "যাত্রা সমাপ্তির গণসমাবেশে নরেন্দ্র মোদী ছিলেন প্রধান বক্তা। পত্রিকার দাবি, দশ লক্ষেরও বেশি মানুষ উপস্থিত ছিলেন এবং পথে বাসগুলিতে তৃণমূল সমর্থকরা হামলা চালিয়েছে, আর পুলিশ নিষ্ক্রিয় ছিল।"
     },
     {
      "title": "Matri Shakti Sammelan, Howrah (RSS centenary)",
@@ -6263,7 +9322,13 @@ window.HINDUTVA = {
      "where": "Ramrajatala Shankar Math, Howrah",
      "when": "7 March 2026",
      "page": 26,
-     "detail": "Held for the RSS centenary to promote social harmony, environment protection, family values and civic duty. RSS Akhil Bharatiya Karyakarini member Advaitacharan Datta discussed the role of women in the upcoming West Bengal election."
+     "detail": "Held for the RSS centenary to promote social harmony, environment protection, family values and civic duty. RSS Akhil Bharatiya Karyakarini member Advaitacharan Datta discussed the role of women in the upcoming West Bengal election.",
+     "title_bn": "মাতৃশক্তি সম্মেলন, হাওড়া (আরএসএস শতবর্ষ)",
+     "org_bn": "আরএসএস",
+     "type_bn": "শতবর্ষ",
+     "where_bn": "রামরাজাতলা শঙ্কর মঠ, হাওড়া",
+     "when_bn": "৭ মার্চ ২০২৬",
+     "detail_bn": "আরএসএস-এর শতবর্ষ উপলক্ষে সামাজিক সম্প্রীতি, পরিবেশ রক্ষা, পারিবারিক মূল্যবোধ ও নাগরিক কর্তব্যের প্রসারে অনুষ্ঠিত। আরএসএস অখিল ভারতীয় কার্যকারিণী সদস্য অদ্বৈতচরণ দত্ত আসন্ন পশ্চিমবঙ্গ নির্বাচনে নারীদের ভূমিকা নিয়ে আলোচনা করেন।"
     },
     {
      "title": "Bharat Sevashram Sangha annual festival, Hindu Dharma Sanskriti Sammelan and Vedic Shanti Yajna",
@@ -6272,7 +9337,13 @@ window.HINDUTVA = {
      "where": "Gajol, Malda",
      "when": "7-8 March 2026",
      "page": 26,
-     "detail": "The event included a lathi display and a world peace yajna. Opposition leader Suvendu Adhikari and local BJP MLAs attended the Hindu Dharma Sammelan."
+     "detail": "The event included a lathi display and a world peace yajna. Opposition leader Suvendu Adhikari and local BJP MLAs attended the Hindu Dharma Sammelan.",
+     "title_bn": "ভারত সেবাশ্রম সঙ্ঘের বার্ষিক উৎসব, হিন্দু ধর্ম সংস্কৃতি সম্মেলন ও বৈদিক শান্তি যজ্ঞ",
+     "org_bn": "অন্যান্য: ভারত সেবাশ্রম সঙ্ঘ",
+     "type_bn": "সম্মেলন",
+     "where_bn": "গাজোল, মালদা",
+     "when_bn": "৭–৮ মার্চ ২০২৬",
+     "detail_bn": "অনুষ্ঠানে লাঠি প্রদর্শন ও বিশ্বশান্তি যজ্ঞ হয়। বিরোধী দলনেতা শুভেন্দু অধিকারী ও স্থানীয় বিজেপি বিধায়করা হিন্দু ধর্ম সম্মেলনে উপস্থিত ছিলেন।"
     },
     {
      "title": "Niranjan Halder memorial scholarship distribution",
@@ -6281,7 +9352,13 @@ window.HINDUTVA = {
      "where": "Suri, Birbhum",
      "when": "8 March 2026",
      "page": 27,
-     "detail": "The committee marked the birth anniversary of Niranjan Halder, founder of Birbhum's first Saraswati Shishu Mandir. It gave assistance to four Shishu Mandirs, institutions and a needy girl's wedding."
+     "detail": "The committee marked the birth anniversary of Niranjan Halder, founder of Birbhum's first Saraswati Shishu Mandir. It gave assistance to four Shishu Mandirs, institutions and a needy girl's wedding.",
+     "title_bn": "নিরঞ্জন হালদার স্মৃতি বৃত্তি বিতরণ",
+     "org_bn": "অন্যান্য: নিরঞ্জন হালদার স্মৃতি রক্ষা সমিতি (সরস্বতী শিশু মন্দিরের বৃত্ত)",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "সিউড়ি, বীরভূম",
+     "when_bn": "৮ মার্চ ২০২৬",
+     "detail_bn": "কমিটি বীরভূমের প্রথম সরস্বতী শিশু মন্দিরের প্রতিষ্ঠাতা নিরঞ্জন হালদারের জন্মবার্ষিকী পালন করেছে। চারটি শিশু মন্দির, প্রতিষ্ঠান এবং একটি অভাবী মেয়ের বিয়েতে সহায়তা দেওয়া হয়েছে।"
     },
     {
      "title": "Dol Purnima Nagar Sankirtan, 51st year",
@@ -6290,7 +9367,13 @@ window.HINDUTVA = {
      "where": "Howrah",
      "when": "3 March 2026",
      "page": 27,
-     "detail": "VHP led the city procession through central Howrah with Durga Vahini, Purbanchal Kalyan Ashram and Sanskar Bharati tableaux. About 200 people took part."
+     "detail": "VHP led the city procession through central Howrah with Durga Vahini, Purbanchal Kalyan Ashram and Sanskar Bharati tableaux. About 200 people took part.",
+     "title_bn": "দোলপূর্ণিমা নগর সংকীর্তন, ৫১তম বর্ষ",
+     "org_bn": "বিশ্ব হিন্দু পরিষদ",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "হাওড়া",
+     "when_bn": "৩ মার্চ ২০২৬",
+     "detail_bn": "দুর্গাবাহিনী, পূর্বাঞ্চল কল্যাণ আশ্রম ও সংস্কার ভারতীর ট্যাবলো সহ বিশ্ব হিন্দু পরিষদ মধ্য হাওড়ায় শহর শোভাযাত্রার নেতৃত্ব দেয়। প্রায় ২০০ জন অংশ নেন।"
     },
     {
      "title": "ABVP former office-bearers' meet 'Milan-2026'",
@@ -6299,7 +9382,13 @@ window.HINDUTVA = {
      "where": "Manicktala, Kolkata",
      "when": "8 March 2026",
      "page": 28,
-     "detail": "Former ABVP workers from Howrah, Hooghly, Kolkata and the 24 Parganas gathered at the BMS office. ABVP's all-India joint organising secretary Govind Naik was present."
+     "detail": "Former ABVP workers from Howrah, Hooghly, Kolkata and the 24 Parganas gathered at the BMS office. ABVP's all-India joint organising secretary Govind Naik was present.",
+     "title_bn": "এবিভিপি-র প্রাক্তন কার্যকর্তাদের মিলনসভা 'মিলন-২০২৬'",
+     "org_bn": "এবিভিপি",
+     "type_bn": "সম্মেলন",
+     "where_bn": "মানিকতলা, কলকাতা",
+     "when_bn": "৮ মার্চ ২০২৬",
+     "detail_bn": "হাওড়া, হুগলি, কলকাতা ও ২৪ পরগনার প্রাক্তন এবিভিপি কর্মীরা বিএমএস কার্যালয়ে সমবেত হন। এবিভিপির সর্বভারতীয় যুগ্ম সংগঠন সম্পাদক গোবিন্দ নায়েক উপস্থিত ছিলেন।"
     },
     {
      "title": "BMS-linked participation in state employees' strike",
@@ -6308,7 +9397,13 @@ window.HINDUTVA = {
      "where": "West Bengal",
      "when": "13 March 2026",
      "page": 30,
-     "detail": "BMS and its affiliated employee bodies, along with the WB University Employees' Association, took a notable part in a one-day strike. The demands were arrears of dearness allowance, regularisation and recruitment into vacant posts."
+     "detail": "BMS and its affiliated employee bodies, along with the WB University Employees' Association, took a notable part in a one-day strike. The demands were arrears of dearness allowance, regularisation and recruitment into vacant posts.",
+     "title_bn": "রাজ্য কর্মচারীদের ধর্মঘটে বিএমএস-সংশ্লিষ্টদের অংশগ্রহণ",
+     "org_bn": "বিএমএস",
+     "type_bn": "অন্যান্য",
+     "where_bn": "পশ্চিমবঙ্গ",
+     "when_bn": "১৩ মার্চ ২০২৬",
+     "detail_bn": "এক দিনের ধর্মঘটে বিএমএস ও তার অনুমোদিত কর্মচারী সংগঠনগুলি, পশ্চিমবঙ্গ বিশ্ববিদ্যালয় কর্মচারী সমিতির সঙ্গে, উল্লেখযোগ্য ভূমিকা নেয়। দাবি ছিল বকেয়া মহার্ঘ ভাতা, স্থায়ীকরণ এবং শূন্য পদে নিয়োগ।"
     },
     {
      "title": "Vande Mataram 150th anniversary programme",
@@ -6317,7 +9412,13 @@ window.HINDUTVA = {
      "where": "Ballygunge, Kolkata",
      "when": "14 March 2026",
      "page": 30,
-     "detail": "The programme marked 150 years of Vande Mataram and featured sannyasis, lawyers and a descendant of Bankim Chandra."
+     "detail": "The programme marked 150 years of Vande Mataram and featured sannyasis, lawyers and a descendant of Bankim Chandra.",
+     "title_bn": "বন্দে মাতরমের ১৫০তম বার্ষিকী অনুষ্ঠান",
+     "org_bn": "অন্যান্য: ভারত সেবাশ্রম সঙ্ঘ ও রাষ্ট্রীয় সামাজিক গোষ্ঠী",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "বালিগঞ্জ, কলকাতা",
+     "when_bn": "১৪ মার্চ ২০২৬",
+     "detail_bn": "অনুষ্ঠানটি বন্দে মাতরমের ১৫০ বছর উদ্‌যাপন করে এবং এতে সন্ন্যাসী, আইনজীবী ও বঙ্কিমচন্দ্রের এক বংশধর উপস্থিত ছিলেন।"
     },
     {
      "title": "Swastika readers' meet",
@@ -6326,7 +9427,13 @@ window.HINDUTVA = {
      "where": "Uluberia, Howrah",
      "when": "14 March 2026",
      "page": 30,
-     "detail": "About 50 people attended at Uluberia Sarada Shishu Mandir. Speakers discussed the magazine's 78-year history and its role in shaping Bengali public opinion."
+     "detail": "About 50 people attended at Uluberia Sarada Shishu Mandir. Speakers discussed the magazine's 78-year history and its role in shaping Bengali public opinion.",
+     "title_bn": "স্বস্তিকা পাঠক সম্মেলন",
+     "org_bn": "অন্যান্য: স্বস্তিকা পত্রিকা",
+     "type_bn": "সম্মেলন",
+     "where_bn": "উলুবেড়িয়া, হাওড়া",
+     "when_bn": "১৪ মার্চ ২০২৬",
+     "detail_bn": "উলুবেড়িয়া সারদা শিশু মন্দিরে প্রায় ৫০ জন উপস্থিত ছিলেন। বক্তারা পত্রিকাটির ৭৮ বছরের ইতিহাস এবং বাঙালির জনমত গঠনে তার ভূমিকা নিয়ে আলোচনা করেন।"
     },
     {
      "title": "Holi/Dol celebration at a shakha (children's account)",
@@ -6335,7 +9442,13 @@ window.HINDUTVA = {
      "where": "Kolkata",
      "when": "",
      "page": 41,
-     "detail": "A child describes applying abir at the shakha flag-site and visiting swayamsevaks' homes and the RSS office. The page is a children's section item."
+     "detail": "A child describes applying abir at the shakha flag-site and visiting swayamsevaks' homes and the RSS office. The page is a children's section item.",
+     "title_bn": "শাখায় হোলি/দোল উদযাপন (শিশুদের বিবরণ)",
+     "org_bn": "আরএসএস",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "কলকাতা",
+     "when_bn": "",
+     "detail_bn": "একটি শিশু শাখার পতাকাস্থলে আবির দেওয়া এবং স্বয়ংসেবকদের বাড়ি ও আরএসএস কার্যালয়ে যাওয়ার বর্ণনা দিয়েছে। পৃষ্ঠাটি শিশুদের বিভাগের একটি লেখা।"
     },
     {
      "title": "Ram Navami messaging",
@@ -6344,7 +9457,13 @@ window.HINDUTVA = {
      "where": "West Bengal",
      "when": "Ram Navami (March 2026)",
      "page": 39,
-     "detail": "Articles prepare readers for the festival, defend its observance in Bengal and portray Ram Navami as a festival of truth and dharma."
+     "detail": "Articles prepare readers for the festival, defend its observance in Bengal and portray Ram Navami as a festival of truth and dharma.",
+     "title_bn": "রামনবমীর বার্তা",
+     "org_bn": "আরএসএস",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "পশ্চিমবঙ্গ",
+     "when_bn": "রামনবমী (মার্চ ২০২৬)",
+     "detail_bn": "প্রবন্ধগুলি পাঠকদের উৎসবের জন্য প্রস্তুত করে, বাংলায় এর পালনের পক্ষে যুক্তি দেয় এবং রামনবমীকে সত্য ও ধর্মের উৎসব হিসেবে তুলে ধরে।"
     }
    ],
    "narratives": [
@@ -6353,79 +9472,114 @@ window.HINDUTVA = {
      "target": "Illegal Muslim infiltrators and the ruling TMC",
      "claim": "The ruling party is terrified of 'illegal Muslim infiltrators' and uses the 'good Bengali, bad Bengali' line to protect them.",
      "heading": "বেআইনি মুসলমান অনুপ্রবেশের শ্মশানযাত্রার ভয়ে সিঁটিয়ে শাসক — 'ভালো বাঙ্গালি খারাপ বাঙ্গালি'",
-     "page": 3
+     "page": 3,
+     "theme_bn": "অনুপ্রবেশ/জনবিন্যাস",
+     "target_bn": "অবৈধ মুসলমান অনুপ্রবেশকারী ও শাসক তৃণমূল",
+     "claim_bn": "শাসক দল 'অবৈধ মুসলিম অনুপ্রবেশকারী'দের নিয়ে আতঙ্কিত এবং তাদের রক্ষা করতে 'ভালো বাঙালি, খারাপ বাঙালি' তত্ত্ব ব্যবহার করছে।"
     },
     {
      "theme": "West Bengal elections",
      "target": "TMC government; BJP praised",
      "claim": "The BJP's Parivartan Sankalp rally drew over 10 lakh people but was attacked by TMC goons and jihadis while police stood by.",
      "heading": "ভারতীয় জনতা পার্টির 'পরিবর্তন সংকল্প সভা'",
-     "page": 7
+     "page": 7,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "তৃণমূল সরকার; বিজেপি প্রশংসিত",
+     "claim_bn": "বিজেপির পরিবর্তন সংকল্প সমাবেশে ১০ লক্ষের বেশি মানুষ জড়ো হয়েছিলেন, কিন্তু পুলিশ নীরব দর্শক থাকাকালীন তৃণমূলের গুন্ডা ও জিহাদিরা তাতে হামলা চালায়।"
     },
     {
      "theme": "infiltration/demography",
      "target": "Infiltrators in West Bengal",
      "claim": "A large section of infiltrators is creating anarchy in the state, which threatens Hindu existence and national security, so border security is urgent.",
      "heading": "আন্তর্জাতিক সংঘাতের আবহে ভারতে সীমান্ত সুরক্ষা ও অনুপ্রবেশ রোধ জরুরি",
-     "page": 8
+     "page": 8,
+     "theme_bn": "অনুপ্রবেশ/জনবিন্যাস",
+     "target_bn": "পশ্চিমবঙ্গে অনুপ্রবেশকারীরা",
+     "claim_bn": "অনুপ্রবেশকারীদের একটি বড় অংশ রাজ্যে অরাজকতা সৃষ্টি করছে, যা হিন্দু অস্তিত্ব ও জাতীয় নিরাপত্তার পক্ষে হুমকি, তাই সীমান্ত সুরক্ষা জরুরি।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "Critics who call Ram a foreigner to Bengal",
      "claim": "Ram worship in Bengal is ancient and native, so claims that Ram Navami is a recent political import are false.",
      "heading": "শ্রীরাম এক জীবনবোধ — ভারতের বিশ্বজনীন ইতিহাস",
-     "page": 23
+     "page": 23,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "যাঁরা রামকে বাংলার কাছে বিদেশি বলেন সেই সমালোচকেরা",
+     "claim_bn": "বাংলায় রামপূজা প্রাচীন ও স্থানীয় ঐতিহ্য, তাই রামনবমী সাম্প্রতিক রাজনৈতিক আমদানি বলে যে দাবি করা হয়, তা মিথ্যা।"
     },
     {
      "theme": "culture/religion",
      "target": "Hindus generally; opponents of Ram Navami",
      "claim": "Ram Navami is a festival of truth and dharma, and Ram is the ideal of an ideal ruler, son and husband.",
      "heading": "সত্য ও ধর্মস্থাপনের উৎসব শ্রীরামনবমী",
-     "page": 39
+     "page": 39,
+     "theme_bn": "সংস্কৃতি/ধর্ম",
+     "target_bn": "সাধারণভাবে হিন্দুরা; রামনবমীর বিরোধীরা",
+     "claim_bn": "রামনবমী সত্য ও ধর্মের উৎসব, আর রাম আদর্শ শাসক, আদর্শ পুত্র ও আদর্শ স্বামীর প্রতীক।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Early post-independence rulers and the Left Front government",
      "claim": "Early post-independence rulers denied Ram's existence in court, and the Left Front government strongly opposed the Ram Shila Pujan, though it later helped carry the shilas.",
      "heading": "আমার সঙ্ঘজীবনের ইতিকথা",
-     "page": 47
+     "page": 47,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "স্বাধীনতা-পরবর্তী প্রথম দিককার শাসকরা এবং বামফ্রন্ট সরকার",
+     "claim_bn": "স্বাধীনতা-পরবর্তী প্রথম দিককার শাসকরা আদালতে রামের অস্তিত্ব অস্বীকার করেছিলেন, আর বামফ্রন্ট সরকার রামশিলা পূজনের তীব্র বিরোধিতা করেছিল, যদিও পরে শিলা বহনে সাহায্য করেছিল।"
     },
     {
      "theme": "history & icons",
      "target": "Congress and the Emergency government; praise for RSS swayamsevaks",
      "claim": "RSS swayamsevaks suffered arrest and police violence during the Emergency, and later Ram Janmabhoomi kar sevaks were helped by villagers against Mulayam Singh's police.",
      "heading": "আমার সঙ্ঘজীবনের ইতিকথা — অবনীভূষণ মণ্ডল",
-     "page": 46
+     "page": 46,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "কংগ্রেস ও জরুরি অবস্থার সরকার; আরএসএস স্বয়ংসেবকদের প্রশংসা",
+     "claim_bn": "জরুরি অবস্থার সময় আরএসএস স্বয়ংসেবকরা গ্রেপ্তার ও পুলিশি নির্যাতনের শিকার হন, এবং পরে মুলায়ম সিংহের পুলিশের বিরুদ্ধে রামজন্মভূমির করসেবকদের গ্রামবাসীরা সাহায্য করেন।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "Ruling-party politics; Muslims, framed as a threat",
      "claim": "Kolkata areas such as Khidirpur and Ballygunge are becoming 'Mini Pakistan', which the paper presents as a severe warning sign.",
      "heading": "শুধু খিদিরপুর নয়, বালিগঞ্জও : কলকাতার 'মিনি পাকিস্তান' হয়ে ওঠা এক প্রবল অশনিসংকেত",
-     "page": 3
+     "page": 3,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "শাসকদলের রাজনীতি; মুসলমানেরা, যাঁদের হুমকি হিসেবে তুলে ধরা হয়েছে",
+     "claim_bn": "খিদিরপুর ও বালিগঞ্জের মতো কলকাতার এলাকা 'মিনি পাকিস্তান' হয়ে উঠছে বলে পত্রিকাটি দাবি করেছে এবং একে গুরুতর বিপদসংকেত হিসেবে তুলে ধরেছে।"
     },
     {
      "theme": "Bangladesh & Hindu persecution",
      "target": "Bangladesh authorities and perpetrators",
      "claim": "Persecution of Hindus in Bangladesh continues unabated.",
      "heading": "বাংলাদেশে হিন্দু নির্যাতন অব্যাহত",
-     "page": 3
+     "page": 3,
+     "theme_bn": "বাংলাদেশ ও হিন্দু নির্যাতন",
+     "target_bn": "বাংলাদেশের কর্তৃপক্ষ ও অপরাধীরা",
+     "claim_bn": "বাংলাদেশে হিন্দুদের উপর নির্যাতন অব্যাহত রয়েছে।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "Chief Minister Mamata Banerjee",
      "claim": "The common people of West Bengal are being sacrificed in the Chief Minister's power games.",
      "heading": "মুখ্যমন্ত্রীর ক্ষমতার খেলায় বলি পশ্চিমবঙ্গের সাধারণ মানুষ",
-     "page": 3
+     "page": 3,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "মুখ্যমন্ত্রী মমতা বন্দ্যোপাধ্যায়",
+     "claim_bn": "মুখ্যমন্ত্রীর ক্ষমতার খেলায় পশ্চিমবঙ্গের সাধারণ মানুষকে বলি দেওয়া হচ্ছে।"
     },
     {
      "theme": "West Bengal elections",
      "target": "Voters, women and RSS families",
      "claim": "Citizens and Matri Shakti should fulfil civic duties and play an active role in the upcoming West Bengal election.",
      "heading": "নির্বাচনে নাগরিক কর্তব্যের প্রতিফলন কর্তব্য",
-     "page": 3
+     "page": 3,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "ভোটার, মহিলা ও আরএসএস পরিবার",
+     "claim_bn": "আসন্ন পশ্চিমবঙ্গ নির্বাচনে নাগরিক ও মাতৃশক্তির উচিত নাগরিক কর্তব্য পালন করা এবং সক্রিয় ভূমিকা নেওয়া।"
     }
-   ]
+   ],
+   "label_bn": "",
+   "summary_bn": "২০২৬ সালের ২৩ মার্চ সংখ্যাটি পশ্চিমবঙ্গ বিধানসভা নির্বাচনের প্রচার ও রামনবমী উৎসবকে কেন্দ্র করে সাজানো। এতে ব্রিগেড প্যারেড গ্রাউন্ডে বিজেপির 'পরিবর্তন সংকল্প' সমাবেশের খবর দেওয়া হয়েছে, যেখানে তৃণমূলের 'গুন্ডা ও জেহাদি'রা হামলা চালিয়েছে বলে দাবি করা হয়েছে। যুক্তি দেওয়া হয়েছে, অবৈধ মুসলিম অনুপ্রবেশ, কলকাতায় ক্রমবর্ধমান 'মিনি পাকিস্তান' এবং বাংলাদেশে হিন্দুদের ওপর নির্যাতন হিন্দুদের ও জাতীয় নিরাপত্তার পক্ষে হুমকি। রাম ও রামরাজ্যকে বাঙালি জীবনের চিরন্তন, দেশজ অংশ হিসেবে তুলে ধরা হয়েছে—রামনবমী সাম্প্রতিক রাজনৈতিক আমদানি, এই অভিযোগের জবাব হিসেবে। আরএসএস-এর শতবর্ষের জনসংযোগ, বন্দে মাতরমের ১৫০তম বার্ষিকী এবং জরুরি অবস্থা ও রামজন্মভূমি আন্দোলনের স্মৃতিচারণা সংখ্যাটিকে পূর্ণতা দিয়েছে।"
   },
   {
    "issue": "20260316",
@@ -6441,7 +9595,13 @@ window.HINDUTVA = {
      "where": "Natyagram open-air stage, West Bengal (Tepantar)",
      "when": "20, 21, 22 February",
      "page": 26,
-     "detail": "The programme included group singing of 'Vande Mataram', seminars, music and dance, and organisational talks. Attendees included RSS Sah-Purva Kshetra Pracharak Jaladhar Mahato. The venue name is partly garbled in the OCR."
+     "detail": "The programme included group singing of 'Vande Mataram', seminars, music and dance, and organisational talks. Attendees included RSS Sah-Purva Kshetra Pracharak Jaladhar Mahato. The venue name is partly garbled in the OCR.",
+     "title_bn": "বন্দে মাতরমের ১৫০তম বার্ষিকী উদযাপন (তিন দিনের, ১১টি অধিবেশন)",
+     "org_bn": "অন্যান্য: সংস্কার ভারতী পশ্চিমবঙ্গ",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "নাট্যগ্রাম উন্মুক্ত মঞ্চ, পশ্চিমবঙ্গ (তেপান্তর)",
+     "when_bn": "২০, ২১, ২২ ফেব্রুয়ারি",
+     "detail_bn": "অনুষ্ঠানে 'বন্দে মাতরম্'-এর সমবেত গান, আলোচনাসভা, সংগীত ও নৃত্য এবং সাংগঠনিক বক্তৃতা ছিল। উপস্থিতদের মধ্যে ছিলেন আরএসএসের সহ-পূর্ব ক্ষেত্র প্রচারক জলধর মাহাতো। অনুষ্ঠানস্থলের নামটি ওসিআর-এ আংশিক বিকৃত হয়ে গেছে।"
     },
     {
      "title": "Shruti-natak 'Sangha Pranetar Diary' on Dr Hedgewar's life",
@@ -6450,7 +9610,13 @@ window.HINDUTVA = {
      "where": "West Bengal (Sanskar Bharati event)",
      "when": "21 February",
      "page": 27,
-     "detail": "An audio-play written and directed by Amit De, based on the life of RSS founder Dr K.B. Hedgewar, was staged. The programme also included a Girish Chandra Ghosh natyamela and a social-media session."
+     "detail": "An audio-play written and directed by Amit De, based on the life of RSS founder Dr K.B. Hedgewar, was staged. The programme also included a Girish Chandra Ghosh natyamela and a social-media session.",
+     "title_bn": "ডাঃ হেডগেওয়ারের জীবন নিয়ে শ্রুতিনাটক 'সঙ্ঘ প্রণেতার ডায়েরি'",
+     "org_bn": "অন্যান্য: সংস্কার ভারতী পশ্চিমবঙ্গ",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "পশ্চিমবঙ্গ (সংস্কার ভারতীর অনুষ্ঠান)",
+     "when_bn": "২১ ফেব্রুয়ারি",
+     "detail_bn": "আরএসএস প্রতিষ্ঠাতা ডঃ কে.বি. হেডগেওয়ারের জীবন অবলম্বনে অমিত দে-র লেখা ও পরিচালিত একটি শ্রুতিনাটক মঞ্চস্থ হয়। অনুষ্ঠানে গিরিশচন্দ্র ঘোষ নাট্যমেলা ও একটি সোশ্যাল মিডিয়া অধিবেশনও ছিল।"
     },
     {
      "title": "Blood donation camp and two-day cultural programme for Brahmachari Jyotirmoy Chaitanya's 120th birth anniversary",
@@ -6459,7 +9625,13 @@ window.HINDUTVA = {
      "where": "Hooghly district (Konnagar and Haripal appear in the text)",
      "when": "28 February and 1 March",
      "page": 25,
-     "detail": "62 people donated blood, including Shishu Mandir parents and guardians. Prize distribution was also held."
+     "detail": "62 people donated blood, including Shishu Mandir parents and guardians. Prize distribution was also held.",
+     "title_bn": "ব্রহ্মচারী জ্যোতির্ময় চৈতন্যের ১২০তম জন্মজয়ন্তী উপলক্ষে রক্তদান শিবির ও দু'দিনের সাংস্কৃতিক অনুষ্ঠান",
+     "org_bn": "অন্যান্য: বিবেকানন্দ বিদ্যাবিকাশ পরিষদ / শিশু মন্দির",
+     "type_bn": "সেবা/ত্রাণ",
+     "where_bn": "হুগলি জেলা (লেখায় কোন্নগর ও হরিপালের উল্লেখ আছে)",
+     "when_bn": "২৮ ফেব্রুয়ারি ও ১ মার্চ",
+     "detail_bn": "শিশু মন্দিরের অভিভাবক-অভিভাবিকা-সহ ৬২ জন রক্তদান করেন। পুরস্কার বিতরণও অনুষ্ঠিত হয়।"
     },
     {
      "title": "BMS-affiliated university employees' union joins 'Kalighat Chalo' march over DA arrears",
@@ -6468,7 +9640,13 @@ window.HINDUTVA = {
      "where": "Kolkata (Dharmatala to Kalighat)",
      "when": "26 February",
      "page": 25,
-     "detail": "The Paschim Banga Viswavidyalaya Karmachari Sangh, affiliated to the BMS, took part in the Sangramी Joutho Mancha march. Its demands were DA arrears, pay rise and filling vacancies. Representatives from several universities attended."
+     "detail": "The Paschim Banga Viswavidyalaya Karmachari Sangh, affiliated to the BMS, took part in the Sangramी Joutho Mancha march. Its demands were DA arrears, pay rise and filling vacancies. Representatives from several universities attended.",
+     "title_bn": "বকেয়া মহার্ঘ ভাতার দাবিতে বিএমএস-অনুমোদিত বিশ্ববিদ্যালয় কর্মচারী সংগঠন 'কালীঘাট চলো' মিছিলে যোগ দিল",
+     "org_bn": "বিএমএস",
+     "type_bn": "মিছিল/শোভাযাত্রা",
+     "where_bn": "কলকাতা (ধর্মতলা থেকে কালীঘাট)",
+     "when_bn": "২৬ ফেব্রুয়ারি",
+     "detail_bn": "বিএমএস-অনুমোদিত পশ্চিমবঙ্গ বিশ্ববিদ্যালয় কর্মচারী সঙ্ঘ সংগ্রামী যৌথ মঞ্চের মিছিলে অংশ নেয়। তাদের দাবি ছিল বকেয়া মহার্ঘ ভাতা, বেতনবৃদ্ধি এবং শূন্যপদ পূরণ। বেশ কয়েকটি বিশ্ববিদ্যালয়ের প্রতিনিধিরা উপস্থিত ছিলেন।"
     },
     {
      "title": "43rd annual programme of Purbanchal Kalyan Ashram, Kolkata-Howrah",
@@ -6477,7 +9655,13 @@ window.HINDUTVA = {
      "where": "Kalamandir, Kolkata",
      "when": "23 February",
      "page": 28,
-     "detail": "The event focused on tribal empowerment through education, health, self-reliance and cultural revival. VHP central treasurer Dr Shyam Agarwal was chief guest. It included a cultural presentation 'Hare Ka Sahara – Barbarik Shyam Hamara'."
+     "detail": "The event focused on tribal empowerment through education, health, self-reliance and cultural revival. VHP central treasurer Dr Shyam Agarwal was chief guest. It included a cultural presentation 'Hare Ka Sahara – Barbarik Shyam Hamara'.",
+     "title_bn": "পূর্বাঞ্চল কল্যাণ আশ্রমের কলকাতা-হাওড়া শাখার ৪৩তম বার্ষিক অনুষ্ঠান",
+     "org_bn": "বনবাসী কল্যাণ আশ্রম",
+     "type_bn": "সম্মেলন",
+     "where_bn": "কালামন্দির, কলকাতা",
+     "when_bn": "২৩ ফেব্রুয়ারি",
+     "detail_bn": "অনুষ্ঠানে শিক্ষা, স্বাস্থ্য, স্বনির্ভরতা ও সাংস্কৃতিক পুনরুজ্জীবনের মাধ্যমে জনজাতি ক্ষমতায়নের উপর জোর দেওয়া হয়। বিশ্ব হিন্দু পরিষদের কেন্দ্রীয় কোষাধ্যক্ষ ডঃ শ্যাম আগরওয়াল ছিলেন মুখ্য অতিথি। 'হারে কা সহারা – বারবারিক শ্যাম হামারা' নামে একটি সাংস্কৃতিক অনুষ্ঠানও ছিল।"
     },
     {
      "title": "Swadeshi economy and Viksit Bharat 2047 discussion on the Union Budget",
@@ -6486,7 +9670,13 @@ window.HINDUTVA = {
      "where": "Kolkata (Barabazar Library / Professional conference room)",
      "when": "12 February",
      "page": 29,
-     "detail": "Speakers included Haryana Governor Prof. Asim Kumar Ghosh and economist-MLA Dr Ashok Kumar Lahiri. They argued that the 2026-27 budget and the 'Swa' spirit are building a self-reliant economy. The Swastika editor was present."
+     "detail": "Speakers included Haryana Governor Prof. Asim Kumar Ghosh and economist-MLA Dr Ashok Kumar Lahiri. They argued that the 2026-27 budget and the 'Swa' spirit are building a self-reliant economy. The Swastika editor was present.",
+     "title_bn": "কেন্দ্রীয় বাজেট নিয়ে স্বদেশি অর্থনীতি ও বিকশিত ভারত ২০৪৭ বিষয়ক আলোচনা",
+     "org_bn": "অন্যান্য: স্বদেশী জাগরণ মঞ্চ / স্বদেশী রিসার্চ ইনস্টিটিউট",
+     "type_bn": "সম্মেলন",
+     "where_bn": "কলকাতা (বড়বাজার লাইব্রেরি / প্রফেশনাল কনফারেন্স রুম)",
+     "when_bn": "১২ ফেব্রুয়ারি",
+     "detail_bn": "বক্তাদের মধ্যে ছিলেন হরিয়ানার রাজ্যপাল অধ্যাপক অসীম কুমার ঘোষ এবং অর্থনীতিবিদ-বিধায়ক ডঃ অশোক কুমার লাহিড়ী। তাঁরা বলেন, ২০২৬-২৭ সালের বাজেট এবং 'স্ব'-এর চেতনা একটি আত্মনির্ভর অর্থনীতি গড়ে তুলছে। স্বস্তিকার সম্পাদক উপস্থিত ছিলেন।"
     },
     {
      "title": "Kisan sammelans in blocks across West Bengal (Kisan Sangh foundation day, 4 March)",
@@ -6495,7 +9685,13 @@ window.HINDUTVA = {
      "where": "Nadia, North 24 Parganas, Purba Bardhaman, Paschim Medinipur",
      "when": "around 4 March",
      "page": 30,
-     "detail": "The Kisan Sangh plans conventions in all 346 blocks of the state. It urges farmers to vote in the coming assembly election for parties that protect their interests."
+     "detail": "The Kisan Sangh plans conventions in all 346 blocks of the state. It urges farmers to vote in the coming assembly election for parties that protect their interests.",
+     "title_bn": "পশ্চিমবঙ্গের বিভিন্ন ব্লকে কিষাণ সম্মেলন (কিষাণ সঙ্ঘের প্রতিষ্ঠা দিবস, ৪ মার্চ)",
+     "org_bn": "অন্যান্য: ভারতীয় কিষান সঙ্ঘ",
+     "type_bn": "সম্মেলন",
+     "where_bn": "নদিয়া, উত্তর ২৪ পরগনা, পূর্ব বর্ধমান, পশ্চিম মেদিনীপুর",
+     "when_bn": "৪ মার্চের কাছাকাছি",
+     "detail_bn": "কিষান সঙ্ঘ রাজ্যের সব ৩৪৬টি ব্লকে সম্মেলনের পরিকল্পনা করেছে। আসন্ন বিধানসভা নির্বাচনে কৃষকদের স্বার্থ রক্ষাকারী দলগুলিকে ভোট দিতে তারা কৃষকদের আহ্বান জানিয়েছে।"
     },
     {
      "title": "120th birth anniversary of revolutionary Prafulla Kumar Sen",
@@ -6504,7 +9700,13 @@ window.HINDUTVA = {
      "where": "Joynagar, South 24 Parganas",
      "when": "4 March",
      "page": 30,
-     "detail": "The anniversary was observed at the Ghosher Chak Shibalay temple, attended by the revolutionary's daughter."
+     "detail": "The anniversary was observed at the Ghosher Chak Shibalay temple, attended by the revolutionary's daughter.",
+     "title_bn": "বিপ্লবী প্রফুল্লকুমার সেনের ১২০তম জন্মবার্ষিকী",
+     "org_bn": "অন্যান্য",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "জয়নগর, দক্ষিণ ২৪ পরগনা",
+     "when_bn": "৪ মার্চ",
+     "detail_bn": "ঘোষের চক শিবালয় মন্দিরে বার্ষিকী পালিত হয়, যেখানে বিপ্লবীর কন্যা উপস্থিত ছিলেন।"
     },
     {
      "title": "Shraddha: honouring a 90-year-old woman who has seen 'a thousand full moons'",
@@ -6513,7 +9715,13 @@ window.HINDUTVA = {
      "where": "Suri, Birbhum",
      "when": "1 March",
      "page": 27,
-     "detail": "This was the organisation's 169th honouring event since 2008. It included religious rites and gifts of a Bhagavad Gita and clothing."
+     "detail": "This was the organisation's 169th honouring event since 2008. It included religious rites and gifts of a Bhagavad Gita and clothing.",
+     "title_bn": "শ্রদ্ধা: 'হাজার পূর্ণিমা দেখা' ৯০ বছর বয়সি এক বৃদ্ধাকে সম্মান",
+     "org_bn": "অন্যান্য: শ্রদ্ধা (সিউড়ি, বীরভূম)",
+     "type_bn": "সেবা/ত্রাণ",
+     "where_bn": "সিউড়ি, বীরভূম",
+     "when_bn": "১ মার্চ",
+     "detail_bn": "২০০৮ সাল থেকে সংগঠনের এটি ছিল ১৬৯তম সম্মাননা অনুষ্ঠান। এতে ধর্মীয় আচার এবং ভগবদ্গীতা ও বস্ত্র উপহার দেওয়া হয়েছিল।"
     },
     {
      "title": "Hindu New Year / Varsha Pratipad celebration",
@@ -6522,7 +9730,13 @@ window.HINDUTVA = {
      "where": "West Bengal / India",
      "when": "Chaitra Shukla Pratipada (March 2026)",
      "page": 33,
-     "detail": "The article promotes RSS observance of Varsha Pratipad as a 'festival of science'. It is presented as a Vikram Samvat Hindu New Year that stresses the Indian calendar over the Gregorian one."
+     "detail": "The article promotes RSS observance of Varsha Pratipad as a 'festival of science'. It is presented as a Vikram Samvat Hindu New Year that stresses the Indian calendar over the Gregorian one.",
+     "title_bn": "হিন্দু নববর্ষ / বর্ষ প্রতিপদা উদ্‌যাপন",
+     "org_bn": "আরএসএস",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "পশ্চিমবঙ্গ / ভারত",
+     "when_bn": "চৈত্র শুক্ল প্রতিপদ (মার্চ ২০২৬)",
+     "detail_bn": "প্রবন্ধটি বর্ষ প্রতিপদে আরএসএসের পালনকে 'বিজ্ঞানের উৎসব' হিসেবে তুলে ধরেছে। একে বিক্রম সংবৎ অনুযায়ী হিন্দু নববর্ষ হিসেবে উপস্থাপন করা হয়েছে, যেখানে গ্রেগরিয়ান ক্যালেন্ডারের চেয়ে ভারতীয় পঞ্জিকার উপর জোর দেওয়া হয়েছে।"
     },
     {
      "title": "Ram Navami special issue announcement ('Rammay Bharat')",
@@ -6531,7 +9745,13 @@ window.HINDUTVA = {
      "where": "West Bengal",
      "when": "23 March 2026 issue",
      "page": 4,
-     "detail": "The next issue is announced as a Ram Navami special on Sri Ram's influence on Indian life and on West Bengal."
+     "detail": "The next issue is announced as a Ram Navami special on Sri Ram's influence on Indian life and on West Bengal.",
+     "title_bn": "রামনবমী বিশেষ সংখ্যার ঘোষণা ('রামময় ভারত')",
+     "org_bn": "অন্যান্য: স্বস্তিকা",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "পশ্চিমবঙ্গ",
+     "when_bn": "২৩ মার্চ ২০২৬ সংখ্যা",
+     "detail_bn": "পরবর্তী সংখ্যাটি ভারতীয় জীবনে ও পশ্চিমবঙ্গে শ্রীরামের প্রভাব নিয়ে একটি রামনবমী বিশেষ সংখ্যা হবে বলে ঘোষণা করা হয়েছে।"
     },
     {
      "title": "Vanavasi Kalyan Ashram statement welcoming Supreme Court ruling on missionary entry bans in Chhattisgarh villages",
@@ -6540,7 +9760,13 @@ window.HINDUTVA = {
      "where": "Chhattisgarh / Jashpur",
      "when": "20 February 2026 (statement); ruling 16 February 2026",
      "page": 37,
-     "detail": "The Ashram welcomed the Supreme Court's dismissal of a petition against Gram Sabha hoardings barring Christian missionaries. It asked all 10 Scheduled Area states to frame strict rules under PESA."
+     "detail": "The Ashram welcomed the Supreme Court's dismissal of a petition against Gram Sabha hoardings barring Christian missionaries. It asked all 10 Scheduled Area states to frame strict rules under PESA.",
+     "title_bn": "ছত্তিশগড়ের গ্রামগুলিতে মিশনারিদের প্রবেশ নিষেধ সংক্রান্ত সুপ্রিম কোর্টের রায়কে স্বাগত জানিয়ে বনবাসী কল্যাণ আশ্রমের বিবৃতি",
+     "org_bn": "বনবাসী কল্যাণ আশ্রম",
+     "type_bn": "অন্যান্য",
+     "where_bn": "ছত্তিশগড় / জশপুর",
+     "when_bn": "২০ ফেব্রুয়ারি ২০২৬ (বিবৃতি); রায় ১৬ ফেব্রুয়ারি ২০২৬",
+     "detail_bn": "খ্রিস্টান মিশনারিদের প্রবেশ নিষিদ্ধ করে গ্রামসভার হোর্ডিংয়ের বিরুদ্ধে দায়ের হওয়া আবেদন সুপ্রিম কোর্ট খারিজ করায় আশ্রম তাকে স্বাগত জানিয়েছে। আশ্রম পেসা আইনের অধীনে কঠোর বিধি তৈরি করতে তফসিলি এলাকাযুক্ত সব ১০টি রাজ্যের প্রতি আহ্বান জানিয়েছে।"
     },
     {
      "title": "Historical RSS programmes recalled in memoir: Guruji's swayamsevak sammelans, Sangh Shiksha Vargs, relief work and Emergency underground work",
@@ -6549,7 +9775,13 @@ window.HINDUTVA = {
      "where": "Bankura, Purulia, Bardhaman, Balurghat (Dakshin Dinajpur), Siliguri",
      "when": "1960s-1975",
      "page": 47,
-     "detail": "A veteran's memoir recounts Guruji's visits, Sangh Shiksha Varg camps, shakhas started in villages, flood relief at Balurghat and clandestine bulletins during the Emergency."
+     "detail": "A veteran's memoir recounts Guruji's visits, Sangh Shiksha Varg camps, shakhas started in villages, flood relief at Balurghat and clandestine bulletins during the Emergency.",
+     "title_bn": "স্মৃতিকথায় স্মরণ করা আরএসএসের ঐতিহাসিক কর্মসূচি: গুরুজির স্বয়ংসেবক সম্মেলন, সংঘ শিক্ষা বর্গ, ত্রাণকাজ এবং জরুরি অবস্থার সময়ের গোপন কাজকর্ম",
+     "org_bn": "আরএসএস",
+     "type_bn": "শাখা/প্রশিক্ষণ শিবির",
+     "where_bn": "বাঁকুড়া, পুরুলিয়া, বর্ধমান, বালুরঘাট (দক্ষিণ দিনাজপুর), শিলিগুড়ি",
+     "when_bn": "১৯৬০-এর দশক থেকে ১৯৭৫",
+     "detail_bn": "এক প্রবীণ কার্যকর্তার স্মৃতিকথায় গুরুজির সফর, সঙ্ঘ শিক্ষা বর্গ শিবির, গ্রামে গ্রামে শাখা শুরু, বালুরঘাটে বন্যাত্রাণ এবং জরুরি অবস্থার সময় গোপন বুলেটিনের কথা বর্ণিত হয়েছে।"
     }
    ],
    "narratives": [
@@ -6558,100 +9790,144 @@ window.HINDUTVA = {
      "target": "Chief Minister Mamata Banerjee / TMC state government",
      "claim": "Obstructing the Election Commission's SIR is unconstitutional and unhealthy for democracy. The Chief Minister opposes it because she survives in power on illegal voters, and the Supreme Court has said SIR must proceed.",
      "heading": "সাংবিধানিক কার্যে বাধা সৃষ্টি সুস্থ গণতন্ত্রের লক্ষণ নহে",
-     "page": 5
+     "page": 5,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "মুখ্যমন্ত্রী মমতা বন্দ্যোপাধ্যায় / তৃণমূল রাজ্য সরকার",
+     "claim_bn": "নির্বাচন কমিশনের এসআইআর-এ বাধা দেওয়া অসাংবিধানিক এবং গণতন্ত্রের পক্ষে অস্বাস্থ্যকর। মুখ্যমন্ত্রী এর বিরোধিতা করছেন কারণ তিনি ভুয়ো ভোটারদের ওপর ভর করে ক্ষমতায় টিকে আছেন, আর সুপ্রিম কোর্ট বলেছে এসআইআর চলবেই।"
     },
     {
      "theme": "infiltration/demography",
      "target": "Bangladeshi Muslims and Rohingya on the rolls; Malda and Murshidabad",
      "claim": "The rolls hold large numbers of illegal Bangladeshi Muslim and Rohingya infiltrators. Most of the 60 lakh deletions came from Malda and Murshidabad, where the demographic balance has been upset.",
      "heading": "সাংবিধানিক কার্যে বাধা সৃষ্টি সুস্থ গণতন্ত্রের লক্ষণ নহে",
-     "page": 5
+     "page": 5,
+     "theme_bn": "অনুপ্রবেশ/জনবিন্যাস",
+     "target_bn": "ভোটার তালিকায় বাংলাদেশি মুসলিম ও রোহিঙ্গা; মালদহ ও মুর্শিদাবাদ",
+     "claim_bn": "ভোটার তালিকায় বিপুল সংখ্যক অবৈধ বাংলাদেশি মুসলিম ও রোহিঙ্গা অনুপ্রবেশকারী রয়েছে। ৬০ লক্ষ বাদের বেশিরভাগই মালদা ও মুর্শিদাবাদ থেকে, যেখানে জনসংখ্যার ভারসাম্য বিপর্যস্ত হয়েছে।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "CPIM / the Left (Communists)",
      "claim": "Communists falsely claim to be honest. They are disappearing from Bengal, Tripura and Bangladesh because of arrogance and hypocrisy, and in Delhi they sit with the TMC in the INDIA bloc while opposing it in Bengal.",
      "heading": "আজ সম্পূর্ণ গুরুত্বহীন ও অপ্রাসঙ্গিক",
-     "page": 8
+     "page": 8,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "সিপিআই(এম) / বামপন্থীরা (কমিউনিস্টরা)",
+     "claim_bn": "কমিউনিস্টরা মিথ্যে করে নিজেদের সৎ বলে দাবি করে। অহংকার ও ভণ্ডামির কারণে তারা বাংলা, ত্রিপুরা ও বাংলাদেশ থেকে অবলুপ্ত হচ্ছে, আর দিল্লিতে ইন্ডিয়া জোটে তৃণমূলের সঙ্গে বসলেও বাংলায় তার বিরোধিতা করে।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "CPIM / Left parties",
      "claim": "The earlier Left Front government also created fake documents to enrol infiltrators on the voters' list for political gain.",
      "heading": "সাংবিধানিক কার্যে বাধা সৃষ্টি সুস্থ গণতন্ত্রের লক্ষণ নহে",
-     "page": 5
+     "page": 5,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "সিপিআই(এম) / বামপন্থী দলগুলি",
+     "claim_bn": "আগের বামফ্রন্ট সরকারও রাজনৈতিক লাভের জন্য অনুপ্রবেশকারীদের ভোটার তালিকায় নাম তুলতে জাল নথি তৈরি করেছিল।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "Mamata Banerjee / TMC",
      "claim": "The Chief Minister cannot save her seat by sabotaging the SIR. The contents page also lists an article claiming that opposing SIR may backfire on the TMC, and others on the state's de-industrialised, ageing economy.",
      "heading": "এসআইআর প্রক্রিয়ায় “অন্তর্ঘাত” করেও গদি বাঁচাতে পারবেন না মুখ্যমন্ত্রী",
-     "page": 3
+     "page": 3,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "মমতা বন্দ্যোপাধ্যায় / তৃণমূল",
+     "claim_bn": "এসআইআর বানচাল করে মুখ্যমন্ত্রী নিজের আসন বাঁচাতে পারবেন না। সূচিপত্রে এমন একটি নিবন্ধেরও উল্লেখ আছে যাতে দাবি করা হয়েছে এসআইআরের বিরোধিতা তৃণমূলের বিপক্ষেই যেতে পারে, এবং রাজ্যের শিল্পহীন, বার্ধক্যগ্রস্ত অর্থনীতি নিয়ে আরও কয়েকটি লেখা রয়েছে।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "Mamata Banerjee's government",
      "claim": "West Bengal's economy is ageing and shrinking because of the absence of industry, and the state risks becoming one big old-age home.",
      "heading": "বার্ধক্যের শৃঙ্খলে পশ্চিমবঙ্গের অর্থনীতি : শিল্পহীনতার খেসারত কি তবে এক বিশাল বৃদ্ধাশ্রম?",
-     "page": 3
+     "page": 3,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "মমতা বন্দ্যোপাধ্যায়ের সরকার",
+     "claim_bn": "শিল্পের অভাবে পশ্চিমবঙ্গের অর্থনীতি বার্ধক্যগ্রস্ত ও সংকুচিত হচ্ছে, এবং রাজ্য একটি বিশাল বৃদ্ধাশ্রমে পরিণত হওয়ার ঝুঁকিতে।"
     },
     {
      "theme": "Bangladesh & Hindu persecution",
      "target": "Hasina administration / Bangladesh",
      "claim": "Traitors ('Mir Jafars') had been hiding inside Hasina's administration. This article is listed only in the contents (page 18), and its text is not in the digest.",
      "heading": "হাসিনার প্রশাসনেই ঘাপটি মেরে বসেছিল মীরজাফররা",
-     "page": 3
+     "page": 3,
+     "theme_bn": "বাংলাদেশ ও হিন্দু নির্যাতন",
+     "target_bn": "হাসিনা প্রশাসন / বাংলাদেশ",
+     "claim_bn": "হাসিনার প্রশাসনের ভিতরেই বিশ্বাসঘাতকেরা ('মীরজাফরেরা') লুকিয়ে ছিল। এই লেখাটি শুধু সূচিপত্রে (পৃষ্ঠা ১৮) তালিকাভুক্ত, এর মূল পাঠ ডাইজেস্টে নেই।"
     },
     {
      "theme": "'love jihad'/conversion",
      "target": "Christian missionaries",
      "claim": "Missionaries convert tribals by inducement and fraud. Gram Sabha hoardings barring them are constitutional, and the Supreme Court upheld the Chhattisgarh High Court on this.",
      "heading": "অসাংবিধানিক নয়\" : ছত্তিশগড় হাইকোর্টের “যাজকদের প্রবেশে নিষেধাজ্ঞার হোর্ডিঙের বৈধতা বহাল সুপ্রিম কোর্টেও",
-     "page": 37
+     "page": 37,
+     "theme_bn": "'লাভ জিহাদ'/ধর্মান্তরণ",
+     "target_bn": "খ্রিস্টান মিশনারিরা",
+     "claim_bn": "মিশনারিরা প্রলোভন ও প্রতারণার মাধ্যমে আদিবাসীদের ধর্মান্তরিত করে। তাদের নিষিদ্ধ করে গ্রামসভার হোর্ডিং সাংবিধানিক, এবং এ বিষয়ে সুপ্রিম কোর্ট ছত্তিসগড় হাইকোর্টের রায় বহাল রেখেছে।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "Muslims; 'secularists'",
      "claim": "A reader's letter says the Muslim scripture itself divides Muslims from non-Muslims, and that those who call the BJP communal have been misled by secularists. It also cites China, Japan and Myanmar as examples of restrictions on Muslims.",
      "heading": "(পাঠকের চিঠি — শিরোনাম পাতায় অনুপলব্ধ; কল্যাণ ভঞ্জ চৌধুরীর চিঠি)",
-     "page": 20
+     "page": 20,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "মুসলমান; 'ধর্মনিরপেক্ষবাদী'রা",
+     "claim_bn": "এক পাঠকের চিঠিতে বলা হয়েছে, মুসলিম ধর্মগ্রন্থই মুসলিম ও অমুসলিমদের মধ্যে বিভাজন করে এবং যাঁরা বিজেপিকে সাম্প্রদায়িক বলেন, তাঁরা ধর্মনিরপেক্ষতাবাদীদের দ্বারা বিভ্রান্ত হয়েছেন। চিঠিতে মুসলিমদের উপর নিষেধাজ্ঞার উদাহরণ হিসেবে চিন, জাপান ও মায়ানমারের কথাও বলা হয়েছে।"
     },
     {
      "theme": "history & icons",
      "target": "RSS founder Dr Hedgewar",
      "claim": "Dr Hedgewar was drawn to revolution by Bengal's Anushilan Samiti and 'Vande Mataram', and had links with Subhas Bose, so the Sangh's roots lie in Bengal.",
      "heading": "রাষ্ট্রীয় স্বয়ংসেবক সঙ্ঘের প্রতিষ্ঠাতা ডাঃ কেশব বলিরাম হেডগেওয়ার এবং বঙ্গপ্রদেশ",
-     "page": 34
+     "page": 34,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "আরএসএস প্রতিষ্ঠাতা ডা. হেডগেওয়ার",
+     "claim_bn": "ডাঃ হেডগেওয়ার বাংলার অনুশীলন সমিতি ও 'বন্দে মাতরম' দ্বারা বিপ্লবের প্রতি আকৃষ্ট হয়েছিলেন এবং সুভাষ বসুর সঙ্গে তাঁর যোগাযোগ ছিল, তাই সংঘের শিকড় বাংলায়।"
     },
     {
      "theme": "culture/religion",
      "target": "Hindu New Year (Vikram Samvat)",
      "claim": "Varsha Pratipad is a festival of Hindu science. The Gregorian calendar is of European origin, while Vikram Samvat is the authentic Indian calendar and is tied to Vikramaditya's victory over the Shakas.",
      "heading": "হিন্দু সভ্যতার বিজ্ঞান সাধনাকে মনে করানোর উৎসব হিন্দু নববর্ষ বর্ষপ্রতিপদ",
-     "page": 33
+     "page": 33,
+     "theme_bn": "সংস্কৃতি/ধর্ম",
+     "target_bn": "হিন্দু নববর্ষ (বিক্রম সংবৎ)",
+     "claim_bn": "বর্ষ প্রতিপদ হিন্দু বিজ্ঞানের উৎসব। গ্রেগরিয়ান ক্যালেন্ডার ইউরোপীয় উৎপত্তির, আর বিক্রম সংবৎ খাঁটি ভারতীয় ক্যালেন্ডার, যা বিক্রমাদিত্যের শক-বিজয়ের সঙ্গে যুক্ত।"
     },
     {
      "theme": "Modi govt achievements",
      "target": "Union Government / Modi government",
      "claim": "Union budget and policies since 2014 have strengthened the self-reliant 'Swa' economy and made India the world's fourth largest economy. They also put 'Viksit Bharat 2047' within reach, and Bengal will develop if central schemes are implemented.",
      "heading": "স্বদেশী রিসার্চ ইনস্টিটিউটের উদ্যোগে “বিকশিত ভারত-২০৪৭” বিষয়ক আলোচনাসভা",
-     "page": 29
+     "page": 29,
+     "theme_bn": "মোদী সরকারের কৃতিত্ব",
+     "target_bn": "কেন্দ্রীয় সরকার / মোদি সরকার",
+     "claim_bn": "২০১৪ সাল থেকে কেন্দ্রীয় বাজেট ও নীতিসমূহ স্বনির্ভর 'স্ব' অর্থনীতিকে শক্তিশালী করেছে এবং ভারতকে বিশ্বের চতুর্থ বৃহত্তম অর্থনীতি করেছে। এগুলি 'বিকশিত ভারত ২০৪৭'-কেও নাগালের মধ্যে এনেছে, আর কেন্দ্রীয় প্রকল্প রূপায়িত হলে বাংলার উন্নয়ন হবে।"
     },
     {
      "theme": "nationalism/army/Pakistan",
      "target": "Maoists",
      "claim": "India is moving towards a Maoist-free country as the Maoists' violence fades. This article is listed only in the contents (page 43), and its text is not in the digest.",
      "heading": "মাওমুক্ত ভারতের লক্ষ্যে মাওবাদী দৌরাজ্যের তেজ নিভে যাবার মুখে",
-     "page": 3
+     "page": 3,
+     "theme_bn": "জাতীয়তাবাদ/সেনা/পাকিস্তান",
+     "target_bn": "মাওবাদীরা",
+     "claim_bn": "মাওবাদীদের হিংসা ক্ষীণ হয়ে আসায় ভারত মাওবাদী-মুক্ত দেশের দিকে এগোচ্ছে। এই লেখাটি শুধু সূচিপত্রে (পৃ. ৪৩) তালিকাভুক্ত, এর মূল পাঠ সংক্ষিপ্তসারে নেই।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "RSS / Sangh centenary",
      "claim": "A reader's letter says the RSS's 'silent work' at its centenary has begun the global victory march of Sanatanis, and that Vivekananda's call 'now India is the centre' is being realised.",
      "heading": "শতাব্দীর সাধনায় এবার কেন্দ্র ভারতবর্ষ",
-     "page": 20
+     "page": 20,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "আরএসএস / সংঘের শতবর্ষ",
+     "claim_bn": "এক পাঠকের চিঠিতে বলা হয়েছে, শতবর্ষে আরএসএস-এর 'নীরব কাজ' সনাতনীদের বিশ্বজয়ের যাত্রা শুরু করেছে এবং বিবেকানন্দের 'এখন ভারতই কেন্দ্র' আহ্বান বাস্তব রূপ পাচ্ছে।"
     }
-   ]
+   ],
+   "label_bn": "",
+   "summary_bn": "২০২৬ সালের ১৬ মার্চের এই সংখ্যাটি পশ্চিমবঙ্গ বিধানসভা নির্বাচনের আগে প্রকাশিত। এতে নির্বাচন কমিশনের ভোটার তালিকার বিশেষ নিবিড় সংশোধনকে (এসআইআর) সমর্থন করা হয়েছে এবং মুখ্যমন্ত্রীর বিরোধিতাকে অবৈধ বাংলাদেশি ও রোহিঙ্গা ভোটারদের রক্ষার চেষ্টা হিসেবে তুলে ধরা হয়েছে। একই সঙ্গে সিপিআই(এম)-কে অসৎ, দুর্বল এবং বিলুপ্তির পথে বলে আক্রমণ করা হয়েছে, আর তৃণমূল সরকারকে দুর্নীতিগ্রস্ত এবং রাজ্যের অর্থনীতিকে স্থবির বলে বর্ণনা করা হয়েছে। সংখ্যাটির একটি বড় অংশ আরএসএস-কেন্দ্রিক: 'বিজ্ঞানের উৎসব' হিসেবে হিন্দু নববর্ষ (বর্ষ প্রতিপদ), বাংলার বিপ্লবীদের সঙ্গে ডাঃ হেডগেওয়ারের যোগাযোগ, বাঁকুড়া ও দক্ষিণ দিনাজপুরে সঙ্ঘের কাজের স্মৃতিকথা এবং শতবর্ষ উপলক্ষে সঙ্ঘের প্রতিবেদন। এতে সঙ্ঘের সহযোগী সংগঠনগুলির (সংস্কার ভারতী, কিসান সঙ্ঘ, বনবাসী কল্যাণ আশ্রম, স্বদেশি জাগরণ মঞ্চ, বিএমএস) প্রতিবেদনও রয়েছে। পরবর্তী সংখ্যাটি রামনবমী বিশেষ সংখ্যা হিসেবে ঘোষণা করা হয়েছে।"
   },
   {
    "issue": "20260309",
@@ -6667,7 +9943,13 @@ window.HINDUTVA = {
      "where": "Serampore Town Hall, Hooghly",
      "when": "8 February",
      "page": 28,
-     "detail": "Purba Kshetra sampark pramukh Bidyut Mukherjee spoke on the Sangh's 100-year journey and the Panch Parivartan, followed by a Q&A with distinguished citizens."
+     "detail": "Purba Kshetra sampark pramukh Bidyut Mukherjee spoke on the Sangh's 100-year journey and the Panch Parivartan, followed by a Q&A with distinguished citizens.",
+     "title_bn": "বিশিষ্ট নাগরিক সম্মেলন, শ্রীরামপুর (আরএসএস শতবর্ষ)",
+     "org_bn": "আরএসএস",
+     "type_bn": "শতবর্ষ",
+     "where_bn": "শ্রীরামপুর টাউন হল, হুগলি",
+     "when_bn": "৮ ফেব্রুয়ারি",
+     "detail_bn": "পূর্ব ক্ষেত্র সম্পর্কপ্রমুখ বিদ্যুৎ মুখার্জি সংঘের ১০০ বছরের যাত্রা ও পঞ্চ পরিবর্তন নিয়ে বক্তব্য রাখেন, এরপর বিশিষ্টজনদের সঙ্গে প্রশ্নোত্তর পর্ব হয়।"
     },
     {
      "title": "Distinguished Citizens' Conference with Sah-Sarkaryavah Arun Kumar",
@@ -6676,7 +9958,13 @@ window.HINDUTVA = {
      "where": "Chinsurah, Hooghly",
      "when": "14 February",
      "page": 29,
-     "detail": "About 150 prominent citizens attended; Arun Kumar spoke on the Sangh's ideology and 100-year journey and answered their questions."
+     "detail": "About 150 prominent citizens attended; Arun Kumar spoke on the Sangh's ideology and 100-year journey and answered their questions.",
+     "title_bn": "সহ-সরকার্যবাহ অরুণ কুমারের উপস্থিতিতে বিশিষ্ট নাগরিক সম্মেলন",
+     "org_bn": "আরএসএস",
+     "type_bn": "শতবর্ষ",
+     "where_bn": "চুঁচুড়া, হুগলি",
+     "when_bn": "১৪ ফেব্রুয়ারি",
+     "detail_bn": "প্রায় ১৫০ জন বিশিষ্ট নাগরিক উপস্থিত ছিলেন; অরুণ কুমার সঙ্ঘের আদর্শ ও ১০০ বছরের যাত্রা নিয়ে বক্তব্য রাখেন এবং তাঁদের প্রশ্নের উত্তর দেন।"
     },
     {
      "title": "Distinguished Citizens' Conference, Simlagarh (RSS centenary)",
@@ -6685,7 +9973,13 @@ window.HINDUTVA = {
      "where": "Simlagarh, Hooghly",
      "when": "",
      "page": 29,
-     "detail": "Purba Kshetra pracharak Ramapada Pal addressed 150 notable citizens from Pandua and nearby areas on the Sangh's ideology and its role in society."
+     "detail": "Purba Kshetra pracharak Ramapada Pal addressed 150 notable citizens from Pandua and nearby areas on the Sangh's ideology and its role in society.",
+     "title_bn": "বিশিষ্ট নাগরিক সম্মেলন, সিমলাগড় (আরএসএস শতবর্ষ)",
+     "org_bn": "আরএসএস",
+     "type_bn": "শতবর্ষ",
+     "where_bn": "সিমলাগড়, হুগলি",
+     "when_bn": "",
+     "detail_bn": "পূর্ব ক্ষেত্র প্রচারক রামপদ পাল পান্ডুয়া ও সংলগ্ন এলাকার ১৫০ জন বিশিষ্ট নাগরিকের সামনে সংঘের আদর্শ এবং সমাজে তার ভূমিকা নিয়ে বক্তব্য রাখেন।"
     },
     {
      "title": "Distinguished Citizens' Conference, Purulia (RSS centenary)",
@@ -6694,7 +9988,13 @@ window.HINDUTVA = {
      "where": "Bharat Sevashram Sangha, Purulia",
      "when": "February (date unclear in OCR)",
      "page": 29,
-     "detail": "Bidyut Mukherjee was the main speaker at the centenary citizens' meeting."
+     "detail": "Bidyut Mukherjee was the main speaker at the centenary citizens' meeting.",
+     "title_bn": "বিশিষ্ট নাগরিক সম্মেলন, পুরুলিয়া (আরএসএস শতবর্ষ)",
+     "org_bn": "আরএসএস",
+     "type_bn": "শতবর্ষ",
+     "where_bn": "ভারত সেবাশ্রম সঙ্ঘ, পুরুলিয়া",
+     "when_bn": "ফেব্রুয়ারি (ওসিআরে তারিখ অস্পষ্ট)",
+     "detail_bn": "শতবর্ষের নাগরিক সভায় প্রধান বক্তা ছিলেন বিদ্যুৎ মুখোপাধ্যায়।"
     },
     {
      "title": "Virat Hindu Sammelan, Beleghata",
@@ -6703,7 +10003,13 @@ window.HINDUTVA = {
      "where": "Balaji Mandir near Subhas Sarobar, Beleghata, Kolkata",
      "when": "1 February (Magh Purnima)",
      "page": 27,
-     "detail": "Puja and homa, a hundred-voice Gita recitation led by a Gaudiya Math monk, and prasad for about 2,500 people, organised by the Beleghata Nagar of RSS."
+     "detail": "Puja and homa, a hundred-voice Gita recitation led by a Gaudiya Math monk, and prasad for about 2,500 people, organised by the Beleghata Nagar of RSS.",
+     "title_bn": "বিরাট হিন্দু সম্মেলন, বেলেঘাটা",
+     "org_bn": "আরএসএস",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "কলকাতার বেলেঘাটায় সুভাষ সরোবরের কাছে বালাজি মন্দির",
+     "when_bn": "১ ফেব্রুয়ারি (মাঘী পূর্ণিমা)",
+     "detail_bn": "আরএসএসের বেলেঘাটা নগরের উদ্যোগে পূজা ও হোম, গৌড়ীয় মঠের এক সন্ন্যাসীর নেতৃত্বে শতকণ্ঠে গীতাপাঠ এবং প্রায় ২,৫০০ জনের জন্য প্রসাদ বিতরণ।"
     },
     {
      "title": "Sanatani Advocates' Conference, Howrah",
@@ -6712,7 +10018,13 @@ window.HINDUTVA = {
      "where": "Howrah",
      "when": "13 February",
      "page": 26,
-     "detail": "Lawyers from the Howrah, Uluberia and Amta courts met, with Purba Kshetra pracharak Ramapada Pal as main speaker on the duties of advocates in West Bengal's current political and social situation."
+     "detail": "Lawyers from the Howrah, Uluberia and Amta courts met, with Purba Kshetra pracharak Ramapada Pal as main speaker on the duties of advocates in West Bengal's current political and social situation.",
+     "title_bn": "সনাতনী আইনজীবী সম্মেলন, হাওড়া",
+     "org_bn": "অন্যান্য: সনাতনী অ্যাডভোকেট একত্রীকরণ সমিতি",
+     "type_bn": "সম্মেলন",
+     "where_bn": "হাওড়া",
+     "when_bn": "১৩ ফেব্রুয়ারি",
+     "detail_bn": "হাওড়া, উলুবেড়িয়া ও আমতা আদালতের আইনজীবীরা সভায় মিলিত হন; পশ্চিমবঙ্গের বর্তমান রাজনৈতিক ও সামাজিক পরিস্থিতিতে আইনজীবীদের কর্তব্য নিয়ে মুখ্য বক্তা ছিলেন পূর্ব ক্ষেত্র প্রচারক রমাপদ পাল।"
     },
     {
      "title": "Mass Gita recitation, Gita distribution and Gita yajna, Kalapole",
@@ -6721,7 +10033,13 @@ window.HINDUTVA = {
      "where": "Deganga, North 24 Parganas",
      "when": "19 February",
      "page": 26,
-     "detail": "A programme with Gita recitation and yajna with local monks and a gurukul, where speakers talked about Hindutva and guidance for Hindus."
+     "detail": "A programme with Gita recitation and yajna with local monks and a gurukul, where speakers talked about Hindutva and guidance for Hindus.",
+     "title_bn": "গণগীতাপাঠ, গীতা বিতরণ ও গীতা যজ্ঞ, কালাপোল",
+     "org_bn": "অন্যান্য: স্থানীয় হিন্দু সংগঠনগুলি",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "দেগঙ্গা, উত্তর ২৪ পরগনা",
+     "when_bn": "১৯ ফেব্রুয়ারি",
+     "detail_bn": "স্থানীয় সন্ন্যাসী ও একটি গুরুকুলের সঙ্গে গীতা পাঠ ও যজ্ঞের অনুষ্ঠান, যেখানে বক্তারা হিন্দুত্ব এবং হিন্দুদের জন্য দিকনির্দেশনা নিয়ে আলোচনা করেন।"
     },
     {
      "title": "VHP Samarasata (social harmony) national workers' meeting",
@@ -6730,7 +10048,13 @@ window.HINDUTVA = {
      "where": "Vijayawada, Andhra Pradesh",
      "when": "21-22 February",
      "page": 27,
-     "detail": "115 workers from 35 organisational provinces took part, including Purba Kshetra samarasata pramukh Goutam Sarkar. The meeting discussed Panch Parivartan under the RSS centenary and announced the Ashok Singhal birth centenary year from 27 September onwards, and growing observance of Valmiki, Ravidas and Ambedkar Jayanti."
+     "detail": "115 workers from 35 organisational provinces took part, including Purba Kshetra samarasata pramukh Goutam Sarkar. The meeting discussed Panch Parivartan under the RSS centenary and announced the Ashok Singhal birth centenary year from 27 September onwards, and growing observance of Valmiki, Ravidas and Ambedkar Jayanti.",
+     "title_bn": "বিশ্ব হিন্দু পরিষদের সমরসতা (সামাজিক সম্প্রীতি) জাতীয় কার্যকর্তা বৈঠক",
+     "org_bn": "বিশ্ব হিন্দু পরিষদ",
+     "type_bn": "সম্মেলন",
+     "where_bn": "বিজয়ওয়াড়া, অন্ধ্রপ্রদেশ",
+     "when_bn": "২১-২২ ফেব্রুয়ারি",
+     "detail_bn": "৩৫টি সাংগঠনিক প্রান্ত থেকে ১১৫ জন কার্যকর্তা অংশ নেন, তাঁদের মধ্যে পূর্ব ক্ষেত্র সামাজিক সমরসতা প্রমুখ গৌতম সরকার ছিলেন। বৈঠকে আরএসএস-এর শতবর্ষ উপলক্ষে পঞ্চ পরিবর্তন নিয়ে আলোচনা হয় এবং ২৭ সেপ্টেম্বর থেকে অশোক সিংঘলের জন্মশতবর্ষ ঘোষণা করা হয়; বাল্মীকি, রবিদাস ও আম্বেদকর জয়ন্তী পালনের ক্রমবর্ধমান প্রসারের কথাও জানানো হয়।"
     },
     {
      "title": "Bharatiya Kisan Sangh mangalnidhi offering",
@@ -6739,7 +10063,13 @@ window.HINDUTVA = {
      "where": "West Bengal",
      "when": "8 February",
      "page": 28,
-     "detail": "Provincial publicity head Milan Khamaria offered a mangalnidhi to the Kisan Sangh at his wedding reception, and the significance of the offering was explained by an all-India office-bearer."
+     "detail": "Provincial publicity head Milan Khamaria offered a mangalnidhi to the Kisan Sangh at his wedding reception, and the significance of the offering was explained by an all-India office-bearer.",
+     "title_bn": "ভারতীয় কিসান সঙ্ঘের মঙ্গলনিধি নিবেদন",
+     "org_bn": "অন্যান্য: ভারতীয় কিষান সঙ্ঘ",
+     "type_bn": "অন্যান্য",
+     "where_bn": "পশ্চিমবঙ্গ",
+     "when_bn": "৮ ফেব্রুয়ারি",
+     "detail_bn": "প্রান্ত প্রচারপ্রমুখ মিলন খামারিয়া নিজের বিবাহ-সংবর্ধনায় কিষান সংঘকে একটি মঙ্গলনিধি দান করেন এবং অখিল ভারতীয় এক পদাধিকারী দানের তাৎপর্য ব্যাখ্যা করেন।"
     }
    ],
    "narratives": [
@@ -6748,72 +10078,104 @@ window.HINDUTVA = {
      "target": "Tarique Rahman / BNP, Jamaat, Yunus government",
      "claim": "BNP's win gives Hindus only temporary relief, and Tarique Rahman must prove sincerity by ending attacks on minorities and unconditionally freeing Chinmoy Krishna Das, since the Jamaat-allied BNP of the past took part in anti-Hindu violence.",
      "heading": "সততার প্রমাণ রাখিতে হইবে",
-     "page": 5
+     "page": 5,
+     "theme_bn": "বাংলাদেশ ও হিন্দু নির্যাতন",
+     "target_bn": "তারেক রহমান / বিএনপি, জামাত, ইউনূস সরকার",
+     "claim_bn": "বিএনপির জয়ে হিন্দুরা কেবল সাময়িক স্বস্তি পেল; সংখ্যালঘুদের উপর হামলা বন্ধ করে এবং চিন্ময় কৃষ্ণ দাসকে নিঃশর্তে মুক্তি দিয়ে তারেক রহমানকে আন্তরিকতার প্রমাণ দিতে হবে, কারণ অতীতে জামায়াতের সঙ্গে জোটবদ্ধ বিএনপি হিন্দুবিরোধী হিংসায় অংশ নিয়েছিল।"
     },
     {
      "theme": "Bangladesh & Hindu persecution",
      "target": "Yunus interim government, Jamaat",
      "claim": "The Hindu community suffered unprecedented atrocities in the past year and a half, and Hindus decided the result in 80-100 seats of the Bangladesh election.",
      "heading": "বাংলাদেশ আপাতত রাহুমুক্ত— ঘাড় থেকে নেমেছে বেতাল",
-     "page": 14
+     "page": 14,
+     "theme_bn": "বাংলাদেশ ও হিন্দু নির্যাতন",
+     "target_bn": "ইউনূসের অন্তর্বর্তী সরকার, জামায়াত",
+     "claim_bn": "গত দেড় বছরে হিন্দু সম্প্রদায় নজিরবিহীন নির্যাতনের শিকার হয়েছে, আর বাংলাদেশের নির্বাচনে ৮০-১০০টি আসনের ফল নির্ধারণ করেছে হিন্দুরা।"
     },
     {
      "theme": "infiltration/demography",
      "target": "Jamaat-e-Islami",
      "claim": "The rise of Jamaat along the Indian border could threaten the security of West Bengal and the North-East.",
      "heading": "ভারত সীমান্তে জামাতের উত্থানে পশ্চিমবঙ্গ ও উত্তর-পূর্ব ভারতের নিরাপত্তা বিঘ্নিত হতে পারে",
-     "page": 3
+     "page": 3,
+     "theme_bn": "অনুপ্রবেশ/জনবিন্যাস",
+     "target_bn": "জামায়াত-ই-ইসলামি",
+     "claim_bn": "ভারতের সীমান্ত বরাবর জামাতের উত্থান পশ্চিমবঙ্গ ও উত্তর-পূর্বাঞ্চলের নিরাপত্তার পক্ষে হুমকি হয়ে উঠতে পারে।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "West Bengal Chief Minister and ruling party",
      "claim": "The ruling party opposed the voter-list revision, misled people and sat on a dharna, even though over 60 lakh names were removed, and the issue is questioned as to how far the roll was truly purified.",
      "heading": "কতটা শুদ্ধীকরণ হলো রাজ্যের ভোটার তালিকা? (preview)",
-     "page": 4
+     "page": 4,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "পশ্চিমবঙ্গের মুখ্যমন্ত্রী ও শাসক দল",
+     "claim_bn": "শাসক দল ভোটার তালিকা সংশোধনের বিরোধিতা করেছে, মানুষকে বিভ্রান্ত করেছে এবং ধর্নায় বসেছে, যদিও ৬০ লক্ষের বেশি নাম বাদ গেছে, আর প্রশ্ন তোলা হয়েছে তালিকা আসলে কতটা শুদ্ধ হয়েছে।"
     },
     {
      "theme": "history & icons",
      "target": "Muslim rulers, Muslim League, Congress-era politics",
      "claim": "Hindus in Bengal have suffered persecution since Shah Jalal and the Sultanate, through the 1946 Calcutta and Noakhali killings and Partition, and the editorial presents this as a continuing pattern.",
      "heading": "সততার প্রমাণ রাখিতে হইবে",
-     "page": 5
+     "page": 5,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "মুসলিম শাসক, মুসলিম লিগ, কংগ্রেস আমলের রাজনীতি",
+     "claim_bn": "শাহ জালাল ও সুলতানি আমল থেকে ১৯৪৬-এর কলকাতা ও নোয়াখালির হত্যাকাণ্ড এবং দেশভাগ পর্যন্ত বাংলার হিন্দুরা নির্যাতন সহ্য করেছেন; সম্পাদকীয়টি এটিকে একটি ধারাবাহিক প্রবণতা হিসেবে তুলে ধরেছে।"
     },
     {
      "theme": "nationalism/army/Pakistan",
      "target": "Congress-era politics and Muslim League",
      "claim": "The 'mutilation' of Vande Mataram was the backdrop of Partition.",
      "heading": "“বন্দে মাতরম্”এর অঙ্গচ্ছেদ ছিল দেশভাগের পৃষ্ঠভূমি",
-     "page": 3
+     "page": 3,
+     "theme_bn": "জাতীয়তাবাদ/সেনা/পাকিস্তান",
+     "target_bn": "কংগ্রেস আমলের রাজনীতি ও মুসলিম লিগ",
+     "claim_bn": "বন্দেমাতরমের 'খণ্ডীকরণ' ছিল দেশভাগের পটভূমি।"
     },
     {
      "theme": "West Bengal elections",
      "target": "BJP, ruling party",
      "claim": "The issue carries a piece on Bhabanipur, a seat of political significance in the coming West Bengal election.",
      "heading": "ভবানীপুর ভয়ঙ্কর সুন্দর",
-     "page": 3
+     "page": 3,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "বিজেপি, শাসক দল",
+     "claim_bn": "সংখ্যাটিতে আসন্ন পশ্চিমবঙ্গ নির্বাচনে রাজনৈতিক গুরুত্বসম্পন্ন কেন্দ্র ভবানীপুর নিয়ে একটি লেখা রয়েছে।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "Hindu society, Sangh volunteers",
      "claim": "Sangh events frame the Sangh's centenary and Panch Parivartan as a way to build a samarasa Hindu society aiming at a 'Vishwaguru Bharat', with calls to counter the charge that the Sangh is communal.",
      "heading": "সমাবেশ-সমাচার",
-     "page": 27
+     "page": 27,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "হিন্দু সমাজ, সংঘের স্বয়ংসেবকগণ",
+     "claim_bn": "সঙ্ঘের অনুষ্ঠানগুলিতে সঙ্ঘের শতবর্ষ ও পঞ্চ পরিবর্তনকে 'বিশ্বগুরু ভারত' গড়ার লক্ষ্যে একটি সামঞ্জস্যপূর্ণ হিন্দু সমাজ গঠনের উপায় হিসেবে তুলে ধরা হয়েছে এবং সঙ্ঘ সাম্প্রদায়িক—এই অভিযোগের মোকাবিলা করার আহ্বান জানানো হয়েছে।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Communists and Muslim clergy (as framed by the article)",
      "claim": "The article attacks a left-leaning and Islamist political mix, as its title (about cap, robe and scales) suggests, though the OCR gives no text beyond the heading.",
      "heading": "নাড়ি-টুপি-আলখাল্লা, আতরোইল দাঁড়িপাল্লা",
-     "page": 9
+     "page": 9,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "কমিউনিস্ট ও মুসলিম ধর্মগুরুরা (প্রবন্ধে যেভাবে উপস্থাপিত)",
+     "claim_bn": "প্রবন্ধটি, তার শিরোনাম (টুপি, আলখাল্লা ও দাঁড়িপাল্লা নিয়ে) থেকে যেমন ইঙ্গিত মেলে, বামঘেঁষা ও ইসলামপন্থী রাজনৈতিক মিশ্রণকে আক্রমণ করেছে, যদিও ওসিআরে শিরোনামের বাইরে কোনও লেখা পাওয়া যায়নি।"
     },
     {
      "theme": "Bangladesh & Hindu persecution",
      "target": "Bangladesh authorities",
      "claim": "The release of Chinmoy Krishna Das is demanded in a separate article about the issue in Bangladesh.",
      "heading": "চিন্ময়কৃষ্ণ দাস ব্রহ্মচারীর মুক্তির ইস্যুতে বাংলাদেশে",
-     "page": 23
+     "page": 23,
+     "theme_bn": "বাংলাদেশ ও হিন্দু নির্যাতন",
+     "target_bn": "বাংলাদেশের কর্তৃপক্ষ",
+     "claim_bn": "বাংলাদেশের পরিস্থিতি নিয়ে একটি পৃথক প্রবন্ধে চিন্ময়কৃষ্ণ দাসের মুক্তির দাবি জানানো হয়েছে।"
     }
-   ]
+   ],
+   "label_bn": "",
+   "summary_bn": "২০২৬ সালের ৯ মার্চের এই সংখ্যাটি বাংলাদেশের ত্রয়োদশ জাতীয় সংসদ নির্বাচনের পরবর্তী পরিস্থিতির উপর কেন্দ্রিত। এতে বিএনপির তারেক রহমানকে হিন্দুদের সুরক্ষা ও চিন্ময় কৃষ্ণ দাসের মুক্তির মাধ্যমে আন্তরিকতার প্রমাণ দিতে আহ্বান জানানো হয়েছে, পাশাপাশি ভারত সীমান্তের কাছে জামাতের উত্থান নিয়ে সতর্ক করা হয়েছে। এছাড়া রয়েছে পশ্চিমবঙ্গের ভোটার তালিকা সংশোধন, অসমের নির্বাচন, পশ্চিমবঙ্গ ও উত্তর-পূর্ব ভারতের প্রতি জামাতের হুমকি এবং দেশভাগের ভূমিকা হিসেবে বন্দেমাতরমের 'খণ্ডন' নিয়ে লেখা। সাংগঠনিক পাতায় হুগলি ও পুরুলিয়ায় আরএসএসের শতবর্ষ উপলক্ষে নাগরিক সম্মেলন, কলকাতায় হিন্দু সম্মেলন, বিশ্ব হিন্দু পরিষদের সামাজিক সমরসতা বৈঠক এবং হাওড়ায় সনাতনী আইনজীবী সম্মেলনের খবর রয়েছে। ডাঃ হেডগেওয়ারকে নিয়ে ধারাবাহিক লেখা ও একজন স্বয়ংসেবকের স্মৃতিকথা আরএসএসের ইতিহাস ও সংঘের আত্মপরিচয়কে আরও দৃঢ় করেছে।"
   },
   {
    "issue": "20260302",
@@ -6829,7 +10191,13 @@ window.HINDUTVA = {
      "where": "India (karyakartas from Tripura, Assam, West Bengal, Gujarat, UP, MP, Bihar, Jharkhand, Uttarakhand, Jammu, Delhi, Himachal)",
      "when": "",
      "page": 29,
-     "detail": "325 karyakartas, including 25 women, attended. Speakers urged action on Ganga pollution and tree planting, and former President Ram Nath Kovind spoke about increasing water bodies."
+     "detail": "325 karyakartas, including 25 women, attended. Speakers urged action on Ganga pollution and tree planting, and former President Ram Nath Kovind spoke about increasing water bodies.",
+     "title_bn": "ষষ্ঠ অখিল ভারতীয় কার্যকর্তা সঙ্গম (গঙ্গা সমগ্র)",
+     "org_bn": "অন্যান্য: গঙ্গা সমগ্র",
+     "type_bn": "সম্মেলন",
+     "where_bn": "ভারত (ত্রিপুরা, অসম, পশ্চিমবঙ্গ, গুজরাত, উত্তরপ্রদেশ, মধ্যপ্রদেশ, বিহার, ঝাড়খণ্ড, উত্তরাখণ্ড, জম্মু, দিল্লি, হিমাচলের কার্যকর্তারা)",
+     "when_bn": "",
+     "detail_bn": "২৫ জন মহিলা-সহ ৩২৫ জন কার্যকর্তা উপস্থিত ছিলেন। বক্তারা গঙ্গা দূষণ ও বৃক্ষরোপণে পদক্ষেপের আহ্বান জানান এবং প্রাক্তন রাষ্ট্রপতি রামনাথ কোবিন্দ জলাশয় বৃদ্ধি নিয়ে বক্তব্য রাখেন।"
     },
     {
      "title": "VHP Gangasagar Mela pilgrim shelter, Babughat",
@@ -6838,7 +10206,13 @@ window.HINDUTVA = {
      "where": "Babughat, Kolkata, West Bengal",
      "when": "10-15 January 2026",
      "page": 29,
-     "detail": "VHP ran a shelter for pilgrims going to or returning from Gangasagar. It housed and fed about 1,500 pilgrims a day, with blankets, allopathic care, nutrition therapy and acupressure."
+     "detail": "VHP ran a shelter for pilgrims going to or returning from Gangasagar. It housed and fed about 1,500 pilgrims a day, with blankets, allopathic care, nutrition therapy and acupressure.",
+     "title_bn": "বিশ্ব হিন্দু পরিষদের গঙ্গাসাগর মেলা তীর্থযাত্রী আশ্রয় শিবির, বাবুঘাট",
+     "org_bn": "বিশ্ব হিন্দু পরিষদ",
+     "type_bn": "সেবা/ত্রাণ",
+     "where_bn": "বাবুঘাট, কলকাতা, পশ্চিমবঙ্গ",
+     "when_bn": "১০-১৫ জানুয়ারি ২০২৬",
+     "detail_bn": "বিশ্ব হিন্দু পরিষদ গঙ্গাসাগরগামী ও প্রত্যাগত তীর্থযাত্রীদের জন্য একটি আশ্রয় শিবির চালায়। কম্বল, অ্যালোপ্যাথিক চিকিৎসা, পুষ্টি থেরাপি ও অ্যাকুপ্রেশার সহ সেখানে দৈনিক প্রায় ১,৫০০ তীর্থযাত্রীর থাকা ও খাওয়ার ব্যবস্থা হত।"
     },
     {
      "title": "VHP permanent camp at Madhab Ashram, Gangasagar",
@@ -6847,7 +10221,13 @@ window.HINDUTVA = {
      "where": "Gangasagar, South 24 Parganas, West Bengal",
      "when": "from 11 January 2026",
      "page": 29,
-     "detail": "VHP's permanent camp at Madhab Ashram began service on 11 January."
+     "detail": "VHP's permanent camp at Madhab Ashram began service on 11 January.",
+     "title_bn": "গঙ্গাসাগরে মাধব আশ্রমে বিশ্ব হিন্দু পরিষদের স্থায়ী শিবির",
+     "org_bn": "বিশ্ব হিন্দু পরিষদ",
+     "type_bn": "সেবা/ত্রাণ",
+     "where_bn": "গঙ্গাসাগর, দক্ষিণ ২৪ পরগনা, পশ্চিমবঙ্গ",
+     "when_bn": "২০২৬ সালের ১১ জানুয়ারি থেকে",
+     "detail_bn": "মাধব আশ্রমে বিশ্ব হিন্দু পরিষদের স্থায়ী শিবির ১১ জানুয়ারি থেকে সেবা শুরু করে।"
     },
     {
      "title": "Makar Sankranti utsav through Sangh shakha at the VHP camp",
@@ -6856,7 +10236,13 @@ window.HINDUTVA = {
      "where": "Kolkata, West Bengal",
      "when": "14 January 2026",
      "page": 29,
-     "detail": "Makar Sankranti was celebrated through the Sangh shakha at the camp, with an intellectual talk by VHP's Kolkata Kshetra organising secretary."
+     "detail": "Makar Sankranti was celebrated through the Sangh shakha at the camp, with an intellectual talk by VHP's Kolkata Kshetra organising secretary.",
+     "title_bn": "বিশ্ব হিন্দু পরিষদের শিবিরে সঙ্ঘ শাখার মাধ্যমে মকর সংক্রান্তি উৎসব",
+     "org_bn": "আরএসএস",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "কলকাতা, পশ্চিমবঙ্গ",
+     "when_bn": "১৪ জানুয়ারি ২০২৬",
+     "detail_bn": "শিবিরে সঙ্ঘ শাখার মাধ্যমে মকর সংক্রান্তি পালিত হয়, সঙ্গে বিশ্ব হিন্দু পরিষদের কলকাতা ক্ষেত্র সংগঠন সম্পাদকের বৌদ্ধিক বক্তব্য ছিল।"
     },
     {
      "title": "Subhas Mela, Kudghat (Netaji Metro area)",
@@ -6865,7 +10251,13 @@ window.HINDUTVA = {
      "where": "Kudghat-Putiari, south Kolkata, West Bengal",
      "when": "23 January to 10 February 2026",
      "page": 30,
-     "detail": "The paper describes a 60-year-old fair held for Netaji's birth anniversary. It included a torch run, a procession and fireworks on 23 and 26 January."
+     "detail": "The paper describes a 60-year-old fair held for Netaji's birth anniversary. It included a torch run, a procession and fireworks on 23 and 26 January.",
+     "title_bn": "সুভাষ মেলা, কুদঘাট (নেতাজি মেট্রো এলাকা)",
+     "org_bn": "অন্যান্য: উন্নয়নী সঙ্ঘ ক্লাব / দক্ষিণ সহরতলি নেতাজি জন্মোৎসব কমিটি",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "কুদঘাট-পুটিয়ারি, দক্ষিণ কলকাতা, পশ্চিমবঙ্গ",
+     "when_bn": "২৩ জানুয়ারি থেকে ১০ ফেব্রুয়ারি ২০২৬",
+     "detail_bn": "পত্রিকা নেতাজির জন্মজয়ন্তী উপলক্ষে আয়োজিত ৬০ বছরের পুরনো একটি মেলার বিবরণ দিয়েছে। ২৩ ও ২৬ জানুয়ারি সেখানে মশাল দৌড়, শোভাযাত্রা ও আতশবাজি ছিল।"
     },
     {
      "title": "Discussion 'Syama Prasad's BJP, BJP's Syama Prasad'",
@@ -6874,7 +10266,13 @@ window.HINDUTVA = {
      "where": "Purbasree Sabhagriha, Kolkata, West Bengal",
      "when": "24 January",
      "page": 30,
-     "detail": "Held on the 125th birth anniversary of Syama Prasad Mukherjee with Purbanchal Sanskriti Kendra. BJP state president Samik Bhattacharya called on Bengalis to reawaken against political misrule."
+     "detail": "Held on the 125th birth anniversary of Syama Prasad Mukherjee with Purbanchal Sanskriti Kendra. BJP state president Samik Bhattacharya called on Bengalis to reawaken against political misrule.",
+     "title_bn": "আলোচনা 'শ্যামাপ্রসাদের বিজেপি, বিজেপির শ্যামাপ্রসাদ'",
+     "org_bn": "বিজেপি",
+     "type_bn": "সম্মেলন",
+     "where_bn": "পূর্বশ্রী সভাগৃহ, কলকাতা, পশ্চিমবঙ্গ",
+     "when_bn": "২৪ জানুয়ারি",
+     "detail_bn": "শ্যামাপ্রসাদ মুখোপাধ্যায়ের ১২৫তম জন্মবার্ষিকীতে পূর্বাঞ্চল সংস্কৃতি কেন্দ্রের সঙ্গে অনুষ্ঠিত। বিজেপির রাজ্য সভাপতি সমীক ভট্টাচার্য রাজনৈতিক অপশাসনের বিরুদ্ধে বাঙালিদের নতুন করে জেগে ওঠার আহ্বান জানান।"
     },
     {
      "title": "Mourning notice: Chittaranjan Ghosh",
@@ -6883,7 +10281,13 @@ window.HINDUTVA = {
      "where": "Kolkata South-West Vibhag, West Bengal",
      "when": "12 February",
      "page": 8,
-     "detail": "Obituary of the father of Thakurpukur bhag sanghchalak Sandip Ghosh, noted for social service, a temple and a charitable trust."
+     "detail": "Obituary of the father of Thakurpukur bhag sanghchalak Sandip Ghosh, noted for social service, a temple and a charitable trust.",
+     "title_bn": "শোকসংবাদ: চিত্তরঞ্জন ঘোষ",
+     "org_bn": "আরএসএস",
+     "type_bn": "অন্যান্য",
+     "where_bn": "কলকাতা দক্ষিণ-পশ্চিম বিভাগ, পশ্চিমবঙ্গ",
+     "when_bn": "১২ ফেব্রুয়ারি",
+     "detail_bn": "ঠাকুরপুকুর ভাগ সঙ্ঘচালক সন্দীপ ঘোষের পিতার প্রয়াণ সংবাদ; তিনি সমাজসেবা, একটি মন্দির ও একটি দাতব্য ট্রাস্টের জন্য পরিচিত ছিলেন।"
     },
     {
      "title": "Obituary and RSS condolence for writer Manishankar Mukherjee ('Shankar')",
@@ -6892,7 +10296,13 @@ window.HINDUTVA = {
      "where": "West Bengal",
      "when": "20 February",
      "page": 8,
-     "detail": "The paper reports the death of the writer and says Sarkaryavah Dattatreya Hosabale expressed condolence."
+     "detail": "The paper reports the death of the writer and says Sarkaryavah Dattatreya Hosabale expressed condolence.",
+     "title_bn": "লেখক মণিশঙ্কর মুখোপাধ্যায়ের ('শঙ্কর') মৃত্যুতে শোকজ্ঞাপন ও আরএসএসের শোকবার্তা",
+     "org_bn": "আরএসএস",
+     "type_bn": "অন্যান্য",
+     "where_bn": "পশ্চিমবঙ্গ",
+     "when_bn": "২০ ফেব্রুয়ারি",
+     "detail_bn": "পত্রিকা লেখকের মৃত্যুর খবর জানিয়েছে এবং বলেছে সরকার্যবাহ দত্তাত্রেয় হোসবালে শোকপ্রকাশ করেছেন।"
     },
     {
      "title": "Dol Purnima / Holi observance and Nera-pora (Chachar)",
@@ -6901,7 +10311,13 @@ window.HINDUTVA = {
      "where": "West Bengal",
      "when": "Dol Purnima, March 2026",
      "page": 43,
-     "detail": "Features describe the Nera-pora bonfire and herbal abir tradition, with a passing reference to refugee memories of jihadi violence."
+     "detail": "Features describe the Nera-pora bonfire and herbal abir tradition, with a passing reference to refugee memories of jihadi violence.",
+     "title_bn": "দোলপূর্ণিমা / হোলি উদ্যাপন ও নেড়াপোড়া (চাচর)",
+     "org_bn": "অন্যান্য: সম্প্রদায়গত/ধর্মীয় উৎসব",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "পশ্চিমবঙ্গ",
+     "when_bn": "দোলপূর্ণিমা, মার্চ ২০২৬",
+     "detail_bn": "প্রতিবেদনে নেড়াপোড়ার অগ্নিকুণ্ড ও ভেষজ আবিরের ঐতিহ্যের বর্ণনা রয়েছে, সঙ্গে জিহাদি সহিংসতা নিয়ে উদ্বাস্তুদের স্মৃতির প্রসঙ্গত উল্লেখ আছে।"
     }
    ],
    "narratives": [
@@ -6910,72 +10326,104 @@ window.HINDUTVA = {
      "target": "'Divisive, anti-national' propagandists who say Holi is not for Bengalis",
      "claim": "Dol and Holi are one and the same festival, and those calling Holi a non-Bengali festival are divisive conspirators against Bengali culture.",
      "heading": "সম্পাদকীয়: হাতে নেই পেনসিল তাই ক্লান্তিতে ভূগছে ভোটার, চাইছে পরিবর্তন : “উড়িয়ে ধ্বজা অভ্রভেদী রথে”",
-     "page": 6
+     "page": 6,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "হোলি বাঙালির উৎসব নয় বলে যাঁরা প্রচার করেন, সেই 'বিভাজনকারী, দেশবিরোধী' প্রচারকারীরা",
+     "claim_bn": "দোল ও হোলি একই উৎসব, আর যাঁরা হোলিকে অবাঙালি উৎসব বলেন তাঁরা বাঙালি সংস্কৃতির বিরুদ্ধে বিভেদকামী ষড়যন্ত্রকারী।"
     },
     {
      "theme": "West Bengal elections",
      "target": "TMC state government",
      "claim": "Voters are tired of the current rule and want change in the coming election.",
      "heading": "হাতে নেই পেনসিল তাই ক্লান্তিতে ভূগছে ভোটার, চাইছে পরিবর্তন",
-     "page": 6
+     "page": 6,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "তৃণমূল রাজ্য সরকার",
+     "claim_bn": "ভোটাররা বর্তমান শাসনে ক্লান্ত এবং আসন্ন নির্বাচনে পরিবর্তন চান।"
     },
     {
      "theme": "infiltration/demography",
      "target": "State government and administration",
      "claim": "The article asks whether there is state-government sabotage of the intensive revision of the voter list, and says cleaning the rolls will change the state's vote equation.",
      "heading": "ভোটার তালিকায় নিবিড় সংশোধন কর্মসূচিতে কোনো রাজ্য সরকারি অন্তর্ঘাত চলছে না তো?",
-     "page": 9
+     "page": 9,
+     "theme_bn": "অনুপ্রবেশ/জনবিন্যাস",
+     "target_bn": "রাজ্য সরকার ও প্রশাসন",
+     "claim_bn": "প্রবন্ধটি প্রশ্ন তুলেছে ভোটার তালিকার নিবিড় সংশোধনে রাজ্য সরকারের অন্তর্ঘাত রয়েছে কি না, এবং বলেছে তালিকা পরিষ্কার হলে রাজ্যের ভোটের সমীকরণ বদলে যাবে।"
     },
     {
      "theme": "West Bengal elections",
      "target": "Existing electoral arithmetic in West Bengal",
      "claim": "The cleansing of the voter list makes a change in the state's vote equation inevitable.",
      "heading": "ভোটার তালিকা শুদ্ধীকরণে রাজ্যে ভোটের সমীকরণ পরিবর্তন অবশ্যম্ভাবী",
-     "page": 11
+     "page": 11,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "পশ্চিমবঙ্গের বর্তমান নির্বাচনী অঙ্ক",
+     "claim_bn": "ভোটার তালিকা শুদ্ধ করার ফলে রাজ্যের ভোটের সমীকরণে পরিবর্তন অনিবার্য।"
     },
     {
      "theme": "Bangladesh & Hindu persecution",
      "target": "Bangladesh's new BNP government and jihadis",
      "claim": "India must watch Bangladesh's new government closely, keep it from joining Pakistani plots, and insist it protects minorities and curbs jihadis.",
      "heading": "বাংলাদেশের নবনির্বাচিত সরকারের ওপর নির্ভর করছে ভারত-বাংলাদেশ দ্বিপাক্ষিক সম্পর্ক",
-     "page": 7
+     "page": 7,
+     "theme_bn": "বাংলাদেশ ও হিন্দু নির্যাতন",
+     "target_bn": "বাংলাদেশের নতুন বিএনপি সরকার ও জিহাদিরা",
+     "claim_bn": "ভারতকে বাংলাদেশের নতুন সরকারের উপর নিবিড় নজর রাখতে হবে, তাকে পাকিস্তানি চক্রান্তে যোগ দেওয়া থেকে বিরত রাখতে হবে, এবং সংখ্যালঘুদের সুরক্ষা ও জিহাদিদের দমনের উপর জোর দিতে হবে।"
     },
     {
      "theme": "Bangladesh & Hindu persecution",
      "target": "Jihadi attackers in East Bengal/Bangladesh",
      "claim": "Hindus in East Bengal have faced repeated jihadi attacks, and the next issue will ask whether post-election Bangladesh will keep them safe.",
      "heading": "ভোট-পরবর্তী বাংলাদেশে হিন্দুদের নিরাপত্তার ব্যবস্থা হবে কি?",
-     "page": 4
+     "page": 4,
+     "theme_bn": "বাংলাদেশ ও হিন্দু নির্যাতন",
+     "target_bn": "পূর্ববঙ্গ/বাংলাদেশের জিহাদি হামলাকারীরা",
+     "claim_bn": "পূর্ববঙ্গের হিন্দুরা বারবার জিহাদি হামলার মুখে পড়েছেন, এবং পরবর্তী সংখ্যায় প্রশ্ন তোলা হবে নির্বাচনের পর বাংলাদেশ তাঁদের নিরাপদ রাখবে কি না।"
     },
     {
      "theme": "history & icons",
      "target": "Left/CPIM and TMC rule; Syama Prasad Mukherjee praised",
      "claim": "After 34 years of Left rule and 15 years of TMC misrule, many fear Bengal is becoming 'West Bangladesh', and Syama Prasad Mukherjee's idea is presented as the BJP's core ideology.",
      "heading": "শ্যামাপ্রসাদের বিজেপি, বিজেপির শ্যামাপ্রসাদ (পূর্বাঞ্চল সংস্কৃতি কেন্দ্রে ড. শ্যামাপ্রসাদ মুখোপাধ্যায় বিষয়ক আলোচনাসভা)",
-     "page": 30
+     "page": 30,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "বামপন্থী/সিপিআই(এম) ও তৃণমূলের শাসন; শ্যামাপ্রসাদ মুখোপাধ্যায়ের প্রশংসা",
+     "claim_bn": "৩৪ বছরের বামশাসন ও ১৫ বছরের তৃণমূলের কুশাসনের পর অনেকে আশঙ্কা করছেন বাংলা 'পশ্চিম বাংলাদেশ' হয়ে যাচ্ছে, এবং শ্যামাপ্রসাদ মুখোপাধ্যায়ের ভাবনাকে বিজেপির মূল আদর্শ হিসেবে তুলে ধরা হয়েছে।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Communists",
      "claim": "Communists are called anti-national for labelling Netaji 'quisling', and the paper contrasts them with the nationalists of the Unnayani Sangha club.",
      "heading": "সুভাষ মেলা (উন্নয়নী সঙ্ঘ ক্লাব, কুঁদঘাট)",
-     "page": 30
+     "page": 30,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "কমিউনিস্টরা",
+     "claim_bn": "নেতাজিকে 'কুইসলিং' আখ্যা দেওয়ায় কমিউনিস্টদের দেশবিরোধী বলা হয়েছে, এবং পত্রিকাটি তাঁদের সঙ্গে উন্নয়নী সঙ্ঘ ক্লাবের জাতীয়তাবাদীদের তুলনা করেছে।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "Critics who say the Sangh ignores women",
      "claim": "The claim that the Sangh does not support women's advancement is false, and Rashtra Sevika Samiti and the Sangh are credited with women's awakening.",
      "heading": "নারী জাগরণ এবং রাষ্ট্রীয় স্বয়ংসেবক সঙ্ঘ",
-     "page": 21
+     "page": 21,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "যাঁরা বলেন সংঘ নারীদের উপেক্ষা করে সেই সমালোচকেরা",
+     "claim_bn": "সঙ্ঘ নারীদের অগ্রগতি সমর্থন করে না, এই দাবি মিথ্যা; রাষ্ট্র সেবিকা সমিতি ও সঙ্ঘকে নারী জাগরণের কৃতিত্ব দেওয়া হয়েছে।"
     },
     {
      "theme": "culture/religion",
      "target": "Hindu festival tradition",
      "claim": "Dol and Holi are presented as part of Hindu and Bengali tradition, with herbal colours, Nera-pora and Chaitanya's birth on Dol Purnima.",
      "heading": "ভারতীয় সংস্কৃতিতে দোলোৎসব ও হোলি / বহ্ন্যুৎসবের পরে দোলন",
-     "page": 39
+     "page": 39,
+     "theme_bn": "সংস্কৃতি/ধর্ম",
+     "target_bn": "হিন্দু উৎসবের ঐতিহ্য",
+     "claim_bn": "দোল ও হোলিকে হিন্দু ও বাঙালি ঐতিহ্যের অংশ হিসেবে তুলে ধরা হয়েছে, যেখানে ভেষজ রং, নেড়াপোড়া এবং দোলপূর্ণিমায় চৈতন্যের জন্মের কথা বলা হয়েছে।"
     }
-   ]
+   ],
+   "label_bn": "",
+   "summary_bn": "২০২৬ সালের ২ মার্চের এই সংখ্যাটি দোল/হোলি ঘিরে সাংস্কৃতিক-জাতীয়তাবাদী সুর তুলেছে; উৎসবটিকে একক হিন্দু আচার হিসেবে সমর্থন করা হয়েছে এবং যাঁরা হোলিকে 'অ-বাঙালি' বলেন তাঁদের আক্রমণ করা হয়েছে। এতে পশ্চিমবঙ্গের নির্বাচনী আবহ নিয়ে বলা হয়েছে যে ভোটাররা ক্লান্ত এবং পরিবর্তন চান, আর ভোটার তালিকা সংশোধনে (এসআইআর) রাজ্য সরকারের হস্তক্ষেপ নিয়ে সন্দেহ প্রকাশ করা হয়েছে। বাংলাদেশের নতুন বিএনপি সরকার এবং সেখানে সংখ্যালঘুদের নিরাপত্তা নিয়ে মন্তব্য রয়েছে। এছাড়া আরএসএস-এর শতবর্ষের আখ্যান তুলে ধরা হয়েছে— রাষ্ট্র সেবিকা সমিতির মাধ্যমে নারী জাগরণ, সঙ্ঘ ও সহযোগী সংগঠনগুলির কার্যক্রমের প্রতিবেদন এবং বিজেপির জন্য শ্যামাপ্রসাদ মুখোপাধ্যায়ের উত্তরাধিকার নিয়ে লেখা রয়েছে।"
   },
   {
    "issue": "20260223",
@@ -6991,7 +10439,13 @@ window.HINDUTVA = {
      "where": "Pechakola football ground, Sarenga and Raipur blocks, Bankura",
      "when": "4 February",
      "page": 25,
-     "detail": "Annual event of 13 child-samskar centres and one teaching centre, with patriotic songs, yoga, Surya Namaskar, tribal dance and a Vande Mataram 150th-anniversary dance. 220 children, 82 guardians and 37 guests attended; RSS sanghchalak and karyavah of Bankura were present."
+     "detail": "Annual event of 13 child-samskar centres and one teaching centre, with patriotic songs, yoga, Surya Namaskar, tribal dance and a Vande Mataram 150th-anniversary dance. 220 children, 82 guardians and 37 guests attended; RSS sanghchalak and karyavah of Bankura were present.",
+     "title_bn": "বিরসা মুন্ডা গ্রাম বিকাশ পুঞ্জের বার্ষিক অনুষ্ঠান",
+     "org_bn": "অন্যান্য: বিরসা মুন্ডা গ্রাম বিকাশ পুঞ্জ / কর্মযোগী সেবা ট্রাস্ট (আরএসএস-সংশ্লিষ্ট)",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "পেচাকোলা ফুটবল মাঠ, সারেঙ্গা ও রায়পুর ব্লক, বাঁকুড়া",
+     "when_bn": "৪ ফেব্রুয়ারি",
+     "detail_bn": "১৩টি শিশু সংস্কার কেন্দ্র ও একটি শিক্ষা কেন্দ্রের বার্ষিক অনুষ্ঠানে দেশাত্মবোধক গান, যোগাসন, সূর্য নমস্কার, আদিবাসী নৃত্য এবং বন্দে মাতরম্‌-এর ১৫০ বছর উপলক্ষে নৃত্য পরিবেশিত হয়। ২২০ জন শিশু, ৮২ জন অভিভাবক ও ৩৭ জন অতিথি উপস্থিত ছিলেন; বাঁকুড়ার আরএসএস সঙ্ঘচালক ও কার্যবাহও উপস্থিত ছিলেন।"
     },
     {
      "title": "Sant Ravidas Jayanti (Samajik Samarasata Abhiyan)",
@@ -7000,7 +10454,13 @@ window.HINDUTVA = {
      "where": "North Kolkata, VHP South Bengal office",
      "when": "4 February",
      "page": 25,
-     "detail": "VHP's social harmony campaign marked Ravidas Jayanti with garlanding and lamp lighting, attended by VHP Kolkata region and South Bengal organising secretaries. Ravidas Jayanti was observed at many places in South Bengal from 1 February."
+     "detail": "VHP's social harmony campaign marked Ravidas Jayanti with garlanding and lamp lighting, attended by VHP Kolkata region and South Bengal organising secretaries. Ravidas Jayanti was observed at many places in South Bengal from 1 February.",
+     "title_bn": "সন্ত রবিদাস জয়ন্তী (সামাজিক সমরসতা অভিযান)",
+     "org_bn": "বিশ্ব হিন্দু পরিষদ",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "উত্তর কলকাতা, বিশ্ব হিন্দু পরিষদের দক্ষিণবঙ্গ কার্যালয়",
+     "when_bn": "৪ ফেব্রুয়ারি",
+     "detail_bn": "বিশ্ব হিন্দু পরিষদের সামাজিক সমরসতা অভিযান মাল্যদান ও প্রদীপ প্রজ্বলনের মাধ্যমে রবিদাস জয়ন্তী পালন করে; অনুষ্ঠানে বিশ্ব হিন্দু পরিষদের কলকাতা ক্ষেত্র ও দক্ষিণবঙ্গের সংগঠন সম্পাদকরা উপস্থিত ছিলেন। ১ ফেব্রুয়ারি থেকে দক্ষিণবঙ্গের বহু জায়গায় রবিদাস জয়ন্তী পালিত হয়।"
     },
     {
      "title": "Hindu Sammelan at Purbanchaliya Sanskritik Kendra",
@@ -7009,7 +10469,13 @@ window.HINDUTVA = {
      "where": "Bidhannagar, Kolkata",
      "when": "1 February",
      "page": 25,
-     "detail": "Hindu Sammelan where Sant Ravidas's life and VHP's role in building a harmonious society were discussed."
+     "detail": "Hindu Sammelan where Sant Ravidas's life and VHP's role in building a harmonious society were discussed.",
+     "title_bn": "পূর্বাঞ্চলীয় সাংস্কৃতিক কেন্দ্রে হিন্দু সম্মেলন",
+     "org_bn": "বিশ্ব হিন্দু পরিষদ",
+     "type_bn": "সম্মেলন",
+     "where_bn": "বিধাননগর, কলকাতা",
+     "when_bn": "১ ফেব্রুয়ারি",
+     "detail_bn": "হিন্দু সম্মেলন, যেখানে সন্ত রবিদাসের জীবন এবং সম্প্রীতিপূর্ণ সমাজ গঠনে বিশ্ব হিন্দু পরিষদের ভূমিকা নিয়ে আলোচনা হয়।"
     },
     {
      "title": "Swastika Readers' Meet, Howrah",
@@ -7018,7 +10484,13 @@ window.HINDUTVA = {
      "where": "Keshab Chandra Chakraborty Smriti Raksha Samiti office, Shibpur, Howrah",
      "when": "8 February",
      "page": 26,
-     "detail": "Readers' meet addressed by sub-editor Sukesh Chandra Mandal, who urged workers to expand circulation in every Howrah ward and attacked Macaulayite education."
+     "detail": "Readers' meet addressed by sub-editor Sukesh Chandra Mandal, who urged workers to expand circulation in every Howrah ward and attacked Macaulayite education.",
+     "title_bn": "স্বস্তিকা পাঠক সম্মেলন, হাওড়া",
+     "org_bn": "অন্যান্য: স্বস্তিকা সাপ্তাহিক (আরএসএস-ঘনিষ্ঠ)",
+     "type_bn": "সম্মেলন",
+     "where_bn": "কেশবচন্দ্র চক্রবর্তী স্মৃতি রক্ষা সমিতির কার্যালয়, শিবপুর, হাওড়া",
+     "when_bn": "৮ ফেব্রুয়ারি",
+     "detail_bn": "সহ-সম্পাদক সুকেশ চন্দ্র মণ্ডলের ভাষণে পাঠক সম্মেলন; তিনি হাওড়ার প্রতিটি ওয়ার্ডে প্রচার বাড়াতে কর্মীদের আহ্বান জানান এবং ম্যাকলেপন্থী শিক্ষার সমালোচনা করেন।"
     },
     {
      "title": "Hindu Sammelan and mass Gita recitation",
@@ -7027,7 +10499,13 @@ window.HINDUTVA = {
      "where": "Chandpur Palpara Sitala Mandir, Hatiara Nikunja Sen Nagar, North 24 Parganas",
      "when": "25 January",
      "page": 26,
-     "detail": "Large Hindu Sammelan with collective Gita recitation, patriotic and devotional songs and a discussion, attended by Dharma Jagaran Samanvay and Hindu Jagaran Manch leaders and sadhus."
+     "detail": "Large Hindu Sammelan with collective Gita recitation, patriotic and devotional songs and a discussion, attended by Dharma Jagaran Samanvay and Hindu Jagaran Manch leaders and sadhus.",
+     "title_bn": "হিন্দু সম্মেলন ও সম্মিলিত গীতাপাঠ",
+     "org_bn": "হিন্দু জাগরণ মঞ্চ",
+     "type_bn": "সম্মেলন",
+     "where_bn": "চাঁদপুর পালপাড়া শীতলা মন্দির, হাতিয়ারা নিকুঞ্জ সেন নগর, উত্তর ২৪ পরগনা",
+     "when_bn": "২৫ জানুয়ারি",
+     "detail_bn": "সম্মিলিত গীতাপাঠ, দেশাত্মবোধক ও ভক্তিগীতি এবং আলোচনাসহ বিশাল হিন্দু সম্মেলন; ধর্ম জাগরণ সমন্বয় ও হিন্দু জাগরণ মঞ্চের নেতারা এবং সাধুরা উপস্থিত ছিলেন।"
     },
     {
      "title": "Pracharak baithak and tribute to martyred swayamsevak Prasanta Mandal",
@@ -7036,7 +10514,13 @@ window.HINDUTVA = {
      "where": "Balurghat and Hili, Dakshin Dinajpur",
      "when": "10-11 February",
      "page": 27,
-     "detail": "Pracharaks of Malda and Dinajpur divisions met under North Bengal prefect pracharak Shyamacharan Ray, then paid homage at the Murarirpur memorial of Prasanta Mandal, killed in 1984, and Churka Murmu. They gave Rs 10,000 for upkeep and urged continued daily shakha and milan."
+     "detail": "Pracharaks of Malda and Dinajpur divisions met under North Bengal prefect pracharak Shyamacharan Ray, then paid homage at the Murarirpur memorial of Prasanta Mandal, killed in 1984, and Churka Murmu. They gave Rs 10,000 for upkeep and urged continued daily shakha and milan.",
+     "title_bn": "প্রচারক বৈঠক ও শহিদ স্বয়ংসেবক প্রশান্ত মণ্ডলের স্মরণ",
+     "org_bn": "আরএসএস",
+     "type_bn": "শাখা/প্রশিক্ষণ শিবির",
+     "where_bn": "বালুরঘাট ও হিলি, দক্ষিণ দিনাজপুর",
+     "when_bn": "১০-১১ ফেব্রুয়ারি",
+     "detail_bn": "উত্তরবঙ্গ প্রান্ত প্রচারক শ্যামাচরণ রায়ের নেতৃত্বে মালদা ও দিনাজপুর বিভাগের প্রচারকরা বৈঠকে মিলিত হন, এরপর ১৯৮৪ সালে নিহত প্রশান্ত মণ্ডল ও চুরকা মুর্মুর মুরারিপুর স্মৃতিসৌধে শ্রদ্ধা জানান। তাঁরা রক্ষণাবেক্ষণের জন্য ১০,০০০ টাকা দেন এবং নিয়মিত দৈনিক শাখা ও মিলন চালিয়ে যাওয়ার আহ্বান জানান।"
     },
     {
      "title": "Remembrance day for revolutionaries martyred in jail",
@@ -7045,7 +10529,13 @@ window.HINDUTVA = {
      "where": "Presidency Correctional Home and Alipore Central Jail Museum, Kolkata",
      "when": "30 January",
      "page": 27,
-     "detail": "Tribute to revolutionaries who died fighting British rule, with a 137th birth anniversary of Parikshit Chandra Mukhopadhyay; 12 guests from Odisha attended."
+     "detail": "Tribute to revolutionaries who died fighting British rule, with a 137th birth anniversary of Parikshit Chandra Mukhopadhyay; 12 guests from Odisha attended.",
+     "title_bn": "কারাগারে শহিদ বিপ্লবীদের স্মরণ দিবস",
+     "org_bn": "অন্যান্য: বালেশ্বর আত্মোৎসর্গ স্মারক সমিতি ও চট্টগ্রাম পরিষদ",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "প্রেসিডেন্সি সংশোধনাগার ও আলিপুর সেন্ট্রাল জেল মিউজিয়াম, কলকাতা",
+     "when_bn": "৩০ জানুয়ারি",
+     "detail_bn": "ব্রিটিশ শাসনের বিরুদ্ধে লড়াইয়ে প্রাণ দেওয়া বিপ্লবীদের প্রতি শ্রদ্ধাঞ্জলি, সঙ্গে পরীক্ষিৎ চন্দ্র মুখোপাধ্যায়ের ১৩৭তম জন্মবার্ষিকী পালন; ওড়িশা থেকে ১২ জন অতিথি উপস্থিত ছিলেন।"
     },
     {
      "title": "Netaji calendar and book release at Kolkata Book Fair",
@@ -7054,7 +10544,13 @@ window.HINDUTVA = {
      "where": "49th International Kolkata Book Fair, Central Park, Bidhannagar",
      "when": "28 January",
      "page": 28,
-     "detail": "Release of a Taiwan-report calendar disputing the Taihoku plane crash story of Netaji's death, plus several books on Subhas Chandra Bose and revolutionaries."
+     "detail": "Release of a Taiwan-report calendar disputing the Taihoku plane crash story of Netaji's death, plus several books on Subhas Chandra Bose and revolutionaries.",
+     "title_bn": "কলকাতা বইমেলায় নেতাজি ক্যালেন্ডার ও বই প্রকাশ",
+     "org_bn": "অন্যান্য: এশিয়ান পাবলিকেশন",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "৪৯তম আন্তর্জাতিক কলকাতা বইমেলা, সেন্ট্রাল পার্ক, বিধাননগর",
+     "when_bn": "২৮ জানুয়ারি",
+     "detail_bn": "নেতাজির মৃত্যু নিয়ে তাইহোকু বিমানদুর্ঘটনার কাহিনিকে প্রশ্নবিদ্ধ করা তাইওয়ান-রিপোর্টভিত্তিক একটি ক্যালেন্ডার এবং সুভাষচন্দ্র বসু ও বিপ্লবীদের নিয়ে বেশ কয়েকটি বইয়ের উন্মোচন।"
     },
     {
      "title": "Birth anniversary of revolutionary Basanta Biswas",
@@ -7063,7 +10559,13 @@ window.HINDUTVA = {
      "where": "Mahajati Sadan, Kolkata",
      "when": "6 February",
      "page": 29,
-     "detail": "132nd birth anniversary of the revolutionary who bombed Viceroy Hardinge, with garlanding and speeches."
+     "detail": "132nd birth anniversary of the revolutionary who bombed Viceroy Hardinge, with garlanding and speeches.",
+     "title_bn": "বিপ্লবী বসন্ত বিশ্বাসের জন্মজয়ন্তী",
+     "org_bn": "অন্যান্য: বিপ্লবী বসন্ত বিশ্বাস স্মারক সমিতি",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "মহাজাতি সদন, কলকাতা",
+     "when_bn": "৬ ফেব্রুয়ারি",
+     "detail_bn": "ভাইসরয় হার্ডিঞ্জের উপর বোমা নিক্ষেপকারী বিপ্লবীর ১৩২তম জন্মবার্ষিকী, মাল্যদান ও বক্তৃতা সহ।"
     },
     {
      "title": "Land worship for ashram, temple and health centre",
@@ -7072,7 +10574,13 @@ window.HINDUTVA = {
      "where": "Manmathanagar, Chandipur, Sundarban, South 24 Parganas",
      "when": "1 February (Magh Purnima)",
      "page": 29,
-     "detail": "Bhumi pujan for an ashram, temple and health centre with Radha-Govinda pran pratishtha and distribution of about 500 Gitas to locals."
+     "detail": "Bhumi pujan for an ashram, temple and health centre with Radha-Govinda pran pratishtha and distribution of about 500 Gitas to locals.",
+     "title_bn": "আশ্রম, মন্দির ও স্বাস্থ্যকেন্দ্রের জন্য ভূমিপূজা",
+     "org_bn": "অন্যান্য: ধর্ম জাগরণ সমন্বয়, দক্ষিণবঙ্গ",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "মন্মথনগর, চণ্ডীপুর, সুন্দরবন, দক্ষিণ ২৪ পরগনা",
+     "when_bn": "১ ফেব্রুয়ারি (মাঘী পূর্ণিমা)",
+     "detail_bn": "আশ্রম, মন্দির ও স্বাস্থ্যকেন্দ্রের ভূমি পূজন, রাধা-গোবিন্দের প্রাণপ্রতিষ্ঠা এবং স্থানীয়দের মধ্যে প্রায় ৫০০টি গীতা বিতরণ।"
     }
    ],
    "narratives": [
@@ -7081,79 +10589,114 @@ window.HINDUTVA = {
      "target": "Mohan Bhagwat and the RSS (praised)",
      "claim": "Bhagwat's leadership is an intellectual, value-based guide for India that is non-political and presents the RSS centenary as a chance to widen responsibility rather than celebrate.",
      "heading": "দিক নির্দেশক বৌদ্ধিক নেতৃত্ব",
-     "page": 8
+     "page": 8,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "মোহন ভাগবত ও আরএসএস (প্রশংসিত)",
+     "claim_bn": "ভাগবতের নেতৃত্ব ভারতের জন্য একটি বৌদ্ধিক, মূল্যবোধভিত্তিক দিশারি যা অরাজনৈতিক, এবং আরএসএসের শতবর্ষকে উদ্‌যাপনের বদলে দায়িত্ব বিস্তারের সুযোগ হিসেবে তুলে ধরে।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "Opposition narrative on Hindutva",
      "claim": "Opposition discourse has turned Hindutva into a bogey, whereas Bhagwat presents it as inclusive, strength-based, non-aggressive self-defence, and Ram Mandir marks the start of responsibility.",
      "heading": "দিক নির্দেশক বৌদ্ধিক নেতৃত্ব",
-     "page": 8
+     "page": 8,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "হিন্দুত্ব নিয়ে বিরোধীদের বক্তব্য",
+     "claim_bn": "বিরোধী আলোচনায় হিন্দুত্বকে জুজু বানানো হয়েছে, অথচ ভাগবত একে অন্তর্ভুক্তিমূলক, শক্তিনির্ভর, অনাক্রমণাত্মক আত্মরক্ষা হিসেবে তুলে ধরেন, আর রাম মন্দির দায়িত্বের সূচনা চিহ্নিত করে।"
     },
     {
      "theme": "Bangladesh & Hindu persecution",
      "target": "Bangladeshi 'Mullahists' and jihadis (attacked)",
      "claim": "Taliban-minded Bangladeshi extremists have tortured Hindus, killing youths such as Dipu Chandra Das after the murder of Osman Hadi, and the world's Hindus will stand with the 1.25 crore Hindus there.",
      "heading": "সঙ্ঘের আহ্বানে বাংলাদেশের হিন্দুদের পাশে সমগ্র বিশ্ব",
-     "page": 48
+     "page": 48,
+     "theme_bn": "বাংলাদেশ ও হিন্দু নির্যাতন",
+     "target_bn": "বাংলাদেশের 'মোল্লাবাদী' ও জিহাদিরা (আক্রান্ত)",
+     "claim_bn": "তালিবানি মানসিকতার বাংলাদেশি উগ্রপন্থীরা হিন্দুদের উপর অত্যাচার চালিয়েছে, ওসমান হাদির হত্যার পর দীপু চন্দ্র দাসের মতো যুবকদের হত্যা করেছে, এবং বিশ্বের হিন্দুরা সেখানকার ১.২৫ কোটি হিন্দুর পাশে দাঁড়াবেন।"
     },
     {
      "theme": "infiltration/demography",
      "target": "Previous government and illegal infiltrators",
      "claim": "Bhagwat urged people to identify illegal infiltrators and report them to police, saying the earlier government ignored infiltration, which changed demography.",
      "heading": "সঙ্ঘের আহ্বানে বাংলাদেশের হিন্দুদের পাশে সমগ্র বিশ্ব",
-     "page": 48
+     "page": 48,
+     "theme_bn": "অনুপ্রবেশ/জনবিন্যাস",
+     "target_bn": "আগের সরকার ও অবৈধ অনুপ্রবেশকারীরা",
+     "claim_bn": "ভাগবত মানুষকে অবৈধ অনুপ্রবেশকারীদের চিহ্নিত করে পুলিশকে জানানোর আহ্বান জানিয়েছেন, বলেছেন আগের সরকার অনুপ্রবেশ উপেক্ষা করেছিল, যার ফলে জনবিন্যাস বদলে গেছে।"
     },
     {
      "theme": "Modi govt achievements",
      "target": "Narendra Modi (praised)",
      "claim": "Modi praised the RSS from the Red Fort, and the RSS is described as the world's largest volunteer organisation devoted to nation-building.",
      "heading": "সঙ্ঘের আহ্বানে বাংলাদেশের হিন্দুদের পাশে সমগ্র বিশ্ব",
-     "page": 48
+     "page": 48,
+     "theme_bn": "মোদী সরকারের কৃতিত্ব",
+     "target_bn": "নরেন্দ্র মোদী (প্রশংসিত)",
+     "claim_bn": "মোদী লালকেল্লা থেকে আরএসএস-এর প্রশংসা করেছেন, এবং আরএসএস-কে রাষ্ট্রনির্মাণে নিবেদিত বিশ্বের বৃহত্তম স্বেচ্ছাসেবী সংগঠন বলে বর্ণনা করা হয়েছে।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "West Bengal government",
      "claim": "The state government's corrupt rule, with theft and freebie handouts, is likened to a demon kingdom.",
      "heading": "রাক্ষস রাজত্বে চৌর্যভাতা ও চৌর্যকর্ম চলছে সমান দরে 'ভবতি ভিক্ষাং দেহি'",
-     "page": 6
+     "page": 6,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "পশ্চিমবঙ্গ সরকার",
+     "claim_bn": "রাজ্য সরকারের দুর্নীতিগ্রস্ত শাসন, চুরি ও বিনামূল্যে সুবিধা বিলির শাসনকে অসুরের রাজত্বের সঙ্গে তুলনা করা হয়েছে।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "State government and Supreme Court cases",
      "claim": "From RG Kar to DA and file cases, an invisible ecosystem shapes West Bengal politics and the courts.",
      "heading": "আরজি কর থেকে ডিএ, ফাইল কাণ্ড সুপ্রিম কোর্ট ও পশ্চিমবঙ্গ রাজনীতির অদৃশ্য ইকোসিস্টেম",
-     "page": 11
+     "page": 11,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "রাজ্য সরকার ও সুপ্রিম কোর্টের মামলা",
+     "claim_bn": "আরজি কর থেকে ডিএ ও ফাইল মামলা পর্যন্ত, একটি অদৃশ্য ইকোসিস্টেম পশ্চিমবঙ্গের রাজনীতি ও আদালতকে প্রভাবিত করে।"
     },
     {
      "theme": "West Bengal elections",
      "target": "Election administration",
      "claim": "If elections are not free and fair, public distrust of the democratic system becomes evident.",
      "heading": "নির্বাচন অবাধ ও নিরপেক্ষ না হলে গণতান্ত্রিক ব্যবস্থার ওপর মানুষের অনাস্থা প্রকট হয়",
-     "page": 13
+     "page": 13,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "নির্বাচন পরিচালনা",
+     "claim_bn": "নির্বাচন অবাধ ও সুষ্ঠু না হলে গণতান্ত্রিক ব্যবস্থার প্রতি জনগণের অনাস্থা স্পষ্ট হয়ে ওঠে।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "State government's cash-handout schemes",
      "claim": "The unemployed want jobs, not doles, and the allowance schemes are deceptive.",
      "heading": "আবার ভাওতার ভাতা — বেকার ভাতা চায় না, রোজগারের ভাত চায়",
-     "page": 3
+     "page": 3,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "রাজ্য সরকারের নগদ অর্থ প্রদান প্রকল্প",
+     "claim_bn": "বেকাররা চান ভাতা নয়, কাজ; আর ভাতা প্রকল্পগুলি প্রতারণা মাত্র।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "CPIM (attacked)",
      "claim": "Swayamsevak Prasanta Mandal was killed by CPIM 'harmad' forces at Murarirpur in 1984, and his sacrifice is invoked to continue shakhas.",
      "heading": "মুরারীপুরে হুতাত্মা স্বয়ংসেবক প্রশান্ত মণ্ডলের স্মৃতিতর্পণ",
-     "page": 27
+     "page": 27,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "সিপিআই(এম) (আক্রান্ত)",
+     "claim_bn": "স্বয়ংসেবক প্রশান্ত মণ্ডলকে ১৯৮৪ সালে মুরারিপুরে সিপিআই(এম)-এর 'হার্মাদ' বাহিনী হত্যা করে, এবং শাখা চালিয়ে যাওয়ার প্রেরণা হিসেবে তাঁর আত্মবলিদানের কথা স্মরণ করা হয়।"
     },
     {
      "theme": "history & icons",
      "target": "Khilafat movement and Macaulayite education",
      "claim": "The Khilafat movement was not part of India's freedom struggle, and Macaulay-era education suppressed India's glorious history.",
      "heading": "খিলাফত আন্দোলন ভারতের স্বাধীনতা সংগ্রাম ছিল না",
-     "page": 46
+     "page": 46,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "খিলাফত আন্দোলন ও ম্যাকলেপন্থী শিক্ষা",
+     "claim_bn": "খিলাফত আন্দোলন ভারতের স্বাধীনতা সংগ্রামের অংশ ছিল না, আর ম্যাকলে-যুগের শিক্ষা ভারতের গৌরবময় ইতিহাসকে চাপা দিয়েছে।"
     }
-   ]
+   ],
+   "label_bn": "",
+   "summary_bn": "২০২৬ সালের ২৩ ফেব্রুয়ারি সংখ্যা স্বস্তিকায় মৌসুমি স্বাস্থ্য ও জীবনশৈলীর লেখার সঙ্গে রাজনৈতিক ও আদর্শগত বার্তা মিশে আছে। সম্পাদকীয় ও বিভিন্ন লেখায় পশ্চিমবঙ্গ সরকারকে দুর্নীতিগ্রস্ত ও বিনামূল্যের সুবিধানির্ভর বলে আক্রমণ করা হয়েছে, এবং সুপ্রিম কোর্টের মামলা (আরজি কর, ডিএ) সহ তৃণমূল-ঘনিষ্ঠ রাজনৈতিক বৃত্তকে আক্রমণ করা হয়েছে। সংখ্যাটিতে মোহন ভাগবতের 'বৌদ্ধিক নেতৃত্ব' ও আরএসএস-এর শতবর্ষকে জাতিগঠনের কাজ হিসেবে তুলে ধরা হয়েছে। এতে বাংলাদেশে হিন্দু নির্যাতনের বিবরণ তোলা হয়েছে, অবৈধ অনুপ্রবেশকারী চিহ্নিত করার আহ্বান জানানো হয়েছে, এবং বিশ্ব হিন্দু পরিষদের রবিদাস জয়ন্তী, হিন্দু সম্মেলন ও স্বয়ংসেবকদের ওপর সিপিআই(এম)-এর হিংসা নিয়ে পাঠ-জাতীয় সঙ্ঘ পরিবারের নানা অনুষ্ঠান প্রচার করা হয়েছে।"
   },
   {
    "issue": "20260216",
@@ -7169,7 +10712,13 @@ window.HINDUTVA = {
      "where": "Goaltore, Medinipur",
      "when": "1 February",
      "page": 23,
-     "detail": "Saffron flag hoisting, 100-voice Gita recitation, shanti yagna and Bajrangbali dance; the RSS Medinipur district bauddhik pramukh was the main speaker."
+     "detail": "Saffron flag hoisting, 100-voice Gita recitation, shanti yagna and Bajrangbali dance; the RSS Medinipur district bauddhik pramukh was the main speaker.",
+     "title_bn": "হিন্দু সম্মেলন, গোয়ালতোড়",
+     "org_bn": "অন্যান্য: সনাতনী ঐক্য মঞ্চ",
+     "type_bn": "সম্মেলন",
+     "where_bn": "গোয়ালতোড়, মেদিনীপুর",
+     "when_bn": "১ ফেব্রুয়ারি",
+     "detail_bn": "গৈরিক পতাকা উত্তোলন, ১০০ কণ্ঠে গীতাপাঠ, শান্তি যজ্ঞ ও বজরংবলী নৃত্য; আরএসএস মেদিনীপুর জেলা বৌদ্ধিক প্রমুখ ছিলেন প্রধান বক্তা।"
     },
     {
      "title": "Hindu Sammelan for Sangh Shatabdi, Gajol",
@@ -7178,7 +10727,13 @@ window.HINDUTVA = {
      "where": "Gajol, Malda",
      "when": "29 January",
      "page": 24,
-     "detail": "Held at Gajol High School ground under Bharat Sevashram Sangha swamis, with 100-voice Gita recitation by Sanskrit Bharati, a shanti yagna and speeches by the RSS Malda Nagar sah-karyavah."
+     "detail": "Held at Gajol High School ground under Bharat Sevashram Sangha swamis, with 100-voice Gita recitation by Sanskrit Bharati, a shanti yagna and speeches by the RSS Malda Nagar sah-karyavah.",
+     "title_bn": "সঙ্ঘ শতবর্ষ উপলক্ষে হিন্দু সম্মেলন, গাজোল",
+     "org_bn": "আরএসএস",
+     "type_bn": "শতবর্ষ",
+     "where_bn": "গাজোল, মালদা",
+     "when_bn": "২৯ জানুয়ারি",
+     "detail_bn": "ভারত সেবাশ্রম সঙ্ঘের স্বামীজিদের উপস্থিতিতে গাজোল হাইস্কুল মাঠে অনুষ্ঠিত হয়; সংস্কৃত ভারতীর একশো জনের কণ্ঠে গীতাপাঠ, শান্তি যজ্ঞ এবং আরএসএস মালদা নগর সহ-কার্যবাহের বক্তব্য ছিল।"
     },
     {
      "title": "Sanatani Hindu Sammelan, Patuli",
@@ -7187,7 +10742,13 @@ window.HINDUTVA = {
      "where": "Baishnabghata-Patuli, South Kolkata",
      "when": "31 January",
      "page": 25,
-     "detail": "Inaugurated by Swami Jayananda Giri and RSS Dakshinbanga prant sampark pramukh Subrata Roy; included Gita recitation, namkirtan and intellectual talks, one by Swastika sub-editor Sukesh Chandra Mandal."
+     "detail": "Inaugurated by Swami Jayananda Giri and RSS Dakshinbanga prant sampark pramukh Subrata Roy; included Gita recitation, namkirtan and intellectual talks, one by Swastika sub-editor Sukesh Chandra Mandal.",
+     "title_bn": "সনাতনী হিন্দু সম্মেলন, পটুলি",
+     "org_bn": "আরএসএস",
+     "type_bn": "শতবর্ষ",
+     "where_bn": "বৈষ্ণবঘাটা-পাটুলি, দক্ষিণ কলকাতা",
+     "when_bn": "৩১ জানুয়ারি",
+     "detail_bn": "স্বামী জয়ানন্দ গিরি ও আরএসএস দক্ষিণবঙ্গ প্রান্ত সম্পর্ক প্রমুখ সুব্রত রায় উদ্বোধন করেন; অনুষ্ঠানে গীতাপাঠ, নামকীর্তন ও বুদ্ধিজীবী আলোচনা ছিল, যার একটিতে বক্তা ছিলেন স্বস্তিকার সহ-সম্পাদক সুকেশ চন্দ্র মণ্ডল।"
     },
     {
      "title": "Sanatan Dharma Sammelan, Shibpur",
@@ -7196,7 +10757,13 @@ window.HINDUTVA = {
      "where": "Shibpur, Howrah",
      "when": "18 January",
      "page": 26,
-     "detail": "Organised by Keshabnagar Samiti for the Sangh centenary. RSS prant prachar pramukh Shibendra Tripathi called on Hindus to organise, and Sanskar Bharati and Vanavasi Kalyan Ashram artists performed."
+     "detail": "Organised by Keshabnagar Samiti for the Sangh centenary. RSS prant prachar pramukh Shibendra Tripathi called on Hindus to organise, and Sanskar Bharati and Vanavasi Kalyan Ashram artists performed.",
+     "title_bn": "সনাতন ধর্ম সম্মেলন, শিবপুর",
+     "org_bn": "আরএসএস",
+     "type_bn": "শতবর্ষ",
+     "where_bn": "শিবপুর, হাওড়া",
+     "when_bn": "১৮ জানুয়ারি",
+     "detail_bn": "সঙ্ঘের শতবর্ষ উপলক্ষে কেশবনগর সমিতির আয়োজনে। আরএসএসের প্রান্ত প্রচার প্রমুখ শিবেন্দ্র ত্রিপাঠী হিন্দুদের সংগঠিত হওয়ার আহ্বান জানান, এবং সংস্কার ভারতী ও বনবাসী কল্যাণ আশ্রমের শিল্পীরা অনুষ্ঠান পরিবেশন করেন।"
     },
     {
      "title": "Vishwashanti Yagna and 1000-voice Gita recitation",
@@ -7205,7 +10772,13 @@ window.HINDUTVA = {
      "where": "Medinipur town",
      "when": "30 January",
      "page": 26,
-     "detail": "Yagna at Mandal ground with Bharat Sevashram Sangha swami and a retired judge, followed by collective Gita recitation by about 1000 voices including 40 schoolchildren."
+     "detail": "Yagna at Mandal ground with Bharat Sevashram Sangha swami and a retired judge, followed by collective Gita recitation by about 1000 voices including 40 schoolchildren.",
+     "title_bn": "বিশ্বশান্তি যজ্ঞ ও ১০০০ কণ্ঠে গীতা পাঠ",
+     "org_bn": "অন্যান্য: স্থানীয় ট্রাস্ট ও সনাতন সমাজ",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "মেদিনীপুর শহর",
+     "when_bn": "৩০ জানুয়ারি",
+     "detail_bn": "ভারত সেবাশ্রম সংঘের একজন স্বামী ও একজন অবসরপ্রাপ্ত বিচারপতির উপস্থিতিতে মণ্ডল ময়দানে যজ্ঞ, এরপর ৪০ জন স্কুলছাত্র সহ প্রায় ১০০০ কণ্ঠে সমবেত গীতা পাঠ।"
     },
     {
      "title": "150-voice Vande Mataram Gaurav Gan",
@@ -7214,7 +10787,13 @@ window.HINDUTVA = {
      "where": "Rajpur, South 24 Parganas",
      "when": "26 January",
      "page": 23,
-     "detail": "Event marking 150 years of Vande Mataram with songs, dance and group singing."
+     "detail": "Event marking 150 years of Vande Mataram with songs, dance and group singing.",
+     "title_bn": "১৫০ কণ্ঠের বন্দে মাতরম গৌরব গান",
+     "org_bn": "অন্যান্য: সংস্কার ভারতী",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "রাজপুর, দক্ষিণ ২৪ পরগনা",
+     "when_bn": "২৬ জানুয়ারি",
+     "detail_bn": "গান, নাচ ও সমবেত সঙ্গীতের মাধ্যমে বন্দেমাতরমের ১৫০ বছর উদ্‌যাপনের অনুষ্ঠান।"
     },
     {
      "title": "Sanskrit book stall at Malda District Book Fair",
@@ -7223,7 +10802,13 @@ window.HINDUTVA = {
      "where": "Malda",
      "when": "15-21 January",
      "page": 24,
-     "detail": "Sanskrit Bharati opened a Sanskrit book sales stall (no. 14) at the district book fair."
+     "detail": "Sanskrit Bharati opened a Sanskrit book sales stall (no. 14) at the district book fair.",
+     "title_bn": "মালদা জেলা বইমেলায় সংস্কৃত বইয়ের স্টল",
+     "org_bn": "অন্যান্য: সংস্কৃত ভারতী",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "মালদা",
+     "when_bn": "১৫-২১ জানুয়ারি",
+     "detail_bn": "সংস্কৃত ভারতী জেলা বইমেলায় সংস্কৃত বই বিক্রির স্টল (নং ১৪) খোলে।"
     },
     {
      "title": "Sanskrit Bharati Citizens' Conference",
@@ -7232,7 +10817,13 @@ window.HINDUTVA = {
      "where": "Gajol, Malda",
      "when": "2 February",
      "page": 30,
-     "detail": "Citizens' conference on 'Sanskar-Sanskriti-Sanskrit' addressed by the Akhil Bharatiya prachar pramukh."
+     "detail": "Citizens' conference on 'Sanskar-Sanskriti-Sanskrit' addressed by the Akhil Bharatiya prachar pramukh.",
+     "title_bn": "সংস্কৃত ভারতী নাগরিক সম্মেলন",
+     "org_bn": "অন্যান্য: সংস্কৃত ভারতী",
+     "type_bn": "সম্মেলন",
+     "where_bn": "গাজোল, মালদা",
+     "when_bn": "২ ফেব্রুয়ারি",
+     "detail_bn": "'সংস্কার-সংস্কৃতি-সংস্কৃত' বিষয়ক নাগরিক সম্মেলনে অখিল ভারতীয় প্রচার প্রমুখ বক্তব্য রাখেন।"
     },
     {
      "title": "Social harmony (samarasata) child feast at a shraddha",
@@ -7241,7 +10832,13 @@ window.HINDUTVA = {
      "where": "Tarakeswar, Madhyabanga prant",
      "when": "3 February",
      "page": 30,
-     "detail": "RSS Tarakeswar sah-zilla karyavah held a child feast with children of all castes in place of Brahmin bhojan, presented as part of the Panch Parivartan for the centenary."
+     "detail": "RSS Tarakeswar sah-zilla karyavah held a child feast with children of all castes in place of Brahmin bhojan, presented as part of the Panch Parivartan for the centenary.",
+     "title_bn": "শ্রাদ্ধানুষ্ঠানে সামাজিক সমরসতার শিশুভোজ",
+     "org_bn": "আরএসএস",
+     "type_bn": "অন্যান্য",
+     "where_bn": "তারকেশ্বর, মধ্যবঙ্গ প্রান্ত",
+     "when_bn": "৩ ফেব্রুয়ারি",
+     "detail_bn": "আরএসএস তারকেশ্বর সহ-জেলা কার্যবাহ ব্রাহ্মণ ভোজনের পরিবর্তে সব জাতির শিশুদের নিয়ে শিশু ভোজের আয়োজন করেন, যা শতবর্ষের পঞ্চ পরিবর্তনের অংশ হিসেবে তুলে ধরা হয়।"
     },
     {
      "title": "Saraswati Shishu Mandir annual sports",
@@ -7250,7 +10847,13 @@ window.HINDUTVA = {
      "where": "Malda",
      "when": "29 January",
      "page": 25,
-     "detail": "Annual sports at Shahapur High School ground, ending with a fancy-dress contest featuring Lakshmi, Rani Lakshmibai and patriotic soldiers."
+     "detail": "Annual sports at Shahapur High School ground, ending with a fancy-dress contest featuring Lakshmi, Rani Lakshmibai and patriotic soldiers.",
+     "title_bn": "সরস্বতী শিশু মন্দিরের বার্ষিক ক্রীড়া",
+     "org_bn": "অন্যান্য: বিদ্যা ভারতী (সরস্বতী শিশু মন্দির)",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "মালদা",
+     "when_bn": "২৯ জানুয়ারি",
+     "detail_bn": "শাহাপুর হাইস্কুল মাঠে বার্ষিক ক্রীড়ানুষ্ঠান হয়, যা শেষ হয় লক্ষ্মী, রানি লক্ষ্মীবাই ও দেশপ্রেমিক সৈনিকের সাজে ফ্যান্সি ড্রেস প্রতিযোগিতার মাধ্যমে।"
     },
     {
      "title": "Triveni Kumbh Mela revival",
@@ -7259,7 +10862,13 @@ window.HINDUTVA = {
      "where": "Triveni, Hooghly",
      "when": "12-13 February (Magh Sankranti)",
      "page": 34,
-     "detail": "Kumbh revived since 2022 after 700 years; the article says it drew over 800,000 devotees and was praised by PM Modi in Mann Ki Baat."
+     "detail": "Kumbh revived since 2022 after 700 years; the article says it drew over 800,000 devotees and was praised by PM Modi in Mann Ki Baat.",
+     "title_bn": "ত্রিবেণী কুম্ভমেলার পুনরুজ্জীবন",
+     "org_bn": "অন্যান্য: ত্রিবেণী কুম্ভ পরিচালনা সমিতি",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "ত্রিবেণী, হুগলি",
+     "when_bn": "১২-১৩ ফেব্রুয়ারি (মাঘ সংক্রান্তি)",
+     "detail_bn": "৭০০ বছর পর ২০২২ সাল থেকে কুম্ভ পুনরায় চালু হয়েছে; প্রবন্ধটির দাবি, এতে আট লক্ষের বেশি ভক্ত যোগ দিয়েছেন এবং প্রধানমন্ত্রী মোদি 'মন কি বাত'-এ এর প্রশংসা করেছেন।"
     }
    ],
    "narratives": [
@@ -7268,72 +10877,104 @@ window.HINDUTVA = {
      "target": "TMC government and CM Mamata Banerjee",
      "claim": "The interim state budget's allocation of over Rs 5,000 crore to madrasas is vote-bank appeasement of one community that deprives industry, health and general education.",
      "heading": "মাদ্রাসা খাতে পাঁচ হাজার কোটির বেশি বরাদ্দ (article on interim budget)",
-     "page": 9
+     "page": 9,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "তৃণমূল সরকার ও মুখ্যমন্ত্রী মমতা বন্দ্যোপাধ্যায়",
+     "claim_bn": "রাজ্যের অন্তর্বর্তী বাজেটে মাদ্রাসার জন্য ৫,০০০ কোটি টাকার বেশি বরাদ্দ একটি সম্প্রদায়ের ভোটব্যাঙ্ক তোষণ, যা শিল্প, স্বাস্থ্য ও সাধারণ শিক্ষাকে বঞ্চিত করছে।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "CPIM",
      "claim": "CPIM pioneered Muslim vote-bank politics in Bengal, and the ruling party now plays the same ruinous game.",
      "heading": "মাদ্রাসা খাতে পাঁচ হাজার কোটির বেশি বরাদ্দ (article on interim budget)",
-     "page": 9
+     "page": 9,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "সিপিআই(এম)",
+     "claim_bn": "বাংলায় মুসলিম ভোটব্যাঙ্কের রাজনীতির পথিকৃৎ সিপিআই(এম), আর এখন শাসক দল সেই একই সর্বনাশা খেলা খেলছে।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "CPIM",
      "claim": "CPIM preaches democracy and tolerance but its politics rests on violence. Cadres cut off Sadanandan Master's legs in 1994 and later felicitated the convicted attackers.",
      "heading": "সিপিআই(এম) গণতন্ত্রের বুলি আওড়ায়, অথচ ওরাই আমায় পঙ্গু করে দিয়েছে : সদানন্দন মাস্টার",
-     "page": 17
+     "page": 17,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "সিপিআই(এম)",
+     "claim_bn": "সিপিআই(এম) গণতন্ত্র ও সহিষ্ণুতার কথা বললেও তাদের রাজনীতি হিংসার উপর দাঁড়িয়ে। ১৯৯৪ সালে কর্মীরা সদানন্দ মাস্টারের পা কেটে নেয় এবং পরে দণ্ডিত আক্রমণকারীদের সংবর্ধনা দেয়।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Communists",
      "claim": "Communists spent years branding Shiva worship as superstition and a symbol of feudalism, but failed to reduce Shiva devotion in the Indian mind.",
      "heading": "ভারতবাসীর উপাস্য সর্বত্যাগী উমানাথ (editorial)",
-     "page": 5
+     "page": 5,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "কমিউনিস্টরা",
+     "claim_bn": "কমিউনিস্টরা বছরের পর বছর শিবপুজোকে কুসংস্কার ও সামন্ততন্ত্রের প্রতীক বলে দাগিয়েছে, কিন্তু ভারতীয় মননে শিবভক্তি কমাতে ব্যর্থ হয়েছে।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "Hindu society",
      "claim": "Shiva is the universal deity of all Indians and the foundation of Indian civilisation, and Hindus are called to organise at Sangh centenary sammelans.",
      "heading": "ভারতবাসীর উপাস্য সর্বত্যাগী উমানাথ (editorial)",
-     "page": 5
+     "page": 5,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "হিন্দু সমাজ",
+     "claim_bn": "শিব সকল ভারতীয়ের সর্বজনীন দেবতা ও ভারতীয় সভ্যতার ভিত্তি, এবং সঙ্ঘের শতবর্ষ সম্মেলনে হিন্দুদের সংগঠিত হওয়ার আহ্বান জানানো হয়েছে।"
     },
     {
      "theme": "history & icons",
      "target": "Medieval Muslim rulers, praised Hindu king Bhudeb Roy",
      "claim": "Islamic rulers destroyed Triveni's Kumbh and temples; Hindu king Bhudeb Roy briefly restored it in 1305, and saints revived the lost pilgrimage in 2022.",
      "heading": "লুপ্ততীর্থ পুনরুদ্ধার তীর্থক্ষেত্র ত্রিবেণী",
-     "page": 34
+     "page": 34,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "মধ্যযুগীয় মুসলিম শাসকরা; হিন্দু রাজা ভূদেব রায়ের প্রশংসা",
+     "claim_bn": "ইসলামি শাসকরা ত্রিবেণীর কুম্ভ ও মন্দিরগুলি ধ্বংস করেছিল; হিন্দু রাজা ভূদেব রায় ১৩০৫ সালে অল্প সময়ের জন্য তা পুনরুদ্ধার করেন, এবং সাধুসন্তরা ২০২২ সালে হারিয়ে যাওয়া তীর্থ পুনরুজ্জীবিত করেন।"
     },
     {
      "theme": "Modi govt achievements",
      "target": "Modi and Amit Shah govt; Maoists",
      "claim": "The Modi-Shah 'double engine' government is crushing Maoism, with mass surrenders, Hidma killed and a 31 March 2026 deadline for a Maoist-free India.",
      "heading": "দলে দলে মাওবাদী আত্মসমর্পণ করছে",
-     "page": 45
+     "page": 45,
+     "theme_bn": "মোদী সরকারের কৃতিত্ব",
+     "target_bn": "মোদী ও অমিত শাহের সরকার; মাওবাদীরা",
+     "claim_bn": "মোদি-শাহের 'ডাবল ইঞ্জিন' সরকার মাওবাদ দমন করছে; গণ আত্মসমর্পণ হয়েছে, হিদমা নিহত হয়েছে এবং মাওবাদীমুক্ত ভারতের জন্য সময়সীমা ধার্য হয়েছে ৩১ মার্চ ২০২৬।"
     },
     {
      "theme": "history & icons",
      "target": "Dr Hedgewar and the RSS",
      "claim": "Dr Hedgewar was selfless, principled and patriotic, and even a jail superintendent was won over. Savarkar's Tarun Hindu Sabha merged into the Sangh, proof of the Sangh's spirit of sacrifice.",
      "heading": "গল্পকথায় ডাক্তারজী",
-     "page": 50
+     "page": 50,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "ডাঃ হেডগেওয়ার ও আরএসএস",
+     "claim_bn": "ডা. হেডগেওয়ার ছিলেন নিঃস্বার্থ, নীতিনিষ্ঠ ও দেশপ্রেমী; এমনকি একজন জেল সুপারিনটেনডেন্টও তাঁর প্রতি আকৃষ্ট হয়েছিলেন। সাভারকরের তরুণ হিন্দু সভা সঙ্ঘে মিশে যায়, যা সঙ্ঘের ত্যাগের মনোভাবের প্রমাণ।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "Hindu society",
      "claim": "The Panch Parivartan 'social harmony' initiative of the centenary is shown in practice by a child feast replacing Brahmin bhojan.",
      "heading": "শিশুভোজন (samarasata report)",
-     "page": 30
+     "page": 30,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "হিন্দু সমাজ",
+     "claim_bn": "শতবর্ষের 'সামাজিক সম্প্রীতি'র পঞ্চ পরিবর্তন উদ্যোগ বাস্তবে দেখা গেছে ব্রাহ্মণ ভোজনের পরিবর্তে শিশুভোজের মাধ্যমে।"
     },
     {
      "theme": "nationalism/army/Pakistan",
      "target": "Hindu society and the nation",
      "claim": "The sesquicentenary of Vande Mataram is celebrated through mass patriotic singing events and framed as a nationalist cultural revival.",
      "heading": "সার্ধশত কণ্ঠে 'বন্দে মাতরম্' গৌরব গান",
-     "page": 23
+     "page": 23,
+     "theme_bn": "জাতীয়তাবাদ/সেনা/পাকিস্তান",
+     "target_bn": "হিন্দু সমাজ ও জাতি",
+     "claim_bn": "বন্দে মাতরমের সার্ধশতবর্ষ গণ-দেশাত্মবোধক গানের অনুষ্ঠানের মাধ্যমে উদ্‌যাপিত হচ্ছে এবং একে জাতীয়তাবাদী সাংস্কৃতিক পুনরুজ্জীবন হিসেবে তুলে ধরা হয়েছে।"
     }
-   ]
+   ],
+   "label_bn": "",
+   "summary_bn": "১৬ ফেব্রুয়ারির সংখ্যাটি মহাশিবরাত্রিকে কেন্দ্র করে সাজানো; শিব-কেন্দ্রিক নিবন্ধ এবং বাংলাজুড়ে আরএসএসের শতবর্ষের হিন্দু সম্মেলনের মাধ্যমে হিন্দু ধর্মীয় পরিচয়কে তুলে ধরা হয়েছে। সম্পাদকীয়তে তৃণমূল সরকারের বাজেটকে মুসলমান তোষণ ও মাদ্রাসাপ্রীতির বলে আক্রমণ করা হয়েছে এবং ভোটব্যাঙ্ক রাজনীতির জনক হিসেবে সিপিআই(এম)-কে দায়ী করা হয়েছে। কেরলের আরএসএস থেকে বিজেপি সাংসদ হওয়া সদানন্দন মাস্টারকে নিয়ে একটি লেখা রয়েছে, যাঁর ১৯৯৪ সালে দুই পা কেটে নেওয়া হয়েছিল; এর মাধ্যমে সিপিআই(এম)-কে হিংসাত্মক ও অসহিষ্ণু হিসেবে দেখানো হয়েছে। মোদী-শাহের মাওবাদী-বিরোধী অভিযান এবং হারিয়ে যাওয়া ত্রিবেণী কুম্ভের পুনরুজ্জীবনকেও অভিনন্দন জানানো হয়েছে; সঙ্গে ডাঃ হেডগেওয়ারকে নিয়ে ধারাবাহিকের একটি কিস্তি রয়েছে।"
   },
   {
    "issue": "20260209",
@@ -7349,7 +10990,13 @@ window.HINDUTVA = {
      "where": "Bardhaman town, Purba Bardhaman",
      "when": "19 January",
      "page": 23,
-     "detail": "Held at the Railway Institute Hall for the RSS centenary; Sarkaryavah Dattatreya Hosabale spoke on the centenary journey and the Sangh's role in society and answered questions from invitees. Madhyabanga Prant Sanghchalak Rabindranath Bandyopadhyay was present."
+     "detail": "Held at the Railway Institute Hall for the RSS centenary; Sarkaryavah Dattatreya Hosabale spoke on the centenary journey and the Sangh's role in society and answered questions from invitees. Madhyabanga Prant Sanghchalak Rabindranath Bandyopadhyay was present.",
+     "title_bn": "বিশিষ্ট নাগরিক সম্মেলন, বর্ধমান",
+     "org_bn": "আরএসএস",
+     "type_bn": "শতবর্ষ",
+     "where_bn": "বর্ধমান শহর, পূর্ব বর্ধমান",
+     "when_bn": "১৯ জানুয়ারি",
+     "detail_bn": "আরএসএস-এর শতবর্ষ উপলক্ষে রেলওয়ে ইনস্টিটিউট হলে অনুষ্ঠিত; সরকার্যবাহ দত্তাত্রেয় হোসবালে শতবর্ষের যাত্রা এবং সমাজে সঙ্ঘের ভূমিকা নিয়ে বক্তব্য রাখেন ও আমন্ত্রিতদের প্রশ্নের উত্তর দেন। মধ্যবঙ্গ প্রান্ত সঙ্ঘচালক রবীন্দ্রনাথ বন্দ্যোপাধ্যায় উপস্থিত ছিলেন।"
     },
     {
      "title": "Vivek Mela 2026, Madhyamgram",
@@ -7358,7 +11005,13 @@ window.HINDUTVA = {
      "where": "Madhyamgram, North 24 Parganas",
      "when": "7-12 January",
      "page": 23,
-     "detail": "Six-day fair inspired by Swami Vivekananda, preceded by a Vivek Yatra procession and inaugurated by Governor C.V. Ananda Bose. It included music, chess, debate, recitation, drawing, yoga and other competitions, and a felicitation award."
+     "detail": "Six-day fair inspired by Swami Vivekananda, preceded by a Vivek Yatra procession and inaugurated by Governor C.V. Ananda Bose. It included music, chess, debate, recitation, drawing, yoga and other competitions, and a felicitation award.",
+     "title_bn": "বিবেক মেলা ২০২৬, মধ্যমগ্রাম",
+     "org_bn": "অন্যান্য: বিবেক চিন্তন ফাউন্ডেশন",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "মধ্যমগ্রাম, উত্তর ২৪ পরগনা",
+     "when_bn": "৭–১২ জানুয়ারি",
+     "detail_bn": "স্বামী বিবেকানন্দের অনুপ্রেরণায় ছয় দিনের মেলা, যার আগে বিবেক যাত্রা শোভাযাত্রা হয় এবং উদ্বোধন করেন রাজ্যপাল সি.ভি. আনন্দ বোস। এতে সংগীত, দাবা, বিতর্ক, আবৃত্তি, অঙ্কন, যোগব্যায়াম-সহ নানা প্রতিযোগিতা এবং একটি সংবর্ধনা পুরস্কার ছিল।"
     },
     {
      "title": "Hindu Sammelan, Rampurhat",
@@ -7367,7 +11020,13 @@ window.HINDUTVA = {
      "where": "Rampurhat, Birbhum",
      "when": "25 January",
      "page": 24,
-     "detail": "Hindu Sammelan for the Sangh centenary with a shanti yajna and prasad; about ten thousand people including sadhus and saints took part."
+     "detail": "Hindu Sammelan for the Sangh centenary with a shanti yajna and prasad; about ten thousand people including sadhus and saints took part.",
+     "title_bn": "হিন্দু সম্মেলন, রামপুরহাট",
+     "org_bn": "আরএসএস",
+     "type_bn": "শতবর্ষ",
+     "where_bn": "রামপুরহাট, বীরভূম",
+     "when_bn": "২৫ জানুয়ারি",
+     "detail_bn": "সঙ্ঘ শতবর্ষ উপলক্ষে শান্তি যজ্ঞ ও প্রসাদ বিতরণসহ হিন্দু সম্মেলন; সাধু-সন্ত সহ প্রায় দশ হাজার মানুষ অংশ নেন।"
     },
     {
      "title": "Hindu Sammelan, Malda Ward 28",
@@ -7376,7 +11035,13 @@ window.HINDUTVA = {
      "where": "Malda town, Malda",
      "when": "26 January",
      "page": 24,
-     "detail": "Hindu Sammelan in Ward 28 of Malda town, with speeches by Bijay Ghosh and yogaguru Tapan Das and a Gita recitation and bhajan-kirtan."
+     "detail": "Hindu Sammelan in Ward 28 of Malda town, with speeches by Bijay Ghosh and yogaguru Tapan Das and a Gita recitation and bhajan-kirtan.",
+     "title_bn": "হিন্দু সম্মেলন, মালদা ২৮ নম্বর ওয়ার্ড",
+     "org_bn": "আরএসএস",
+     "type_bn": "সম্মেলন",
+     "where_bn": "মালদা শহর, মালদা",
+     "when_bn": "২৬ জানুয়ারি",
+     "detail_bn": "মালদা শহরের ২৮ নম্বর ওয়ার্ডে হিন্দু সম্মেলন; বক্তব্য রাখেন বিজয় ঘোষ ও যোগগুরু তপন দাস, সঙ্গে ছিল গীতাপাঠ ও ভজন-কীর্তন।"
     },
     {
      "title": "Parivar Milan by Parivar Prabodhan convenor",
@@ -7385,7 +11050,13 @@ window.HINDUTVA = {
      "where": "Mathuradanga village near Nalagola, Malda",
      "when": "25 January",
      "page": 25,
-     "detail": "Parivar Prabodhan Uttarbanga Prant convenor Rameswar Pal brought about 70 family members together for a family reunion with games and a shared meal; Malda district Sanghchalak Nirmal Kumar Nath attended and said such gatherings are needed in every family."
+     "detail": "Parivar Prabodhan Uttarbanga Prant convenor Rameswar Pal brought about 70 family members together for a family reunion with games and a shared meal; Malda district Sanghchalak Nirmal Kumar Nath attended and said such gatherings are needed in every family.",
+     "title_bn": "পরিবার প্রবোধনের আহ্বায়কের উদ্যোগে পরিবার মিলন",
+     "org_bn": "আরএসএস",
+     "type_bn": "অন্যান্য",
+     "where_bn": "নলাগোলার কাছে মথুরাডাঙা গ্রাম, মালদা",
+     "when_bn": "২৫ জানুয়ারি",
+     "detail_bn": "পরিবার প্রবোধন উত্তরবঙ্গ প্রান্তের আহ্বায়ক রামেশ্বর পাল প্রায় ৭০ জন পরিবারের সদস্যকে নিয়ে খেলাধুলা ও একসঙ্গে ভোজনের মাধ্যমে পারিবারিক মিলনের আয়োজন করেন; মালদা জেলা সঙ্ঘচালক নির্মল কুমার নাথ উপস্থিত থেকে বলেন, প্রতিটি পরিবারে এমন মিলনের প্রয়োজন রয়েছে।"
     },
     {
      "title": "Women's Kabaddi competition, Amta",
@@ -7394,7 +11065,13 @@ window.HINDUTVA = {
      "where": "Amta, Howrah",
      "when": "",
      "page": 25,
-     "detail": "Kreera Bharati organised a women's kabaddi tournament with eight teams, attended by local social organisation officials and police."
+     "detail": "Kreera Bharati organised a women's kabaddi tournament with eight teams, attended by local social organisation officials and police.",
+     "title_bn": "মহিলাদের কবাডি প্রতিযোগিতা, আমতা",
+     "org_bn": "অন্যান্য: ক্রীড়া ভারতী",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "আমতা, হাওড়া",
+     "when_bn": "",
+     "detail_bn": "ক্রীড়া ভারতী আটটি দলকে নিয়ে একটি মহিলা কবাডি প্রতিযোগিতার আয়োজন করে; স্থানীয় সামাজিক সংগঠনের কর্মকর্তা ও পুলিশ উপস্থিত ছিলেন।"
     },
     {
      "title": "Netaji's 130th birth anniversary, Triangle Park, Kolkata",
@@ -7403,7 +11080,13 @@ window.HINDUTVA = {
      "where": "Central Kolkata (Triangle Park near Mulanga Lane)",
      "when": "23-26 January",
      "page": 26,
-     "detail": "Flag hoisting, Vande Mataram, a firing salute at Netaji's birth moment, a children's drawing contest, cultural programmes, a discussion on Netaji on 25 January and Republic Day celebrations with fireworks."
+     "detail": "Flag hoisting, Vande Mataram, a firing salute at Netaji's birth moment, a children's drawing contest, cultural programmes, a discussion on Netaji on 25 January and Republic Day celebrations with fireworks.",
+     "title_bn": "নেতাজির ১৩০তম জন্মজয়ন্তী, ত্রিকোণ পার্ক, কলকাতা",
+     "org_bn": "অন্যান্য: জাতীয় আর্তত্রাণ সমিতি",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "মধ্য কলকাতা (মূলাঙ্গা লেনের কাছে ট্রায়াঙ্গল পার্ক)",
+     "when_bn": "২৩–২৬ জানুয়ারি",
+     "detail_bn": "পতাকা উত্তোলন, বন্দেমাতরম, নেতাজির জন্মমুহূর্তে বন্দুকের salute, শিশুদের অঙ্কন প্রতিযোগিতা, সাংস্কৃতিক অনুষ্ঠান, ২৫ জানুয়ারি নেতাজিকে নিয়ে আলোচনা এবং আতশবাজিসহ প্রজাতন্ত্র দিবস উদ্‌যাপন।"
     },
     {
      "title": "Dadhichi Premier League cricket",
@@ -7412,7 +11095,13 @@ window.HINDUTVA = {
      "where": "",
      "when": "18 January",
      "page": 26,
-     "detail": "Cricket league organised by the Saradadhichi Nabayuvak Parishad under the Maharshi Dadhichi Seva Trust; Kakra Dynamites won the first final."
+     "detail": "Cricket league organised by the Saradadhichi Nabayuvak Parishad under the Maharshi Dadhichi Seva Trust; Kakra Dynamites won the first final.",
+     "title_bn": "দধীচি প্রিমিয়ার লিগ ক্রিকেট",
+     "org_bn": "অন্যান্য: মহর্ষি দধীচি সেবা ট্রাস্ট",
+     "type_bn": "অন্যান্য",
+     "where_bn": "",
+     "when_bn": "১৮ জানুয়ারি",
+     "detail_bn": "মহর্ষি দধীচি সেবা ট্রাস্টের অধীনে সারদাধিচী নবযুবক পরিষদ আয়োজিত ক্রিকেট লিগ; কাকরা ডায়নামাইটস প্রথম ফাইনালে জিতেছে।"
     },
     {
      "title": "Vivekananda 163rd birth anniversary, Parnashree",
@@ -7421,7 +11110,13 @@ window.HINDUTVA = {
      "where": "Parnashree Vivekananda Kanan, Behala, Kolkata",
      "when": "12 January",
      "page": 27,
-     "detail": "Garlanding of Swamiji's bust, group singing, recitation, readings of his messages and a talk on his life and teachings."
+     "detail": "Garlanding of Swamiji's bust, group singing, recitation, readings of his messages and a talk on his life and teachings.",
+     "title_bn": "বিবেকানন্দের ১৬৩তম জন্মবার্ষিকী, পর্ণশ্রী",
+     "org_bn": "অন্যান্য: বেহালা বিবেকানন্দ পাঠচক্র",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "পর্ণশ্রী বিবেকানন্দ কানন, বেহালা, কলকাতা",
+     "when_bn": "১২ জানুয়ারি",
+     "detail_bn": "স্বামীজির আবক্ষ মূর্তিতে মাল্যদান, সমবেত সংগীত, আবৃত্তি, তাঁর বাণীপাঠ এবং তাঁর জীবন ও শিক্ষা নিয়ে আলোচনা।"
     },
     {
      "title": "Bharat Mata Puja on Republic Day, Gajole",
@@ -7430,7 +11125,13 @@ window.HINDUTVA = {
      "where": "Gajole, Malda",
      "when": "26 January",
      "page": 27,
-     "detail": "Bharat Mata puja held with national and organisation flag hoisting; Sanskar Bharati, Kisan Sangh and VHP representatives and the Sangh's khanda karyavah were present."
+     "detail": "Bharat Mata puja held with national and organisation flag hoisting; Sanskar Bharati, Kisan Sangh and VHP representatives and the Sangh's khanda karyavah were present.",
+     "title_bn": "প্রজাতন্ত্র দিবসে গাজোলে ভারত মাতা পুজো",
+     "org_bn": "আরএসএস",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "গাজোল, মালদা",
+     "when_bn": "২৬ জানুয়ারি",
+     "detail_bn": "জাতীয় ও সংগঠনের পতাকা উত্তোলনসহ ভারত মাতা পুজো অনুষ্ঠিত হয়; সংস্কার ভারতী, কিসান সঙ্ঘ ও বিশ্ব হিন্দু পরিষদের প্রতিনিধিরা এবং সঙ্ঘের খণ্ড কার্যবাহ উপস্থিত ছিলেন।"
     },
     {
      "title": "Hindu Sammelan, Chandrakona Road",
@@ -7439,7 +11140,13 @@ window.HINDUTVA = {
      "where": "Chandrakona Road, Medinipur",
      "when": "29 January",
      "page": 27,
-     "detail": "Centenary Hindu Sammelan opened with flag hoisting, welcome of sadhus and a shanti yajna by a local priest; Swami Pradiptananda of Bharat Sevashram Sangha and Sanjay Shastri Maharaj of Hindu Jagaran Manch spoke, followed by a drawing competition prize distribution."
+     "detail": "Centenary Hindu Sammelan opened with flag hoisting, welcome of sadhus and a shanti yajna by a local priest; Swami Pradiptananda of Bharat Sevashram Sangha and Sanjay Shastri Maharaj of Hindu Jagaran Manch spoke, followed by a drawing competition prize distribution.",
+     "title_bn": "হিন্দু সম্মেলন, চন্দ্রকোনা রোড",
+     "org_bn": "আরএসএস",
+     "type_bn": "শতবর্ষ",
+     "where_bn": "চন্দ্রকোনা রোড, মেদিনীপুর",
+     "when_bn": "২৯ জানুয়ারি",
+     "detail_bn": "শতবর্ষ হিন্দু সম্মেলন শুরু হয় পতাকা উত্তোলন, সাধুদের বরণ এবং স্থানীয় পুরোহিতের শান্তি যজ্ঞ দিয়ে; ভারত সেবাশ্রম সংঘের স্বামী প্রদীপ্তানন্দ ও হিন্দু জাগরণ মঞ্চের সঞ্জয় শাস্ত্রী মহারাজ বক্তব্য রাখেন, তারপর অঙ্কন প্রতিযোগিতার পুরস্কার বিতরণ হয়।"
     },
     {
      "title": "Discussion and press conference for violence-free West Bengal assembly election",
@@ -7448,7 +11155,13 @@ window.HINDUTVA = {
      "where": "Park Plaza, Park Street, and Kolkata Press Club",
      "when": "9 January and 27 January",
      "page": 28,
-     "detail": "Forum demanded safe, peaceful polls in West Bengal, proposing QR-code voting, Article 355/356 or Election Commission control during the election period, balanced central-state officials at counting centres and arrests of local goons."
+     "detail": "Forum demanded safe, peaceful polls in West Bengal, proposing QR-code voting, Article 355/356 or Election Commission control during the election period, balanced central-state officials at counting centres and arrests of local goons.",
+     "title_bn": "হিংসামুক্ত পশ্চিমবঙ্গ বিধানসভা নির্বাচনের জন্য আলোচনা ও সাংবাদিক সম্মেলন",
+     "org_bn": "অন্যান্য: ফোরাম ফর ইন্টেলেকচুয়ালস অ্যান্ড প্রফেশনালস অফ ওয়েস্ট বেঙ্গল",
+     "type_bn": "রাজনৈতিক প্রচার",
+     "where_bn": "পার্ক প্লাজা, পার্ক স্ট্রিট এবং কলকাতা প্রেস ক্লাব",
+     "when_bn": "৯ জানুয়ারি ও ২৭ জানুয়ারি",
+     "detail_bn": "ফোরাম পশ্চিমবঙ্গে নিরাপদ ও শান্তিপূর্ণ নির্বাচনের দাবি জানায়; প্রস্তাব দেয় কিউআর-কোডে ভোটদান, নির্বাচনকালে ৩৫৫/৩৫৬ ধারা বা নির্বাচন কমিশনের নিয়ন্ত্রণ, গণনাকেন্দ্রে কেন্দ্র ও রাজ্যের সুষম আধিকারিক এবং স্থানীয় গুন্ডাদের গ্রেপ্তার।"
     },
     {
      "title": "Tiranga Padayatra and Bharat Mata Puja, Jadavpur",
@@ -7457,7 +11170,13 @@ window.HINDUTVA = {
      "where": "Jadavpur to Baghajatin, South Kolkata",
      "when": "26 January",
      "page": 29,
-     "detail": "Bangiya Hindu Jagaran and Hindu Jagaran Manch held a procession carrying a 70-foot national flag with Jai Hind and Vande Mataram slogans, ending in Bharat Mata puja; RSS Kolkata Mahanagar boudhik pramukh Madhusudan Kar addressed the gathering."
+     "detail": "Bangiya Hindu Jagaran and Hindu Jagaran Manch held a procession carrying a 70-foot national flag with Jai Hind and Vande Mataram slogans, ending in Bharat Mata puja; RSS Kolkata Mahanagar boudhik pramukh Madhusudan Kar addressed the gathering.",
+     "title_bn": "তেরঙ্গা পদযাত্রা ও ভারতমাতা পূজা, যাদবপুর",
+     "org_bn": "হিন্দু জাগরণ মঞ্চ",
+     "type_bn": "মিছিল/শোভাযাত্রা",
+     "where_bn": "যাদবপুর থেকে বাঘাযতীন, দক্ষিণ কলকাতা",
+     "when_bn": "২৬ জানুয়ারি",
+     "detail_bn": "বঙ্গীয় হিন্দু জাগরণ ও হিন্দু জাগরণ মঞ্চ ৭০ ফুট লম্বা জাতীয় পতাকা নিয়ে 'জয় হিন্দ' ও 'বন্দে মাতরম' স্লোগানসহ শোভাযাত্রা করে, যা ভারত মাতা পুজোয় শেষ হয়; আরএসএস কলকাতা মহানগরের বৌদ্ধিক প্রমুখ মধুসূদন কর সমাবেশে ভাষণ দেন।"
     },
     {
      "title": "Yajna for Netaji's long life, Sodepur",
@@ -7466,7 +11185,13 @@ window.HINDUTVA = {
      "where": "Mahendranagar, Sodepur, North 24 Parganas",
      "when": "23 January",
      "page": 29,
-     "detail": "Annual homa-yajna, chandi path and puja praying for Netaji Subhas Chandra Bose's long life, continuing a tradition begun in 1948 by teacher Shibprasad Nag; ended with fireworks and 130 candles."
+     "detail": "Annual homa-yajna, chandi path and puja praying for Netaji Subhas Chandra Bose's long life, continuing a tradition begun in 1948 by teacher Shibprasad Nag; ended with fireworks and 130 candles.",
+     "title_bn": "নেতাজির দীর্ঘায়ু কামনায় যজ্ঞ, সোদপুর",
+     "org_bn": "অন্যান্য: নেতাজি অনুরাগীদের গোষ্ঠী",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "মহেন্দ্রনগর, সোদপুর, উত্তর ২৪ পরগনা",
+     "when_bn": "২৩ জানুয়ারি",
+     "detail_bn": "নেতাজি সুভাষচন্দ্র বসুর দীর্ঘ জীবন কামনায় বার্ষিক হোম-যজ্ঞ, চণ্ডীপাঠ ও পুজো অনুষ্ঠিত হয়। শিক্ষক শিবপ্রসাদ নাগ ১৯৪৮ সালে যে ঐতিহ্যের সূচনা করেছিলেন, এটি তারই ধারাবাহিকতা; অনুষ্ঠান শেষ হয় আতশবাজি ও ১৩০টি মোমবাতি জ্বালিয়ে।"
     },
     {
      "title": "Discussion 'Disappearance of Netaji Subhas Chandra Bose'",
@@ -7475,7 +11200,13 @@ window.HINDUTVA = {
      "where": "Sarat Smriti Sadan, Rashbehari Avenue, South Kolkata",
      "when": "17 January",
      "page": 30,
-     "detail": "National-level discussion on Netaji's disappearance and the Taihoku air crash story, with former governor Tathagata Roy, Chandra Kumar Bose, Jayanta Chowdhury and others."
+     "detail": "National-level discussion on Netaji's disappearance and the Taihoku air crash story, with former governor Tathagata Roy, Chandra Kumar Bose, Jayanta Chowdhury and others.",
+     "title_bn": "আলোচনা 'নেতাজি সুভাষচন্দ্র বসুর অন্তর্ধান'",
+     "org_bn": "অন্যান্য: পোয়েটস ফাউন্ডেশন",
+     "type_bn": "সম্মেলন",
+     "where_bn": "শরৎ স্মৃতি সদন, রাসবিহারী অ্যাভিনিউ, দক্ষিণ কলকাতা",
+     "when_bn": "১৭ জানুয়ারি",
+     "detail_bn": "প্রাক্তন রাজ্যপাল তথাগত রায়, চন্দ্রকুমার বসু, জয়ন্ত চৌধুরী ও অন্যদের উপস্থিতিতে নেতাজির অন্তর্ধান ও তাইহোকু বিমান দুর্ঘটনার কাহিনি নিয়ে জাতীয় স্তরের আলোচনা।"
     },
     {
      "title": "Mass Gita recitation 'Sahasra Kanthe Gitapath', Dattapukur",
@@ -7484,7 +11215,13 @@ window.HINDUTVA = {
      "where": "Dattapukur, North 24 Parganas",
      "when": "11 January",
      "page": 30,
-     "detail": "About five thousand people attended; saints Swami Paramatmananda Giri Maharaj and Hiranmoy Goswami Maharaj called on Hindus to awaken against injustice through scripture and arms practice (shastra and shastra)."
+     "detail": "About five thousand people attended; saints Swami Paramatmananda Giri Maharaj and Hiranmoy Goswami Maharaj called on Hindus to awaken against injustice through scripture and arms practice (shastra and shastra).",
+     "title_bn": "গণগীতাপাঠ 'সহস্র কণ্ঠে গীতাপাঠ', দত্তপুকুর",
+     "org_bn": "অন্যান্য: সনাতন হিন্দু ধর্ম সংগঠন",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "দত্তপুকুর, উত্তর ২৪ পরগনা",
+     "when_bn": "১১ জানুয়ারি",
+     "detail_bn": "প্রায় পাঁচ হাজার মানুষ উপস্থিত ছিলেন; সন্ন্যাসী স্বামী পরমাত্মানন্দ গিরি মহারাজ ও হিরণ্ময় গোস্বামী মহারাজ হিন্দুদের অন্যায়ের বিরুদ্ধে শাস্ত্র ও শস্ত্রচর্চার মাধ্যমে জেগে ওঠার আহ্বান জানান।"
     },
     {
      "title": "15th Anubhavi Sammelan of Shraddha, Suri",
@@ -7493,7 +11230,13 @@ window.HINDUTVA = {
      "where": "Suri, Birbhum",
      "when": "18 January",
      "page": 30,
-     "detail": "Annual conference of the social-cultural organisation Shraddha with Omkar chanting, lamp-lighting, songs, recitation and speeches including the Shishu Mandir head teacher."
+     "detail": "Annual conference of the social-cultural organisation Shraddha with Omkar chanting, lamp-lighting, songs, recitation and speeches including the Shishu Mandir head teacher.",
+     "title_bn": "সুরিতে শ্রদ্ধার ১৫তম অনুভবী সম্মেলন",
+     "org_bn": "অন্যান্য: শ্রদ্ধা",
+     "type_bn": "সম্মেলন",
+     "where_bn": "সিউড়ি, বীরভূম",
+     "when_bn": "১৮ জানুয়ারি",
+     "detail_bn": "সামাজিক-সাংস্কৃতিক সংগঠন শ্রদ্ধার বার্ষিক সম্মেলনে ওঁকার ধ্বনি, প্রদীপ প্রজ্বলন, গান, আবৃত্তি এবং শিশু মন্দিরের প্রধান শিক্ষকসহ বিভিন্নজনের বক্তৃতা হয়।"
     }
    ],
    "narratives": [
@@ -7502,86 +11245,124 @@ window.HINDUTVA = {
      "target": "Modi government / Union Finance Ministry",
      "claim": "Since 2014 the Union budget has become a strategic reform document, India is now the fourth-largest economy, and the 2026-27 budget advances Viksit Bharat by 2047 through capital expenditure, self-reliance and welfare.",
      "heading": "কেন্দ্রীয় অর্থ বাজেট- ২০২৬-২৭",
-     "page": 5
+     "page": 5,
+     "theme_bn": "মোদী সরকারের কৃতিত্ব",
+     "target_bn": "মোদী সরকার / কেন্দ্রীয় অর্থ মন্ত্রক",
+     "claim_bn": "২০১৪ সাল থেকে কেন্দ্রীয় বাজেট একটি কৌশলগত সংস্কার-দলিলে পরিণত হয়েছে, ভারত এখন চতুর্থ বৃহত্তম অর্থনীতি, এবং ২০২৬-২৭ সালের বাজেট মূলধনী ব্যয়, আত্মনির্ভরতা ও কল্যাণের মাধ্যমে ২০৪৭ সালের মধ্যে বিকশিত ভারতের লক্ষ্যকে এগিয়ে নিয়ে যায়।"
     },
     {
      "theme": "Modi govt achievements",
      "target": "Union Budget 2026-27",
      "claim": "The budget's capital expenditure rise will realise the dream of a prosperous India.",
      "heading": "কেন্দ্রীয় বাজেট-২০২৬ : মূলধনী ব্যয় বৃদ্ধি আগামীদিনে সম্পদশালী ভারতের স্বপ্নকে বাস্তবায়িত করবে",
-     "page": 36
+     "page": 36,
+     "theme_bn": "মোদী সরকারের কৃতিত্ব",
+     "target_bn": "কেন্দ্রীয় বাজেট ২০২৬-২৭",
+     "claim_bn": "বাজেটে মূলধনী ব্যয় বৃদ্ধি সমৃদ্ধ ভারতের স্বপ্নকে বাস্তবায়িত করবে।"
     },
     {
      "theme": "Modi govt achievements",
      "target": "Union Budget 2026-27 (education allocation)",
      "claim": "The Akhil Bharatiya Rashtriya Shaikshik Mahasangh, an RSS-linked teachers' body, welcomes the record Rs 1.39 lakh crore education allocation as a farsighted budget reaffirming NEP 2020.",
      "heading": "কেন্দ্রীয় বাজেটে শিক্ষাক্ষেত্রে বরাদ্দ একটি প্রশংসনীয় উদ্যোগ",
-     "page": 18
+     "page": 18,
+     "theme_bn": "মোদী সরকারের কৃতিত্ব",
+     "target_bn": "কেন্দ্রীয় বাজেট ২০২৬-২৭ (শিক্ষা খাতে বরাদ্দ)",
+     "claim_bn": "আরএসএস-ঘনিষ্ঠ শিক্ষক সংগঠন অখিল ভারতীয় রাষ্ট্রীয় শৈক্ষিক মহাসংঘ শিক্ষাখাতে রেকর্ড ১.৩৯ লক্ষ কোটি টাকা বরাদ্দকে স্বাগত জানিয়েছে। তাদের মতে এটি একটি দূরদর্শী বাজেট, যা জাতীয় শিক্ষানীতি ২০২০-কে পুনরায় নিশ্চিত করেছে।"
     },
     {
      "theme": "Modi govt achievements",
      "target": "Union Budget 2026-27 and West Bengal",
      "claim": "This year's central budget will help West Bengal's progress.",
      "heading": "এবারের কেন্দ্রীয় বাজেট রাজ্যের অগ্রগতির সহায়ক",
-     "page": 38
+     "page": 38,
+     "theme_bn": "মোদী সরকারের কৃতিত্ব",
+     "target_bn": "কেন্দ্রীয় বাজেট ২০২৬-২৭ ও পশ্চিমবঙ্গ",
+     "claim_bn": "এ বছরের কেন্দ্রীয় বাজেট পশ্চিমবঙ্গের অগ্রগতিতে সহায়ক হবে।"
     },
     {
      "theme": "nationalism/army/Pakistan",
      "target": "Defence budget 2026-27",
      "claim": "The 2026-27 defence budget will aid modernisation of the armed forces and self-reliance in defence.",
      "heading": "২০২৬-২৭ অর্থবর্ষে ভারতের প্রতিরক্ষা বাজেট : সামরিক বাহিনীর আধুনিকীকরণ এবং প্রতিরক্ষা ক্ষেত্রে স্বনির্ভরতা অর্জনে সহায়ক হবে",
-     "page": 16
+     "page": 16,
+     "theme_bn": "জাতীয়তাবাদ/সেনা/পাকিস্তান",
+     "target_bn": "প্রতিরক্ষা বাজেট ২০২৬-২৭",
+     "claim_bn": "২০২৬-২৭ সালের প্রতিরক্ষা বাজেট সশস্ত্র বাহিনীর আধুনিকীকরণ ও প্রতিরক্ষায় আত্মনির্ভরতায় সহায়ক হবে।"
     },
     {
      "theme": "Bangladesh & Hindu persecution",
      "target": "Bangladesh interim government under Muhammad Yunus, jihadi students, BNP, Jamaat",
      "claim": "Hindus in Bangladesh fear attacks around the 13th parliamentary election as killings, arson and mob violence since August 2024 continue and the interim government refuses to call them communal.",
      "heading": "বাংলাদেশে নির্বাচনকে সামনে রেখে উদ্বিগ্ন ও শঙ্কিত হিন্দু সমাজ",
-     "page": 45
+     "page": 45,
+     "theme_bn": "বাংলাদেশ ও হিন্দু নির্যাতন",
+     "target_bn": "মুহাম্মদ ইউনূসের নেতৃত্বাধীন বাংলাদেশের অন্তর্বর্তী সরকার, জিহাদি ছাত্ররা, বিএনপি, জামায়াত",
+     "claim_bn": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনকে ঘিরে বাংলাদেশের হিন্দুরা হামলার আশঙ্কায় রয়েছেন, কারণ ২০২৪ সালের আগস্ট থেকে হত্যা, অগ্নিসংযোগ ও গণপিটুনি চলছে এবং অন্তর্বর্তী সরকার এগুলিকে সাম্প্রদায়িক বলতে অস্বীকার করছে।"
     },
     {
      "theme": "Bangladesh & Hindu persecution",
      "target": "Bangladesh",
      "claim": "A headline article asserts that Hindu blood is being treated as 'halal' in Bangladesh.",
      "heading": "হিন্দু রক্তে হালাল বাংলাদেশ!",
-     "page": 39
+     "page": 39,
+     "theme_bn": "বাংলাদেশ ও হিন্দু নির্যাতন",
+     "target_bn": "বাংলাদেশ",
+     "claim_bn": "একটি প্রধান প্রবন্ধে দাবি করা হয়েছে যে বাংলাদেশে হিন্দুর রক্তকে 'হালাল' হিসেবে গণ্য করা হচ্ছে।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "West Bengal Chief Minister (Mamata Banerjee) / state administration",
      "claim": "The state's administrative head must take responsibility for the Anandapur fire, and the article on the Chief Minister and democracy criticises her conduct.",
      "heading": "আনন্দপুর অগ্নিকাণ্ডের দায় রাজ্যের প্রশাসনিক প্রধানকে নিতেই হবে",
-     "page": 49
+     "page": 49,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "পশ্চিমবঙ্গের মুখ্যমন্ত্রী (মমতা বন্দ্যোপাধ্যায়) / রাজ্য প্রশাসন",
+     "claim_bn": "আনন্দপুরের অগ্নিকাণ্ডের দায় রাজ্যের প্রশাসনিক প্রধানকে নিতে হবে, আর মুখ্যমন্ত্রী ও গণতন্ত্র নিয়ে প্রবন্ধে তাঁর আচরণের সমালোচনা করা হয়েছে।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "TMC leader (Mamata Banerjee)",
      "claim": "The TMC leader's remarks on Ajit Pawar's death in a plane crash were thoughtless, suggesting 'when destruction comes, wisdom is lost'.",
      "heading": "অজিত পাওয়ারের বিমান দুর্ঘটনায় মৃত্যু নিয়ে তৃণমূলনেত্রী অবিবেচক মন্তব্য কি বিনাশকালে বুদ্ধিনাশ?",
-     "page": 50
+     "page": 50,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "তৃণমূল নেত্রী (মমতা বন্দ্যোপাধ্যায়)",
+     "claim_bn": "বিমান দুর্ঘটনায় অজিত পাওয়ারের মৃত্যু নিয়ে তৃণমূল নেত্রীর মন্তব্য ছিল বিবেচনাহীন, যাতে ইঙ্গিত করা হয়েছে 'বিনাশকালে বিপরীত বুদ্ধি'।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "Appeasement politics / ruling establishment in West Bengal",
      "claim": "Appeasement politics leads to damaging consequences, analysed as a flaw in governance.",
      "heading": "তুষ্টীকরণের রাজনীতি এবং তার পরিণতি : এক বিশ্লেষণ",
-     "page": 8
+     "page": 8,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "তোষণের রাজনীতি / পশ্চিমবঙ্গের শাসক প্রতিষ্ঠান",
+     "claim_bn": "তোষণের রাজনীতি ক্ষতিকর পরিণতি ডেকে আনে, যাকে শাসনব্যবস্থার ত্রুটি হিসেবে বিশ্লেষণ করা হয়েছে।"
     },
     {
      "theme": "West Bengal elections",
      "target": "West Bengal ruling party and election machinery",
      "claim": "The Forum for Intellectuals and Professionals says Bengal needs central or presidential/Governor/EC control during polls to stop violence, rigging and intimidation at counting centres.",
      "heading": "পশ্চিমবঙ্গে হিংসা ও সন্ত্রাসহীন বিধানসভা নির্বাচনের লক্ষ্যে আলোচনাচক্র ও সাংবাদিক সম্মেলন",
-     "page": 28
+     "page": 28,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "পশ্চিমবঙ্গের শাসক দল ও নির্বাচনী যন্ত্র",
+     "claim_bn": "ফোরাম ফর ইন্টেলেকচুয়ালস অ্যান্ড প্রফেশনালস বলছে, নির্বাচনের সময় হিংসা, রিগিং এবং গণনাকেন্দ্রে ভয় দেখানো বন্ধ করতে বাংলায় কেন্দ্রীয় অথবা রাষ্ট্রপতি/রাজ্যপাল/নির্বাচন কমিশনের নিয়ন্ত্রণ প্রয়োজন।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "Hindus / Sanatan Dharma",
      "claim": "Sanatan Dharma is the final destination of the Islamic world, and Hindu gatherings urge Hindus to awaken against injustice through scripture and arms practice.",
      "heading": "ইসলামি বিশ্বের শেষ গন্তব্য - সনাতন ধর্ম",
-     "page": 11
+     "page": 11,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "হিন্দু / সনাতন ধর্ম",
+     "claim_bn": "সনাতন ধর্মই ইসলামি দুনিয়ার শেষ গন্তব্য, আর হিন্দু সমাবেশগুলিতে শাস্ত্র ও অস্ত্রচর্চার মাধ্যমে অন্যায়ের বিরুদ্ধে হিন্দুদের জেগে ওঠার আহ্বান জানানো হয়।"
     }
-   ]
+   ],
+   "label_bn": "",
+   "summary_bn": "৯ ফেব্রুয়ারি ২০২৬ সংখ্যাটি কেন্দ্রীয় বাজেট ২০২৬-২৭-কে কেন্দ্র করে সাজানো, যাকে দূরদর্শী, আত্মনির্ভরতা-চালিত 'বিকশিত ভারত' বাজেট হিসেবে তুলে ধরা হয়েছে; সম্পাদকীয় ও প্রতিরক্ষা, শিক্ষা, মূলধনী ব্যয় এবং পশ্চিমবঙ্গের সুবিধা নিয়ে বেশ কয়েকটি লেখা রয়েছে। এর পাশাপাশি বাংলাদেশের সংসদীয় নির্বাচনের আগে সেখানে হিন্দু নির্যাতন, পশ্চিমবঙ্গের তৃণমূল সরকারের (আনন্দপুরের অগ্নিকাণ্ড, মুখ্যমন্ত্রীর আচরণ ও তোষণের রাজনীতি) বিরুদ্ধে আক্রমণ এবং হিন্দু ঐক্য ও সনাতন পরিচয়ের কথা তোলা হয়েছে। সাংগঠনিক পাতাগুলিতে আরএসএসের শতবর্ষের হিন্দু সম্মেলন, প্রজাতন্ত্র দিবসের ভারতমাতা পূজা, নেতাজি জয়ন্তীর অনুষ্ঠান ও বিবেকানন্দ স্মরণের খবর রয়েছে।"
   },
   {
    "issue": "20260202",
@@ -7597,7 +11378,13 @@ window.HINDUTVA = {
      "where": "Birati, North Dum Dum, Barrackpore district, West Bengal",
      "when": "18 January",
      "page": 23,
-     "detail": "Saints lit a lamp before a tulsi mancha, and Vande Mataram and Krishna naam sankirtan followed. RSS Dakshin Banga prant sah sampark pramukh Litan Adhikari spoke on the Sangh centenary, Panch Parivartan and what Hindus should do now. Attendees recited three chapters of the Gita."
+     "detail": "Saints lit a lamp before a tulsi mancha, and Vande Mataram and Krishna naam sankirtan followed. RSS Dakshin Banga prant sah sampark pramukh Litan Adhikari spoke on the Sangh centenary, Panch Parivartan and what Hindus should do now. Attendees recited three chapters of the Gita.",
+     "title_bn": "সঙ্ঘ শতবর্ষ উপলক্ষে হিন্দু সম্মেলন, উত্তর দমদম",
+     "org_bn": "অন্যান্য: সনাতনী হিন্দু ধর্ম সমিতি (সঙ্ঘের শতবর্ষ অনুষ্ঠান)",
+     "type_bn": "সম্মেলন",
+     "where_bn": "বিরাটি, উত্তর দমদম, ব্যারাকপুর জেলা, পশ্চিমবঙ্গ",
+     "when_bn": "১৮ জানুয়ারি",
+     "detail_bn": "সাধুসন্তরা তুলসীমঞ্চের সামনে প্রদীপ প্রজ্বলন করেন, তার পর বন্দে মাতরম ও কৃষ্ণনাম সংকীর্তন হয়। আরএসএস দক্ষিণবঙ্গ প্রান্ত সহ সম্পর্ক প্রমুখ লিটন অধিকারী সঙ্ঘের শতবর্ষ, পঞ্চ পরিবর্তন এবং হিন্দুদের এখন কী করণীয় সে বিষয়ে বক্তব্য রাখেন। উপস্থিতরা গীতার তিনটি অধ্যায় পাঠ করেন।"
     },
     {
      "title": "Padayatra against persecution of Hindus in Bangladesh",
@@ -7606,7 +11393,13 @@ window.HINDUTVA = {
      "where": "Kolkata (Mayo Road to Nehru statue, Chowringhee)",
      "when": "27 December",
      "page": 25,
-     "detail": "The march ran from the Gandhi statue on Mayo Road to the Nehru statue at Chowringhee. It protested the interim Bangladesh government's halting of Victory Day observance and the killings of Hindus there."
+     "detail": "The march ran from the Gandhi statue on Mayo Road to the Nehru statue at Chowringhee. It protested the interim Bangladesh government's halting of Victory Day observance and the killings of Hindus there.",
+     "title_bn": "বাংলাদেশে হিন্দুদের উপর নির্যাতনের প্রতিবাদে পদযাত্রা",
+     "org_bn": "অন্যান্য: বাংলাদেশ কমিউনিটি ইন ইন্ডিয়া",
+     "type_bn": "মিছিল/শোভাযাত্রা",
+     "where_bn": "কলকাতা (মেয়ো রোড থেকে চৌরঙ্গির নেহরু মূর্তি)",
+     "when_bn": "২৭ ডিসেম্বর",
+     "detail_bn": "মিছিলটি মেয়ো রোডে গান্ধী মূর্তি থেকে চৌরঙ্গীতে নেহরু মূর্তি পর্যন্ত গিয়েছিল। বাংলাদেশের অন্তর্বর্তী সরকারের বিজয় দিবস পালন বন্ধ করা এবং সেখানে হিন্দুদের হত্যার প্রতিবাদে এই মিছিল হয়।"
     },
     {
      "title": "Victory Day (Bijoy Divas) observance",
@@ -7615,7 +11408,13 @@ window.HINDUTVA = {
      "where": "India (Kolkata)",
      "when": "16 December",
      "page": 25,
-     "detail": "Observed to commemorate the 1971 surrender of Pakistan, in protest at the Yunus-led interim government's stopping of the commemoration in Bangladesh."
+     "detail": "Observed to commemorate the 1971 surrender of Pakistan, in protest at the Yunus-led interim government's stopping of the commemoration in Bangladesh.",
+     "title_bn": "বিজয় দিবস পালন",
+     "org_bn": "অন্যান্য: বাংলাদেশ কমিউনিটি ইন ইন্ডিয়া",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "ভারত (কলকাতা)",
+     "when_bn": "১৬ ডিসেম্বর",
+     "detail_bn": "১৯৭১ সালে পাকিস্তানের আত্মসমর্পণ স্মরণে পালিত হয়, ইউনূস-নেতৃত্বাধীন অন্তর্বর্তী সরকার বাংলাদেশে এই স্মরণানুষ্ঠান বন্ধ করে দেওয়ার প্রতিবাদে।"
     },
     {
      "title": "Winter clothing distribution by Swami Vivekananda Seva Sanstha",
@@ -7624,7 +11423,13 @@ window.HINDUTVA = {
      "where": "Narendrapur, South 24 Parganas",
      "when": "12 January",
      "page": 25,
-     "detail": "Shawls and blankets were given to destitute women at the Kirtaniya Khata Dasi sevashram. Mithu Chakraborty, secretary of the Sanstha, handed them out."
+     "detail": "Shawls and blankets were given to destitute women at the Kirtaniya Khata Dasi sevashram. Mithu Chakraborty, secretary of the Sanstha, handed them out.",
+     "title_bn": "স্বামী বিবেকানন্দ সেবা সংস্থার শীতবস্ত্র বিতরণ",
+     "org_bn": "অন্যান্য: স্বামী বিবেকানন্দ সেবা সংস্থা",
+     "type_bn": "সেবা/ত্রাণ",
+     "where_bn": "নরেন্দ্রপুর, দক্ষিণ ২৪ পরগনা",
+     "when_bn": "১২ জানুয়ারি",
+     "detail_bn": "কীর্তনীয়া খাতা দাসী সেবাশ্রমে নিঃস্ব মহিলাদের শাল ও কম্বল দেওয়া হয়। সংস্থার সম্পাদক মিঠু চক্রবর্তী তা বিতরণ করেন।"
     },
     {
      "title": "Blood donation and free health check-up camp",
@@ -7633,7 +11438,13 @@ window.HINDUTVA = {
      "where": "Beleghata Rotary Club, Kolkata",
      "when": "11 January",
      "page": 30,
-     "detail": "Organised by Beleghata Bhagini Nivedita Seva Bharati, with 50 donors. Free homeopathy, eye check-up and ECG services were offered. Kolkata Mahanagar karyavah Bibhas Majumdar, VHP (Dakshin Banga) working president Ajay Goel and others attended."
+     "detail": "Organised by Beleghata Bhagini Nivedita Seva Bharati, with 50 donors. Free homeopathy, eye check-up and ECG services were offered. Kolkata Mahanagar karyavah Bibhas Majumdar, VHP (Dakshin Banga) working president Ajay Goel and others attended.",
+     "title_bn": "রক্তদান ও বিনামূল্যে স্বাস্থ্য পরীক্ষা শিবির",
+     "org_bn": "সেবা ভারতী",
+     "type_bn": "সেবা/ত্রাণ",
+     "where_bn": "বেলেঘাটা রোটারি ক্লাব, কলকাতা",
+     "when_bn": "১১ জানুয়ারি",
+     "detail_bn": "বেলেঘাটা ভগিনী নিবেদিতা সেবা ভারতীর আয়োজনে, ৫০ জন রক্তদাতা সহ। বিনামূল্যে হোমিওপ্যাথি, চোখ পরীক্ষা ও ইসিজি পরিষেবা দেওয়া হয়। কলকাতা মহানগর কার্যবাহ বিভাস মজুমদার, বিশ্ব হিন্দু পরিষদ (দক্ষিণবঙ্গ) কার্যকরী সভাপতি অজয় গোয়েল ও অন্যরা উপস্থিত ছিলেন।"
     },
     {
      "title": "Bangiya Hindu Sammelan (Barasat area)",
@@ -7642,7 +11453,13 @@ window.HINDUTVA = {
      "where": "Barasat, North 24 Parganas",
      "when": "",
      "page": 30,
-     "detail": "Bharat Sevashram Sangha monks, RSS Barasat jela sanghchalak Sukumar Nath and Hindu Jagaran Manch organising secretary Tapas Barik attended."
+     "detail": "Bharat Sevashram Sangha monks, RSS Barasat jela sanghchalak Sukumar Nath and Hindu Jagaran Manch organising secretary Tapas Barik attended.",
+     "title_bn": "বঙ্গীয় হিন্দু সম্মেলন (বারাসত এলাকা)",
+     "org_bn": "হিন্দু জাগরণ মঞ্চ",
+     "type_bn": "সম্মেলন",
+     "where_bn": "বারাসাত, উত্তর ২৪ পরগনা",
+     "when_bn": "",
+     "detail_bn": "ভারত সেবাশ্রম সঙ্ঘের সন্ন্যাসীরা, আরএসএসের বারাসাত জেলা সঙ্ঘচালক সুকুমার নাথ ও হিন্দু জাগরণ মঞ্চের সংগঠন সম্পাদক তপস বারিক উপস্থিত ছিলেন।"
     }
    ],
    "narratives": [
@@ -7651,65 +11468,94 @@ window.HINDUTVA = {
      "target": "TMC government and the Chief Minister",
      "claim": "The TMC regime has brought back 'matsyanyaya' (anarchy), eclipsing even the Left's red terror. It loots central funds, attacks Hindus through its 'milch cows' and incites jihadis against SIR.",
      "heading": "এই নৈরাজ্যের অবসান কবে?",
-     "page": 5
+     "page": 5,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "তৃণমূল সরকার ও মুখ্যমন্ত্রী",
+     "claim_bn": "তৃণমূলের শাসনে 'মাৎস্যন্যায়' ফিরে এসেছে, যা বামপন্থীদের লাল সন্ত্রাসকেও ছাপিয়ে গেছে। তারা কেন্দ্রীয় তহবিল লুট করে, তাদের 'দুধেল গাই'দের মাধ্যমে হিন্দুদের উপর আক্রমণ চালায় এবং এসআইআরের বিরুদ্ধে জেহাদিদের উসকানি দেয়।"
     },
     {
      "theme": "West Bengal elections",
      "target": "Mamata Banerjee / TMC",
      "claim": "The Chief Minister opposes SIR because removing illegal and fake voters threatens TMC's repeated election wins. The editorial says polls under her rule would be a farce.",
      "heading": "এই নৈরাজ্যের অবসান কবে?",
-     "page": 5
+     "page": 5,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "মমতা বন্দ্যোপাধ্যায় / তৃণমূল",
+     "claim_bn": "মুখ্যমন্ত্রী এসআইআরের বিরোধিতা করছেন কারণ অবৈধ ও ভুয়ো ভোটার বাদ গেলে তৃণমূলের বারবার নির্বাচনী জয় বিপন্ন হবে। সম্পাদকীয়র মতে, তাঁর শাসনে নির্বাচন হবে প্রহসন।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Communist (Left Front) rule",
      "claim": "The 34-year Communist rule began the anarchy in Bengal, and the present Chief Minister is called the Left's 'best student'.",
      "heading": "এই নৈরাজ্যের অবসান কবে?",
-     "page": 5
+     "page": 5,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "কমিউনিস্ট (বামফ্রন্ট) শাসন",
+     "claim_bn": "৩৪ বছরের কমিউনিস্ট শাসনেই বাংলায় অরাজকতার সূচনা হয়েছিল, আর বর্তমান মুখ্যমন্ত্রীকে বামপন্থীদের 'সেরা ছাত্র' বলা হয়েছে।"
     },
     {
      "theme": "Bangladesh & Hindu persecution",
      "target": "Bangladeshi jihadis and the Yunus interim government",
      "claim": "A series of killings, burnings and sexual violence against Hindus in Bangladesh, including Dipu Chandra Das, Amrit Mondal and Khokon Chandra Das, is presented as a campaign to terrorise Hindus before the February election.",
      "heading": "কতদিন পর্যন্ত মুখ লুকিয়ে থাকবে কংগ্রেস-সহ সেকু-মাকুরা?",
-     "page": 9
+     "page": 9,
+     "theme_bn": "বাংলাদেশ ও হিন্দু নির্যাতন",
+     "target_bn": "বাংলাদেশের জিহাদিরা ও ইউনূসের অন্তর্বর্তী সরকার",
+     "claim_bn": "বাংলাদেশে দীপু চন্দ্র দাস, অমৃত মণ্ডল ও খোকন চন্দ্র দাস-সহ হিন্দুদের উপর একের পর এক খুন, অগ্নিসংযোগ ও যৌন হিংসাকে ফেব্রুয়ারির নির্বাচনের আগে হিন্দুদের আতঙ্কিত করার অভিযান হিসেবে তুলে ধরা হয়েছে।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Congress and 'secular' leaders",
      "claim": "Congress and the 'sickular-maoists' stay silent on Hindu persecution in Bangladesh and flee from journalists' questions. The paper cites Jairam Ramesh and K Venugopal walking away and Congress leaders criticising the Supreme Court's refusal of bail to Umar Khalid and Sharjeel Imam.",
      "heading": "কতদিন পর্যন্ত মুখ লুকিয়ে থাকবে কংগ্রেস-সহ সেকু-মাকুরা?",
-     "page": 9
+     "page": 9,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "কংগ্রেস ও 'সেকুলার' নেতারা",
+     "claim_bn": "কংগ্রেস ও 'সিকুলার-মাওবাদীরা' বাংলাদেশে হিন্দু নির্যাতন নিয়ে নীরব থাকে এবং সাংবাদিকদের প্রশ্ন থেকে পালিয়ে যায়। পত্রিকাটি জয়রাম রমেশ ও কে. venugopal-এর হেঁটে চলে যাওয়ার কথা এবং উমর খালিদ ও শার্জিল ইমামের জামিন সুপ্রিম কোর্টের খারিজ করা নিয়ে কংগ্রেস নেতাদের সমালোচনার উল্লেখ করেছে।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Communists / CPIM and Jyoti Basu",
      "claim": "Communists betrayed Bengali Hindu refugees by blocking their Andaman resettlement and later, under Jyoti Basu, starving thousands of children in the Marichjhapi massacre.",
      "heading": "কমিউনিস্টদের বিশ্বাসঘাতকতা মরিচঝাঁপির গণহত্যা",
-     "page": 35
+     "page": 35,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "কমিউনিস্ট / সিপিআই(এম) ও জ্যোতি বসু",
+     "claim_bn": "কমিউনিস্টরা বাঙালি হিন্দু উদ্বাস্তুদের আন্দামানে পুনর্বাসন আটকে দিয়ে তাঁদের সঙ্গে বিশ্বাসঘাতকতা করেছে এবং পরে জ্যোতি বসুর আমলে মরিচঝাঁপি গণহত্যায় হাজার হাজার শিশুকে অনাহারে রেখেছে।"
     },
     {
      "theme": "infiltration/demography",
      "target": "TMC government and infiltrators",
      "claim": "The contents list carries pieces on infiltration, anarchy and constitutional crisis in West Bengal, with SIR portrayed as a constitutional safeguard TMC resists.",
      "heading": "পশ্চিমবঙ্গ জ্বলছে : অনুপ্রবেশ, অরাজকতা ও সাংবিধানিক সংকট",
-     "page": 3
+     "page": 3,
+     "theme_bn": "অনুপ্রবেশ/জনবিন্যাস",
+     "target_bn": "তৃণমূল সরকার ও অনুপ্রবেশকারী",
+     "claim_bn": "সূচিপত্রে পশ্চিমবঙ্গে অনুপ্রবেশ, অরাজকতা ও সাংবিধানিক সংকট নিয়ে লেখা রয়েছে, যেখানে এসআইআর-কে একটি সাংবিধানিক রক্ষাকবচ হিসেবে দেখানো হয়েছে, যার বিরোধিতা করছে তৃণমূল।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Communists",
      "claim": "The contents list carries a piece claiming people have caught on to Communist hypocrisy.",
      "heading": "কমিউনিস্টদের ভণ্ডামি ধরে ফেলেছে মানুষ",
-     "page": 3
+     "page": 3,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "কমিউনিস্টরা",
+     "claim_bn": "সূচিপত্রে একটি লেখা রয়েছে, যাতে দাবি করা হয়েছে মানুষ কমিউনিস্টদের ভণ্ডামি ধরে ফেলেছে।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "Hindu society",
      "claim": "Sangh centenary Hindu sammelans push Panch Parivartan and a call on Hindus to act in the present situation. Participants recite the Gita and the events are tied to the Sangh centenary.",
      "heading": "সঙ্ঘ শতবর্ষ উপলক্ষ্যে উত্তর দমদম নগরে হিন্দু সম্মেলন",
-     "page": 23
+     "page": 23,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "হিন্দু সমাজ",
+     "claim_bn": "সঙ্ঘের শতবর্ষ উপলক্ষে হিন্দু সম্মেলনগুলিতে পঞ্চ পরিবর্তনের উপর জোর দেওয়া হয় এবং বর্তমান পরিস্থিতিতে হিন্দুদের পদক্ষেপ করার আহ্বান জানানো হয়। অংশগ্রহণকারীরা গীতা পাঠ করেন এবং অনুষ্ঠানগুলি সঙ্ঘের শতবর্ষের সঙ্গে যুক্ত।"
     }
-   ]
+   ],
+   "label_bn": "",
+   "summary_bn": "২ ফেব্রুয়ারির সংখ্যাটি পশ্চিমবঙ্গের আসন্ন বিধানসভা নির্বাচন এবং ভোটার তালিকার বিশেষ নিবিড় সংশোধন (এসআইআর) কেন্দ্র করে সাজানো। এতে তৃণমূল রাজ্য সরকারকে আইনশৃঙ্খলাহীন হিসেবে এবং অবৈধ ও ভুয়ো ভোটারদের রক্ষা করতে এসআইআর-এ বাধা দেওয়ার অভিযোগে চিত্রিত করা হয়েছে। মরিচঝাঁপি প্রসঙ্গ সহ কমিউনিস্ট ও বামেদের বিরুদ্ধে এবং বাংলাদেশ নিয়ে নীরব থাকার জন্য কংগ্রেস ও 'ধর্মনিরপেক্ষ' দলগুলির বিরুদ্ধে ধারাবাহিক আক্রমণ রয়েছে। বাংলাদেশে হিন্দুদের উপর আক্রমণের বিস্তৃত কভারেজ রয়েছে। সাংগঠনিক পাতায় সঙ্ঘের শতবর্ষের হিন্দু সম্মেলন ও সেবা ভারতীর সেবাকাজের খবর দেওয়া হয়েছে।"
   },
   {
    "issue": "20260126",
@@ -7725,7 +11571,13 @@ window.HINDUTVA = {
      "where": "Simla Byayam Samiti, Simulia, North Kolkata",
      "when": "9 to 13 January",
      "page": 27,
-     "detail": "The five-day fair was inaugurated by Ramakrishna Math and Mission monk Swami Bimalatmananda. It had talks on Swamiji, music, drama and daily recitals of Vande Mataram for its 150th anniversary. Governor Dr C V Ananda Bose was chief guest on the last day, and RSS functionaries visited."
+     "detail": "The five-day fair was inaugurated by Ramakrishna Math and Mission monk Swami Bimalatmananda. It had talks on Swamiji, music, drama and daily recitals of Vande Mataram for its 150th anniversary. Governor Dr C V Ananda Bose was chief guest on the last day, and RSS functionaries visited.",
+     "title_bn": "স্বামী বিবেকানন্দ মিলন মেলা (৫ দিনের)",
+     "org_bn": "অন্যান্য: বিবেকানন্দ পাঠচক্র ও সংস্কার ভারতী পশ্চিমবঙ্গ",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "সিমলা ব্যায়াম সমিতি, সিমুলিয়া, উত্তর কলকাতা",
+     "when_bn": "৯ থেকে ১৩ জানুয়ারি",
+     "detail_bn": "পাঁচদিনের মেলার উদ্বোধন করেন রামকৃষ্ণ মঠ ও মিশনের সন্ন্যাসী স্বামী বিমলাত্মানন্দ। মেলায় স্বামীজিকে নিয়ে আলোচনা, সঙ্গীত, নাটক এবং বন্দে মাতরমের ১৫০ বছর উপলক্ষে প্রতিদিন বন্দে মাতরম পাঠ হয়। শেষ দিনে রাজ্যপাল ডঃ সি ভি আনন্দ বোস ছিলেন মুখ্য অতিথি, আর আরএসএসের কার্যকর্তারা মেলা পরিদর্শন করেন।"
     },
     {
      "title": "Handwriting competition for Swamiji's birth anniversary",
@@ -7734,7 +11586,13 @@ window.HINDUTVA = {
      "where": "Atpur, Hooghly",
      "when": "12 January",
      "page": 27,
-     "detail": "School students wrote Swamiji's messages, the Swadesh Mantra and the Chicago speech. They were then quizzed orally on what they wrote."
+     "detail": "School students wrote Swamiji's messages, the Swadesh Mantra and the Chicago speech. They were then quizzed orally on what they wrote.",
+     "title_bn": "স্বামীজির জন্মজয়ন্তী উপলক্ষে হাতের লেখা প্রতিযোগিতা",
+     "org_bn": "অন্যান্য: স্থানীয় বিবেকানন্দ-কেন্দ্রিক গোষ্ঠী",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "আতপুর, হুগলি",
+     "when_bn": "১২ জানুয়ারি",
+     "detail_bn": "স্কুলপড়ুয়ারা স্বামীজির বাণী, স্বদেশ মন্ত্র ও শিকাগো বক্তৃতা লিখেছিল। পরে যা লিখেছিল, সে বিষয়ে তাদের মৌখিক প্রশ্ন করা হয়।"
     },
     {
      "title": "Wall magazine competition and prize distribution (Swami Vivekananda programme)",
@@ -7743,7 +11601,13 @@ window.HINDUTVA = {
      "where": "Kolkata (Dakshineswar Nagar, Madhusudan Nagar, Netajinagar karyasthans)",
      "when": "",
      "page": 29,
-     "detail": "Colleges competed in a wall magazine contest, with prizes and certificates given. The event included a Swamiji Swadesh Mantra recitation, a Bengali publications book exhibition and a youth discussion."
+     "detail": "Colleges competed in a wall magazine contest, with prizes and certificates given. The event included a Swamiji Swadesh Mantra recitation, a Bengali publications book exhibition and a youth discussion.",
+     "title_bn": "দেয়ালপত্রিকা প্রতিযোগিতা ও পুরস্কার বিতরণ (স্বামী বিবেকানন্দ অনুষ্ঠান)",
+     "org_bn": "অন্যান্য: সংস্কার ভারতী / বিবেকানন্দ-সংক্রান্ত গোষ্ঠী",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "কলকাতা (দক্ষিণেশ্বর নগর, মধুসূদন নগর, নেতাজিনগর কার্যস্থান)",
+     "when_bn": "",
+     "detail_bn": "কলেজগুলির মধ্যে দেওয়াল পত্রিকা প্রতিযোগিতা অনুষ্ঠিত হয়, পুরস্কার ও শংসাপত্র দেওয়া হয়। অনুষ্ঠানে স্বামীজির স্বদেশ মন্ত্র পাঠ, বাংলা প্রকাশনার বইমেলা ও যুব আলোচনাসভা ছিল।"
     },
     {
      "title": "Srimad Bhagavad Gita Jayanti, World Peace Yajna and Hindu Sammelan",
@@ -7752,7 +11616,13 @@ window.HINDUTVA = {
      "where": "Rajdanga Narkel Bagan ground, Kasba, Kolkata",
      "when": "10-11 January",
      "page": 29,
-     "detail": "The two-day event began with a nagar sankirtan procession and installation of the deity. It had a health check-up camp with Lions Club, an alpana competition, discourses by monks of Bharat Sevashram Sangha and other orders, a Gita quiz and a Gita recital."
+     "detail": "The two-day event began with a nagar sankirtan procession and installation of the deity. It had a health check-up camp with Lions Club, an alpana competition, discourses by monks of Bharat Sevashram Sangha and other orders, a Gita quiz and a Gita recital.",
+     "title_bn": "শ্রীমদ্ভগবদ্গীতা জয়ন্তী, বিশ্বশান্তি যজ্ঞ ও হিন্দু সম্মেলন",
+     "org_bn": "অন্যান্য: শ্রীমদ্ভগবদ্গীতা সেবা সমিতি",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "রাজডাঙা নারকেল বাগান মাঠ, কসবা, কলকাতা",
+     "when_bn": "১০-১১ জানুয়ারি",
+     "detail_bn": "দু’দিনের অনুষ্ঠানের সূচনা হয় নগর সংকীর্তন শোভাযাত্রা ও বিগ্রহ প্রতিষ্ঠার মাধ্যমে। অনুষ্ঠানে ছিল লায়ন্স ক্লাবের সহযোগিতায় স্বাস্থ্য পরীক্ষা শিবির, আলপনা প্রতিযোগিতা, ভারত সেবাশ্রম সংঘ ও অন্যান্য সম্প্রদায়ের সন্ন্যাসীদের ধর্মালোচনা, গীতা কুইজ এবং গীতা পাঠ।"
     },
     {
      "title": "Blood donation camp on Vivekananda's birthday",
@@ -7761,7 +11631,13 @@ window.HINDUTVA = {
      "where": "Maheshwari Yuva Bhavan, Kolkata",
      "when": "12 January",
      "page": 30,
-     "detail": "110 people donated blood. RSS Purva Kshetra Sampark Pramukh Bidyut Mukhopadhyay spoke at the opening on civic duty and a developed India by 2047."
+     "detail": "110 people donated blood. RSS Purva Kshetra Sampark Pramukh Bidyut Mukhopadhyay spoke at the opening on civic duty and a developed India by 2047.",
+     "title_bn": "বিবেকানন্দের জন্মদিনে রক্তদান শিবির",
+     "org_bn": "অন্যান্য: রাম-শরৎ কোঠারি স্মৃতি সঙ্ঘ (আরএসএস-এর পূর্ব ক্ষেত্র সম্পর্ক প্রমুখ উপস্থিত ছিলেন)",
+     "type_bn": "সেবা/ত্রাণ",
+     "where_bn": "মাহেশ্বরী যুব ভবন, কলকাতা",
+     "when_bn": "১২ জানুয়ারি",
+     "detail_bn": "১১০ জন রক্তদান করেন। আরএসএস পূর্ব ক্ষেত্র সম্পর্ক প্রমুখ বিদ্যুৎ মুখোপাধ্যায় উদ্বোধনী অনুষ্ঠানে নাগরিক কর্তব্য ও ২০৪৭ সালের মধ্যে উন্নত ভারত নিয়ে বক্তব্য রাখেন।"
     },
     {
      "title": "Youth Day celebration with library inauguration, blood camp and relief distribution",
@@ -7770,7 +11646,13 @@ window.HINDUTVA = {
      "where": "Mathurabati village, Hooghly",
      "when": "12 January",
      "page": 30,
-     "detail": "A Vivekananda library was opened with Kalyani Memorial Trust. The day also had a blood donation camp, distribution of 100 mosquito nets and 10 walking sticks, and an evening cultural programme."
+     "detail": "A Vivekananda library was opened with Kalyani Memorial Trust. The day also had a blood donation camp, distribution of 100 mosquito nets and 10 walking sticks, and an evening cultural programme.",
+     "title_bn": "গ্রন্থাগার উদ্বোধন, রক্তদান শিবির ও ত্রাণ বিতরণ সহ যুব দিবস উদ্যাপন",
+     "org_bn": "অন্যান্য: বিবেকানন্দ সেবা সমিতি",
+     "type_bn": "সেবা/ত্রাণ",
+     "where_bn": "মথুরাবাটি গ্রাম, হুগলি",
+     "when_bn": "১২ জানুয়ারি",
+     "detail_bn": "কল্যাণী মেমোরিয়াল ট্রাস্টের সহযোগিতায় একটি বিবেকানন্দ গ্রন্থাগারের উদ্বোধন হয়েছে। সেদিন রক্তদান শিবির, ১০০টি মশারি ও ১০টি লাঠি বিতরণ এবং সন্ধ্যায় সাংস্কৃতিক অনুষ্ঠানও হয়েছে।"
     },
     {
      "title": "Constitution Day special issue / Republic Day messaging",
@@ -7779,7 +11661,13 @@ window.HINDUTVA = {
      "where": "West Bengal",
      "when": "26 January 2026",
      "page": 15,
-     "detail": "The issue presents civic duty (nagarik kartavya), one of the Sangh's Panch Parivartan in its centenary year, as the Sangh's idea reflected in Article 51A fundamental duties."
+     "detail": "The issue presents civic duty (nagarik kartavya), one of the Sangh's Panch Parivartan in its centenary year, as the Sangh's idea reflected in Article 51A fundamental duties.",
+     "title_bn": "সংবিধান দিবস বিশেষ সংখ্যা / প্রজাতন্ত্র দিবসের বার্তা",
+     "org_bn": "আরএসএস",
+     "type_bn": "শতবর্ষ",
+     "where_bn": "পশ্চিমবঙ্গ",
+     "when_bn": "২৬ জানুয়ারি ২০২৬",
+     "detail_bn": "সংখ্যাটিতে সঙ্ঘের শতবর্ষে পঞ্চ পরিবর্তনের অন্যতম নাগরিক কর্তব্যকে সঙ্ঘের ভাবনা হিসেবে তুলে ধরা হয়েছে, যা সংবিধানের ৫১ক অনুচ্ছেদের মৌলিক কর্তব্যে প্রতিফলিত।"
     }
    ],
    "narratives": [
@@ -7788,72 +11676,104 @@ window.HINDUTVA = {
      "target": "Congress, Nehru (criticised); Sardar Patel, K M Munshi, Rajendra Prasad (praised)",
      "claim": "Nehru pressured President Rajendra Prasad not to attend the Somnath temple consecration and had his speech removed from the official record, a sign of an anti-Bharatiya politics of vindictiveness.",
      "heading": "জয় সোমনাথ!",
-     "page": 9
+     "page": 9,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "কংগ্রেস, নেহরু (সমালোচিত); সর্দার প্যাটেল, কে. এম. মুন্সি, রাজেন্দ্র প্রসাদ (প্রশংসিত)",
+     "claim_bn": "নেহরু রাষ্ট্রপতি রাজেন্দ্র প্রসাদকে সোমনাথ মন্দিরের প্রতিষ্ঠা অনুষ্ঠানে যোগ দিতে না যাওয়ার জন্য চাপ দিয়েছিলেন এবং তাঁর ভাষণ সরকারি নথি থেকে বাদ দিইয়েছিলেন, যা ভারতীয়তাবিরোধী প্রতিহিংসার রাজনীতির লক্ষণ।"
     },
     {
      "theme": "history & icons",
      "target": "Congress, Indira Gandhi, Rajiv Gandhi",
      "claim": "Congress rule repeatedly amended the Constitution for family and vote-bank interests, and Indira Gandhi stabbed its soul by inserting 'secular' and 'socialist' through the Emergency-era 42nd Amendment.",
      "heading": "স্বতন্ত্র প্রতিষ্ঠার সংকল্প (সম্পাদকীয়)",
-     "page": 5
+     "page": 5,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "কংগ্রেস, ইন্দিরা গান্ধী, রাজীব গান্ধী",
+     "claim_bn": "কংগ্রেস শাসনে পরিবার ও ভোটব্যাংকের স্বার্থে বারবার সংবিধান সংশোধন করা হয়েছে, এবং ইন্দিরা গান্ধী জরুরি অবস্থার সময়কার ৪২তম সংশোধনীর মাধ্যমে 'ধর্মনিরপেক্ষ' ও 'সমাজতান্ত্রিক' শব্দ ঢুকিয়ে তার আত্মায় ছুরি মেরেছেন।"
     },
     {
      "theme": "Modi govt achievements",
      "target": "Modi government",
      "claim": "Since 2014 the Centre has let people know the original Constitution and is amending it to undo Congress's sins and free the country from colonial mentality.",
      "heading": "স্বতন্ত্র প্রতিষ্ঠার সংকল্প (সম্পাদকীয়)",
-     "page": 5
+     "page": 5,
+     "theme_bn": "মোদী সরকারের কৃতিত্ব",
+     "target_bn": "মোদী সরকার",
+     "claim_bn": "২০১৪ সাল থেকে কেন্দ্র মানুষকে মূল সংবিধান সম্পর্কে জানিয়েছে এবং কংগ্রেসের পাপের প্রতিকার করতে ও দেশকে ঔপনিবেশিক মানসিকতা থেকে মুক্ত করতে সংবিধান সংশোধন করছে।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "RSS / swayamsevaks",
      "claim": "The Sangh's century-old emphasis on duty alongside rights is reflected in the Constitution's fundamental duties, and civic duty is a Panch Parivartan theme for its centenary.",
      "heading": "স্বয়ংসেবকদের নাগরিক কর্তব্যই সংবিধানের মৌলিক কর্তব্য",
-     "page": 15
+     "page": 15,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "আরএসএস / স্বয়ংসেবকগণ",
+     "claim_bn": "অধিকারের পাশাপাশি কর্তব্যের উপর সংঘের শতবর্ষ ধরে চলে আসা গুরুত্ব সংবিধানের মৌলিক কর্তব্যগুলিতে প্রতিফলিত হয়েছে, এবং নাগরিক কর্তব্য সংঘের শতবর্ষের পঞ্চ পরিবর্তনের একটি বিষয়।"
     },
     {
      "theme": "history & icons",
      "target": "Congress, Indira Gandhi",
      "claim": "The 1975 Emergency killed democracy and jailed opposition leaders including Vajpayee, Advani and the RSS Sarsanghchalak Balasaheb Deoras, while the 42nd Amendment inserted 'secular' and 'socialist' into the Preamble.",
      "heading": "ভারতীয় সংবিধানের আত্মাকে ধ্বংসের প্রয়াস করেছে কংগ্রেস",
-     "page": 43
+     "page": 43,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "কংগ্রেস, ইন্দিরা গান্ধী",
+     "claim_bn": "১৯৭৫-এর জরুরি অবস্থা গণতন্ত্রকে হত্যা করেছিল এবং বাজপেয়ী, আডবাণী ও আরএসএসের সরসঙ্ঘচালক বালাসাহেব দেওরস সহ বিরোধী নেতাদের কারাগারে পাঠিয়েছিল; আর ৪২তম সংশোধনী প্রস্তাবনায় 'ধর্মনিরপেক্ষ' ও 'সমাজতান্ত্রিক' শব্দ দুটি জুড়েছিল।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "TMC state government",
      "claim": "State OBC list expansion to mostly Muslim sub-castes was struck down by the Supreme Court, and the state's DA dispute shows the court protecting employees' rights.",
      "heading": "ভারতীয় সংবিধানের আত্মাকে ধ্বংসের প্রয়াস করেছে কংগ্রেস",
-     "page": 43
+     "page": 43,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "তৃণমূল রাজ্য সরকার",
+     "claim_bn": "রাজ্যের ওবিসি তালিকায় মূলত মুসলিম উপজাতিগুলিকে যুক্ত করার সিদ্ধান্ত সুপ্রিম কোর্ট খারিজ করে দিয়েছে, আর রাজ্যের ডিএ বিতর্ক দেখাচ্ছে যে আদালত কর্মচারীদের অধিকার রক্ষা করছে।"
     },
     {
      "theme": "West Bengal elections",
      "target": "TMC ruling party; Muslim appeasement",
      "claim": "The 2026 assembly election is a vote to save Bengal and Bengalis against limitless Muslim appeasement and corruption, and parties must field honest, nationalist candidates.",
      "heading": "প্রার্থী হোক রাষ্ট্রচেতনা সম্পন্ন, সৎব্যক্তি",
-     "page": 19
+     "page": 19,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "শাসক দল তৃণমূল; মুসলিম তোষণ",
+     "claim_bn": "২০২৬ সালের বিধানসভা নির্বাচন সীমাহীন মুসলিম তোষণ ও দুর্নীতির বিরুদ্ধে বাংলা ও বাঙালিকে বাঁচানোর ভোট; দলগুলিকে সৎ, জাতীয়তাবাদী প্রার্থী দাঁড় করাতে হবে।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "TMC and its supporters",
      "claim": "Protests against SIR hearings involve road blockades, vandalism, arson and attacks on journalists while police stay silent, raising fears about the election period.",
      "heading": "আগামী সংখ্যার আকর্ষণ (SIR বিরোধিতার অজুহাতে অশান্তি)",
-     "page": 4
+     "page": 4,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "তৃণমূল ও তার সমর্থকরা",
+     "claim_bn": "এসআইআর শুনানির বিরুদ্ধে বিক্ষোভে পথ অবরোধ, ভাঙচুর, অগ্নিসংযোগ ও সাংবাদিকদের উপর হামলা চলছে, অথচ পুলিশ নীরব; নির্বাচনের সময়কাল নিয়ে আশঙ্কা বাড়ছে।"
     },
     {
      "theme": "Bangladesh & Hindu persecution",
      "target": "Bangladesh jihadis; Indian Congress supporters",
      "claim": "A jihadi attack on minority Hindus is under way in Bangladesh, and the letter writer calls for a responsible opposition leader in India.",
      "heading": "দেশে দায়িত্বশীল বিরোধী নেতার প্রয়োজন",
-     "page": 19
+     "page": 19,
+     "theme_bn": "বাংলাদেশ ও হিন্দু নির্যাতন",
+     "target_bn": "বাংলাদেশের জিহাদিরা; ভারতের কংগ্রেস সমর্থকরা",
+     "claim_bn": "বাংলাদেশে সংখ্যালঘু হিন্দুদের উপর জিহাদি আক্রমণ চলছে, এবং চিঠির লেখক ভারতে একজন দায়িত্বশীল বিরোধী দলনেতার আহ্বান জানিয়েছেন।"
     },
     {
      "theme": "Modi govt achievements",
      "target": "Bharatiya Mazdoor Sangh; Union Labour Ministry",
      "claim": "BMS's long-standing demand led to withdrawal of the '10-minute delivery' slogan and moves toward social security for gig workers.",
      "heading": "\"দশ মিনিটে ডেলিভারি\" ইতি",
-     "page": 19
+     "page": 19,
+     "theme_bn": "মোদী সরকারের কৃতিত্ব",
+     "target_bn": "ভারতীয় মজদুর সঙ্ঘ; কেন্দ্রীয় শ্রম মন্ত্রক",
+     "claim_bn": "বিএমএসের দীর্ঘদিনের দাবির ফলে '১০ মিনিটে ডেলিভারি' স্লোগান প্রত্যাহার হয়েছে এবং গিগ কর্মীদের সামাজিক সুরক্ষার দিকে পদক্ষেপ শুরু হয়েছে।"
     }
-   ]
+   ],
+   "label_bn": "",
+   "summary_bn": "এই প্রজাতন্ত্র দিবস বিশেষ সংখ্যা (২৬ জানুয়ারি ২০২৬) সংবিধানের বার্ষিকীকে ব্যবহার করে যুক্তি দিয়েছে যে কংগ্রেস বারবার সংবিধানের অপব্যবহার ও সংশোধন করেছে; উদাহরণ হিসেবে সোমনাথ মন্দিরে নেহরুর আপত্তি এবং ইন্দিরা গান্ধীর জরুরি অবস্থা ও ৪২তম সংশোধনীর কথা বলা হয়েছে। এতে মোদি সরকারকে মূল সংবিধান পুনঃপ্রতিষ্ঠা ও ঔপনিবেশিক মানসিকতার অবসানকারী হিসেবে উপস্থাপন করা হয়েছে। আরএসএসের শতবর্ষের 'নাগরিক কর্তব্য' (পঞ্চ পরিবর্তনের একটি) বিষয়টিকে সংবিধানের মৌলিক কর্তব্যে সঙ্ঘের অবদান হিসেবে তুলে ধরা হয়েছে। এছাড়া এসআইআর শুনানি নিয়ে তৃণমূল সরকার ও রাজনীতিকদের আক্রমণ করা হয়েছে এবং ২০২৬ সালের পশ্চিমবঙ্গ নির্বাচনকে মুসলিম তোষণ ও দুর্নীতি থেকে বাংলা ও বাঙালিকে বাঁচানোর ভোট হিসেবে উপস্থাপন করা হয়েছে। শেষ পাতাগুলিতে আরএসএস-সংশ্লিষ্ট বিবেকানন্দ জয়ন্তী অনুষ্ঠান, একটি হিন্দু সম্মেলন এবং সঙ্ঘের ইতিহাসের খবর রয়েছে।"
   },
   {
    "issue": "20260119",
@@ -7869,7 +11789,13 @@ window.HINDUTVA = {
      "where": "Kolkata, West Bengal",
      "when": "recent (before Jan 2026)",
      "page": 17,
-     "detail": "A centenary event at Science City auditorium where Sarsanghchalak Dr Mohan Bhagwat is reported to have said Netaji did not die in the alleged 1945 air crash."
+     "detail": "A centenary event at Science City auditorium where Sarsanghchalak Dr Mohan Bhagwat is reported to have said Netaji did not die in the alleged 1945 air crash.",
+     "title_bn": "কলকাতার সায়েন্স সিটিতে আরএসএসের শতবর্ষ উদ্যাপন",
+     "org_bn": "আরএসএস",
+     "type_bn": "শতবর্ষ",
+     "where_bn": "কলকাতা, পশ্চিমবঙ্গ",
+     "when_bn": "সাম্প্রতিক (২০২৬ সালের জানুয়ারির আগে)",
+     "detail_bn": "সায়েন্স সিটি প্রেক্ষাগৃহে একটি শতবর্ষ অনুষ্ঠান, যেখানে সরসঙ্ঘচালক ডঃ মোহন ভাগবত নাকি বলেছেন, তথাকথিত ১৯৪৫ সালের বিমান দুর্ঘটনায় নেতাজির মৃত্যু হয়নি।"
     },
     {
      "title": "Sarsanghchalak Mohan Bhagwat's Siliguri centenary programmes",
@@ -7878,7 +11804,13 @@ window.HINDUTVA = {
      "where": "Siliguri, West Bengal",
      "when": "18 December",
      "page": 43,
-     "detail": "Bhagwat attended two special events marking the Sangh's centenary and answered participants' questions, including on the Sangh's work abroad."
+     "detail": "Bhagwat attended two special events marking the Sangh's centenary and answered participants' questions, including on the Sangh's work abroad.",
+     "title_bn": "সরসঙ্ঘচালক মোহন ভাগবতের শিলিগুড়িতে শতবর্ষ অনুষ্ঠান",
+     "org_bn": "আরএসএস",
+     "type_bn": "শতবর্ষ",
+     "where_bn": "শিলিগুড়ি, পশ্চিমবঙ্গ",
+     "when_bn": "১৮ ডিসেম্বর",
+     "detail_bn": "ভাগবত সঙ্ঘের শতবর্ষ উপলক্ষে দুটি বিশেষ অনুষ্ঠানে উপস্থিত ছিলেন এবং বিদেশে সঙ্ঘের কাজ-সহ অংশগ্রহণকারীদের নানা প্রশ্নের উত্তর দিয়েছেন।"
     },
     {
      "title": "24th Anubhav Darshan programme",
@@ -7887,7 +11819,13 @@ window.HINDUTVA = {
      "where": "Sargachhi Ramakrishna Mission Ashram and Beldanga Bharat Sevashram Sangha, Murshidabad",
      "when": "27-30 December",
      "page": 27,
-     "detail": "Attended by 510 representatives, with RSS Sarkaryavah Ramdatt Chakradhar and monks speaking. Four books were released."
+     "detail": "Attended by 510 representatives, with RSS Sarkaryavah Ramdatt Chakradhar and monks speaking. Four books were released.",
+     "title_bn": "২৪তম অনুভব দর্শন কর্মসূচি",
+     "org_bn": "আরএসএস",
+     "type_bn": "সম্মেলন",
+     "where_bn": "সারগাছি রামকৃষ্ণ মিশন আশ্রম ও বেলডাঙা ভারত সেবাশ্রম সঙ্ঘ, মুর্শিদাবাদ",
+     "when_bn": "২৭–৩০ ডিসেম্বর",
+     "detail_bn": "৫১০ জন প্রতিনিধি উপস্থিত ছিলেন; আরএসএস সরকার্যবাহ রামদত্ত চক্রধর ও সন্ন্যাসীরা বক্তব্য রাখেন। চারটি বই প্রকাশিত হয়।"
     },
     {
      "title": "Hindu Sammelan at Hatiara Saraswati Shishu Mandir",
@@ -7896,7 +11834,13 @@ window.HINDUTVA = {
      "where": "Hatiara, Baguiati, Kolkata",
      "when": "1 January",
      "page": 27,
-     "detail": "Hundreds of people attended a Hindu conference with a religious atmosphere. A research-based book was released and handed to Prant Prachar Pramukh Biplab Roy."
+     "detail": "Hundreds of people attended a Hindu conference with a religious atmosphere. A research-based book was released and handed to Prant Prachar Pramukh Biplab Roy.",
+     "title_bn": "হাতিয়ারা সরস্বতী শিশু মন্দিরে হিন্দু সম্মেলন",
+     "org_bn": "আরএসএস",
+     "type_bn": "সম্মেলন",
+     "where_bn": "হাতিয়ারা, বাগুইআটি, কলকাতা",
+     "when_bn": "১ জানুয়ারি",
+     "detail_bn": "কয়েকশো মানুষ ধর্মীয় পরিবেশে একটি হিন্দু সম্মেলনে উপস্থিত ছিলেন। একটি গবেষণাভিত্তিক বই প্রকাশিত হয় এবং প্রান্ত প্রচার প্রমুখ বিপ্লব রায়ের হাতে তুলে দেওয়া হয়।"
     },
     {
      "title": "ABRSM teachers' mega rally and sammelan",
@@ -7905,7 +11849,13 @@ window.HINDUTVA = {
      "where": "Kolkata (College Square to Rani Rashmoni Road)",
      "when": "4 January",
      "page": 29,
-     "detail": "Teachers and staff marched for education free of party politics, corruption and appeasement. Speakers criticised the state government over DA deprivation and teacher-recruitment corruption."
+     "detail": "Teachers and staff marched for education free of party politics, corruption and appeasement. Speakers criticised the state government over DA deprivation and teacher-recruitment corruption.",
+     "title_bn": "এবিআরএসএম শিক্ষকদের মহা র‍্যালি ও সম্মেলন",
+     "org_bn": "অন্যান্য: অখিল ভারতীয় রাষ্ট্রীয় শৈক্ষিক মহাসংঘ (এবিআরএসএম)",
+     "type_bn": "মিছিল/শোভাযাত্রা",
+     "where_bn": "কলকাতা (কলেজ স্কোয়্যার থেকে রানি রাসমণি রোড)",
+     "when_bn": "৪ জানুয়ারি",
+     "detail_bn": "দলীয় রাজনীতি, দুর্নীতি ও তোষণমুক্ত শিক্ষার দাবিতে শিক্ষক ও শিক্ষাকর্মীরা মিছিল করেন। বক্তারা মহার্ঘ ভাতা থেকে বঞ্চনা ও শিক্ষক নিয়োগে দুর্নীতির জন্য রাজ্য সরকারের সমালোচনা করেন।"
     },
     {
      "title": "Blanket distribution to tribal community",
@@ -7914,7 +11864,13 @@ window.HINDUTVA = {
      "where": "Saraswati Ashram (West Bengal)",
      "when": "2 January",
      "page": 29,
-     "detail": "Blankets were given to 42 people from the tribal (janajati) community at a programme honouring Ramakrishna, Sarada Devi and Vivekananda."
+     "detail": "Blankets were given to 42 people from the tribal (janajati) community at a programme honouring Ramakrishna, Sarada Devi and Vivekananda.",
+     "title_bn": "জনজাতি সম্প্রদায়ের মধ্যে কম্বল বিতরণ",
+     "org_bn": "অন্যান্য: দেশের মাটি কল্যাণ মন্দির",
+     "type_bn": "সেবা/ত্রাণ",
+     "where_bn": "সরস্বতী আশ্রম (পশ্চিমবঙ্গ)",
+     "when_bn": "২ জানুয়ারি",
+     "detail_bn": "রামকৃষ্ণ, সারদা দেবী ও বিবেকানন্দকে সম্মান জানানোর এক অনুষ্ঠানে জনজাতি সম্প্রদায়ের ৪২ জনকে কম্বল দেওয়া হয়।"
     },
     {
      "title": "National Youth Conference marking 150 years of Vande Mataram",
@@ -7923,7 +11879,13 @@ window.HINDUTVA = {
      "where": "Mahajati Sadan, Kolkata",
      "when": "22 December",
      "page": 30,
-     "detail": "Held for the Vande Mataram 150th year and the birth centenary of Ma Namita. It included awards, a felicitation of Everest climber Rumpa Das and patriotic songs."
+     "detail": "Held for the Vande Mataram 150th year and the birth centenary of Ma Namita. It included awards, a felicitation of Everest climber Rumpa Das and patriotic songs.",
+     "title_bn": "বন্দে মাতরমের ১৫০ বছর উপলক্ষে জাতীয় যুব সম্মেলন",
+     "org_bn": "অন্যান্য: ভারতের অধ্যাত্ম সমাজ",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "মহাজাতি সদন, কলকাতা",
+     "when_bn": "২২ ডিসেম্বর",
+     "detail_bn": "বন্দে মাতরমের ১৫০তম বর্ষ এবং মা নমিতার জন্মশতবর্ষ উপলক্ষে অনুষ্ঠিত। অনুষ্ঠানে পুরস্কার প্রদান, এভারেস্ট আরোহী রুম্পা দাসের সংবর্ধনা ও দেশাত্মবোধক গান ছিল।"
     },
     {
      "title": "Conference on translation tradition in Sanskrit literature",
@@ -7932,7 +11894,13 @@ window.HINDUTVA = {
      "where": "Malda (Gour Banga University)",
      "when": "7 January",
      "page": 30,
-     "detail": "A one-day conference with 30 papers and over 100 students and researchers."
+     "detail": "A one-day conference with 30 papers and over 100 students and researchers.",
+     "title_bn": "সংস্কৃত সাহিত্যে অনুবাদের ঐতিহ্য বিষয়ক সম্মেলন",
+     "org_bn": "অন্যান্য: গৌড়বঙ্গ বিশ্ববিদ্যালয়ের সংস্কৃত বিভাগ ও সাহিত্য অকাদেমি",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "মালদা (গৌড়বঙ্গ বিশ্ববিদ্যালয়)",
+     "when_bn": "৭ জানুয়ারি",
+     "detail_bn": "৩০টি গবেষণাপত্র এবং ১০০-র বেশি ছাত্রছাত্রী ও গবেষকের অংশগ্রহণে একদিনের সম্মেলন।"
     },
     {
      "title": "Hindu Swayamsevak Sangh overseas shakhas and Sangh Shiksha Varg",
@@ -7941,7 +11909,13 @@ window.HINDUTVA = {
      "where": "UK and other countries",
      "when": "2025 (50 years of SSV)",
      "page": 45,
-     "detail": "HSS UK runs over 100 weekly shakhas with about 2,000 members. The article marks 50 years of the Sangh Shiksha Varg leadership camp, with a record 605 participants and 139 organisers."
+     "detail": "HSS UK runs over 100 weekly shakhas with about 2,000 members. The article marks 50 years of the Sangh Shiksha Varg leadership camp, with a record 605 participants and 139 organisers.",
+     "title_bn": "বিদেশে হিন্দু স্বয়ংসেবক সংঘের শাখা ও সংঘ শিক্ষা বর্গ",
+     "org_bn": "অন্যান্য: হিন্দু স্বয়ংসেবক সঙ্ঘ (এইচএসএস)",
+     "type_bn": "শাখা/প্রশিক্ষণ শিবির",
+     "where_bn": "ব্রিটেন ও অন্যান্য দেশ",
+     "when_bn": "২০২৫ (এসএসভি-র ৫০ বছর)",
+     "detail_bn": "এইচএসএস ইউকে-র একশোর বেশি সাপ্তাহিক শাখা চলে, সদস্যসংখ্যা প্রায় ২,০০০। প্রবন্ধটিতে সঙ্ঘ শিক্ষা বর্গ নেতৃত্ব শিবিরের ৫০ বছর উদ্‌যাপিত হয়েছে; এতে রেকর্ড ৬০৫ জন অংশগ্রহণকারী ও ১৩৯ জন সংগঠক ছিলেন।"
     },
     {
      "title": "Sewa International service work",
@@ -7950,7 +11924,13 @@ window.HINDUTVA = {
      "where": "20+ countries",
      "when": "since 1993",
      "page": 45,
-     "detail": "Described as a global humanitarian arm of the Sangh parivar, begun after the 1993 Latur earthquake. It covers disaster relief, education, health and skills."
+     "detail": "Described as a global humanitarian arm of the Sangh parivar, begun after the 1993 Latur earthquake. It covers disaster relief, education, health and skills.",
+     "title_bn": "সেবা ইন্টারন্যাশনালের সেবামূলক কাজ",
+     "org_bn": "অন্যান্য: সেবা ইন্টারন্যাশনাল",
+     "type_bn": "সেবা/ত্রাণ",
+     "where_bn": "২০টিরও বেশি দেশ",
+     "when_bn": "১৯৯৩ সাল থেকে",
+     "detail_bn": "সংঘ পরিবারের বিশ্বব্যাপী মানবিক শাখা হিসেবে বর্ণিত, যা ১৯৯৩ সালের লাতুর ভূমিকম্পের পর শুরু হয়েছিল। এটি দুর্যোগ ত্রাণ, শিক্ষা, স্বাস্থ্য ও দক্ষতা উন্নয়নের কাজ করে।"
     },
     {
      "title": "World Hindu Congress (upcoming)",
@@ -7959,7 +11939,13 @@ window.HINDUTVA = {
      "where": "Mumbai",
      "when": "December 2026",
      "page": 45,
-     "detail": "The next World Hindu Congress is announced for December 2026 in Mumbai, after the 2018 Chicago and 2023 Bangkok editions."
+     "detail": "The next World Hindu Congress is announced for December 2026 in Mumbai, after the 2018 Chicago and 2023 Bangkok editions.",
+     "title_bn": "বিশ্ব হিন্দু কংগ্রেস (আসন্ন)",
+     "org_bn": "বিশ্ব হিন্দু পরিষদ",
+     "type_bn": "সম্মেলন",
+     "where_bn": "মুম্বই",
+     "when_bn": "ডিসেম্বর ২০২৬",
+     "detail_bn": "২০১৮ সালের শিকাগো ও ২০২৩ সালের ব্যাংকক অধিবেশনের পর পরবর্তী বিশ্ব হিন্দু কংগ্রেস ২০২৬ সালের ডিসেম্বরে মুম্বইয়ে হবে বলে ঘোষণা করা হয়েছে।"
     },
     {
      "title": "Republic Day special issue announcement",
@@ -7968,7 +11954,13 @@ window.HINDUTVA = {
      "where": "",
      "when": "26 January 2026",
      "page": 4,
-     "detail": "The next issue will carry pieces on the Indian Constitution by Pulak Narayan Dhar, Dr Madhusudan Pal, Abhijit Chakraborty and others."
+     "detail": "The next issue will carry pieces on the Indian Constitution by Pulak Narayan Dhar, Dr Madhusudan Pal, Abhijit Chakraborty and others.",
+     "title_bn": "প্রজাতন্ত্র দিবস বিশেষ সংখ্যার ঘোষণা",
+     "org_bn": "অন্যান্য: স্বস্তিকা সাপ্তাহিক",
+     "type_bn": "অন্যান্য",
+     "where_bn": "",
+     "when_bn": "২৬ জানুয়ারি ২০২৬",
+     "detail_bn": "পরবর্তী সংখ্যায় পুলক নারায়ণ ধর, ডঃ মধুসূদন পাল, অভিজিৎ চক্রবর্তী ও অন্যদের লেখা ভারতীয় সংবিধান বিষয়ক রচনা থাকবে।"
     }
    ],
    "narratives": [
@@ -7977,79 +11969,114 @@ window.HINDUTVA = {
      "target": "Congress, Nehru and Communists (attacked); Netaji (praised)",
      "claim": "Congress and the Communists opposed and defamed Netaji, calling him a 'quisling' and an agent of Japan and Germany, while Nehru's government denied him due honour.",
      "heading": "সম্পাদকীয়",
-     "page": 5
+     "page": 5,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "কংগ্রেস, নেহরু ও কমিউনিস্টরা (আক্রমণ); নেতাজি (প্রশংসা)",
+     "claim_bn": "কংগ্রেস ও কমিউনিস্টরা নেতাজির বিরোধিতা ও কুৎসা করেছে, তাঁকে 'কুইসলিং' এবং জাপান ও জার্মানির চর বলেছে, আর নেহরুর সরকার তাঁকে প্রাপ্য সম্মান দেয়নি।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Communists",
      "claim": "Communists caricatured Netaji in their People's War paper and branded him a Japanese and German agent while he led the INA.",
      "heading": "সম্পাদকীয়",
-     "page": 5
+     "page": 5,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "কমিউনিস্টরা",
+     "claim_bn": "কমিউনিস্টরা তাদের পিপলস ওয়ার পত্রিকায় নেতাজির ব্যঙ্গচিত্র আঁকে এবং আইএনএ-র নেতৃত্বে থাকাকালীন তাঁকে জাপান ও জার্মানির চর বলে দাগিয়ে দেয়।"
     },
     {
      "theme": "Modi govt achievements",
      "target": "Narendra Modi government",
      "claim": "The Modi government is undoing past Congress wrongs, and Modi honoured Netaji as India's first Prime Minister from the Red Fort.",
      "heading": "সম্পাদকীয়",
-     "page": 5
+     "page": 5,
+     "theme_bn": "মোদী সরকারের কৃতিত্ব",
+     "target_bn": "নরেন্দ্র মোদীর সরকার",
+     "claim_bn": "মোদি সরকার কংগ্রেসের অতীত ভুলগুলি শুধরে নিচ্ছে, আর মোদি লালকেল্লা থেকে নেতাজিকে ভারতের প্রথম প্রধানমন্ত্রী হিসেবে সম্মান জানিয়েছেন।"
     },
     {
      "theme": "history & icons",
      "target": "Gandhi and Congress (attacked); Netaji (praised)",
      "claim": "Netaji was deliberately kept out of national politics and exiled, while a leader who 'arrived from outside' was made Father of the Nation.",
      "heading": "সুভাষ ঘরে ফিরলেন না কেন?",
-     "page": 17
+     "page": 17,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "গান্ধী ও কংগ্রেস (আক্রান্ত); নেতাজি (প্রশংসিত)",
+     "claim_bn": "নেতাজিকে সচেতনভাবে জাতীয় রাজনীতির বাইরে রাখা হয়েছিল ও নির্বাসনে পাঠানো হয়েছিল, অথচ 'বাইরে থেকে আসা' একজন নেতাকে জাতির জনক বানানো হয়েছে।"
     },
     {
      "theme": "history & icons",
      "target": "Sangh leadership (praised)",
      "claim": "Bhagwat and the Vice President have said Netaji did not die in the 1945 air crash, and the mystery must be uncovered.",
      "heading": "সুভাষ ঘরে ফিরলেন না কেন?",
-     "page": 17
+     "page": 17,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "সঙ্ঘের নেতৃত্ব (প্রশংসিত)",
+     "claim_bn": "ভাগবত ও উপরাষ্ট্রপতি বলেছেন নেতাজি ১৯৪৫-এর বিমান দুর্ঘটনায় মারা যাননি, এবং এই রহস্যের উন্মোচন হওয়া প্রয়োজন।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "RSS / HSS (praised)",
      "claim": "The Sangh's Prayer defines India's nationhood as Hindu, and the Hindu Swayamsevak Sangh spreads Hindu values worldwide to solve global problems.",
      "heading": "কেনিয়ার পথে শুরু এক নতুন অধ্যায় বিদেশে হিন্দু সংগঠনের বীজ বপন",
-     "page": 43
+     "page": 43,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "আরএসএস / এইচএসএস (প্রশংসিত)",
+     "claim_bn": "সংঘের প্রার্থনা ভারতের জাতিসত্তাকে হিন্দু বলে সংজ্ঞায়িত করে, এবং হিন্দু স্বয়ংসেবক সংঘ বিশ্বের সমস্যা সমাধানে সারা বিশ্বে হিন্দু মূল্যবোধ ছড়িয়ে দেয়।"
     },
     {
      "theme": "nationalism/army/Pakistan",
      "target": "RSS foreign vision",
      "claim": "Sangh says India's foreign policy should rest on cultural unity ('Vasudhaiva Kutumbakam') and cultural exchange, not on political dominance.",
      "heading": "কেনিয়ার পথে শুরু এক নতুন অধ্যায় বিদেশে হিন্দু সংগঠনের বীজ বপন",
-     "page": 43
+     "page": 43,
+     "theme_bn": "জাতীয়তাবাদ/সেনা/পাকিস্তান",
+     "target_bn": "আরএসএসের বৈদেশিক দৃষ্টিভঙ্গি",
+     "claim_bn": "সঙ্ঘের মতে ভারতের পররাষ্ট্রনীতি রাজনৈতিক আধিপত্যের উপর নয়, সাংস্কৃতিক ঐক্য ('বসুধৈব কুটুম্বকম') ও সাংস্কৃতিক আদানপ্রদানের উপর ভিত্তি করে হওয়া উচিত।"
     },
     {
      "theme": "history & icons",
      "target": "Dr Hedgewar and Sangh (praised); Congress (criticised)",
      "claim": "Hedgewar supported Congress's Purna Swaraj goal in 1930 but noted Congress was indifferent to protecting Hindu culture, which is why the Sangh was needed.",
      "heading": "গল্পকথায় ডাক্তারজী",
-     "page": 50
+     "page": 50,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "ডাঃ হেডগেওয়ার ও সংঘ (প্রশংসিত); কংগ্রেস (সমালোচিত)",
+     "claim_bn": "হেডগেওয়ার ১৯৩০ সালে কংগ্রেসের পূর্ণ স্বরাজের লক্ষ্যকে সমর্থন করেছিলেন, তবে উল্লেখ করেছিলেন যে হিন্দু সংস্কৃতি রক্ষায় কংগ্রেস উদাসীন, আর সেই কারণেই সঙ্ঘের প্রয়োজন।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "Teachers' bodies vs state government",
      "claim": "ABRSM alleges corruption, DA deprivation and appeasement in the state's education sector.",
      "heading": "কলকাতায় এবিআরএসএমের মহামিছিল ও শিক্ষক সমাবেশ",
-     "page": 29
+     "page": 29,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "শিক্ষক সংগঠনগুলি বনাম রাজ্য সরকার",
+     "claim_bn": "এবিআরএসএম রাজ্যের শিক্ষাক্ষেত্রে দুর্নীতি, মহার্ঘ ভাতা থেকে বঞ্চনা ও তোষণের অভিযোগ তুলেছে।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "Mamata Banerjee and the Trinamool government",
      "claim": "The paper claims the Trinamool government's 'central deprivation' campaign is a desperate cover for 15 years of misrule, and that Mamata fled with a 'green file' from the IPAC chief's home.",
      "heading": "'কেন্দ্রীয় বঞ্চনা'র ঢক্কানিনাদ হলো ১৫ বছরে তৃণমূল সরকারের অপকর্ম ঢাকার মরিয়া প্রয়াস / আইপ্যাক কর্তার বাড়ি থেকে 'সবুজ ফাইল' নিয়ে কেন পালালেন মমতা?",
-     "page": 3
+     "page": 3,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "মমতা বন্দ্যোপাধ্যায় ও তৃণমূল সরকার",
+     "claim_bn": "পত্রিকার দাবি, তৃণমূল সরকারের 'কেন্দ্রীয় বঞ্চনা'র প্রচার ১৫ বছরের অপশাসন ঢাকার মরিয়া চেষ্টা, এবং মমতা আইপ্যাক প্রধানের বাড়ি থেকে একটি 'সবুজ ফাইল' নিয়ে পালিয়েছিলেন।"
     },
     {
      "theme": "Bangladesh & Hindu persecution",
      "target": "International human rights organisations",
      "claim": "International human rights bodies stay silent on the persecution of Hindus in Bangladesh.",
      "heading": "বাংলাদেশের হিন্দু নির্যাতনে আন্তর্জাতিক মানবাধিকার সংগঠনগুলো মৌন কেন?",
-     "page": 3
+     "page": 3,
+     "theme_bn": "বাংলাদেশ ও হিন্দু নির্যাতন",
+     "target_bn": "আন্তর্জাতিক মানবাধিকার সংগঠনগুলি",
+     "claim_bn": "বাংলাদেশে হিন্দুদের উপর নিপীড়নের বিষয়ে আন্তর্জাতিক মানবাধিকার সংস্থাগুলি নীরব রয়েছে।"
     }
-   ]
+   ],
+   "label_bn": "",
+   "summary_bn": "১৯ জানুয়ারির সংখ্যাটি নেতাজি সুভাষচন্দ্র বসুর জন্মবার্ষিকীকে কেন্দ্র করে সাজানো; এতে এই বক্তব্য তুলে ধরা হয়েছে যে কংগ্রেস ও কমিউনিস্টরা তাঁকে কোণঠাসা করেছে, কলঙ্কিত করেছে ও মুছে ফেলার চেষ্টা করেছে, এবং মোদী সরকারের কাছে তাঁর অন্তর্ধান-রহস্যের সমাধানের দাবি জানানো হয়েছে। মাঘ মেলা, সরস্বতী পূজা ও বিবেকানন্দ-বিষয়ক ধর্মীয় ও সাংস্কৃতিক লেখাও রয়েছে। বাংলাদেশে হিন্দু নির্যাতনের প্রসঙ্গ তুলে ধরা হয়েছে এবং 'কেন্দ্রীয় বঞ্চনা' ও আইপ্যাক-এ তল্লাশি নিয়ে তৃণমূল সরকারকে আক্রমণ করা হয়েছে। সরসঙ্ঘচালকের শিলিগুড়ি সফর ও হিন্দু স্বয়ংসেবক সঙ্ঘের বিশ্বব্যাপী প্রসার সহ আরএসএসের শতবর্ষকে তুলে ধরা হয়েছে এবং সহযোগী সংগঠনগুলির সাংগঠনিক প্রতিবেদন রয়েছে।"
   },
   {
    "issue": "20260112",
@@ -8065,7 +12092,13 @@ window.HINDUTVA = {
      "where": "North and Central Bengal (Ishwarpur, Malda, Alipurduar tea gardens, Farakka, Berhampore, Krishnanagar, Nabadwip, Dhubulia, Khamardanga)",
      "when": "25 December",
      "page": 29,
-     "detail": "Run by the VHP's Samajik Samarasata Abhiyan for the 7th year, with Tulsi worship, Gita recitation, homa-yajna and a shared meal. Tulsi saplings, Bhagavad Gita copies and leaflets on social harmony were distributed. Organisers framed it as a counter to Christmas 'soft conversion'."
+     "detail": "Run by the VHP's Samajik Samarasata Abhiyan for the 7th year, with Tulsi worship, Gita recitation, homa-yajna and a shared meal. Tulsi saplings, Bhagavad Gita copies and leaflets on social harmony were distributed. Organisers framed it as a counter to Christmas 'soft conversion'.",
+     "title_bn": "তুলসী পূজন দিবস (২৫ ডিসেম্বর)",
+     "org_bn": "বিশ্ব হিন্দু পরিষদ",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "উত্তর ও মধ্যবঙ্গ (ঈশ্বরপুর, মালদা, আলিপুরদুয়ারের চা-বাগান, ফরাক্কা, বহরমপুর, কৃষ্ণনগর, নবদ্বীপ, ধুলিয়া, খামারডাঙা)",
+     "when_bn": "২৫ ডিসেম্বর",
+     "detail_bn": "বিশ্ব হিন্দু পরিষদের সামাজিক সমরসতা অভিযানের উদ্যোগে ৭ম বছরে আয়োজিত, তুলসীপূজা, গীতাপাঠ, হোম-যজ্ঞ ও সহভোজ সহ। তুলসীচারা, ভগবদ্গীতার কপি এবং সামাজিক সম্প্রীতি বিষয়ক প্রচারপত্র বিতরণ করা হয়। আয়োজকেরা একে বড়দিনের 'নরম ধর্মান্তরকরণ'-এর পাল্টা কর্মসূচি হিসেবে তুলে ধরেন।"
     },
     {
      "title": "Krida Bharati All India Session",
@@ -8074,7 +12107,13 @@ window.HINDUTVA = {
      "where": "Karnavati (Ahmedabad), Gujarat",
      "when": "26-28 December",
      "page": 27,
-     "detail": "About 600 delegates from sports bodies across India attended. Gujarat CM Bhupendra Patel inaugurated it and Union Sports Minister Mansukh Mandaviya promised support. 26 workers from South Bengal took part."
+     "detail": "About 600 delegates from sports bodies across India attended. Gujarat CM Bhupendra Patel inaugurated it and Union Sports Minister Mansukh Mandaviya promised support. 26 workers from South Bengal took part.",
+     "title_bn": "ক্রীড়া ভারতী সর্বভারতীয় অধিবেশন",
+     "org_bn": "অন্যান্য: ক্রীড়া ভারতী",
+     "type_bn": "সম্মেলন",
+     "where_bn": "কর্ণাবতী (আহমেদাবাদ), গুজরাট",
+     "when_bn": "২৬–২৮ ডিসেম্বর",
+     "detail_bn": "ভারতজুড়ে ক্রীড়া সংস্থাগুলির প্রায় ৬০০ প্রতিনিধি উপস্থিত ছিলেন। গুজরাটের মুখ্যমন্ত্রী ভূপেন্দ্র প্যাটেল উদ্বোধন করেন এবং কেন্দ্রীয় ক্রীড়ামন্ত্রী মনসুখ মান্ডব্য সহায়তার প্রতিশ্রুতি দেন। দক্ষিণবঙ্গ থেকে ২৬ জন কর্মী অংশ নেন।"
     },
     {
      "title": "Sanskar Bharati North Bengal folk art workshop",
@@ -8083,7 +12122,13 @@ window.HINDUTVA = {
      "where": "Cooch Behar, North Bengal",
      "when": "27 December",
      "page": 27,
-     "detail": "42 delegates from Cooch Behar, Alipurduar, Uttar Dinajpur and Siliguri attended. They performed Bhawaiya, Kushan and Manasa songs."
+     "detail": "42 delegates from Cooch Behar, Alipurduar, Uttar Dinajpur and Siliguri attended. They performed Bhawaiya, Kushan and Manasa songs.",
+     "title_bn": "সংস্কার ভারতী উত্তরবঙ্গের লোকশিল্প কর্মশালা",
+     "org_bn": "অন্যান্য: সংস্কার ভারতী",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "কোচবিহার, উত্তরবঙ্গ",
+     "when_bn": "২৭ ডিসেম্বর",
+     "detail_bn": "কোচবিহার, আলিপুরদুয়ার, উত্তর দিনাজপুর ও শিলিগুড়ি থেকে ৪২ জন প্রতিনিধি উপস্থিত ছিলেন। তাঁরা ভাওয়াইয়া, কুশান ও মনসার গান পরিবেশন করেন।"
     },
     {
      "title": "Felicitation of Sunilendu Bhattacharya (chandra-darshan ceremony)",
@@ -8092,7 +12137,13 @@ window.HINDUTVA = {
      "where": "Kapasdanga, Hooghly",
      "when": "26 December",
      "page": 28,
-     "detail": "The Hooghly district Sangh honoured Sunilendu Bhattacharya, a former district sanghchalak and former VHP state general secretary, at his home. Madhya Banga executive member Biren Pal paid tribute, and Bhattacharya recounted his Sangh career."
+     "detail": "The Hooghly district Sangh honoured Sunilendu Bhattacharya, a former district sanghchalak and former VHP state general secretary, at his home. Madhya Banga executive member Biren Pal paid tribute, and Bhattacharya recounted his Sangh career.",
+     "title_bn": "সুনীলেন্দু ভট্টাচার্যের সংবর্ধনা (চন্দ্র-দর্শন অনুষ্ঠান)",
+     "org_bn": "আরএসএস",
+     "type_bn": "অন্যান্য",
+     "where_bn": "কাপাসডাঙা, হুগলি",
+     "when_bn": "২৬ ডিসেম্বর",
+     "detail_bn": "হুগলি জেলা সঙ্ঘ তাঁর বাড়িতে গিয়ে সুনীলেন্দু ভট্টাচার্যকে সংবর্ধনা জানিয়েছে। তিনি প্রাক্তন জেলা সঙ্ঘচালক এবং বিশ্ব হিন্দু পরিষদের প্রাক্তন রাজ্য সাধারণ সম্পাদক। মধ্যবঙ্গের কার্যকারিণী সদস্য বীরেন পাল শ্রদ্ধা জানান, আর ভট্টাচার্য তাঁর সঙ্ঘজীবনের কথা বর্ণনা করেন।"
     },
     {
      "title": "Gopal Mela and Gopal Banabhojan Utsav",
@@ -8101,7 +12152,13 @@ window.HINDUTVA = {
      "where": "Khayermari, Bongaon, North 24 Parganas",
      "when": "31 December and 1 January",
      "page": 28,
-     "detail": "A traditional fair where devotees brought their Gopal deities, and bhog was offered and distributed."
+     "detail": "A traditional fair where devotees brought their Gopal deities, and bhog was offered and distributed.",
+     "title_bn": "গোপাল মেলা ও গোপাল বনভোজন উৎসব",
+     "org_bn": "অন্যান্য: বনগাঁও হরিভক্তি প্রণয়িনী সভা",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "খয়েরমারি, বনগাঁ, উত্তর ২৪ পরগনা",
+     "when_bn": "৩১ ডিসেম্বর ও ১ জানুয়ারি",
+     "detail_bn": "একটি ঐতিহ্যবাহী মেলা, যেখানে ভক্তরা নিজেদের গোপাল বিগ্রহ নিয়ে আসেন এবং ভোগ নিবেদন ও বিতরণ করা হয়।"
     },
     {
      "title": "Birth anniversary of Taranand Brahmachari at Rishra Premmandir",
@@ -8110,7 +12167,13 @@ window.HINDUTVA = {
      "where": "Rishra, Hooghly",
      "when": "31 December (three days)",
      "page": 29,
-     "detail": "A 125th birth anniversary programme with a dharma sabha and a children's drawing competition. Many sadhus attended, along with an RSS All India Executive member."
+     "detail": "A 125th birth anniversary programme with a dharma sabha and a children's drawing competition. Many sadhus attended, along with an RSS All India Executive member.",
+     "title_bn": "ঋষড়া প্রেমমন্দিরে তারানন্দ ব্রহ্মচারীর জন্মজয়ন্তী",
+     "org_bn": "অন্যান্য: রিষড়া প্রেমমন্দির",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "ঋষড়া, হুগলি",
+     "when_bn": "৩১ ডিসেম্বর (তিন দিন)",
+     "detail_bn": "১২৫তম জন্মবার্ষিকী উপলক্ষে ধর্মসভা ও শিশুদের অঙ্কন প্রতিযোগিতা-সহ একটি অনুষ্ঠান। বহু সাধু উপস্থিত ছিলেন, সঙ্গে ছিলেন আরএসএসের একজন অখিল ভারতীয় কার্যকারিণী সদস্য।"
     }
    ],
    "narratives": [
@@ -8119,72 +12182,104 @@ window.HINDUTVA = {
      "target": "Bangladesh's jihadi mobs and the Yunus government",
      "claim": "After Osman Hadi's death, jihadi mobs burned Dipu Chandra Das alive and attacked Hindus, and the Yunus government backs them, with over 3,000 attacks on Hindus since 2024.",
      "heading": "মধ্যযুগীয় বর্বরতা (সম্পাদকীয়)",
-     "page": 5
+     "page": 5,
+     "theme_bn": "বাংলাদেশ ও হিন্দু নির্যাতন",
+     "target_bn": "বাংলাদেশের জিহাদি জনতা ও ইউনূস সরকার",
+     "claim_bn": "ওসমান হাদির মৃত্যুর পর জিহাদি জনতা দীপু চন্দ্র দাসকে জীবন্ত পুড়িয়ে মারে এবং হিন্দুদের উপর হামলা চালায়; ইউনূস সরকার তাদের মদত দিচ্ছে, ২০২৪ সাল থেকে হিন্দুদের উপর ৩,০০০-এর বেশি হামলা হয়েছে।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "TMC state government and Mamata Banerjee",
      "claim": "TMC appeasement has made West Bengal's Hindus a second-class citizenry like those in Bangladesh, and only a change of government can stop it.",
      "heading": "মধ্যযুগীয় বর্বরতা (সম্পাদকীয়)",
-     "page": 5
+     "page": 5,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "তৃণমূল রাজ্য সরকার ও মমতা বন্দ্যোপাধ্যায়",
+     "claim_bn": "তৃণমূলের তোষণনীতি পশ্চিমবঙ্গের হিন্দুদের বাংলাদেশের হিন্দুদের মতোই দ্বিতীয় শ্রেণির নাগরিকে পরিণত করেছে, এবং একমাত্র সরকার পরিবর্তনই তা থামাতে পারে।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Left Front and Buddhadeb Bhattacharya, with TMC",
      "claim": "Left rule and its land acquisition policy destroyed industry in Bengal, and the TMC government replaced industry with doles. The paper contrasts this with Gujarat's continuous BJP-led growth.",
      "heading": "“বাংলাকে গুজরাট হতে দেব না” : চাইলেও গুজরাট হতে পারবেন কি?",
-     "page": 18
+     "page": 18,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "বামফ্রন্ট ও বুদ্ধদেব ভট্টাচার্য, তৃণমূলসহ",
+     "claim_bn": "বামপন্থী শাসন ও তার জমি অধিগ্রহণ নীতি বাংলার শিল্পকে ধ্বংস করেছে, আর তৃণমূল সরকার শিল্পের জায়গায় ভাতা চালু করেছে। পত্রিকাটি এর সঙ্গে গুজরাটের ধারাবাহিক বিজেপি-নেতৃত্বাধীন প্রবৃদ্ধির তুলনা টেনেছে।"
     },
     {
      "theme": "Modi govt achievements",
      "target": "BJP rule in Gujarat under Narendra Modi and his successors",
      "claim": "Gujarat's formal employment, per-capita income and low unemployment show what continuous BJP governance delivers, and West Bengal cannot match it.",
      "heading": "“বাংলাকে গুজরাট হতে দেব না” : চাইলেও গুজরাট হতে পারবেন কি?",
-     "page": 18
+     "page": 18,
+     "theme_bn": "মোদী সরকারের কৃতিত্ব",
+     "target_bn": "নরেন্দ্র মোদী ও তাঁর উত্তরসূরিদের অধীনে গুজরাটে বিজেপির শাসন",
+     "claim_bn": "গুজরাটের সংগঠিত কর্মসংস্থান, মাথাপিছু আয় ও কম বেকারত্ব দেখায় নিরবচ্ছিন্ন বিজেপি শাসন কী দিতে পারে, আর পশ্চিমবঙ্গ তার সমকক্ষ হতে পারে না।"
     },
     {
      "theme": "Bangladesh & Hindu persecution",
      "target": "Left, TMC, secular intellectuals, UN and the US",
      "claim": "The Left, TMC and secular intellectuals stay silent on the killing of Dipu Chandra Das and the burning of Chhayanaut. The article says Murshidabad killings, a broken Tulsi platform in Metiabruz and curbs on Saraswati Puja show the same jihadi pattern in Bengal.",
      "heading": "বাংলাদেশে হিন্দু নিধন কি ঘুম ভাঙাবে এদেশের হিন্দুদের?",
-     "page": 15
+     "page": 15,
+     "theme_bn": "বাংলাদেশ ও হিন্দু নির্যাতন",
+     "target_bn": "বামপন্থী, তৃণমূল, ধর্মনিরপেক্ষ বুদ্ধিজীবী, রাষ্ট্রসংঘ ও আমেরিকা",
+     "claim_bn": "দীপু চন্দ্র দাসের হত্যা এবং ছায়ানটে অগ্নিসংযোগ নিয়ে বামপন্থী, তৃণমূল ও ধর্মনিরপেক্ষ বুদ্ধিজীবীরা নীরব। লেখাটিতে বলা হয়েছে, মুর্শিদাবাদের হত্যাকাণ্ড, মেটিয়াবুরুজে ভাঙা তুলসীমঞ্চ এবং সরস্বতী পুজোয় বিধিনিষেধ বাংলায় একই জিহাদি ছকের প্রমাণ।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "Hindus of West Bengal and Bangladesh",
      "claim": "Sarsanghchalak Dr Mohan Bhagwat's call for Hindu unity is the answer to jihadi forces, and India should act for persecuted Hindus.",
      "heading": "বাংলাদেশে হিন্দু নিধন কি ঘুম ভাঙাবে এদেশের হিন্দুদের?",
-     "page": 15
+     "page": 15,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "পশ্চিমবঙ্গ ও বাংলাদেশের হিন্দুরা",
+     "claim_bn": "সরসঙ্ঘচালক ডঃ মোহন ভাগবতের হিন্দু ঐক্যের আহ্বান জেহাদি শক্তির জবাব, এবং নির্যাতিত হিন্দুদের জন্য ভারতের পদক্ষেপ করা উচিত।"
     },
     {
      "theme": "Bangladesh & Hindu persecution",
      "target": "Yunus government, Jamaat and Pakistan",
      "claim": "The Yunus government and Jamaat are erasing Bengali cultural institutions Chhayanaut and Udichi, which fought Pakistani and communal forces.",
      "heading": "ড. ইউনুস (Chhayanaut/Udichi article)",
-     "page": 45
+     "page": 45,
+     "theme_bn": "বাংলাদেশ ও হিন্দু নির্যাতন",
+     "target_bn": "ইউনূস সরকার, জামায়াত ও পাকিস্তান",
+     "claim_bn": "ইউনূস সরকার ও জামায়াত বাঙালি সাংস্কৃতিক প্রতিষ্ঠান ছায়ানট ও উদীচীকে মুছে ফেলছে, যারা পাকিস্তানি ও সাম্প্রদায়িক শক্তির বিরুদ্ধে লড়াই করেছিল।"
     },
     {
      "theme": "history & icons",
      "target": "Sangh and Dr Hedgewar",
      "claim": "The Sangh is a Hindu-unity organisation built on the daily shakha and on character-building. It was falsely accused after Gandhi's murder, and it rose above power politics.",
      "heading": "সঙ্ঘ, সমাজ ও রাজনীতি",
-     "page": 8
+     "page": 8,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "সঙ্ঘ ও ডাঃ হেডগেওয়ার",
+     "claim_bn": "সংঘ দৈনিক শাখা ও চরিত্র গঠনের উপর দাঁড়ানো একটি হিন্দু-সংহতির সংগঠন। গান্ধী হত্যার পর তাকে মিথ্যা অভিযোগে অভিযুক্ত করা হয়েছিল, এবং সে ক্ষমতার রাজনীতির ঊর্ধ্বে উঠেছে।"
     },
     {
      "theme": "nationalism/army/Pakistan",
      "target": "Pakistan's ISI and Bangladesh",
      "claim": "Pakistan's ISI is active in Bangladesh, backing anti-India jihadi forces, and the article warns that a Bangladesh attack on India would risk its own existence.",
      "heading": "বাংলাদেশে হিন্দু নিধন কি ঘুম ভাঙাবে এদেশের হিন্দুদের?",
-     "page": 15
+     "page": 15,
+     "theme_bn": "জাতীয়তাবাদ/সেনা/পাকিস্তান",
+     "target_bn": "পাকিস্তানের আইএসআই ও বাংলাদেশ",
+     "claim_bn": "পাকিস্তানের আইএসআই বাংলাদেশে সক্রিয় থেকে ভারত-বিরোধী জেহাদি শক্তিগুলিকে মদত দিচ্ছে, এবং নিবন্ধটি সতর্ক করেছে যে বাংলাদেশ ভারতে হামলা চালালে তার নিজের অস্তিত্বই বিপন্ন হবে।"
     },
     {
      "theme": "history & icons",
      "target": "Dr Hedgewar and Sangh founding",
      "claim": "Hedgewar presented himself as only the 'midwife' of a Sangh created by its workers and promised to hand over authority to whoever they chose. The series is meant to present the Sangh's founder as humble.",
      "heading": "প্রথম সরসঙ্ঘচালক প্রণাম (গল্পকথায় ডাক্তারজী)",
-     "page": 50
+     "page": 50,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "ডাঃ হেডগেওয়ার ও সংঘের প্রতিষ্ঠা",
+     "claim_bn": "হেডগেওয়ার নিজেকে কেবল কর্মীদের গড়া সঙ্ঘের 'ধাত্রী' হিসেবে তুলে ধরেছিলেন এবং প্রতিশ্রুতি দিয়েছিলেন যে কর্মীরা যাঁকে বেছে নেবেন তাঁর হাতেই কর্তৃত্ব তুলে দেবেন। ধারাবাহিকটির উদ্দেশ্য সঙ্ঘের প্রতিষ্ঠাতাকে বিনয়ী রূপে উপস্থাপন করা।"
     }
-   ]
+   ],
+   "label_bn": "",
+   "summary_bn": "২০২৬ সালের ১২ জানুয়ারির এই সংখ্যাটি পশ্চিমবঙ্গের ২০২৬ সালের নির্বাচনের আগে প্রকাশিত। এতে মূলত বাংলাদেশকে ঘিরে হিন্দু নিপীড়নের আখ্যান তুলে ধরা হয়েছে (দীপু চন্দ্র দাসের হত্যা, ছায়ানট ও উদীচীর উপর হামলা) এবং বলা হয়েছে, তৃণমূলের তোষণনীতির ফলে পশ্চিমবঙ্গও একই পরিণতির মুখে। গুজরাটের উন্নয়নের সঙ্গে বাংলার অবনতির তুলনা করে তৃণমূল ও বাম-বিরোধী একটি অর্থনৈতিক যুক্তিও রয়েছে। আরএসএস-এর শতবর্ষের প্রসঙ্গে রাজনীতি ও ক্ষমতার সঙ্গে সঙ্ঘের সম্পর্ক নিয়ে একটি প্রবন্ধ আছে। সম্পাদকীয় ও বেশ কয়েকটি প্রবন্ধে ২০২৬ সালে সরকার পরিবর্তনের আহ্বান জানানো হয়েছে। সাংগঠনিক পাতায় বিশ্ব হিন্দু পরিষদের তুলসী পূজন দিবস, সংস্কার ভারতী ও ক্রীড়া ভারতীর অনুষ্ঠান এবং সঙ্ঘের কর্মীদের সংবর্ধনার খবর রয়েছে।"
   },
   {
    "issue": "20260105",
@@ -8200,7 +12295,13 @@ window.HINDUTVA = {
      "where": "Science City Auditorium, Kolkata",
      "when": "21 December 2025",
      "page": 23,
-     "detail": "One-day lecture series and Q&A for over 1,600 invited citizens from varied fields, including critics, to explain the Sangh's history, method and plans; registration closed early due to response."
+     "detail": "One-day lecture series and Q&A for over 1,600 invited citizens from varied fields, including critics, to explain the Sangh's history, method and plans; registration closed early due to response.",
+     "title_bn": "মোহন ভাগবতের সঙ্গে আরএসএস শতবর্ষ বক্তৃতামালা 'সংঘ শতবর্ষ: এক নবদিগন্ত'",
+     "org_bn": "আরএসএস",
+     "type_bn": "শতবর্ষ",
+     "where_bn": "সায়েন্স সিটি অডিটোরিয়াম, কলকাতা",
+     "when_bn": "২১ ডিসেম্বর ২০২৫",
+     "detail_bn": "বিভিন্ন ক্ষেত্রের, সমালোচকসহ, ১,৬০০-র বেশি আমন্ত্রিত নাগরিকের জন্য একদিনের বক্তৃতামালা ও প্রশ্নোত্তর পর্ব, সঙ্ঘের ইতিহাস, কার্যপদ্ধতি ও পরিকল্পনা ব্যাখ্যার উদ্দেশ্যে; সাড়া পাওয়ায় নিবন্ধন আগেই বন্ধ হয়ে যায়।"
     },
     {
      "title": "Siliguri Yuva Sammelan (youth conference) addressed by Sarsanghchalak",
@@ -8209,7 +12310,13 @@ window.HINDUTVA = {
      "where": "Siliguri, North Bengal",
      "when": "18 December 2025",
      "page": 29,
-     "detail": "About 7,500 young men and women attended, with Bhagwat speaking on character-building, social unity and national consciousness; around 1,000 volunteers prepared the event."
+     "detail": "About 7,500 young men and women attended, with Bhagwat speaking on character-building, social unity and national consciousness; around 1,000 volunteers prepared the event.",
+     "title_bn": "সরসঙ্ঘচালক সম্বোধিত শিলিগুড়ি যুব সম্মেলন",
+     "org_bn": "আরএসএস",
+     "type_bn": "সম্মেলন",
+     "where_bn": "শিলিগুড়ি, উত্তরবঙ্গ",
+     "when_bn": "১৮ ডিসেম্বর ২০২৫",
+     "detail_bn": "প্রায় ৭,৫০০ তরুণ-তরুণী উপস্থিত ছিলেন; ভাগবত চরিত্র গঠন, সামাজিক ঐক্য ও জাতীয় চেতনা নিয়ে বক্তব্য রাখেন; প্রায় ১,০০০ স্বেচ্ছাসেবক অনুষ্ঠানের প্রস্তুতি নেন।"
     },
     {
      "title": "Bhagwat's West Bengal tour (North and South Bengal)",
@@ -8218,7 +12325,13 @@ window.HINDUTVA = {
      "where": "West Bengal",
      "when": "18–21 December 2025",
      "page": 5,
-     "detail": "Sarsanghchalak's visit described as winning hearts in Bengal and opening a 'new horizon' for the Sangh; the editorial frames it as part of nationwide centenary outreach."
+     "detail": "Sarsanghchalak's visit described as winning hearts in Bengal and opening a 'new horizon' for the Sangh; the editorial frames it as part of nationwide centenary outreach.",
+     "title_bn": "ভাগবতের পশ্চিমবঙ্গ সফর (উত্তরবঙ্গ ও দক্ষিণবঙ্গ)",
+     "org_bn": "আরএসএস",
+     "type_bn": "শতবর্ষ",
+     "where_bn": "পশ্চিমবঙ্গ",
+     "when_bn": "১৮–২১ ডিসেম্বর ২০২৫",
+     "detail_bn": "সরসঙ্ঘচালকের সফরকে বাংলায় হৃদয় জয় এবং সঙ্ঘের জন্য 'নতুন দিগন্ত' উন্মোচন বলে বর্ণনা করা হয়েছে; সম্পাদকীয়তে এটিকে দেশব্যাপী শতবর্ষ সম্পর্কিত যোগাযোগ কর্মসূচির অংশ হিসেবে তুলে ধরা হয়েছে।"
     },
     {
      "title": "Nationwide centenary programmes: swayamsevak gatherings, distinguished citizens' meets, sadbhavana sabhas, griha sampark",
@@ -8227,7 +12340,13 @@ window.HINDUTVA = {
      "where": "All India",
      "when": "",
      "page": 5,
-     "detail": "Editorial lists the programmes already completed across the country as part of the centenary year to dispel misperceptions about the Sangh."
+     "detail": "Editorial lists the programmes already completed across the country as part of the centenary year to dispel misperceptions about the Sangh.",
+     "title_bn": "দেশজুড়ে শতবর্ষের কর্মসূচি: স্বয়ংসেবক সমাবেশ, বিশিষ্ট নাগরিকদের সম্মেলন, সদ্ভাবনা সভা, গৃহসম্পর্ক",
+     "org_bn": "আরএসএস",
+     "type_bn": "শতবর্ষ",
+     "where_bn": "সারা ভারত",
+     "when_bn": "",
+     "detail_bn": "সঙ্ঘ সম্পর্কে ভুল ধারণা দূর করতে শতবর্ষ উপলক্ষে সারা দেশে ইতিমধ্যে সম্পন্ন কর্মসূচিগুলির তালিকা সম্পাদকীয়তে দেওয়া হয়েছে।"
     },
     {
      "title": "'Panch Parivartan' call for swayamsevaks and society",
@@ -8236,7 +12355,13 @@ window.HINDUTVA = {
      "where": "All India",
      "when": "",
      "page": 31,
-     "detail": "Five-point agenda: self-awareness (swa-bodh), civic duty, family enlightenment, social harmony (samarasata), and environmental protection; plus a plan to reach about 75,000 villages."
+     "detail": "Five-point agenda: self-awareness (swa-bodh), civic duty, family enlightenment, social harmony (samarasata), and environmental protection; plus a plan to reach about 75,000 villages.",
+     "title_bn": "স্বয়ংসেবক ও সমাজের প্রতি 'পঞ্চ পরিবর্তন'-এর আহ্বান",
+     "org_bn": "আরএসএস",
+     "type_bn": "শতবর্ষ",
+     "where_bn": "সারা ভারত",
+     "when_bn": "",
+     "detail_bn": "পাঁচ দফা কর্মসূচি: স্ব-বোধ, নাগরিক কর্তব্য, পারিবারিক জাগরণ, সামাজিক সমরসতা ও পরিবেশ সুরক্ষা; সঙ্গে প্রায় ৭৫,০০০ গ্রামে পৌঁছানোর পরিকল্পনা।"
     },
     {
      "title": "Belghata Nagarik Samaj protest march against persecution of Bangladeshi Hindus",
@@ -8245,7 +12370,13 @@ window.HINDUTVA = {
      "where": "Belghata, East Kolkata",
      "when": "26 December 2025",
      "page": 43,
-     "detail": "Over a hundred citizens marched from Barfkal Mour to Belghata Post Office protesting the killings of Dipu Chandra Das, Palash Sarkar and Amrit Mondal; ended with candles and silence."
+     "detail": "Over a hundred citizens marched from Barfkal Mour to Belghata Post Office protesting the killings of Dipu Chandra Das, Palash Sarkar and Amrit Mondal; ended with candles and silence.",
+     "title_bn": "বাংলাদেশি হিন্দুদের উপর নির্যাতনের প্রতিবাদে বেলঘাটা নাগরিক সমাজের প্রতিবাদ মিছিল",
+     "org_bn": "অন্যান্য: বেলঘাটা নাগরিক সমাজ (আরএসএস-এর কার্যকর্তাদের উপস্থিতিতে)",
+     "type_bn": "মিছিল/শোভাযাত্রা",
+     "where_bn": "বেলঘাটা, পূর্ব কলকাতা",
+     "when_bn": "২৬ ডিসেম্বর ২০২৫",
+     "detail_bn": "দীপু চন্দ্র দাস, পলাশ সরকার ও অমৃত মণ্ডলের হত্যার প্রতিবাদে একশোরও বেশি নাগরিক বরফকল মোড় থেকে বেলঘাটা ডাকঘর পর্যন্ত মিছিল করেন; মোমবাতি ও নীরবতা পালনের মধ্য দিয়ে কর্মসূচি শেষ হয়।"
     },
     {
      "title": "March on Bangladesh Deputy High Commission, Kolkata",
@@ -8254,7 +12385,13 @@ window.HINDUTVA = {
      "where": "Kolkata (Sealdah to Beckbagan)",
      "when": "22–23 December 2025",
      "page": 44,
-     "detail": "Bangaiya Hindu Jagaran Manch and other groups led a march with many sadhus, joined by Suvendu Adhikari; police lathicharge, barricades broken and 19 arrested (later bailed)."
+     "detail": "Bangaiya Hindu Jagaran Manch and other groups led a march with many sadhus, joined by Suvendu Adhikari; police lathicharge, barricades broken and 19 arrested (later bailed).",
+     "title_bn": "কলকাতায় বাংলাদেশ উপ-उচ্চायुক্তের দপ্তর অভিমুখে মিছিল",
+     "org_bn": "হিন্দু জাগরণ মঞ্চ",
+     "type_bn": "মিছিল/শোভাযাত্রা",
+     "where_bn": "কলকাতা (শিয়ালদহ থেকে বেকবাগান)",
+     "when_bn": "২২–২৩ ডিসেম্বর ২০২৫",
+     "detail_bn": "বঙ্গীয় হিন্দু জাগরণ মঞ্চ ও অন্যান্য সংগঠন বহু সাধুকে নিয়ে মিছিল করে, যাতে শুভেন্দু অধিকারী যোগ দেন; পুলিশ লাঠিচার্জ করে, ব্যারিকেড ভাঙে এবং ১৯ জনকে গ্রেপ্তার করা হয় (পরে জামিন)।"
     },
     {
      "title": "VHP and Bajrang Dal protest at Bangladesh High Commission, Delhi",
@@ -8263,7 +12400,13 @@ window.HINDUTVA = {
      "where": "New Delhi",
      "when": "23 December 2025",
      "page": 44,
-     "detail": "VHP and Bajrang Dal members demonstrated with placards and slogans and burnt an effigy of Muhammad Yunus."
+     "detail": "VHP and Bajrang Dal members demonstrated with placards and slogans and burnt an effigy of Muhammad Yunus.",
+     "title_bn": "দিল্লিতে বাংলাদেশ হাইকমিশনের সামনে বিশ্ব হিন্দু পরিষদ ও বজরং দলের বিক্ষোভ",
+     "org_bn": "বিশ্ব হিন্দু পরিষদ",
+     "type_bn": "মিছিল/শোভাযাত্রা",
+     "where_bn": "নয়াদিল্লি",
+     "when_bn": "২৩ ডিসেম্বর ২০২৫",
+     "detail_bn": "বিশ্ব হিন্দু পরিষদ ও বজরং দলের সদস্যরা প্ল্যাকার্ড ও স্লোগান নিয়ে বিক্ষোভ দেখান এবং মুহাম্মদ ইউনূসের কুশপুতুল পোড়ান।"
     },
     {
      "title": "Tulsi Pujan Divas",
@@ -8272,7 +12415,13 @@ window.HINDUTVA = {
      "where": "Hridaypur, near Barasat, North 24 Parganas",
      "when": "25 December 2025",
      "page": 45,
-     "detail": "Tulsi worship at Pranab Kanya Sangha centre, framed as a Hindu cultural revival and a counter to 'Christian cultural dominance' and foreign culture."
+     "detail": "Tulsi worship at Pranab Kanya Sangha centre, framed as a Hindu cultural revival and a counter to 'Christian cultural dominance' and foreign culture.",
+     "title_bn": "তুলসী পূজন দিবস",
+     "org_bn": "অন্যান্য: দেশের মাটি কল্যাণ মন্দির",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "হৃদয়পুর, বারাসতের কাছে, উত্তর ২৪ পরগনা",
+     "when_bn": "২৫ ডিসেম্বর ২০২৫",
+     "detail_bn": "প্রণব কন্যা সঙ্ঘ কেন্দ্রে তুলসী পূজা, যাকে হিন্দু সাংস্কৃতিক পুনরুজ্জীবন এবং 'খ্রিস্টীয় সাংস্কৃতিক আধিপত্য' ও বিদেশি সংস্কৃতির পাল্টা হিসেবে তুলে ধরা হয়েছে।"
     },
     {
      "title": "Arogya Bharati South Bengal karyakarta sammelan",
@@ -8281,7 +12430,13 @@ window.HINDUTVA = {
      "where": "Ekal Bhavan, Kolkata",
      "when": "2 November",
      "page": 43,
-     "detail": "Karyakartas' meet with 68 men and 30 women attending; talks on yoga in healing, the organisation's goals and future plans, with former Swastika editor Dr Bijay Adhya present."
+     "detail": "Karyakartas' meet with 68 men and 30 women attending; talks on yoga in healing, the organisation's goals and future plans, with former Swastika editor Dr Bijay Adhya present.",
+     "title_bn": "আরোগ্য ভারতী দক্ষিণবঙ্গ কার্যকর্তা সম্মেলন",
+     "org_bn": "অন্যান্য: আরোগ্য ভারতী",
+     "type_bn": "সম্মেলন",
+     "where_bn": "একল ভবন, কলকাতা",
+     "when_bn": "২ নভেম্বর",
+     "detail_bn": "কার্যকর্তাদের বৈঠকে ৬৮ জন পুরুষ ও ৩০ জন মহিলা উপস্থিত ছিলেন; আরোগ্যলাভে যোগব্যায়াম, সংগঠনের লক্ষ্য ও ভবিষ্যৎ পরিকল্পনা নিয়ে আলোচনা হয়; উপস্থিত ছিলেন স্বস্তিকার প্রাক্তন সম্পাদক ড. বিজয় আঢ্য।"
     },
     {
      "title": "Narendra Cup women's football tournament",
@@ -8290,7 +12445,13 @@ window.HINDUTVA = {
      "where": "Raiganj, Uttar/Dakshin Dinajpur",
      "when": "23 December 2025",
      "page": 47,
-     "detail": "Eight women's teams, one from each assembly constituency of the two Dinajpur districts, competed; MP Kartik Chandra Pal attended."
+     "detail": "Eight women's teams, one from each assembly constituency of the two Dinajpur districts, competed; MP Kartik Chandra Pal attended.",
+     "title_bn": "নরেন্দ্র কাপ মহিলা ফুটবল প্রতিযোগিতা",
+     "org_bn": "অন্যান্য: সিধু-কানহু মার্শাল ক্লাব ফুটবল স্পোর্টস কমিটি",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "রায়গঞ্জ, উত্তর/দক্ষিণ দিনাজপুর",
+     "when_bn": "২৩ ডিসেম্বর ২০২৫",
+     "detail_bn": "দুই দিনাজপুর জেলার প্রতিটি বিধানসভা কেন্দ্র থেকে একটি করে মোট আটটি মহিলা দল প্রতিযোগিতায় অংশ নেয়; সাংসদ কার্তিক চন্দ্র পাল উপস্থিত ছিলেন।"
     },
     {
      "title": "ABRSM (higher education) karyakarta abhyasvarga",
@@ -8299,7 +12460,13 @@ window.HINDUTVA = {
      "where": "Uma Bhavan near Curzon Gate, Bardhaman",
      "when": "21 December 2025",
      "page": 47,
-     "detail": "One-day, four-session training for 32 karyakartas from eight districts and two universities, themed on the organisation's role in the Sangh centenary."
+     "detail": "One-day, four-session training for 32 karyakartas from eight districts and two universities, themed on the organisation's role in the Sangh centenary.",
+     "title_bn": "এবিআরএসএম (উচ্চশিক্ষা) কার্যকর্তা অভ্যাসবর্গ",
+     "org_bn": "অন্যান্য: অখিল ভারতীয় রাষ্ট্রীয় শৈক্ষিক মহাসংঘ (এবিআরএসএম)",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "কার্জন গেটের কাছে উমা ভবন, বর্ধমান",
+     "when_bn": "২১ ডিসেম্বর ২০২৫",
+     "detail_bn": "আটটি জেলা ও দুটি বিশ্ববিদ্যালয়ের ৩২ জন কার্যকর্তার জন্য একদিনের চার অধিবেশনের প্রশিক্ষণ, বিষয় ছিল সঙ্ঘের শতবর্ষে সংগঠনের ভূমিকা।"
     },
     {
      "title": "Pranab Kanya Sangha five-day Trishul Utsav training",
@@ -8308,7 +12475,13 @@ window.HINDUTVA = {
      "where": "Hridaypur, near Barasat",
      "when": "December 2025",
      "page": 45,
-     "detail": "Mentioned alongside Tulsi Pujan as a five-day programme with training; the digest text is truncated."
+     "detail": "Mentioned alongside Tulsi Pujan as a five-day programme with training; the digest text is truncated.",
+     "title_bn": "প্রণব কন্যা সঙ্ঘের পাঁচ দিনের ত্রিশূল উৎসব প্রশিক্ষণ",
+     "org_bn": "অন্যান্য: প্রণব কন্যা সঙ্ঘ",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "হৃদয়পুর, বারাসতের কাছে",
+     "when_bn": "ডিসেম্বর ২০২৫",
+     "detail_bn": "তুলসী পূজনের পাশাপাশি প্রশিক্ষণসহ পাঁচদিনের কর্মসূচি হিসেবে উল্লিখিত; সংক্ষিপ্তসারের পাঠ অসম্পূর্ণ।"
     }
    ],
    "narratives": [
@@ -8317,79 +12490,114 @@ window.HINDUTVA = {
      "target": "RSS praised; critics and 'misinformation' attacked",
      "claim": "The Sangh's centenary outreach in Bengal won over the public and dispelled propaganda about it; the Sangh was also repeatedly opposed, banned and attacked by Congress and communists yet never retaliated.",
      "heading": "সঙ্ঘ শতবর্ষ : এক নবদিগন্ত",
-     "page": 5
+     "page": 5,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "আরএসএসের প্রশংসা; সমালোচক ও 'অপপ্রচার'-এর উপর আক্রমণ",
+     "claim_bn": "বাংলায় সংঘের শতবর্ষের জনসংযোগ সাধারণ মানুষের মন জয় করেছে এবং সংঘ সম্পর্কে প্রচারিত অপপ্রচার দূর করেছে; কংগ্রেস ও কমিউনিস্টরা বারবার সংঘের বিরোধিতা করেছে, নিষিদ্ধ করেছে ও আক্রমণ করেছে, তবু সংঘ কখনও প্রতিশোধ নেয়নি।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "RSS / Mohan Bhagwat praised",
      "claim": "Bhagwat 'came, saw and conquered' Bengal, answering even hard critics' questions with restraint, with even sceptics like YouTuber Safiqul Islam and Suman Chattopadhyay reportedly impressed.",
      "heading": "শিলিগুড়ি ও কলকাতায় এলেন, দেখলেন এবং জয় করলেন সরসঙ্ঘচালক",
-     "page": 28
+     "page": 28,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "আরএসএস / মোহন ভাগবত প্রশংসিত",
+     "claim_bn": "ভাগবত বাংলায় 'এলেন, দেখলেন, জয় করলেন', কঠিন সমালোচকদের প্রশ্নেরও সংযমের সঙ্গে উত্তর দিয়েছেন, এমনকি ইউটিউবার সফিকুল ইসলাম ও সুমন চট্টোপাধ্যায়ের মতো সংশয়বাদীরাও নাকি প্রভাবিত হয়েছেন।"
     },
     {
      "theme": "anti-Left/CPIM",
      "target": "Communists / Left",
      "claim": "Communists make comments on the Gita and Vivekananda without knowing them, selectively quote Vivekananda for political damage control, are irrelevant and leaderless, and betray their own ideological bankruptcy.",
      "heading": "গীতা ও বিবেকানন্দকে না জেনেই কমিউনিস্টদের মন্তব্য তাদের অসারতা ও রাজনৈতিক দেউলিয়াপনার বহিঃপ্রকাশ",
-     "page": 11
+     "page": 11,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "কমিউনিস্ট / বামপন্থী",
+     "claim_bn": "কমিউনিস্টরা গীতা ও বিবেকানন্দকে না জেনেই তাঁদের নিয়ে মন্তব্য করে, রাজনৈতিক ক্ষতি সামাল দিতে বেছে বেছে বিবেকানন্দের উদ্ধৃতি দেয়, তারা অপ্রাসঙ্গিক ও নেতৃত্বহীন, এবং নিজেদের আদর্শগত দেউলিয়াপনা প্রকাশ করে।"
     },
     {
      "theme": "Bangladesh & Hindu persecution",
      "target": "Bangladesh interim government, BNP, jihadis",
      "claim": "Bangladeshi Hindus are being killed with tacit state backing, with Dipu Chandra Das's lynching and arson in Rajbari and Rowjan cited, and no justice for minorities.",
      "heading": "নরক যন্ত্রণায় বাংলাদেশের ধর্মীয় সংখ্যালঘুরা",
-     "page": 8
+     "page": 8,
+     "theme_bn": "বাংলাদেশ ও হিন্দু নির্যাতন",
+     "target_bn": "বাংলাদেশের অন্তর্বর্তী সরকার, বিএনপি, জিহাদিরা",
+     "claim_bn": "রাষ্ট্রের নীরব সমর্থনে বাংলাদেশে হিন্দুদের হত্যা করা হচ্ছে বলে বলা হয়েছে; দীপু চন্দ্র দাসের পিটিয়ে হত্যা এবং রাজবাড়ী ও রৌজানে অগ্নিসংযোগের উল্লেখ করে বলা হয়েছে সংখ্যালঘুরা বিচার পাচ্ছেন না।"
     },
     {
      "theme": "anti-TMC/state govt",
      "target": "Mamata Banerjee government / Kolkata Police",
      "claim": "The Kolkata Police lathicharge on Hindu protesters and sadhus at the Bangladesh Deputy High Commission shows the state government is anti-Hindu, with Suvendu Adhikari saying it is no different from Yunus's administration.",
      "heading": "বাংলাদেশ দূতাবাস অভিযান",
-     "page": 44
+     "page": 44,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "মমতা বন্দ্যোপাধ্যায়ের সরকার / কলকাতা পুলিশ",
+     "claim_bn": "বাংলাদেশ উপ-হাইকমিশনের সামনে হিন্দু বিক্ষোভকারী ও সাধুদের উপর কলকাতা পুলিশের লাঠিচার্জ প্রমাণ করে রাজ্য সরকার হিন্দুবিরোধী; শুভেন্দু অধিকারী বলেছেন, এটি ইউনূসের প্রশাসন থেকে আলাদা কিছু নয়।"
     },
     {
      "theme": "West Bengal elections",
      "target": "Election Commission / state voters",
      "claim": "The Election Commission's 'purification' (SIR) of rolls is restoring lost voting rights and courage to the people of West Bengal.",
      "heading": "রাজ্যের মানুষের হারিয়ে যাওয়া ভোটাধিকার ও সাহস জোগাচ্ছে নির্বাচন কমিশন নির্বিষকরণ কমিশন",
-     "page": 6
+     "page": 6,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "নির্বাচন কমিশন / রাজ্যের ভোটার",
+     "claim_bn": "নির্বাচন কমিশনের ভোটার তালিকা 'শুদ্ধিকরণ' (এসআইআর) পশ্চিমবঙ্গের মানুষকে হারানো ভোটাধিকার ও সাহস ফিরিয়ে দিচ্ছে।"
     },
     {
      "theme": "infiltration/demography",
      "target": "Infiltrators / Islamic radicalism",
      "claim": "Bhagwat says infiltration and Islamic radicalism endanger West Bengal's Hindus, the only solution is organised Hindu society, and the Centre must take strict border-security steps.",
      "heading": "কলকাতা বক্তৃতামালা – প্রশ্নোত্তর",
-     "page": 32
+     "page": 32,
+     "theme_bn": "অনুপ্রবেশ/জনবিন্যাস",
+     "target_bn": "অনুপ্রবেশকারী / ইসলামি মৌলবাদ",
+     "claim_bn": "ভাগবত বলেছেন অনুপ্রবেশ ও ইসলামি মৌলবাদ পশ্চিমবঙ্গের হিন্দুদের বিপন্ন করছে, একমাত্র সমাধান সংগঠিত হিন্দু সমাজ, এবং কেন্দ্রকে সীমান্ত-সুরক্ষায় কঠোর পদক্ষেপ নিতে হবে।"
     },
     {
      "theme": "Hindu unity & identity",
      "target": "Hindu society",
      "claim": "India is a Hindu rashtra needing no constitutional recognition, all Indians are culturally Hindu, and a population policy with at least three children is ideal.",
      "heading": "কলকাতা বক্তৃতামালা – প্রশ্নোত্তর",
-     "page": 32
+     "page": 32,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "হিন্দু সমাজ",
+     "claim_bn": "ভারত এক হিন্দু রাষ্ট্র যার সাংবিধানিক স্বীকৃতির প্রয়োজন নেই, সব ভারতীয়ই সাংস্কৃতিক দিক থেকে হিন্দু, এবং অন্তত তিন সন্তানের জনসংখ্যা নীতিই আদর্শ।"
     },
     {
      "theme": "'love jihad'/conversion",
      "target": "Hindu society's neglect of its own people",
      "claim": "Conversions happen because Hindu society neglects the marginalised; embracing them will prevent them from straying.",
      "heading": "কলকাতা বক্তৃতামালা – প্রশ্নোত্তর",
-     "page": 32
+     "page": 32,
+     "theme_bn": "'লাভ জিহাদ'/ধর্মান্তরণ",
+     "target_bn": "নিজের মানুষের প্রতি হিন্দু সমাজের উদাসীনতা",
+     "claim_bn": "প্রান্তিক মানুষদের প্রতি হিন্দু সমাজের অবহেলার কারণে ধর্মান্তরণ ঘটে; তাঁদের আপন করে নিলে তাঁরা পথভ্রষ্ট হবেন না।"
     },
     {
      "theme": "history & icons",
      "target": "Hedgewar and the Sangh's origins",
      "claim": "Dr Hedgewar was a revolutionary and patriot who built the Sangh on selfless character-building; Hindu society is the core of the nation.",
      "heading": "সঙ্ঘশতবর্ষে রাষ্ট্রসাধনার নবদিগন্ত / সঙ্ঘোপলব্ধি",
-     "page": 25
+     "page": 25,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "হেডগেওয়ার ও সঙ্ঘের সূচনা",
+     "claim_bn": "ডাঃ হেডগেওয়ার ছিলেন একজন বিপ্লবী ও দেশপ্রেমিক, যিনি নিঃস্বার্থ চরিত্র গঠনের ভিত্তিতে সংঘ গড়েছিলেন; হিন্দু সমাজই জাতির মূল।"
     },
     {
      "theme": "culture/religion",
      "target": "Secular culture",
      "claim": "Secular songs are warned against as a danger to Bengali Hindus.",
      "heading": "সেকুলার গান! বাঙ্গালি হিন্দুর সাবধান হওয়া উচিত",
-     "page": 3
+     "page": 3,
+     "theme_bn": "সংস্কৃতি/ধর্ম",
+     "target_bn": "ধর্মনিরপেক্ষ সংস্কৃতি",
+     "claim_bn": "ধর্মনিরপেক্ষ গানকে বাঙালি হিন্দুদের পক্ষে বিপজ্জনক বলে সতর্ক করা হয়েছে।"
     }
-   ]
+   ],
+   "label_bn": "",
+   "summary_bn": "২০২৬ সালের ৫ জানুয়ারির সংখ্যাটি পশ্চিমবঙ্গে আরএসএসের শতবর্ষের জনসংযোগকে কেন্দ্র করে সাজানো, বিশেষ করে সরসংঘচালক মোহন ভাগবতের ২০২৫ সালের ১৮–২১ ডিসেম্বরের সফর (শিলিগুড়িতে যুব সম্মেলন, কলকাতায় 'বিশিষ্ট নাগরিক' বক্তৃতামালা ও প্রশ্নোত্তর পর্ব), যার মাধ্যমে বাঙালি নাগরিক সমাজের মন জয় করা গেছে বলে দাবি করা হয়েছে। এর সঙ্গে রয়েছে বাংলাদেশে হিন্দুদের উপর হামলার (দীপু চন্দ্র দাস ও অন্যান্য) ব্যাপক প্রতিবেদন, কলকাতা ও দিল্লিতে বিক্ষোভ এবং কলকাতা পুলিশের লাঠিচার্জের সমালোচনা। এতে স্বামী বিবেকানন্দ ও গীতাকে বামপন্থী/কমিউনিস্টদের 'আত্মসাৎ' করার অভিযোগে আক্রমণ করা হয়েছে, নির্বাচন কমিশনের ভোটার তালিকা সংশোধনের (এসআইআর) প্রশংসা করা হয়েছে এবং ২০২৬ সালের রাজ্য নির্বাচনের আগে অনুপ্রবেশ ও 'হিন্দু ঐক্যের' বক্তব্যকে জোরালো করা হয়েছে। ছোট খবরগুলিতে সহযোগী সংগঠনের কার্যক্রমের (আরোগ্য ভারতী, এবিআরএসএম, দেশের মাটি কল্যাণ মন্দির, মহিলা ফুটবল প্রতিযোগিতা) প্রতিবেদন রয়েছে।"
   }
  ]
 };

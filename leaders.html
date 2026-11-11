@@ -1,0 +1,258 @@
+<!doctype html>
+<html lang="bn">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Swastika Watch</title>
+<meta name="description" content="Index of CPIM leaders mentioned in the RSS weekly Swastika, with links to the exact page on eswastika.com.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Bengali:wght@400;600;700&family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+nav.top .sp{flex:1}
+nav.top button.lg{font:inherit;font-size:13px;cursor:pointer;color:var(--ink);border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:5px 12px}
+:lang(bn) body{font-family:"Noto Sans Bengali",Inter,system-ui,sans-serif}
+
+:root{
+  --bg:#f6f4f1; --surface:#ffffff; --ink:#1d1b19; --muted:#6b6560; --line:#e4dfd8;
+  --accent:#b3261e; --accent-soft:#fbe9e7; --chip:#efebe6; --auto:#8a5a00; --auto-soft:#fff4dc;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#151413; --surface:#1f1d1b; --ink:#eeeae5; --muted:#a39d96; --line:#33302c;
+    --accent:#ff8a80; --accent-soft:#3a1f1d; --chip:#2a2725; --auto:#f0c060; --auto-soft:#33291a;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#151413; --surface:#1f1d1b; --ink:#eeeae5; --muted:#a39d96; --line:#33302c;
+  --accent:#ff8a80; --accent-soft:#3a1f1d; --chip:#2a2725; --auto:#f0c060; --auto-soft:#33291a;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.55 Inter,"Noto Sans Bengali",system-ui,sans-serif}
+.bn{font-family:"Noto Sans Bengali",Inter,sans-serif}
+.wrap{max-width:1040px;margin:0 auto;padding:0 16px}
+header{padding:32px 0 16px}
+h1{margin:0;font-size:28px;letter-spacing:-.01em}
+h1 span{color:var(--accent)}
+.sub{color:var(--muted);margin:6px 0 0;max-width:720px}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(118px,1fr));gap:10px;margin:20px 0 4px}
+.stat{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:10px 12px;min-width:0}
+.stat b{display:block;font-size:22px}
+.stat small{color:var(--muted)}
+button.stat{font:inherit;color:var(--ink);text-align:left;cursor:pointer;transition:border-color .15s,background .15s;display:flex;flex-direction:column;justify-content:flex-start;align-items:flex-start}
+button.stat .go{margin-top:auto;padding-top:4px}
+button.stat:hover{border-color:var(--accent)}
+button.stat:focus-visible,.chip:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+button.stat[aria-pressed="true"]{border-color:var(--accent);background:var(--accent-soft)}
+button.stat[aria-pressed="true"] b{color:var(--accent)}
+.stat .go{display:block;font-size:11.5px;color:var(--accent);margin-top:2px}
+.controls{position:sticky;top:0;z-index:5;background:var(--bg);padding:12px 0;border-bottom:1px solid var(--line)}
+.chips{display:flex;gap:8px;flex-wrap:wrap}
+.chip{border:1px solid var(--line);background:var(--chip);color:var(--ink);border-radius:999px;padding:6px 12px;cursor:pointer;font:inherit;font-size:13px}
+.chip[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:#fff}
+.chip .n{opacity:.7;margin-left:4px}
+.chip.feat{font-weight:600}
+.row2{display:flex;gap:8px;margin-top:10px;flex-wrap:wrap}
+input[type=search],select{font:inherit;padding:8px 10px;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--ink)}
+input[type=search]{flex:1;min-width:180px}
+.more{background:none;border:0;color:var(--accent);cursor:pointer;font:inherit;font-size:13px;padding:6px 4px}
+main{padding:16px 0 48px}
+.month{margin:22px 0 8px;font-size:13px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted)}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:14px 16px;margin-bottom:10px;display:grid;grid-template-columns:96px 1fr auto;gap:14px;align-items:start}
+.date{font-weight:600;font-size:14px}
+.date small{display:block;color:var(--muted);font-weight:400}
+.head{font-size:17px;font-weight:600;line-height:1.4;margin:0}
+.meta{color:var(--muted);font-size:13px;margin-top:2px}
+.note{font-size:13.5px;margin-top:6px}
+.tags{display:flex;gap:6px;flex-wrap:wrap;margin-top:8px}
+.tag{background:var(--accent-soft);color:var(--accent);border-radius:6px;padding:2px 8px;font-size:12.5px}
+.tag.other{background:var(--chip);color:var(--ink)}
+.tag.auto{background:var(--auto-soft);color:var(--auto)}
+a.open{white-space:nowrap;text-decoration:none;background:var(--ink);color:var(--bg);border-radius:8px;padding:8px 12px;font-size:13px;font-weight:600}
+a.open:hover{background:var(--accent);color:#fff}
+.empty{color:var(--muted);padding:40px 0;text-align:center}
+nav.top{display:flex;gap:6px;margin-bottom:14px;flex-wrap:wrap}
+nav.top a{font-size:13px;text-decoration:none;color:var(--ink);border:1px solid var(--line);background:var(--chip);border-radius:999px;padding:5px 12px}
+nav.top a[aria-current]{background:var(--accent);border-color:var(--accent);color:#fff}
+footer{color:var(--muted);font-size:12.5px;padding:24px 0 40px;border-top:1px solid var(--line)}
+.card>div{min-width:0}
+.head,.note,.meta{overflow-wrap:anywhere}
+.chip{max-width:100%}
+@media (max-width:640px){
+  header{padding:24px 0 8px}
+  h1{font-size:24px}
+  .stats{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;margin-top:14px}
+  .stat{min-width:0;padding:8px 10px}
+  .stats>div.stat{display:none}
+  .stat b{font-size:18px}
+  .stat small{font-size:11px;line-height:1.3;display:block;overflow-wrap:anywhere}
+  .controls{padding:8px 0}
+  .chips{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;-webkit-overflow-scrolling:touch;margin:0 -16px;padding:0 16px}
+  .chips::-webkit-scrollbar{display:none}
+  .chip,.more{flex:none}
+  .row2{margin-top:8px;gap:6px;flex-wrap:nowrap}
+  input[type=search]{min-width:0;flex:1 1 auto;padding:7px 9px}
+  select{flex:none;max-width:92px;padding:7px 4px}
+  .card{grid-template-columns:minmax(0,1fr);gap:6px}
+  .date{display:flex;gap:8px;align-items:baseline}
+  a.open{justify-self:start}
+}
+</style>
+</head>
+<body>
+<script src="lang.js"></script>
+<div class="wrap">
+  <header>
+    <nav class="top" id="nav"></nav>
+    <h1 id="h1"></h1>
+    <p class="sub" id="sub"></p>
+    <div class="stats" id="stats"></div>
+  </header>
+</div>
+<div class="controls">
+  <div class="wrap">
+    <div class="chips" id="chips"></div>
+    <div class="row2">
+      <input type="search" id="q">
+      <select id="year"></select>
+      <select id="status"></select>
+    </div>
+  </div>
+</div>
+<div class="wrap">
+  <main id="list"></main>
+  <footer id="foot"></footer>
+</div>
+<script src="data/mentions.js"></script>
+<script>
+(function(){
+  const D = window.SWASTIKA || {meta:{}, mentions:[]};
+  const M = D.mentions, meta = D.meta;
+  const featured = meta.featured || [];
+  const $ = id => document.getElementById(id);
+  document.title = T("স্বস্তিকা ওয়াচ · সিপিআই(এম) নেতা", "Swastika Watch · CPIM leaders");
+  $("nav").innerHTML = `<a href="index.html">${T("হিন্দুত্ব ২০২৬","Hindutva 2026")}</a><a href="leaders.html" aria-current="page">${T("সিপিআই(এম) নেতা","CPIM leaders")}</a><span class="sp"></span>` +
+    `<button class="lg" onclick="setLang('${LANG==="bn"?"en":"bn"}')">${LANG==="bn"?"English":"বাংলা"}</button>`;
+  $("h1").innerHTML = T("স্বস্তিকা <span>ওয়াচ</span>", "Swastika <span>Watch</span>");
+  $("sub").innerHTML = T(`আরএসএস-এর সাপ্তাহিক <span class="bn">স্বস্তিকা</span>-য় যে সব লেখায় সিপিআই(এম) নেতাদের নাম এসেছে, তার শিরোনাম, লেখক এবং <a href="https://www.eswastika.com/" target="_blank" rel="noopener">eswastika.com</a>-এ মূল পাতার লিঙ্ক।`,
+    `Every article in the RSS weekly <span class="bn">স্বস্তিকা</span> that names a CPIM leader, with the heading, author and a link that opens the exact page on <a href="https://www.eswastika.com/" target="_blank" rel="noopener">eswastika.com</a>.`);
+  $("q").placeholder = T("খুঁজুন…", "Search…");
+  $("status").innerHTML = `<option value="">${T("সব","All")}</option><option value="verified">${T("যাচাই করা","Verified")}</option><option value="auto">${T("যাচাই বাকি","Unchecked")}</option>`;
+  const BNAME = {}; M.forEach(m => { if (m.leader_bn) BNAME[m.leader] = m.leader_bn; });
+  const nm = l => LANG === "bn" && BNAME[l] ? BNAME[l] : l;
+  const state = {leader: "__featured", q: "", year: "", status: "", showAll: false};
+  const bnNum = s => String(s).replace(/\d/g, d => "০১২৩৪৫৬৭৮৯"[d]);
+  const fmt = iso => {
+    if (!/^\d{4}-\d\d-\d\d$/.test(iso)) return {d: iso, y: ""};
+    const dt = new Date(iso + "T00:00:00");
+    return {d: dt.toLocaleDateString(LOC, {day: "numeric", month: "short"}), y: NUM(dt.getFullYear())};
+  };
+  const esc = s => String(s || "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+
+  // counts per leader (articles)
+  const counts = {};
+  M.forEach(m => counts[m.leader] = (counts[m.leader] || 0) + 1);
+  const others = Object.keys(counts).filter(l => !featured.includes(l)).sort((a,b) => counts[b]-counts[a]);
+
+  // stats
+  const featArticles = new Set(M.filter(m => m.featured).map(m => m.issue + m.heading)).size;
+  const totalArticles = new Set(M.map(m => m.issue + m.heading)).size;
+  function stats(){
+    const tile = (val, n, label) =>
+      `<button class="stat" data-v="${esc(val)}" aria-pressed="${state.leader===val}">` +
+      `<b>${NUM(n)}</b><small>${esc(label)}</small><span class="go">${state.leader===val ? T("দেখানো হচ্ছে ↓","Showing ↓") : T("লেখাগুলি দেখুন →","View articles →")}</span></button>`;
+    const el = document.getElementById("stats");
+    el.innerHTML =
+      `<div class="stat"><b>${NUM(meta.issues_scanned || "–")}</b><small>${T("সংখ্যা খোঁজা হয়েছে","issues searched")}</small></div>` +
+      featured.map(l => tile(l, counts[l] || 0, nm(l))).join("") +
+      tile("", totalArticles, T("মোট লেখা","articles in total"));
+    el.querySelectorAll("button.stat").forEach(b => b.onclick = () => {
+      state.leader = state.leader === b.dataset.v ? "__featured" : b.dataset.v;
+      chips(); render();
+      const list = document.getElementById("list");
+      const top = list.getBoundingClientRect().top + window.scrollY - document.querySelector(".controls").offsetHeight - 8;
+      window.scrollTo({top, behavior: "smooth"});
+    });
+  }
+
+  // year select
+  const years = [...new Set(M.map(m => m.date.slice(0,4)).filter(y => /^\d{4}$/.test(y)))].sort().reverse();
+  const ys = document.getElementById("year");
+  ys.innerHTML = `<option value="">${T("বছর","Year")}</option>` + years.map(y => `<option value="${y}">${NUM(y)}</option>`).join("");
+
+  function chips(){
+    const mk = (val, label, n, cls) =>
+      `<button class="chip ${cls||""}" data-v="${esc(val)}" aria-pressed="${state.leader===val}">${esc(label)}${n!=null?`<span class="n">${NUM(n)}</span>`:""}</button>`;
+    let h = mk("__featured", T("প্রধান নেতারা","Key leaders"), null, "feat") + mk("", T("সবাই","Everyone"), null);
+    h += featured.map(l => mk(l, nm(l), counts[l] || 0, "feat")).join("");
+    const shown = state.showAll ? others : others.slice(0, 4);
+    h += shown.map(l => mk(l, nm(l), counts[l])).join("");
+    if (others.length > 4) h += `<button class="more" id="more">${state.showAll ? T("কম দেখান","Fewer") : "+" + NUM(others.length - 4) + T(" আরও"," more")}</button>`;
+    const el = document.getElementById("chips");
+    el.innerHTML = h;
+    el.querySelectorAll(".chip").forEach(b => b.onclick = () => { state.leader = b.dataset.v; chips(); render(); });
+    stats();
+    const mo = document.getElementById("more");
+    if (mo) mo.onclick = () => { state.showAll = !state.showAll; chips(); };
+  }
+
+  function render(){
+    const q = state.q.trim().toLowerCase();
+    let rows = M.filter(m =>
+      (state.leader === "" || (state.leader === "__featured" ? m.featured : m.leader === state.leader)) &&
+      (!state.year || m.date.startsWith(state.year)) &&
+      (!state.status || m.status === state.status) &&
+      (!q || [m.heading, m.author, m.note, m.note_bn, m.leader, m.leader_bn].join(" ").toLowerCase().includes(q)));
+    // group by article
+    const groups = new Map();
+    rows.forEach(m => {
+      const k = m.issue + "|" + m.heading;
+      if (!groups.has(k)) groups.set(k, {...m, leaders: [], notes: []});
+      const g = groups.get(k);
+      g.leaders.push(m);
+      const nt = L(m, "note"); if (nt && !g.notes.includes(nt)) g.notes.push(nt);
+      if (m.page < g.page) g.page = m.page;
+    });
+    // all leaders named in that article (for context tags)
+    const allIn = {};
+    M.forEach(m => { const k = m.issue + "|" + m.heading; (allIn[k] = allIn[k] || new Set()).add(m.leader); });
+
+    const list = document.getElementById("list");
+    if (!groups.size) { list.innerHTML = `<p class="empty">${T("এই ফিল্টারে কোনও লেখা নেই।","No articles match these filters.")}</p>`; return; }
+    let h = "", lastMonth = "";
+    [...groups.values()].sort((a,b) => (b.date + String(1000-b.page).padStart(4,"0")).localeCompare(a.date + String(1000-a.page).padStart(4,"0")))
+    .forEach(g => {
+      const month = /^\d{4}-\d\d/.test(g.date) ? new Date(g.date + "T00:00:00").toLocaleDateString(LOC, {month: "long", year: "numeric"}) : T("বিশেষ সংখ্যা","Special issues");
+      if (month !== lastMonth) { h += `<div class="month">${month}</div>`; lastMonth = month; }
+      const f = fmt(g.date);
+      const k = g.issue + "|" + g.heading;
+      const tags = [...allIn[k]].map(l => `<span class="tag ${featured.includes(l) ? "" : "other"}">${esc(nm(l))}</span>`).join("") +
+        (g.status === "auto" ? `<span class="tag auto">${T("স্বয়ংক্রিয়ভাবে পাওয়া · এখনও যাচাই হয়নি","auto-detected · not yet checked")}</span>` : "");
+      const pages = g.leaders.map(x => x.mention_pages)[0];
+      h += `<article class="card">
+        <div class="date">${g.label ? T("পূজা সংখ্যা", esc(g.label)) : f.d}<small>${f.y}</small></div>
+        <div>
+          <p class="head bn">${esc(g.heading)}</p>
+          <div class="meta"><span class="bn">${esc(g.author)}</span>${g.author ? " · " : ""}${T("উল্লেখ পৃ. ","mentioned on p. ")}${esc(NUM(pages))}${g.article_pages && g.article_pages !== String(g.page) ? ` · ${T("লেখা পৃ. ","article pp. ")}${esc(NUM(g.article_pages))}` : ""}</div>
+          ${g.notes.length ? `<div class="note">${esc(g.notes.join(" / "))}</div>` : ""}
+          <div class="tags">${tags}</div>
+        </div>
+        <a class="open" href="https://www.eswastika.com/${esc(g.pdf)}#page=${g.page}" target="_blank" rel="noopener" >${T("পৃ. " + NUM(g.page) + " খুলুন","Open p. " + g.page)} ↗</a>
+      </article>`;
+    });
+    list.innerHTML = h;
+  }
+
+  document.getElementById("q").oninput = e => { state.q = e.target.value; render(); };
+  ys.onchange = e => { state.year = e.target.value; render(); };
+  document.getElementById("status").onchange = e => { state.status = e.target.value; render(); };
+  document.getElementById("foot").innerHTML = T(
+    `${esc(meta.first_issue)} থেকে ${esc(meta.last_issue)} পর্যন্ত সংখ্যা। হালনাগাদ ${esc(meta.generated)}; প্রতি রবিবার নতুন করে দেখা হয়। পাতাগুলি ওসিআর করা, এবং প্রতিটি যাচাই করা তথ্য মূল পাতার ছবির সঙ্গে মেলানো হয়েছে। “স্বয়ংক্রিয়ভাবে পাওয়া” চিহ্নিতগুলি সাপ্তাহিক রান থেকে এসেছে, যাচাই বাকি। লিঙ্কগুলি eswastika.com-এ মূল পিডিএফ খোলে; বেশিরভাগ ব্রাউজার সরাসরি দেখানো পাতায় যায়।`,
+    `Covers issues ${esc(meta.first_issue)} to ${esc(meta.last_issue)}. Updated ${esc(meta.generated)}; refreshed every Sunday. ` +
+    `Pages were OCR'd and each verified entry was checked against the page image. Entries marked “auto-detected” come from the weekly run and are pending review. ` +
+    `“Open” links point to the original PDF on eswastika.com; most browsers jump to the page shown.`);
+  chips(); render();
+})();
+</script>
+</body>
+</html>

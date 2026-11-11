@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Swastika Watch</title>
-<meta name="description" content="Index of CPIM leaders mentioned in the RSS weekly Swastika, with links to the exact page on eswastika.com.">
+<title>Swastika Watch · হিন্দুত্ব ২০২৬</title>
+<meta name="description" content="Hindutva programs and propaganda lines in the RSS weekly Swastika, 2026, issue by issue, with links to the exact page.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Bengali:wght@400;600;700&family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
@@ -67,54 +67,72 @@ main{padding:16px 0 48px}
 a.open{white-space:nowrap;text-decoration:none;background:var(--ink);color:var(--bg);border-radius:8px;padding:8px 12px;font-size:13px;font-weight:600}
 a.open:hover{background:var(--accent);color:#fff}
 .empty{color:var(--muted);padding:40px 0;text-align:center}
-nav.top{display:flex;gap:6px;margin-bottom:14px;flex-wrap:wrap}
-nav.top a{font-size:13px;text-decoration:none;color:var(--ink);border:1px solid var(--line);background:var(--chip);border-radius:999px;padding:5px 12px}
-nav.top a[aria-current]{background:var(--accent);border-color:var(--accent);color:#fff}
 footer{color:var(--muted);font-size:12.5px;padding:24px 0 40px;border-top:1px solid var(--line)}
 .card>div{min-width:0}
 .head,.note,.meta{overflow-wrap:anywhere}
 .chip{max-width:100%}
+
+nav.top{display:flex;gap:6px;margin-bottom:14px;flex-wrap:wrap}
+nav.top a{font-size:13px;text-decoration:none;color:var(--ink);border:1px solid var(--line);background:var(--chip);border-radius:999px;padding:5px 12px}
+nav.top a[aria-current]{background:var(--accent);border-color:var(--accent);color:#fff}
+a{color:var(--accent)}
+h2{font-size:20px;margin:34px 0 10px;letter-spacing:-.01em}
+.prose p{margin:0 0 12px;max-width:820px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:10px}
+.box{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:14px 16px;min-width:0}
+.box h3{margin:0 0 4px;font-size:15.5px;line-height:1.35}
+.box p{margin:6px 0 0;font-size:14px}
+.refs{display:flex;gap:6px;flex-wrap:wrap;margin-top:10px}
+.ref{font-size:12px;text-decoration:none;background:var(--chip);color:var(--ink);border-radius:6px;padding:2px 8px;max-width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.ref:hover{background:var(--accent);color:#fff}
+.tl{border-left:2px solid var(--line);margin-left:6px;padding-left:16px}
+.tl div{margin-bottom:10px;max-width:820px}
+.tl b{display:block;font-size:13px;color:var(--accent)}
+.issue{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:14px 16px;margin-bottom:12px}
+.issue>summary{cursor:pointer;list-style:none;display:grid;grid-template-columns:96px 1fr;gap:14px}
+.issue>summary::-webkit-details-marker{display:none}
+.issue .counts{color:var(--muted);font-size:12.5px;margin-top:4px}
+.items{margin-top:12px;display:grid;gap:8px}
+.item{display:grid;grid-template-columns:1fr auto;gap:12px;border-top:1px solid var(--line);padding-top:8px;align-items:start}
+.item .t{font-weight:600;font-size:14.5px}
+.item .d{font-size:13.5px;margin-top:2px}
+.item .m{color:var(--muted);font-size:12.5px}
+a.pg{white-space:nowrap;text-decoration:none;font-size:12.5px;font-weight:600;border:1px solid var(--line);border-radius:6px;padding:3px 8px;color:var(--ink)}
+a.pg:hover{background:var(--accent);color:#fff;border-color:var(--accent)}
+.kind{font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
+.disc{background:var(--auto-soft);color:var(--auto);border-radius:8px;padding:8px 12px;font-size:13px;margin-top:14px;max-width:820px}
 @media (max-width:640px){
-  header{padding:24px 0 8px}
-  h1{font-size:24px}
-  .stats{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;margin-top:14px}
-  .stat{min-width:0;padding:8px 10px}
-  .stats>div.stat{display:none}
-  .stat b{font-size:18px}
-  .stat small{font-size:11px;line-height:1.3;display:block;overflow-wrap:anywhere}
-  .controls{padding:8px 0}
-  .chips{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;-webkit-overflow-scrolling:touch;margin:0 -16px;padding:0 16px}
-  .chips::-webkit-scrollbar{display:none}
-  .chip,.more{flex:none}
-  .row2{margin-top:8px;gap:6px;flex-wrap:nowrap}
-  input[type=search]{min-width:0;flex:1 1 auto;padding:7px 9px}
-  select{flex:none;max-width:92px;padding:7px 4px}
-  .card{grid-template-columns:minmax(0,1fr);gap:6px}
-  .date{display:flex;gap:8px;align-items:baseline}
-  a.open{justify-self:start}
+  header{padding:24px 0 8px} h1{font-size:24px}
+  .grid{grid-template-columns:minmax(0,1fr)}
+  .row2{flex-wrap:wrap} select{flex:1 1 40%;min-width:0}
+  .issue>summary{grid-template-columns:minmax(0,1fr);gap:4px}
 }
+
+nav.top .sp{flex:1}
+nav.top button.lg{font:inherit;font-size:13px;cursor:pointer;color:var(--ink);border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:5px 12px}
+:lang(bn) body{font-family:"Noto Sans Bengali",Inter,system-ui,sans-serif}
 </style>
 </head>
 <body>
+<script src="lang.js"></script>
 <div class="wrap">
   <header>
-    <nav class="top"><a href="index.html" aria-current="page">CPIM leaders</a><a href="hindutva.html">Hindutva 2026</a></nav>
-    <h1>Swastika <span>Watch</span></h1>
-    <p class="sub">Every article in the RSS weekly <span class="bn">স্বস্তিকা</span> that names a CPIM leader, with the heading, author and a link that opens the exact page on <a href="https://www.eswastika.com/" target="_blank" rel="noopener">eswastika.com</a>.</p>
+    <nav class="top" id="nav"></nav>
+    <h1 id="h1"></h1>
+    <p class="sub" id="sub"></p>
     <div class="stats" id="stats"></div>
+    <p class="disc" id="disc"></p>
   </header>
+  <section id="ov"></section>
+  <h2 id="browse"></h2>
 </div>
 <div class="controls">
   <div class="wrap">
-    <div class="chips" id="chips"></div>
+    <div class="chips" id="kinds"></div>
     <div class="row2">
-      <input type="search" id="q" placeholder="Search…" aria-label="Search">
-      <select id="year" aria-label="Year"></select>
-      <select id="status" aria-label="Status">
-        <option value="">All</option>
-        <option value="verified">Verified</option>
-        <option value="auto">Unchecked</option>
-      </select>
+      <input type="search" id="q">
+      <select id="facet"></select>
+      <select id="month"></select>
     </div>
   </div>
 </div>
@@ -122,123 +140,100 @@ footer{color:var(--muted);font-size:12.5px;padding:24px 0 40px;border-top:1px so
   <main id="list"></main>
   <footer id="foot"></footer>
 </div>
-<script src="data/mentions.js"></script>
+<script src="data/hindutva.js"></script>
 <script>
 (function(){
-  const D = window.SWASTIKA || {meta:{}, mentions:[]};
-  const M = D.mentions, meta = D.meta;
-  const featured = meta.featured || [];
-  const state = {leader: "__featured", q: "", year: "", status: "", showAll: false};
-  const bnNum = s => String(s).replace(/\d/g, d => "০১২৩৪৫৬৭৮৯"[d]);
-  const fmt = iso => {
-    if (!/^\d{4}-\d\d-\d\d$/.test(iso)) return {d: iso, y: ""};
-    const dt = new Date(iso + "T00:00:00");
-    return {d: dt.toLocaleDateString("en-GB", {day: "numeric", month: "short"}), y: dt.getFullYear()};
-  };
-  const esc = s => String(s || "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+  const D = window.HINDUTVA || {overview:{}, issues:[]};
+  const I = D.issues, O = D.overview || {};
+  const esc = s => String(s == null ? "" : s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+  const $ = id => document.getElementById(id);
+  document.title = T("স্বস্তিকা ওয়াচ · হিন্দুত্ব ২০২৬", "Swastika Watch · Hindutva 2026");
+  $("nav").innerHTML = `<a href="index.html" aria-current="page">${T("হিন্দুত্ব ২০২৬","Hindutva 2026")}</a><a href="leaders.html">${T("সিপিআই(এম) নেতা","CPIM leaders")}</a><span class="sp"></span>` +
+    `<button class="lg" onclick="setLang('${LANG==="bn"?"en":"bn"}')">${LANG==="bn"?"English":"বাংলা"}</button>`;
+  $("h1").innerHTML = T("হিন্দুত্ব <span>২০২৬</span>", "Hindutva <span>2026</span>");
+  $("sub").innerHTML = T(`আরএসএস-এর বাংলা সাপ্তাহিক <span class="bn">স্বস্তিকা</span>-র ২০২৬ সালের প্রতিটি সংখ্যায় আরএসএস ও তার শাখা সংগঠনগুলির কর্মসূচি এবং পত্রিকাটির প্রচারিত প্রোপাগান্ডা। প্রতিটি তথ্যের সঙ্গে <a href="https://www.eswastika.com/" target="_blank" rel="noopener">eswastika.com</a>-এ মূল পাতার লিঙ্ক দেওয়া আছে।`,
+    `The programs the RSS and its affiliates ran, and the propaganda lines the RSS weekly <span class="bn">স্বস্তিকা</span> pushed, in every 2026 issue. Each entry links to the exact page on <a href="https://www.eswastika.com/" target="_blank" rel="noopener">eswastika.com</a>.`);
+  $("disc").textContent = T("সারাংশগুলি পাতার ওসিআর লেখা থেকে এআই মডেল দিয়ে তৈরি, সবগুলি হাতে মিলিয়ে দেখা হয়নি। উদ্ধৃত করার আগে লিঙ্ক দেওয়া মূল পাতাটি দেখে নিন।",
+    "Summaries were written by an AI model from OCR text of the pages and have not all been checked by hand. Check the linked page before quoting.");
+  $("browse").textContent = T("সংখ্যা অনুযায়ী", "Issue by issue");
+  $("q").placeholder = T("কর্মসূচি, জায়গা, শিরোনাম খুঁজুন…", "Search programs, places, headings…");
+  $("q").setAttribute("aria-label", T("খুঁজুন", "Search"));
 
-  // counts per leader (articles)
-  const counts = {};
-  M.forEach(m => counts[m.leader] = (counts[m.leader] || 0) + 1);
-  const others = Object.keys(counts).filter(l => !featured.includes(l)).sort((a,b) => counts[b]-counts[a]);
+  const byId = Object.fromEntries(I.map(x => [x.issue, x]));
+  const link = (issue, page) => `https://www.eswastika.com/${encodeURIComponent(issue)}.pdf#page=${+page || 1}`;
+  const pujaName = id => { const s = id.replace("puja2026", ""); return T("পূজা সংখ্যা" + (s ? " " + ({a:"ক",b:"খ",c:"গ",d:"ঘ"}[s] || s) : ""), "Puja special" + (s ? " " + s.toUpperCase() : "")); };
+  const day = (iso, o) => new Date(iso + "T00:00:00").toLocaleDateString(LOC, o);
+  const issueName = id => { const x = byId[id]; if (!x) return id; return x.label ? pujaName(id) : day(x.date, {day:"numeric", month:"short"}); };
+  const pg = p => T("পৃ. ", "p. ") + NUM(p);
+  const refs = rs => (rs || []).map(r => `<a class="ref" target="_blank" rel="noopener" href="${link(r.issue, r.page)}" title="${esc(r.heading || "")}">${esc(issueName(r.issue))} · ${pg(r.page)}${r.heading ? ` · <span class="bn">${esc(r.heading)}</span>` : ""}</a>`).join("");
 
-  // stats
-  const featArticles = new Set(M.filter(m => m.featured).map(m => m.issue + m.heading)).size;
-  const totalArticles = new Set(M.map(m => m.issue + m.heading)).size;
-  function stats(){
-    const tile = (val, n, label) =>
-      `<button class="stat" data-v="${esc(val)}" aria-pressed="${state.leader===val}" title="Show the ${n} articles ${val ? "naming " + esc(label) : "in the index"}">` +
-      `<b>${n}</b><small>${esc(label)}</small><span class="go">${state.leader===val ? "Showing ↓" : "View articles →"}</span></button>`;
-    const el = document.getElementById("stats");
-    el.innerHTML =
-      `<div class="stat"><b>${meta.issues_scanned || "–"}</b><small>issues searched</small></div>` +
-      featured.map(l => tile(l, counts[l] || 0, l)).join("") +
-      tile("", totalArticles, "articles in total");
-    el.querySelectorAll("button.stat").forEach(b => b.onclick = () => {
-      state.leader = state.leader === b.dataset.v ? "__featured" : b.dataset.v;
-      chips(); render();
-      const list = document.getElementById("list");
-      const top = list.getBoundingClientRect().top + window.scrollY - document.querySelector(".controls").offsetHeight - 8;
-      window.scrollTo({top, behavior: "smooth"});
-    });
-  }
+  const nP = I.reduce((a, x) => a + x.programs.length, 0), nN = I.reduce((a, x) => a + x.narratives.length, 0);
+  $("stats").innerHTML =
+    `<div class="stat"><b>${NUM(I.length)}</b><small>${T("২০২৬-এর সংখ্যা","issues of 2026")}</small></div>` +
+    `<div class="stat"><b>${NUM(nP)}</b><small>${T("কর্মসূচির খবর","programs reported")}</small></div>` +
+    `<div class="stat"><b>${NUM(nN)}</b><small>${T("প্রোপাগান্ডার লাইন","propaganda lines logged")}</small></div>`;
 
-  // year select
-  const years = [...new Set(M.map(m => m.date.slice(0,4)).filter(y => /^\d{4}$/.test(y)))].sort().reverse();
-  const ys = document.getElementById("year");
-  ys.innerHTML = `<option value="">Year</option>` + years.map(y => `<option>${y}</option>`).join("");
+  let h = "";
+  if (O.summary) h += `<h2>${T("এখনও পর্যন্ত বছরটি","The year so far")}</h2><div class="prose">${L(O,"summary").map(p => `<p>${esc(p)}</p>`).join("")}</div>`;
+  if (O.campaigns) h += `<h2>${T("প্রধান কর্মসূচি ও অভিযান","Major programs and campaigns")}</h2><div class="grid">${O.campaigns.map(c =>
+    `<div class="box"><div class="kind">${esc(L(c,"org"))}</div><h3>${esc(L(c,"name"))}</h3><p>${esc(L(c,"description"))}</p><div class="refs">${refs(c.refs)}</div></div>`).join("")}</div>`;
+  if (O.propaganda) h += `<h2>${T("পত্রিকার প্রচারিত প্রোপাগান্ডা","Propaganda lines the paper pushed")}</h2><div class="grid">${O.propaganda.map(c =>
+    `<div class="box"><div class="kind">${esc(L(c,"theme"))}</div><h3>“${esc(L(c,"line"))}”</h3><p>${esc(L(c,"how"))}</p><div class="refs">${refs(c.refs)}</div></div>`).join("")}</div>`;
+  if (O.timeline) h += `<h2>${T("মাস অনুযায়ী","Month by month")}</h2><div class="tl">${O.timeline.map(t => `<div><b>${esc(L(t,"month"))}</b>${esc(L(t,"highlights"))}</div>`).join("")}</div>`;
+  $("ov").innerHTML = h;
 
+  const state = {kind: "all", q: "", facet: "", month: ""};
+  const kinds = [["all", T("সব","Everything")], ["programs", T("কর্মসূচি","Programs")], ["narratives", T("প্রোপাগান্ডা","Propaganda")]];
   function chips(){
-    const mk = (val, label, n, cls) =>
-      `<button class="chip ${cls||""}" data-v="${esc(val)}" aria-pressed="${state.leader===val}">${esc(label)}${n!=null?`<span class="n">${n}</span>`:""}</button>`;
-    let h = mk("__featured", "Key leaders", null, "feat") + mk("", "Everyone", null);
-    h += featured.map(l => mk(l, l, counts[l] || 0, "feat")).join("");
-    const shown = state.showAll ? others : others.slice(0, 4);
-    h += shown.map(l => mk(l, l, counts[l])).join("");
-    if (others.length > 4) h += `<button class="more" id="more">${state.showAll ? "Fewer" : "+" + (others.length - 4) + " more"}</button>`;
-    const el = document.getElementById("chips");
-    el.innerHTML = h;
-    el.querySelectorAll(".chip").forEach(b => b.onclick = () => { state.leader = b.dataset.v; chips(); render(); });
-    stats();
-    const mo = document.getElementById("more");
-    if (mo) mo.onclick = () => { state.showAll = !state.showAll; chips(); };
+    const el = $("kinds");
+    el.innerHTML = kinds.map(([v,l]) => `<button class="chip" data-v="${v}" aria-pressed="${state.kind===v}">${l}</button>`).join("");
+    el.querySelectorAll(".chip").forEach(b => b.onclick = () => { state.kind = b.dataset.v; state.facet = ""; chips(); facets(); render(); });
   }
+  // facet values are the English keys; labels shown in the chosen language
+  function count(key, arr){ const c = {}; I.forEach(x => x[arr].forEach(it => { const k = it[key] || "other"; c[k] = c[k] || {n:0, label: L(it, key) || k}; c[k].n++; })); return Object.entries(c).sort((a,b)=>b[1].n-a[1].n); }
+  function facets(){
+    const opt = (key, [k, v]) => `<option value="${key}:${esc(k)}">${esc(v.label)} (${NUM(v.n)})</option>`;
+    let o = `<option value="">${T("সব সংগঠন ও বিষয়","All organisations &amp; themes")}</option>`;
+    if (state.kind !== "narratives") o += `<optgroup label="${T("কর্মসূচির ধরন","Program type")}">${count("type","programs").map(e => opt("type", e)).join("")}</optgroup>` +
+      `<optgroup label="${T("সংগঠন","Organisation")}">${count("org","programs").filter(e => e[1].n > 1).map(e => opt("org", e)).join("")}</optgroup>`;
+    if (state.kind !== "programs") o += `<optgroup label="${T("প্রোপাগান্ডার বিষয়","Propaganda theme")}">${count("theme","narratives").map(e => opt("theme", e)).join("")}</optgroup>`;
+    $("facet").innerHTML = o; $("facet").value = state.facet;
+  }
+  const months = [...new Set(I.map(x => x.label ? "puja" : x.date.slice(0,7)))].sort().reverse();
+  $("month").innerHTML = `<option value="">${T("সব মাস","All months")}</option>` + months.map(m => `<option value="${m}">${m === "puja" ? T("পূজা সংখ্যা","Puja specials") : day(m + "-01", {month:"long"})}</option>`).join("");
 
+  function match(it){
+    if (state.facet){ const [k, v] = state.facet.split(/:(.*)/s); if ((it[k] || "other") !== v) return false; }
+    if (!state.q) return true;
+    return Object.values(it).join(" ").toLowerCase().includes(state.q);
+  }
   function render(){
-    const q = state.q.trim().toLowerCase();
-    let rows = M.filter(m =>
-      (state.leader === "" || (state.leader === "__featured" ? m.featured : m.leader === state.leader)) &&
-      (!state.year || m.date.startsWith(state.year)) &&
-      (!state.status || m.status === state.status) &&
-      (!q || [m.heading, m.author, m.note, m.leader, m.leader_bn].join(" ").toLowerCase().includes(q)));
-    // group by article
-    const groups = new Map();
-    rows.forEach(m => {
-      const k = m.issue + "|" + m.heading;
-      if (!groups.has(k)) groups.set(k, {...m, leaders: [], notes: []});
-      const g = groups.get(k);
-      g.leaders.push(m);
-      if (m.note && !g.notes.includes(m.note)) g.notes.push(m.note);
-      if (m.page < g.page) g.page = m.page;
+    state.q = $("q").value.trim().toLowerCase();
+    let out = "";
+    I.forEach(x => {
+      if (state.month && (x.label ? "puja" : x.date.slice(0,7)) !== state.month) return;
+      const ps = state.kind === "narratives" ? [] : x.programs.filter(match);
+      const ns = state.kind === "programs" ? [] : x.narratives.filter(match);
+      const filtered = state.q || state.facet;
+      if (filtered && !ps.length && !ns.length) return;
+      const items = ps.map(p => `<div class="item"><div><div class="kind">${T("কর্মসূচি","Program")} · ${esc(L(p,"org"))} · ${esc(L(p,"type"))}</div><div class="t">${esc(L(p,"title"))}</div>
+          <div class="m">${[L(p,"where"), L(p,"when")].filter(Boolean).map(esc).join(" · ")}</div><div class="d">${esc(L(p,"detail"))}</div></div>
+          <a class="pg" target="_blank" rel="noopener" href="${link(x.issue, p.page)}">${pg(p.page)} ↗</a></div>`).join("") +
+        ns.map(n => `<div class="item"><div><div class="kind">${T("প্রোপাগান্ডা","Propaganda")} · ${esc(L(n,"theme"))}</div><div class="t bn">${esc(n.heading)}</div>
+          <div class="d">${esc(L(n,"claim"))}</div><div class="m">${T("লক্ষ্য","Target")}: ${esc(L(n,"target"))}</div></div>
+          <a class="pg" target="_blank" rel="noopener" href="${link(x.issue, n.page)}">${pg(n.page)} ↗</a></div>`).join("");
+      out += `<details class="issue" ${filtered ? "open" : ""}><summary><div class="date">${x.label ? esc(pujaName(x.issue)) : day(x.date, {day:"numeric", month:"short"})}<small>${x.label ? esc(x.issue) : NUM(x.date.slice(0,4))}</small></div>
+        <div><div>${esc(L(x,"summary"))}</div><div class="counts">${NUM(ps.length)} ${T("কর্মসূচি","programs")} · ${NUM(ns.length)} ${T("প্রোপাগান্ডা","propaganda lines")}${filtered ? T(" মিলেছে"," match") : ""} · <a href="${link(x.issue,1)}" target="_blank" rel="noopener">${T("পুরো সংখ্যা","open issue")} ↗</a></div></div></summary>
+        <div class="items">${items}</div></details>`;
     });
-    // all leaders named in that article (for context tags)
-    const allIn = {};
-    M.forEach(m => { const k = m.issue + "|" + m.heading; (allIn[k] = allIn[k] || new Set()).add(m.leader); });
-
-    const list = document.getElementById("list");
-    if (!groups.size) { list.innerHTML = `<p class="empty">No articles match these filters.</p>`; return; }
-    let h = "", lastMonth = "";
-    [...groups.values()].sort((a,b) => (b.date + String(1000-b.page).padStart(4,"0")).localeCompare(a.date + String(1000-a.page).padStart(4,"0")))
-    .forEach(g => {
-      const month = /^\d{4}-\d\d/.test(g.date) ? new Date(g.date + "T00:00:00").toLocaleDateString("en-GB", {month: "long", year: "numeric"}) : "Special issues";
-      if (month !== lastMonth) { h += `<div class="month">${month}</div>`; lastMonth = month; }
-      const f = fmt(g.date);
-      const k = g.issue + "|" + g.heading;
-      const tags = [...allIn[k]].map(l => `<span class="tag ${featured.includes(l) ? "" : "other"}">${esc(l)}</span>`).join("") +
-        (g.status === "auto" ? `<span class="tag auto">auto-detected · not yet checked</span>` : "");
-      const pages = g.leaders.map(x => x.mention_pages)[0];
-      h += `<article class="card">
-        <div class="date">${g.label ? esc(g.label) : f.d}<small>${f.y}</small></div>
-        <div>
-          <p class="head bn">${esc(g.heading)}</p>
-          <div class="meta"><span class="bn">${esc(g.author)}</span>${g.author ? " · " : ""}mentioned on p. ${esc(pages)}${g.article_pages && g.article_pages !== String(g.page) ? ` · article pp. ${esc(g.article_pages)}` : ""}</div>
-          ${g.notes.length ? `<div class="note">${esc(g.notes.join(" / "))}</div>` : ""}
-          <div class="tags">${tags}</div>
-        </div>
-        <a class="open" href="https://www.eswastika.com/${esc(g.pdf)}#page=${g.page}" target="_blank" rel="noopener" title="Open ${esc(g.pdf)} at page ${g.page}">Open p. ${g.page} ↗</a>
-      </article>`;
-    });
-    list.innerHTML = h;
+    $("list").innerHTML = out || `<p class="empty">${T("এই ফিল্টারে কিছু পাওয়া যায়নি।","Nothing matches these filters.")}</p>`;
   }
-
-  document.getElementById("q").oninput = e => { state.q = e.target.value; render(); };
-  ys.onchange = e => { state.year = e.target.value; render(); };
-  document.getElementById("status").onchange = e => { state.status = e.target.value; render(); };
-  document.getElementById("foot").innerHTML =
-    `Covers issues ${esc(meta.first_issue)} to ${esc(meta.last_issue)}. Updated ${esc(meta.generated)}; refreshed every Sunday. ` +
-    `Pages were OCR'd and each verified entry was checked against the page image. Entries marked “auto-detected” come from the weekly run and are pending review. ` +
-    `“Open” links point to the original PDF on eswastika.com; most browsers jump to the page shown.`;
-  chips(); render();
+  $("q").oninput = render;
+  $("facet").onchange = e => { state.facet = e.target.value; render(); };
+  $("month").onchange = e => { state.month = e.target.value; render(); };
+  $("foot").innerHTML = T(`হালনাগাদ ${esc(day(D.generated, {day:"numeric", month:"long", year:"numeric"}))}। প্রতি রবিবার নতুন সংখ্যা ডাউনলোড, ওসিআর ও সারাংশ করে যোগ করা হয় এবং বছরের সারসংক্ষেপ নতুন করে লেখা হয়। লিঙ্কগুলি eswastika.com-এ মূল পিডিএফের নির্দিষ্ট পাতা খোলে।`,
+    `Updated ${esc(D.generated)}. New issues are added every Sunday: they are downloaded, OCR'd and summarised, and the year overview is rewritten. Links open the original PDF on eswastika.com at the page shown.`);
+  chips(); facets(); render();
 })();
 </script>
 </body>
