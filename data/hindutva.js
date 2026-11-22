@@ -1,44 +1,45 @@
 window.HINDUTVA = {
- "generated": "2026-11-11",
+ "generated": "2026-11-22",
  "overview": {
   "summary": [
-   "Swastika's 2026 volumes cover the RSS centenary year in West Bengal. The year opens with Sarsanghchalak Mohan Bhagwat's 18–21 December 2025 Bengal tour: a Siliguri youth sammelan of about 7,500 people and a Science City 'distinguished citizens' lecture series for over 1,600 invitees. The paper says he 'came, saw and conquered' Bengal (20260105, pp. 5, 23, 28–29). Through the year it reports a steady run of centenary programmes. These include Hindu Sammelans in Birati, Rampurhat, Malda, Gajol, Patuli, Shibpur, Chandrakona Road and Beleghata (20260202 p. 23; 20260209 pp. 24, 27; 20260216 pp. 24–26; 20260309 p. 27). There were also distinguished-citizens' conferences in Bardhaman, Serampore, Chinsurah, Simlagarh and Purulia (20260209 p. 23; 20260309 pp. 28–29), and the five-point 'Panch Parivartan' agenda was pushed repeatedly (20260105 p. 31; 20260420 p. 8; 20260727 p. 47). The all-India picture appears in the Pratinidhi Sabha report: Griha Sampark reaching over 10 crore families in 3.89 lakh villages, and roughly 23,143 rural and 13,905 urban Hindu Sammelans (20260330 p. 37). Bhagwat's Vijayadashami address closes the centenary year with the Jan Sampark tally: 4,61,527 villages, 34,187 mandal Hindu sammelans and about 39 lakh youth reached (20261102 pp. 43–44).",
-   "January to early March is pre-election groundwork, built on three linked lines. The first is Hindu persecution in Bangladesh, led by the lynching of Dipu Chandra Das. The paper reports street protests by Hindu Jagaran Manch and VHP and condemns the Kolkata Police lathicharge on sadhus (20260105 pp. 9, 44–45). It argues that West Bengal's Hindus face the same fate under TMC 'appeasement' (20260112 pp. 5, 38). The second is strong support for the Election Commission's SIR voter-roll revision, framed as removing illegal Bangladeshi and Rohingya voters. It says most of the roughly 60 lakh deletions came from Malda and Murshidabad (20260105 p. 6; 20260302 pp. 9, 11; 20260316 p. 5). The third is a history-driven attack on Congress and the Communists, built on: Communists calling Netaji a 'quisling' (20260119 p. 5), Nehru and Somnath and the Emergency-era 42nd Amendment (20260126 pp. 5, 9, 45), Marichjhapi (20260202 p. 35), and Kerala MP Sadanandan Master's legs being cut off by CPIM cadres (20260216 p. 18). Alongside these run Modi-government pieces on the Union Budget (20260209 p. 5) and a TMC budget attack over madrasa allocations, which also names the CPIM as the originator of Muslim vote-bank politics (20260216 p. 9).",
-   "From mid-March to April the paper becomes a campaign organ. It covers the BJP's Parivartan Sankalp Yatra and claims over 10 lakh people attended Modi's Brigade rally (20260323 p. 7). It warns of Kolkata becoming a 'Mini Pakistan' (20260323 p. 3) and calls the poll the election to free, or save, Hindu society from an 'existential crisis' (20260330 p. 17; 20260406 p. 5). It projects Suvendu Adhikari as 'the face of West Bengal' (20260330 p. 19), runs a 'love jihad' cover story (20260406 p. 17) and urges 100% voting. The Bengali New Year issue recasts Bengali identity as Hindu: Raja Shashanka is credited as founder of the Bengali calendar against an alleged Communist attribution to Akbar. The same issue openly asks voters to choose the BJP as heir to Syama Prasad's Jana Sangh and calls for Leftists to be 'eradicated for good' (20260413 pp. 5, 16, 34–35). Its Ram Navami coverage claims 3 crore participants and about 4,000 processions, with BJP candidates joining, and reports attacks by 'jihadis' (20260413 pp. 24–28). Just before polling it equates the Left with Islamic extremism (20260420 p. 36) and frames the vote as a 'last train' and 'dharma-yuddha' for Hindus (20260427 p. 27).",
-   "After the BJP win, the paper calls the result Bengal's 'second independence'. It ends, in the paper's words, 34 years of Left and 15 years of TMC misrule (20260511 p. 5). The paper also casts it as a 'dharmayuddha' in which 70% of Hindus voted together for the first time, the fruit of 85 years of Sangh work (20260511 p. 12). It names the Election Commission 'man of the series' for an SIR that removed about 90.6 lakh names (20260511 p. 13), and reports 207 seats and a 45.84% vote share against TMC's 40.80% (20260518 p. 18). The tone quickly hardens into consolidation and retribution. One piece calls university campuses a Left 'sanctuary' to be cleared, threatening Left student figures with 'death' or a 'final destination' (20260608 p. 10). The paper runs Savarkar and Shivaji 'Hindu Samrajya' specials (20260601 p. 5; 20260622 pp. 5, 11–14). It also campaigns for 20 June as 'Paschimbanga Dibas', marking Syama Prasad Mukherjee's 'Hindu homeland' (20260615 pp. 5, 14, 16; 20260706 p. 6), and claims vindication when the Centre sets up a demography committee (20260622 p. 8).",
-   "From July the paper reads as the ideological partner of Chief Minister Suvendu Adhikari's government. It praises the Gunda Daman law (20260720 pp. 5, 44), state honours for Emergency-era 'Loktantra Senani', described as mostly swayamsevaks (20260824 pp. 23, 36), and state-sponsored Raksha Bandhan (20260824 p. 5). It also welcomes compulsory full Vande Mataram in schools and madrasas, the removal of Suhrawardy's name from a road, and ISKCON running mid-day meals (20260921 p. 23). New enemies take shape: a foreign 'deep state' and the 'Cockroach' youth movement (20260817 pp. 5, 12, 47), and FCRA opponents linked to conversion (20260831 pp. 5, 11). Above all, Jadavpur University gets an editorial demanding it be renamed 'Sri Aurobindo University' (20260907 p. 5). The Chief Minister then leads a 10,000-voice Vande Mataram event and a 'Gerua Samman Yatra' there (20260921 pp. 47–48). The Chief Minister attended the opening of the RSS's Keshab Smriti Bhavan and honoured Swastika at its own event (20261102 pp. 24, 28). The Puja specials push the line further, into a dystopia of Bangladesh as 'East Khorasan' and a call for Hindu 'containment and rollback' (puja2026c p. 4)."
+   "Swastika's 2026 volume tracks a single arc: the RSS centenary year, the West Bengal assembly election, and the consolidation of a BJP state government that the paper treats as the Sangh's own achievement. In January and February the paper focused on centenary outreach. It reported Mohan Bhagwat's December 2025 tour of Bengal, including the Siliguri Yuva Sammelan of about 7,500 youths and the Science City lecture series for over 1,600 invited citizens (20260105, pp. 23, 29). It also covered distinguished-citizens' meets with Dattatreya Hosabale and Arun Kumar (20260209 p. 23; 20260309 p. 29) and a dense run of centenary Hindu Sammelans across the districts, such as Rampurhat with about ten thousand people (20260209 p. 24). All of this was organised around the 'Panch Parivartan' five-point agenda (20260105 p. 31). Two lines ran alongside it. The first was continuous coverage of Hindu persecution in Bangladesh, centred on the lynching of Dipu Chandra Das (20260105 p. 9; 20260112 p. 5). The second was early backing for the Election Commission's SIR revision of voter rolls (20260105 p. 6). Bangladesh was presented as Bengal's future under TMC 'appeasement' (20260112 p. 5).",
+   "Through February and March the paper shifted into explicit pre-election mode. Its editorials described the TMC regime as 'matsyanyaya' (anarchy) and called the Chief Minister the Left's 'best student' (20260202 p. 5). It attacked the interim state budget's madrasa allocation as vote-bank appeasement first pioneered by the CPIM (20260216 p. 9). It defended SIR as a purge of illegal Bangladeshi and Rohingya voters, saying most of the 60 lakh deletions came from Malda and Murshidabad (20260316 p. 5). Anti-communist history was used heavily: Marichjhapi (20260202 p. 35), the 1994 maiming of Sadanandan Master in Kerala (20260216 p. 18), the 1984 killing of swayamsevak Prasanta Mandal (20260223 p. 27) and Communist slander of Netaji (20260119 p. 5). The paper also boosted the Modi government's 2026-27 Union Budget as a 'Viksit Bharat' document (20260209 p. 5). It reported the BJP's Parivartan Sankalp Yatra and the 14 March Brigade rally, which it claimed drew over 10 lakh people (20260323 p. 7). It also carried the RSS Akhil Bharatiya Pratinidhi Sabha report, which claimed outreach to over 10 crore families (20260330 pp. 36-37).",
+   "The April issues were the most openly mobilising of the year. The paper called the poll an election to save Hindu society's very existence and asked for 100% voting (20260406 p. 5). It ran a 'love jihad' cover story (20260406 p. 17) and claimed that Hindus were heading towards minority status in India (20260420 p. 47). It equated the Left with Islamic extremism (20260420 p. 36) and quoted a Bharat Sevashram Sangha monk telling Hindus this was the 'last train' before a 'dharma-yuddha' (20260427 p. 27). The statewide Sri Ram Mahotsav was reported as the largest street mobilisation, with a claimed 3 crore participants and about 4,000 processions. BJP candidates, Suvendu Adhikari, VHP, Bajrang Dal, ABVP and RSS bastis all took part (20260413 pp. 24-28). The Bengali New Year issue rebuilt 'Bengali identity' around Raja Shashanka and Syama Prasad Mookerjee. It explicitly urged a BJP vote as the heir of the Jana Sangh and called for the Left to be 'eradicated for good' (20260413 pp. 5, 16, 35).",
+   "After the result, from May to July, the tone turned triumphal. The BJP win (207 seats, 45.84% against TMC's 40.80%) was called Bengal's 'second independence' and a 'dharmayuddha' in which Hindus voted together for the first time (20260511 pp. 5, 12; 20260518 p. 18). The paper credited the Election Commission and the SIR deletion of about 90.6 lakh names (20260511 p. 13) and 85 years of RSS work (20260511 p. 12). It then turned to a programme of symbolic reconstruction: a Savarkar special (20260601 p. 5), the campaign to make 20 June official 'Paschimbanga Dibas' (20260615 p. 16), a Shivaji coronation package (20260622 p. 5), Yoga Day in Kolkata with Modi (20260629 p. 5) and a Syama Prasad special whose lead article set a 'Hindu homeland' as the goal (20260706 p. 6). It welcomed the new government's cabinet decisions on border fencing, the BNS and a UCC promise (20260518 p. 5), and its 'Gunda Daman' preventive-detention law (20260720 pp. 5, 44). It also began calling for Left influence to be purged from campuses, in language that threatened opponents with 'death' (20260608 p. 10).",
+   "From August to November the paper presented the Sangh and the state government as partners. Chief Minister Suvendu Adhikari honoured Emergency-era 'Loktantra Senani', mostly swayamsevaks (20260824 pp. 23, 48), and made Raksha Bandhan a state-sponsored celebration (20260824 p. 5). He led the 'ten thousand voices Vande Mataram' event and the 'Geru'a Samman Yatra' against Jadavpur University. The paper had demanded that the university be renamed 'Sri Aurobindo University' and branded it a nest of 'Dimagi Naxals' (20260907 pp. 5, 11; 20260921 pp. 47-48). Opposition and student protests, including the 'Cockroach' movement and the agitation against the FCRA amendment, were framed as foreign-funded 'regime change' plots (20260817 pp. 12, 47; 20260831 p. 11; 20261109 p. 14). The Chief Minister attended the opening of the RSS's Keshab Smriti Bhavan, honoured Swastika's cover artist and said he wanted the weekly to become a daily (20261102 pp. 24, 28). He also pledged at the VHP's Ashok Singhal centenary sammelan to make West Bengal a seat of Hindutva, where speakers said Kashi and Mathura would be 'freed' (20261116 p. 24). Bhagwat's Vijayadashami address closed the centenary year and cited mass outreach figures (20261102 pp. 43-45).",
+   "Across the year the enemy shifted. Before the election TMC 'appeasement' and infiltration were the main targets, with the Left cast as the historical root of Bengal's ruin. After TMC collapsed, the Left, Left students and 'urban Naxals' became the main target, along with 'deep state' conspiracies, while Bangladesh persecution stayed a constant warning (20260817 p. 35; 20260928 p. 13). The persistent frames were the serialised Hedgewar stories ('Galpokathay Doctorji'), the Syama Prasad Mookerjee 'Hindu homeland' myth and the 150th anniversary of Vande Mataram. Together they recast Bengali identity as Hindu identity and presented the 2026 result as the end of an '820-year' break in Hindu rule (20260511 p. 12; 20260518 p. 18)."
   ],
   "campaigns": [
    {
-    "name": "RSS centenary outreach: Bhagwat's Bengal tour, distinguished-citizens' meets and Griha/Jan Sampark",
+    "name": "RSS centenary outreach (citizens' lectures, Griha/Jan Sampark)",
     "org": "RSS",
-    "description": "Bhagwat's December 2025 tour (Siliguri youth sammelan, Kolkata lecture series and Q&A) was followed by centenary 'distinguished citizens' conferences addressed by Hosabale, Arun Kumar and East Zone functionaries across Bardhaman and Hooghly. Nationally, door-to-door contact claimed to reach over 10 crore families, and the year closed with Bhagwat's Vijayadashami address.",
+    "description": "The centenary year began in Bengal with Bhagwat's December 2025 tour, the Science City lecture series and distinguished-citizens' meets in Bardhaman, Serampore, Chinsurah and Purulia. The national Griha Sampark claimed 10 crore families in 3.89 lakh villages. The closing Jan Sampark figures cited 4.61 lakh villages and 34,187 mandal Hindu sammelans.",
     "refs": [
      {
       "issue": "20260105",
       "page": 23
      },
      {
-      "issue": "20260209",
-      "page": 23
-     },
-     {
       "issue": "20260309",
-      "page": 29
+      "page": 28
      },
      {
       "issue": "20260330",
       "page": 37
+     },
+     {
+      "issue": "20261102",
+      "page": 44
      }
     ],
-    "name_bn": "আরএসএসের শতবর্ষ সম্পর্ক কর্মসূচি: ভাগবতের বঙ্গ সফর, বিশিষ্টজনদের সঙ্গে বৈঠক এবং গৃহ/জন সম্পর্ক",
+    "name_bn": "আরএসএস শতবর্ষ জনসংযোগ (নাগরিকদের বক্তৃতা, গৃহ/জন সম্পর্ক)",
     "org_bn": "আরএসএস",
-    "description_bn": "ভাগবতের ২০২৫ সালের ডিসেম্বরের সফর (শিলিগুড়িতে যুব সম্মেলন, কলকাতায় বক্তৃতামালা ও প্রশ্নোত্তর)-এর পর বর্ধমান ও হুগলি জুড়ে হোসাবালে, অরুণ কুমার ও পূর্বাঞ্চলের কার্যকর্তাদের ভাষণসহ শতবর্ষের 'বিশিষ্ট নাগরিক' সম্মেলন অনুষ্ঠিত হয়। জাতীয় স্তরে বাড়ি বাড়ি যোগাযোগ ১০ কোটিরও বেশি পরিবারে পৌঁছেছে বলে দাবি করা হয়েছে, এবং বছরের সমাপ্তি হয় ভাগবতের বিজয়াদশমীর ভাষণে।"
+    "description_bn": "বাংলায় শতবর্ষ শুরু হয় ২০২৫ সালের ডিসেম্বরে ভাগবতের সফর, সায়েন্স সিটিতে বক্তৃতামালা এবং বর্ধমান, শ্রীরামপুর, চুঁচুড়া ও পুরুলিয়ায় বিশিষ্ট নাগরিকদের বৈঠকের মাধ্যমে। জাতীয় স্তরের গৃহ সম্পর্ক অভিযানে ৩.৮৯ লক্ষ গ্রামের ১০ কোটি পরিবারের কাছে পৌঁছনোর দাবি করা হয়েছে। সমাপনী জনসম্পর্ক অভিযানের পরিসংখ্যানে ৪.৬১ লক্ষ গ্রাম এবং ৩৪,১৮৭টি মণ্ডল হিন্দু সম্মেলনের কথা উল্লেখ করা হয়েছে।"
    },
    {
     "name": "Centenary Hindu Sammelans",
-    "org": "RSS",
-    "description": "Hindu Sammelans with Gita recitation, shanti yajna and Bharat Sevashram Sangha monks were held across Bengal, including Birati, Rampurhat (about 10,000 attendees), Gajol, Patuli and Beleghata. The final tally in the closing report was 34,187 mandal-level Hindu sammelans nationwide.",
+    "org": "RSS with HJM, VHP, Bharat Sevashram Sangha",
+    "description": "A dense series of local 'Hindu Sammelans' with mass Gita recitation, shanti yajnas and speeches on Panch Parivartan were held across Kolkata and the districts in January and February. The paper reported about ten thousand people at Rampurhat. Nationally the RSS reported about 23,143 rural and 13,905 urban sammelans.",
     "refs": [
      {
       "issue": "20260202",
@@ -53,18 +54,18 @@ window.HINDUTVA = {
       "page": 25
      },
      {
-      "issue": "20261102",
-      "page": 44
+      "issue": "20260330",
+      "page": 37
      }
     ],
     "name_bn": "শতবর্ষ হিন্দু সম্মেলনগুলি",
-    "org_bn": "আরএসএস",
-    "description_bn": "গীতাপাঠ, শান্তি যজ্ঞ ও ভারত সেবাশ্রম সঙ্ঘের সন্ন্যাসীদের উপস্থিতিতে বাংলা জুড়ে হিন্দু সম্মেলন অনুষ্ঠিত হয়েছে, যার মধ্যে ছিল বিরাটি, রামপুরহাট (প্রায় ১০,০০০ উপস্থিত), গাজোল, পাটুলি ও বেলেঘাটা। সমাপনী প্রতিবেদনে চূড়ান্ত হিসাব ছিল সারা দেশে ৩৪,১৮৭টি মণ্ডলস্তরের হিন্দু সম্মেলন।"
+    "org_bn": "আরএসএস, হিন্দু জাগরণ মঞ্চ, বিশ্ব হিন্দু পরিষদ, ভারত সেবাশ্রম সংঘ",
+    "description_bn": "জানুয়ারি ও ফেব্রুয়ারিতে কলকাতা ও জেলাগুলিতে গণ গীতাপাঠ, শান্তি যজ্ঞ ও পঞ্চ পরিবর্তন বিষয়ে বক্তৃতাসহ একের পর এক স্থানীয় 'হিন্দু সম্মেলন' অনুষ্ঠিত হয়। পত্রিকার প্রতিবেদন অনুযায়ী রামপুরহাটে প্রায় দশ হাজার মানুষ উপস্থিত ছিলেন। জাতীয় স্তরে আরএসএস প্রায় ২৩,১৪৩টি গ্রামীণ ও ১৩,৯০৫টি শহুরে সম্মেলনের কথা জানিয়েছে।"
    },
    {
-    "name": "Panch Parivartan (five transformations)",
+    "name": "Panch Parivartan",
     "org": "RSS",
-    "description": "The centenary social agenda covers self-awareness ('swa'), civic duty, family awakening, social harmony and environment. It was promoted through events such as a Tarakeswar child feast replacing Brahmin bhojan, tree planting and Parivar Prabodhan meets, and Bhagwat said it must become habit, not a one-year programme.",
+    "description": "The five-point centenary agenda covers self-awareness/swadeshi, civic duty, family awakening, social harmony and environment. It was promoted through samarasata meals, Parivar Prabodhan meets and tree planting. Bhagwat insisted it must become habit, not a one-year programme.",
     "refs": [
      {
       "issue": "20260105",
@@ -79,44 +80,148 @@ window.HINDUTVA = {
       "page": 8
      },
      {
-      "issue": "20261102",
-      "page": 45
+      "issue": "20260727",
+      "page": 47
      }
     ],
     "name_bn": "পঞ্চ পরিবর্তন",
     "org_bn": "আরএসএস",
-    "description_bn": "শতবর্ষের সামাজিক কর্মসূচির মধ্যে রয়েছে স্ব-বোধ ('স্ব'), নাগরিক কর্তব্য, পরিবার প্রবোধন, সামাজিক সম্প্রীতি ও পরিবেশ। তারকেশ্বরে ব্রাহ্মণ ভোজনের পরিবর্তে শিশুভোজ, বৃক্ষরোপণ ও পরিবার প্রবোধন সভার মতো অনুষ্ঠানের মাধ্যমে এর প্রচার হয়েছে, আর ভাগবত বলেছেন এটি এক বছরের কর্মসূচি নয়, অভ্যাসে পরিণত হতে হবে।"
+    "description_bn": "শতবর্ষের পাঁচ দফা কর্মসূচির মধ্যে রয়েছে স্ব-বোধ/স্বদেশি, নাগরিক কর্তব্য, পারিবারিক জাগরণ, সামাজিক সম্প্রীতি ও পরিবেশ। সমরসতা ভোজ, পরিবার প্রবোধন বৈঠক ও বৃক্ষরোপণের মাধ্যমে এর প্রচার করা হয়েছে। ভাগবত জোর দিয়ে বলেছেন, এটি এক বছরের কর্মসূচি নয়, অভ্যাসে পরিণত হতে হবে।"
    },
    {
-    "name": "Protests over persecution of Hindus in Bangladesh",
-    "org": "Hindu Jagaran Manch / VHP / Bajrang Dal",
-    "description": "Marches on the Bangladesh Deputy High Commission in Kolkata, joined by Suvendu Adhikari, ended in a police lathicharge and 19 arrests. In Delhi, VHP–Bajrang Dal protesters burnt an effigy of Muhammad Yunus, and further citizens' marches followed. The killing of Dipu Chandra Das and the jailing of Chinmoy Krishna Das were the recurring focal points.",
+    "name": "SIR backing and anti-infiltration drive",
+    "org": "Sangh Parivar media / Swastika",
+    "description": "The paper backed the Election Commission's Special Intensive Revision from January as 'purification' of the rolls against Bangladeshi and Rohingya voters. After the poll it credited the 90.6 lakh deletions for the 'saffron storm'. It also claimed the Sangh and Swastika first raised the demographic-change issue.",
+    "refs": [
+     {
+      "issue": "20260105",
+      "page": 6
+     },
+     {
+      "issue": "20260316",
+      "page": 5
+     },
+     {
+      "issue": "20260511",
+      "page": 13
+     },
+     {
+      "issue": "20260622",
+      "page": 8
+     }
+    ],
+    "name_bn": "এসআইআর-এর সমর্থন ও অনুপ্রবেশ-বিরোধী অভিযান",
+    "org_bn": "সংঘ পরিবারের সংবাদমাধ্যম / স্বস্তিকা",
+    "description_bn": "পত্রিকাটি জানুয়ারি থেকে নির্বাচন কমিশনের বিশেষ নিবিড় সংশোধনকে (এসআইআর) বাংলাদেশি ও রোহিঙ্গা ভোটারদের বিরুদ্ধে ভোটার তালিকার 'শুদ্ধিকরণ' হিসেবে সমর্থন করেছিল। ভোটের পর ৯০.৬ লক্ষ নাম বাদ পড়াকে তারা 'গেরুয়া ঝড়ের' কৃতিত্ব দিয়েছে। পত্রিকাটি এ-ও দাবি করেছে যে জনবিন্যাস পরিবর্তনের প্রশ্নটি সঙ্ঘ ও স্বস্তিকাই প্রথম তুলেছিল।"
+   },
+   {
+    "name": "BJP Parivartan Sankalp Yatra and election mobilisation",
+    "org": "BJP (with Sangh-inspired volunteers)",
+    "description": "The yatra was launched from Cooch Behar and Raidighi on 1-2 March and ended at the 14 March Brigade rally addressed by Modi. The paper ran a sustained '100% voting' and 'Hindu survival' appeal. After the result it thanked volunteers who went door to door for months.",
+    "refs": [
+     {
+      "issue": "20260323",
+      "page": 7
+     },
+     {
+      "issue": "20260406",
+      "page": 5
+     },
+     {
+      "issue": "20260427",
+      "page": 5
+     },
+     {
+      "issue": "20260511",
+      "page": 5
+     }
+    ],
+    "name_bn": "বিজেপির পরিবর্তন সংকল্প যাত্রা ও নির্বাচনী প্রচার",
+    "org_bn": "বিজেপি (সঙ্ঘ-অনুপ্রাণিত স্বেচ্ছাসেবকসহ)",
+    "description_bn": "যাত্রাটি ১-২ মার্চ কোচবিহার ও রায়দিঘি থেকে শুরু হয়ে ১৪ মার্চ মোদী-সম্বোধিত ব্রিগেড সমাবেশে শেষ হয়। পত্রিকাটি টানা '১০০% ভোটদান' ও 'হিন্দুর অস্তিত্ব রক্ষা'র আবেদন চালিয়েছে। ফলাফলের পর তারা সেই স্বেচ্ছাসেবকদের ধন্যবাদ জানিয়েছে, যাঁরা মাসের পর মাস ঘরে ঘরে গিয়েছেন।"
+   },
+   {
+    "name": "Sri Ram Mahotsav (Ram Navami mobilisation)",
+    "org": "Ram Navami Udyapan Samitis with VHP, Bajrang Dal, RSS, ABVP, BMS",
+    "description": "From 25 March to 2 April the paper claimed 3 crore participants and about 4,000 processions in a campaign run weeks before polling. BJP candidates and Suvendu Adhikari joined, and ABVP held pujas at Jadavpur and Calcutta University. The paper also reported alleged attacks on processions at Raghunathganj, Purulia and Nalhati.",
+    "refs": [
+     {
+      "issue": "20260413",
+      "page": 24
+     },
+     {
+      "issue": "20260413",
+      "page": 25
+     },
+     {
+      "issue": "20260413",
+      "page": 27
+     },
+     {
+      "issue": "20260413",
+      "page": 28
+     }
+    ],
+    "name_bn": "শ্রীরাম মহোৎসব (রামনবমী উপলক্ষে জনসংযোগ)",
+    "org_bn": "বিশ্ব হিন্দু পরিষদ, বজরং দল, আরএসএস, এবিভিপি ও বিএমএস-এর সঙ্গে রামনবমী উদ্‌যাপন সমিতি",
+    "description_bn": "২৫ মার্চ থেকে ২ এপ্রিল পর্যন্ত ভোটগ্রহণের কয়েক সপ্তাহ আগে চালানো এই কর্মসূচিতে পত্রিকাটি ৩ কোটি অংশগ্রহণকারী ও প্রায় ৪ হাজার শোভাযাত্রার দাবি করেছে। বিজেপি প্রার্থীরা ও শুভেন্দু অধিকারী যোগ দেন, আর যাদবপুর ও কলকাতা বিশ্ববিদ্যালয়ে এবিভিপি পুজো করে। রঘুনাথগঞ্জ, পুরুলিয়া ও নলহাটিতে শোভাযাত্রায় কথিত হামলার খবরও পত্রিকাটি প্রকাশ করেছে।"
+   },
+   {
+    "name": "Protests over Hindu persecution in Bangladesh",
+    "org": "Hindu Jagaran Manch, VHP, Bangladesh Community in India",
+    "description": "HJM led a march on the Bangladesh Deputy High Commission in Kolkata, which met a police lathicharge, and VHP and Bajrang Dal protested in Delhi. Padayatras and editorials demanded the release of Chinmoy Krishna Das. The paper kept tracking violence data through the year.",
     "refs": [
      {
       "issue": "20260105",
       "page": 44
      },
      {
-      "issue": "20260105",
-      "page": 43
-     },
-     {
       "issue": "20260202",
       "page": 25
      },
      {
-      "issue": "20260525",
-      "page": 20
+      "issue": "20260309",
+      "page": 5
+     },
+     {
+      "issue": "20260817",
+      "page": 35
      }
     ],
-    "name_bn": "বাংলাদেশে হিন্দুদের উপর নির্যাতনের বিরুদ্ধে বিক্ষোভ",
-    "org_bn": "হিন্দু জাগরণ মঞ্চ / বিশ্ব হিন্দু পরিষদ / বজরং দল",
-    "description_bn": "কলকাতায় বাংলাদেশ উপ-उচ্চায়ুক্তের দপ্তর অভিমুখে শুভেন্দু অধিকারীর যোগদানে মিছিল পুলিশের লাঠিচার্জ ও ১৯ জনের গ্রেফতারিতে শেষ হয়। দিল্লিতে বিশ্ব হিন্দু পরিষদ–বজরং দলের বিক্ষোভকারীরা মুহাম্মদ ইউনূসের কুশপুত্তলিকা পোড়ান, এরপর নাগরিকদের আরও মিছিল হয়। দীপু চন্দ্র দাসের হত্যা এবং চিন্ময় কৃষ্ণ দাসের কারাবাস বারবার কেন্দ্রবিন্দুতে ছিল।"
+    "name_bn": "বাংলাদেশে হিন্দু নির্যাতনের বিরুদ্ধে বিক্ষোভ",
+    "org_bn": "হিন্দু জাগরণ মঞ্চ, বিশ্ব হিন্দু পরিষদ, ভারতে বাংলাদেশি সম্প্রদায়",
+    "description_bn": "এইচজেএম কলকাতায় বাংলাদেশ ডেপুটি হাইকমিশনের দিকে মিছিল নিয়ে যায়, যাতে পুলিশ লাঠিচার্জ করে; দিল্লিতে বিশ্ব হিন্দু পরিষদ ও বজরং দল বিক্ষোভ দেখায়। পদযাত্রা ও সম্পাদকীয়তে চিন্ময় কৃষ্ণ দাসের মুক্তির দাবি তোলা হয়। পত্রিকাটি সারা বছর সহিংসতার তথ্য নথিবদ্ধ করে গেছে।"
    },
    {
-    "name": "VHP Samajik Samarasata campaign (Tulsi Pujan, Ravidas Jayanti, seva in Dalit settlements)",
+    "name": "Vande Mataram 150th anniversary",
+    "org": "Sanskar Bharati, RSS, later the state government",
+    "description": "Throughout the year there were mass-singing events, seminars and a three-day Sanskar Bharati festival, with RSS functionaries at Victoria Memorial and National Library programmes. After the election the state government made the full song compulsory in all schools and madrasas.",
+    "refs": [
+     {
+      "issue": "20260316",
+      "page": 26
+     },
+     {
+      "issue": "20260420",
+      "page": 29
+     },
+     {
+      "issue": "20260330",
+      "page": 37
+     },
+     {
+      "issue": "20260921",
+      "page": 23
+     }
+    ],
+    "name_bn": "বন্দে মাতরমের ১৫০তম বার্ষিকী",
+    "org_bn": "সংস্কার ভারতী, আরএসএস, পরবর্তীকালে রাজ্য সরকার",
+    "description_bn": "সারা বছর ধরে গণসংগীতের আসর, আলোচনাসভা এবং তিন দিনের সংস্কার ভারতী উৎসব হয়েছে, যেখানে ভিক্টোরিয়া মেমোরিয়াল ও জাতীয় গ্রন্থাগারের অনুষ্ঠানে আরএসএসের কার্যকর্তারা উপস্থিত ছিলেন। নির্বাচনের পর রাজ্য সরকার সব স্কুল ও মাদ্রাসায় সম্পূর্ণ গানটি বাধ্যতামূলক করেছে।"
+   },
+   {
+    "name": "Samajik Samarasata (Tulsi Pujan, Ravidas Jayanti, seva in Dalit bastis)",
     "org": "VHP",
-    "description": "Tulsi Pujan Diwas on 25 December, in its 7th year, was framed as a counter to Christmas 'soft conversion'. The campaign also covers Ravidas Jayanti observances and seva at a Dom settlement, presented as uniting Hindu society across caste.",
+    "description": "VHP's social-harmony wing ran Tulsi Pujan Diwas as a counter to Christmas 'soft conversion' and observed Ravidas Jayanti. It also ran seva in a Dom settlement and planned the Ravidas 650th-year observance.",
     "refs": [
      {
       "issue": "20260112",
@@ -135,132 +240,40 @@ window.HINDUTVA = {
       "page": 27
      }
     ],
-    "name_bn": "বিশ্ব হিন্দু পরিষদের সামাজিক সমরসতা অভিযান (তুলসী পুজো, রবিদাস জয়ন্তী, দলিত বস্তিতে সেবা)",
+    "name_bn": "সামাজিক সমরসতা (তুলসী পূজন, রবিদাস জয়ন্তী, দলিত বস্তিতে সেবা)",
     "org_bn": "বিশ্ব হিন্দু পরিষদ",
-    "description_bn": "২৫ ডিসেম্বর পালিত সপ্তম বর্ষের তুলসী পূজন দিবসকে বড়দিনের 'নরম ধর্মান্তরণের' পাল্টা হিসেবে তুলে ধরা হয়েছে। এই অভিযানে রবিদাস জয়ন্তী পালন ও একটি ডোম বসতিতে সেবাকাজও রয়েছে, যাকে জাতিভেদ নির্বিশেষে হিন্দু সমাজের ঐক্য হিসেবে উপস্থাপন করা হয়েছে।"
+    "description_bn": "বিশ্ব হিন্দু পরিষদের সামাজিক সম্প্রীতি শাখা বড়দিনের 'নরম ধর্মান্তরণ'-এর পাল্টা হিসেবে তুলসী পূজন দিবস পালন করেছে এবং রবিদাস জয়ন্তী উদযাপন করেছে। তারা একটি ডোম বসতিতে সেবাকাজও চালিয়েছে এবং রবিদাসের ৬৫০তম বর্ষ উদযাপনের পরিকল্পনা করেছে।"
    },
    {
-    "name": "Election mobilisation: SIR backing, 'safe polls' demands and 100% voting appeals",
-    "org": "Swastika editorial line / Forum for Intellectuals and Professionals / Sangh-inspired volunteers",
-    "description": "A forum demanded Article 355/356 or Election Commission control of the polls. The editorial called for 100% voting to 'save Hindu society', and a Tollygunge family meet urged victory for a 'nationalist' party. The post-poll editorial thanked volunteers who went door to door for months.",
-    "refs": [
-     {
-      "issue": "20260209",
-      "page": 28
-     },
-     {
-      "issue": "20260406",
-      "page": 5
-     },
-     {
-      "issue": "20260504",
-      "page": 30
-     },
-     {
-      "issue": "20260511",
-      "page": 5
-     }
-    ],
-    "name_bn": "নির্বাচনী প্রচার: এসআইআর-এর প্রতি সমর্থন, 'নিরাপদ ভোট'-এর দাবি ও শতভাগ ভোটদানের আহ্বান",
-    "org_bn": "স্বস্তিকার সম্পাদকীয় নীতি / বুদ্ধিজীবী ও পেশাজীবী মঞ্চ / সঙ্ঘ-অনুপ্রাণিত স্বেচ্ছাসেবকরা",
-    "description_bn": "একটি মঞ্চ ৩৫৫/৩৫৬ ধারা অথবা নির্বাচন কমিশনের নিয়ন্ত্রণে ভোট করার দাবি জানিয়েছে। সম্পাদকীয়তে 'হিন্দু সমাজকে বাঁচাতে' ১০০ শতাংশ ভোটদানের আহ্বান জানানো হয়েছে এবং টালিগঞ্জে একটি পরিবার-সম্মেলনে একটি 'জাতীয়তাবাদী' দলের জয়ের আহ্বান জানানো হয়েছে। ভোট-পরবর্তী সম্পাদকীয়তে মাসের পর মাস বাড়ি বাড়ি গিয়ে প্রচারকারী স্বেচ্ছাসেবকদের ধন্যবাদ জানানো হয়েছে।"
-   },
-   {
-    "name": "BJP Parivartan Sankalp Yatra and Brigade rally",
-    "org": "BJP",
-    "description": "Launched from Cooch Behar on 1 March and Raidighi on 2 March, the yatra ran on corruption, infiltration and development themes. It closed with Modi's 14 March Brigade rally, which the paper claims drew over 10 lakh people and was attacked by TMC 'goons and jihadis'.",
-    "refs": [
-     {
-      "issue": "20260323",
-      "page": 7
-     }
-    ],
-    "name_bn": "বিজেপির পরিবর্তন সংকল্প যাত্রা ও ব্রিগেড সমাবেশ",
-    "org_bn": "বিজেপি",
-    "description_bn": "১ মার্চ কোচবিহার থেকে এবং ২ মার্চ রায়দিঘি থেকে শুরু হওয়া যাত্রাটি দুর্নীতি, অনুপ্রবেশ ও উন্নয়নের বিষয়ে চলে। এর সমাপ্তি হয় মোদির ১৪ মার্চের ব্রিগেড সমাবেশে, যেখানে পত্রিকাটির দাবি, ১০ লক্ষের বেশি মানুষ এসেছিলেন এবং তৃণমূলের 'গুন্ডা ও জেহাদিরা' তাতে আক্রমণ চালিয়েছে।"
-   },
-   {
-    "name": "Sri Ram Mahotsav (statewide Ram Navami)",
-    "org": "Ram Navami Udyapan Samitis with VHP, Bajrang Dal, RSS, ABVP, BMS",
-    "description": "Celebrations ran from 25 March to 2 April with about 4,000 processions (the paper claims 3 crore Hindus took part), with BJP candidates and Suvendu Adhikari joining. ABVP held Ram puja at Jadavpur and Calcutta universities, and the paper alleges 'jihadi' attacks at Raghunathganj, Purulia and Nalhati.",
-    "refs": [
-     {
-      "issue": "20260413",
-      "page": 24
-     },
-     {
-      "issue": "20260413",
-      "page": 25
-     },
-     {
-      "issue": "20260413",
-      "page": 27
-     },
-     {
-      "issue": "20260413",
-      "page": 28
-     }
-    ],
-    "name_bn": "শ্রীরাম মহোৎসব (রাজ্যব্যাপী রামনবমী)",
-    "org_bn": "বিশ্ব হিন্দু পরিষদ, বজরং দল, আরএসএস, এবিভিপি ও বিএমএস-এর সঙ্গে রামনবমী উদ্‌যাপন সমিতি",
-    "description_bn": "২৫ মার্চ থেকে ২ এপ্রিল পর্যন্ত উদ্‌যাপন চলে, প্রায় ৪,০০০ শোভাযাত্রা হয় (পত্রিকার দাবি, ৩ কোটি হিন্দু অংশ নিয়েছেন), যাতে বিজেপি প্রার্থীরা ও শুভেন্দু অধিকারী যোগ দেন। এবিভিপি যাদবপুর ও কলকাতা বিশ্ববিদ্যালয়ে রাম পুজো করে; পত্রিকার অভিযোগ, রঘুনাথগঞ্জ, পুরুলিয়া ও নলহাটিতে 'জেহাদি' হামলা হয়েছে।"
-   },
-   {
-    "name": "Vande Mataram 150th anniversary",
-    "org": "Sanskar Bharati (with RSS and later the state government)",
-    "description": "Mass singing, seminars and cultural events marked the 150th year, including a three-day Sanskar Bharati programme and a Victoria Memorial event. After the election, the new government made singing the full song compulsory in schools and madrasas.",
-    "refs": [
-     {
-      "issue": "20260216",
-      "page": 23
-     },
-     {
-      "issue": "20260316",
-      "page": 26
-     },
-     {
-      "issue": "20260420",
-      "page": 29
-     },
-     {
-      "issue": "20260921",
-      "page": 23
-     }
-    ],
-    "name_bn": "বন্দে মাতরমের ১৫০তম বার্ষিকী",
-    "org_bn": "সংস্কার ভারতী (আরএসএস-এর সঙ্গে এবং পরে রাজ্য সরকারের সঙ্গে)",
-    "description_bn": "১৫০তম বর্ষ উপলক্ষে গণসংগীত, আলোচনাসভা ও সাংস্কৃতিক অনুষ্ঠান হয়, যার মধ্যে ছিল সংস্কার ভারতীর তিনদিনের অনুষ্ঠান ও ভিক্টোরিয়া মেমোরিয়ালে একটি অনুষ্ঠান। নির্বাচনের পর নতুন সরকার স্কুল ও মাদ্রাসায় সম্পূর্ণ গান গাওয়া বাধ্যতামূলক করে।"
-   },
-   {
-    "name": "Paschimbanga Dibas (20 June) and Syama Prasad Mukherjee's 125th birth anniversary",
-    "org": "Swastika / Sanskar Bharati / BJP-aligned bodies / state government",
-    "description": "A campaign to make 20 June official as the day Syama Prasad secured a Hindu homeland, celebrated in Howrah, Siliguri and College Square. It was followed by a full special issue, state-directed memorial fortnights and statue unveilings.",
+    "name": "Paschimbanga Dibas / Syama Prasad Mookerjee 125th anniversary",
+    "org": "Swastika, Sanskar Bharati, state government",
+    "description": "The paper campaigned for 20 June to be declared the state's official foundation day, crediting Mookerjee with a 'Hindu homeland'. Swastika held its own Howrah celebration. Under state-government direction, universities held Mookerjee memorial fortnights.",
     "refs": [
      {
       "issue": "20260615",
       "page": 16
      },
      {
+      "issue": "20260706",
+      "page": 5
+     },
+     {
       "issue": "20260713",
       "page": 27
      },
      {
-      "issue": "20260706",
-      "page": 6
-     },
-     {
-      "issue": "20260727",
+      "issue": "20260720",
       "page": 28
      }
     ],
-    "name_bn": "পশ্চিমবঙ্গ দিবস (২০ জুন) ও শ্যামাপ্রসাদ মুখোপাধ্যায়ের ১২৫তম জন্মবার্ষিকী",
-    "org_bn": "স্বস্তিকা / সংস্কার ভারতী / বিজেপি-ঘনিষ্ঠ সংগঠন / রাজ্য সরকার",
-    "description_bn": "২০ জুনকে শ্যামাপ্রসাদের হিন্দু আবাসভূমি অর্জনের দিন হিসেবে সরকারি স্বীকৃতি দেওয়ার প্রচার, যা হাওড়া, শিলিগুড়ি ও কলেজ স্কোয়ারে পালিত হয়েছে। এরপর একটি পূর্ণাঙ্গ বিশেষ সংখ্যা, রাজ্য সরকার-নির্দেশিত স্মরণ পক্ষ এবং মূর্তি উন্মোচন হয়েছে।"
+    "name_bn": "পশ্চিমবঙ্গ দিবস / শ্যামাপ্রসাদ মুখোপাধ্যায়ের ১২৫তম জন্মবার্ষিকী",
+    "org_bn": "স্বস্তিকা, সংস্কার ভারতী, রাজ্য সরকার",
+    "description_bn": "পত্রিকাটি ২০ জুনকে রাজ্যের সরকারি প্রতিষ্ঠা দিবস ঘোষণার জন্য প্রচার চালিয়েছে এবং 'হিন্দু homeland'-এর কৃতিত্ব মুখোপাধ্যায়কে দিয়েছে। স্বস্তিকা হাওড়ায় নিজস্ব উদযাপন করেছে। রাজ্য সরকারের নির্দেশে বিশ্ববিদ্যালয়গুলি মুখোপাধ্যায় স্মরণে পক্ষকাল পালন করেছে।"
    },
    {
-    "name": "Sangh Shiksha Vargs and cadre training",
-    "org": "RSS / VHP / Hindu Jagaran Manch",
-    "description": "After the election, training camps for Bengal's three prants (161, 287 and 177 trainees, plus a 196-trainee special varg) and Karyakarta Vikas Vargs in Nagpur and Sambalpur were held. A VHP North Bengal Parishad Varg and a Hindu Jagaran Manch abhyas varg in Siliguri followed.",
+    "name": "Sangh training camps (Sangh Shiksha Varg, Karyakarta Vikas Varg)",
+    "org": "RSS, VHP",
+    "description": "Post-election camps trained hundreds of Bengal swayamsevaks, including 177 trainees in South Bengal and a joint special varg of 196. Bengal also sent participants to the 880-strong Nagpur Karyakarta Vikas Varg-2, closed by Bhagwat. VHP held its own North Bengal parishad varg.",
     "refs": [
      {
       "issue": "20260601",
@@ -272,21 +285,21 @@ window.HINDUTVA = {
      },
      {
       "issue": "20260622",
-      "page": 27
+      "page": 25
      },
      {
-      "issue": "20260928",
-      "page": 30
+      "issue": "20260622",
+      "page": 27
      }
     ],
-    "name_bn": "সঙ্ঘ শিক্ষা বর্গ ও কার্যকর্তা প্রশিক্ষণ",
-    "org_bn": "আরএসএস / বিশ্ব হিন্দু পরিষদ / হিন্দু জাগরণ মঞ্চ",
-    "description_bn": "নির্বাচনের পর বঙ্গের তিনটি প্রান্তের প্রশিক্ষণ শিবির (১৬১, ২৮৭ ও ১৭৭ জন প্রশিক্ষণার্থী, এবং ১৯৬ জন প্রশিক্ষণার্থীর একটি বিশেষ বর্গ) এবং নাগপুর ও সম্বলপুরে কার্যকর্তা বিকাশ বর্গ অনুষ্ঠিত হয়। এরপর শিলিগুড়িতে বিশ্ব হিন্দু পরিষদ উত্তরবঙ্গ পরিষদ বর্গ ও হিন্দু জাগরণ মঞ্চের অভ্যাস বর্গ হয়।"
+    "name_bn": "সংঘের প্রশিক্ষণ শিবির (সংঘ শিক্ষা বর্গ, কার্যকর্তা বিকাশ বর্গ)",
+    "org_bn": "আরএসএস, বিশ্ব হিন্দু পরিষদ",
+    "description_bn": "নির্বাচনোত্তর শিবিরগুলিতে দক্ষিণবঙ্গের ১৭৭ জন প্রশিক্ষণার্থী এবং ১৯৬ জনের যৌথ বিশেষ বর্গ-সহ বাংলার কয়েকশো স্বয়ংসেবককে প্রশিক্ষণ দেওয়া হয়েছে। ভাগবতের উপস্থিতিতে সমাপ্ত ৮৮০ জনের নাগপুর কার্যকর্তা বিকাশ বর্গ-২-এও বাংলা থেকে অংশগ্রহণকারীরা গিয়েছিলেন। বিশ্ব হিন্দু পরিষদ নিজেদের উত্তরবঙ্গ পরিষদ বর্গ আয়োজন করেছে।"
    },
    {
     "name": "Jadavpur University campaign",
-    "org": "Swastika / ABVP / state government (CM Suvendu Adhikari)",
-    "description": "After clashes with Left student groups, the paper demanded the university be renamed 'Sri Aurobindo University'. The Chief Minister then led a 10,000-voice Vande Mataram event and a 'Gerua Samman Yatra' to the campus, and announced a Gita and Hanuman Chalisa recital there.",
+    "org": "Swastika, ABVP, CM Suvendu Adhikari with sadhus",
+    "description": "After clashes with Left students the paper demanded a 'Left-free' state and that the university be renamed Sri Aurobindo University. The CM led a 10,000-voice Vande Mataram event and a 'Geru'a Samman Yatra' to the campus and announced Gita and Hanuman Chalisa recitals there.",
     "refs": [
      {
       "issue": "20260831",
@@ -306,13 +319,39 @@ window.HINDUTVA = {
      }
     ],
     "name_bn": "যাদবপুর বিশ্ববিদ্যালয় অভিযান",
-    "org_bn": "স্বস্তিকা / এবিভিপি / রাজ্য সরকার (মুখ্যমন্ত্রী শুভেন্দু অধিকারী)",
-    "description_bn": "বামপন্থী ছাত্র সংগঠনগুলির সঙ্গে সংঘর্ষের পর পত্রিকাটি বিশ্ববিদ্যালয়ের নাম পরিবর্তন করে 'শ্রী অরবিন্দ বিশ্ববিদ্যালয়' রাখার দাবি জানায়। এরপর মুখ্যমন্ত্রী ১০,০০০ কণ্ঠে বন্দে মাতরম অনুষ্ঠান ও ক্যাম্পাস পর্যন্ত 'গেরুয়া সম্মান যাত্রা'র নেতৃত্ব দেন এবং সেখানে গীতা ও হনুমান চালিসা পাঠের ঘোষণা করেন।"
+    "org_bn": "স্বস্তিকা, এবিভিপি, মুখ্যমন্ত্রী শুভেন্দু অধিকারী সাধুদের সঙ্গে",
+    "description_bn": "বামপন্থী ছাত্রদের সঙ্গে সংঘর্ষের পর পত্রিকা 'বামমুক্ত' রাজ্যের দাবি তোলে এবং বিশ্ববিদ্যালয়ের নাম পাল্টে শ্রী অরবিন্দ বিশ্ববিদ্যালয় রাখার দাবি জানায়। মুখ্যমন্ত্রী ১০,০০০ কণ্ঠের বন্দে মাতরম অনুষ্ঠান এবং ক্যাম্পাস অভিমুখে 'গেরুয়া সম্মান যাত্রা'-র নেতৃত্ব দেন এবং সেখানে গীতা ও হনুমান চালিসা পাঠের ঘোষণা দেন।"
+   },
+   {
+    "name": "Ashok Singhal birth centenary",
+    "org": "VHP",
+    "description": "The VHP announced the centenary year from 27 September and held a North Bengal margadarshak meeting and a Siliguri sant sammelan. The Kolkata Hindu Sammelan of about 5,000 people, with the CM present, promised to 'free' Kashi and Mathura.",
+    "refs": [
+     {
+      "issue": "20260309",
+      "page": 27
+     },
+     {
+      "issue": "20260914",
+      "page": 28
+     },
+     {
+      "issue": "20261012",
+      "page": 8
+     },
+     {
+      "issue": "20261116",
+      "page": 24
+     }
+    ],
+    "name_bn": "অশোক সিঙ্ঘলের জন্মশতবর্ষ",
+    "org_bn": "বিশ্ব হিন্দু পরিষদ",
+    "description_bn": "বিশ্ব হিন্দু পরিষদ ২৭ সেপ্টেম্বর থেকে শতবর্ষ শুরুর ঘোষণা করে এবং উত্তরবঙ্গে মার্গদর্শক বৈঠক ও শিলিগুড়িতে সন্ত সম্মেলন করে। কলকাতায় প্রায় ৫,০০০ জনের হিন্দু সম্মেলনে মুখ্যমন্ত্রী উপস্থিত ছিলেন এবং কাশী ও মথুরাকে 'মুক্ত' করার প্রতিশ্রুতি দেওয়া হয়।"
    },
    {
     "name": "Akhand Bharat Sankalp Diwas and Bharat Mata pujas",
-    "org": "RSS / VHP / local samitis",
-    "description": "14 August was observed with a Tiranga Yatra in Belghata and Bharat Mata pujas and Rashtradharma sabhas in Begri and Dum Dum, addressed by RSS executive member Advaitacharan Dutta. The paper said swayamsevaks have marked the day every year since 1947.",
+    "org": "RSS, VHP, local Sangh-linked samitis",
+    "description": "On 14 August, Tiranga yatras and Bharat Mata pujas were held in Kolkata and Howrah, presented as an annual swayamsevak observance since 1947. Earlier, Republic Day Bharat Mata pujas and a 70-foot flag march had carried the same theme.",
     "refs": [
      {
       "issue": "20260810",
@@ -325,74 +364,52 @@ window.HINDUTVA = {
      {
       "issue": "20260907",
       "page": 29
+     },
+     {
+      "issue": "20260209",
+      "page": 29
      }
     ],
     "name_bn": "অখণ্ড ভারত সংকল্প দিবস ও ভারতমাতা পূজা",
-    "org_bn": "আরএসএস / বিশ্ব হিন্দু পরিষদ / স্থানীয় সমিতিগুলি",
-    "description_bn": "১৪ আগস্ট বেলঘাটায় তিরঙ্গা যাত্রা এবং বেগরি ও দমদমে ভারত মাতা পূজা ও রাষ্ট্রধর্ম সভার মাধ্যমে পালিত হয়, যেখানে আরএসএস কার্যকারিণী সদস্য অদ্বৈতচরণ দত্ত বক্তব্য রাখেন। পত্রিকাটি জানায়, স্বয়ংসেবকরা ১৯৪৭ সাল থেকে প্রতি বছর এই দিনটি পালন করে আসছেন।"
-   },
-   {
-    "name": "State patronage of Sangh causes: Loktantra Senani honours and state Raksha Bandhan",
-    "org": "West Bengal government with RSS-linked bodies",
-    "description": "The new government honoured 325 Emergency-era jail-goers, described as mostly swayamsevaks, with a monthly Rs 10,000 honorarium, and backed Rakhi celebrations. The Chief Minister attended the opening of the RSS's Keshab Smriti Bhavan and suggested Swastika become a daily.",
-    "refs": [
-     {
-      "issue": "20260824",
-      "page": 23
-     },
-     {
-      "issue": "20260824",
-      "page": 5
-     },
-     {
-      "issue": "20261102",
-      "page": 24
-     },
-     {
-      "issue": "20261102",
-      "page": 28
-     }
-    ],
-    "name_bn": "সঙ্ঘের উদ্দেশ্যে রাজ্যের পৃষ্ঠপোষকতা: লোকতন্ত্র সেনানী সম্মান ও রাজ্যস্তরে রাখীবন্ধন",
-    "org_bn": "আরএসএস-সংশ্লিষ্ট সংগঠনগুলির সঙ্গে পশ্চিমবঙ্গ সরকার",
-    "description_bn": "নতুন সরকার জরুরি অবস্থার সময়কার ৩২৫ জন কারাবরণকারীকে, যাঁদের অধিকাংশই স্বয়ংসেবক বলে বর্ণনা করা হয়েছে, মাসিক ১০,০০০ টাকা সম্মানভাতা দিয়ে সম্মানিত করেছে এবং রাখি উদযাপনকে সমর্থন জানিয়েছে। মুখ্যমন্ত্রী আরএসএসের কেশব স্মৃতি ভবনের উদ্বোধনে উপস্থিত ছিলেন এবং স্বস্তিকাকে দৈনিক করার পরামর্শ দেন।"
+    "org_bn": "আরএসএস, বিশ্ব হিন্দু পরিষদ, সংঘ-সংশ্লিষ্ট স্থানীয় সমিতিগুলি",
+    "description_bn": "১৪ আগস্ট কলকাতা ও হাওড়ায় তিরঙ্গা যাত্রা ও ভারত মাতা পূজা অনুষ্ঠিত হয়, যাকে ১৯৪৭ থেকে স্বয়ংসেবকদের বার্ষিক পালনীয় অনুষ্ঠান হিসেবে তুলে ধরা হয়। এর আগে প্রজাতন্ত্র দিবসে ভারত মাতা পূজা ও ৭০ ফুট পতাকা মিছিলেও একই বিষয় ছিল।"
    }
   ],
   "propaganda": [
    {
-    "theme": "Bangladesh as Bengal's mirror",
-    "line": "The killing of Hindus in Bangladesh foreshadows what awaits West Bengal's Hindus under appeasement politics.",
-    "how": "Atrocities such as Dipu Chandra Das's lynching are linked to Murshidabad, Metiabruz and curbs on Saraswati Puja. The Left, TMC and secular intellectuals are blamed for staying silent.",
+    "theme": "Election as Hindu survival",
+    "line": "The 2026 election was a life-or-death test for the existence of Bengali Hindu society.",
+    "how": "Editorials and sammelan speeches called for 100% Hindu turnout and described the vote as a 'dharma-yuddha' and the 'last train'. TMC rule was presented as an existential threat to Hindus.",
     "refs": [
      {
-      "issue": "20260112",
+      "issue": "20260406",
       "page": 5,
-      "heading": "মধ্যযুগীয় বর্বরতা"
+      "heading": "হিন্দু সমাজের অস্তিত্ব রক্ষার নির্বাচন"
      },
      {
-      "issue": "20260112",
-      "page": 38,
-      "heading": "বাংলাদেশে হিন্দু নিধন কি ঘুম ভাঙাবে এদেশের হিন্দুদের?"
+      "issue": "20260330",
+      "page": 17,
+      "heading": "নির্বাচন ২০২৬ পশ্চিমবঙ্গে হিন্দুদের অস্তিত্ব সংকট থেকে মুক্তির নির্বাচন"
      },
      {
-      "issue": "20260209",
-      "page": 39,
-      "heading": "হিন্দু রক্তে হালাল বাংলাদেশ!"
+      "issue": "20260413",
+      "page": 11,
+      "heading": "বাঙ্গালির ভবিষ্যৎ : ছেলেখেলা নয়, লড়াইটা এবার মরা-বাঁচার"
      },
      {
-      "issue": "20260803",
-      "page": 3,
-      "heading": "বাংলাদেশে সরকারের পরিবর্তন হয় ঠিকই, কিন্তু সংখ্যালঘু হিন্দুদের ভাগ্য পরিবর্তন হয় না"
+      "issue": "20260427",
+      "page": 27,
+      "heading": "বেহালায় বিরাট হিন্দু সম্মেলন"
      }
     ],
-    "theme_bn": "বাংলাদেশ, বাংলার দর্পণ",
-    "line_bn": "বাংলাদেশে হিন্দুদের হত্যা ইঙ্গিত দেয়, তোষণের রাজনীতির অধীনে পশ্চিমবঙ্গের হিন্দুদের জন্য কী অপেক্ষা করছে।",
-    "how_bn": "দীপু চন্দ্র দাসের গণপিটুনিতে হত্যার মতো অত্যাচারগুলিকে মুর্শিদাবাদ, মেটিয়াবুরুজ এবং সরস্বতী পুজোয় বিধিনিষেধের সঙ্গে যুক্ত করা হয়েছে। নীরব থাকার জন্য বামপন্থী, তৃণমূল ও ধর্মনিরপেক্ষ বুদ্ধিজীবীদের দায়ী করা হয়েছে।"
+    "theme_bn": "হিন্দুর অস্তিত্ব রক্ষা হিসেবে নির্বাচন",
+    "line_bn": "২০২৬ সালের নির্বাচন ছিল বাঙালি হিন্দু সমাজের অস্তিত্বের পক্ষে জীবন-মরণ পরীক্ষা।",
+    "how_bn": "সম্পাদকীয় ও সম্মেলনের বক্তৃতায় ১০০ শতাংশ হিন্দু ভোটদানের আহ্বান জানানো হয় এবং ভোটকে 'ধর্মযুদ্ধ' ও 'শেষ ট্রেন' বলে বর্ণনা করা হয়। তৃণমূলের শাসনকে হিন্দুদের কাছে অস্তিত্বের হুমকি হিসেবে তুলে ধরা হয়।"
    },
    {
-    "theme": "Infiltration, demography and the SIR",
-    "line": "Illegal Bangladeshi and Rohingya Muslims swell the rolls and are changing Bengal's demography, so the SIR is a constitutional purification.",
-    "how": "Deletion figures (60 lakh, later 90.6 lakh) concentrated in Malda and Murshidabad are cited as proof. TMC, and earlier the Left Front, are accused of making fake documents for infiltrators.",
+    "theme": "Infiltration and demographic change",
+    "line": "Bangladeshi Muslim and Rohingya infiltrators, protected by TMC and earlier the Left, are turning Hindus into a minority.",
+    "how": "The paper used SIR deletion figures from Malda and Murshidabad and claims of Kolkata 'mini Pakistans' to argue that the rulers protect infiltrators for votes. After the poll it claimed vindication through the Centre's demography committee.",
     "refs": [
      {
       "issue": "20260316",
@@ -400,9 +417,9 @@ window.HINDUTVA = {
       "heading": "সাংবিধানিক কার্যে বাধা সৃষ্টি সুস্থ গণতন্ত্রের লক্ষণ নহে"
      },
      {
-      "issue": "20260302",
-      "page": 11,
-      "heading": "ভোটার তালিকা শুদ্ধীকরণে রাজ্যে ভোটের সমীকরণ পরিবর্তন অবশ্যম্ভাবী"
+      "issue": "20260323",
+      "page": 3,
+      "heading": "শুধু খিদিরপুর নয়, বালিগঞ্জও : কলকাতার 'মিনি পাকিস্তান' হয়ে ওঠা এক প্রবল অশনিসংকেত"
      },
      {
       "issue": "20260420",
@@ -415,19 +432,19 @@ window.HINDUTVA = {
       "heading": "ভারতে জনবিন্যাস পরিবর্তনের বিষয়টি সঙ্ঘ ও স্বস্তিকা পত্রিকাই জনসমক্ষে এনেছে"
      }
     ],
-    "theme_bn": "অনুপ্রবেশ, জনবিন্যাস ও এসআইআর",
-    "line_bn": "অবৈধ বাংলাদেশি ও রোহিঙ্গা মুসলমানরা ভোটার তালিকা ফুলিয়ে তুলছে এবং বাংলার জনবিন্যাস বদলে দিচ্ছে, তাই এসআইআর সাংবিধানিক শুদ্ধিকরণ।",
-    "how_bn": "মালদহ ও মুর্শিদাবাদে কেন্দ্রীভূত নাম বাদের সংখ্যা (৬০ লক্ষ, পরে ৯০.৬ লক্ষ) প্রমাণ হিসেবে উল্লেখ করা হয়েছে। তৃণমূল এবং তার আগে বামফ্রন্টের বিরুদ্ধে অনুপ্রবেশকারীদের জন্য ভুয়ো নথি তৈরির অভিযোগ আনা হয়েছে।"
+    "theme_bn": "অনুপ্রবেশ ও জনবিন্যাসগত পরিবর্তন",
+    "line_bn": "তৃণমূল এবং এর আগে বামপন্থীদের আশ্রয়পুষ্ট বাংলাদেশি মুসলমান ও রোহিঙ্গা অনুপ্রবেশকারীরা হিন্দুদের সংখ্যালঘুতে পরিণত করছে।",
+    "how_bn": "পত্রিকাটি মালদহ ও মুর্শিদাবাদের এসআইআর-এ নাম বাদের পরিসংখ্যান এবং কলকাতার 'মিনি পাকিস্তান' সংক্রান্ত দাবি ব্যবহার করে যুক্তি দিয়েছে যে শাসকেরা ভোটের জন্য অনুপ্রবেশকারীদের রক্ষা করে। ভোটের পর কেন্দ্রের জনবিন্যাস কমিটির মাধ্যমে নিজেদের বক্তব্য সঠিক প্রমাণিত হয়েছে বলে তারা দাবি করেছে।"
    },
    {
-    "theme": "TMC as anti-Hindu appeasement regime",
-    "line": "The Mamata Banerjee government is a lawless, anti-Hindu regime run on Muslim vote-bank appeasement.",
-    "how": "The paper cites madrasa allocations, attacks on sadhus, curbs on festivals and 'Mini Pakistan' neighbourhoods. TMC rule is called 'matsyanyaya' that outdid the Left's red terror.",
+    "theme": "TMC appeasement makes Bengal 'West Bangladesh'",
+    "line": "TMC's Muslim appeasement has made Bengal's Hindus second-class citizens and pushed the state towards becoming 'West Bangladesh'.",
+    "how": "Madrasa budget allocations, imam allowances and police action against Hindu processions were cited as evidence. Bangladesh's violence was presented as the fate awaiting West Bengal.",
     "refs": [
      {
-      "issue": "20260202",
+      "issue": "20260112",
       "page": 5,
-      "heading": "এই নৈরাজ্যের অবসান কবে?"
+      "heading": "মধ্যযুগীয় বর্বরতা (সম্পাদকীয়)"
      },
      {
       "issue": "20260216",
@@ -435,139 +452,54 @@ window.HINDUTVA = {
       "heading": "মাদ্রাসা খাতে পাঁচ হাজার কোটির বেশি বরাদ্দ"
      },
      {
-      "issue": "20260323",
-      "page": 3,
-      "heading": "শুধু খিদিরপুর নয়, বালিগঞ্জও : কলকাতার 'মিনি পাকিস্তান' হয়ে ওঠা এক প্রবল অশনিসংকেত"
-     },
-     {
-      "issue": "20260504",
-      "page": 17,
-      "heading": "সাধুসন্তদের ওপর আক্রমণ প্রমাণ করল রাজ্য সরকার হিন্দু বিদ্বেষী"
-     }
-    ],
-    "theme_bn": "তৃণমূল হিন্দুবিরোধী তোষণকারী শাসনব্যবস্থা হিসেবে",
-    "line_bn": "মমতা বন্দ্যোপাধ্যায়ের সরকার একটি আইনহীন, হিন্দুবিরোধী শাসন, যা মুসলিম ভোটব্যাঙ্ক তোষণের ভিত্তিতে চলে।",
-    "how_bn": "পত্রিকা মাদ্রাসায় বরাদ্দ, সাধুদের উপর হামলা, উৎসবে নিষেধাজ্ঞা এবং 'মিনি পাকিস্তান' এলাকার উল্লেখ করেছে। তৃণমূলের শাসনকে 'মাৎস্যন্যায়' বলা হয়েছে, যা বামপন্থীদের লাল সন্ত্রাসকেও ছাড়িয়ে গেছে।"
-   },
-   {
-    "theme": "The election as a Hindu survival war",
-    "line": "The 2026 assembly election is a life-and-death fight for the existence of Bengal's Hindus.",
-    "how": "The editorials urge 100% voting and Hindu unity and warn that a 'small mistake' could bring another Partition. The paper calls it the 'last train' before a 'dharma-yuddha'.",
-    "refs": [
-     {
-      "issue": "20260330",
-      "page": 17,
-      "heading": "নির্বাচন ২০২৬ পশ্চিমবঙ্গে হিন্দুদের অস্তিত্ব সংকট থেকে মুক্তির নির্বাচন"
-     },
-     {
-      "issue": "20260406",
-      "page": 5,
-      "heading": "হিন্দু সমাজের অস্তিত্ব রক্ষার নির্বাচন"
-     },
-     {
-      "issue": "20260413",
-      "page": 11,
-      "heading": "বাঙ্গালির ভবিষ্যৎ : ছেলেখেলা নয়, লড়াইটা এবার মরা-বাঁচার"
-     },
-     {
-      "issue": "20260420",
-      "page": 48,
-      "heading": "একটা ছোটো ভুল আবার বাঙ্গালিকে দেশভাগের মতো অভিজ্ঞতার সম্মুখীন করবে না তো?"
-     }
-    ],
-    "theme_bn": "হিন্দুর অস্তিত্ব রক্ষার যুদ্ধ হিসেবে নির্বাচন",
-    "line_bn": "২০২৬ সালের বিধানসভা নির্বাচন বাংলার হিন্দুদের অস্তিত্ব রক্ষার জীবন-মরণ লড়াই।",
-    "how_bn": "সম্পাদকীয়গুলিতে ১০০ শতাংশ ভোট ও হিন্দু ঐক্যের আহ্বান জানিয়ে সতর্ক করা হয়েছে যে একটি 'ছোট ভুল' আরও একটি দেশভাগ ডেকে আনতে পারে। পত্রিকাটি একে 'ধর্মযুদ্ধ'-এর আগে 'শেষ ট্রেন' বলে উল্লেখ করেছে।"
-   },
-   {
-    "theme": "Victory as Hindu 'second independence'",
-    "line": "The BJP win is a Hindutva victory and Bengal's second independence, which Hindus must now guard.",
-    "how": "It is presented as the first united Hindu vote and the fruit of decades of Sangh work, with 'Hindu rule' returning after 820-plus years. Readers are told to protect this 'yogakshem' from Left, jihadi and TMC remnants.",
-    "refs": [
-     {
       "issue": "20260511",
       "page": 5,
       "heading": "অপশাসনের অবসান"
      },
      {
-      "issue": "20260518",
-      "page": 18,
-      "heading": "ভোট : ২০২৬"
+      "issue": "20260629",
+      "page": 3,
+      "heading": "পশ্চিম বাংলাদেশ হওয়া থেকে বেঁচে গেল পশ্চিমবঙ্গ"
+     }
+    ],
+    "theme_bn": "তৃণমূলের তোষণ বাংলাকে 'পশ্চিম বাংলাদেশ' বানিয়েছে",
+    "line_bn": "তৃণমূলের মুসলিম তোষণ বাংলার হিন্দুদের দ্বিতীয় শ্রেণির নাগরিকে পরিণত করেছে এবং রাজ্যকে 'পশ্চিম বাংলাদেশ' হওয়ার দিকে ঠেলে দিয়েছে।",
+    "how_bn": "মাদ্রাসা বাজেট বরাদ্দ, ইমাম ভাতা ও হিন্দু শোভাযাত্রার বিরুদ্ধে পুলিশি ব্যবস্থাকে প্রমাণ হিসেবে উল্লেখ করা হয়েছে। বাংলাদেশের সহিংসতাকে পশ্চিমবঙ্গের সম্ভাব্য ভবিষ্যৎ হিসেবে তুলে ধরা হয়েছে।"
+   },
+   {
+    "theme": "The Left as root of Bengal's ruin",
+    "line": "Thirty-four years of CPIM 'red terror' began Bengal's anarchy, and TMC was only its continuation.",
+    "how": "The paper repeatedly listed Marichjhapi, Bijon Setu, Sainbari and Nandigram, along with the 'harmad' cadres it said TMC absorbed. It cast the Left as the originator of vote-bank politics and industrial collapse.",
+    "refs": [
+     {
+      "issue": "20260202",
+      "page": 5,
+      "heading": "এই নৈরাজ্যের অবসান কবে?"
      },
      {
-      "issue": "20260525",
-      "page": 47,
-      "heading": "এবারের নির্বাচনে বিজেপির জয় হিন্দুত্বের জয়"
+      "issue": "20260427",
+      "page": 5,
+      "heading": "পশ্চিমবঙ্গের গণতন্ত্র রক্ষার নির্বাচন"
      },
      {
       "issue": "20260608",
       "page": 5,
-      "heading": "এই “যোগক্ষেম” রক্ষা করিতেই হইবে"
+      "heading": "এই “যোগক্ষেম” রক্ষা করিতেই হইবে (সম্পাদকীয়)"
+     },
+     {
+      "issue": "20260720",
+      "page": 5,
+      "heading": "রাজ্যের মানুষের সুরক্ষা কবচ- গুন্ডা দমন আইন"
      }
     ],
-    "theme_bn": "হিন্দুদের 'দ্বিতীয় স্বাধীনতা' হিসেবে বিজয়",
-    "line_bn": "বিজেপির জয় হিন্দুত্বের জয় এবং বাংলার দ্বিতীয় স্বাধীনতা, যাকে এখন হিন্দুদের রক্ষা করতে হবে।",
-    "how_bn": "এটিকে প্রথম ঐক্যবদ্ধ হিন্দু ভোট এবং সংঘের কয়েক দশকের কাজের ফল হিসেবে তুলে ধরা হয়েছে, যেখানে ৮২০ বছরেরও বেশি পরে 'হিন্দু শাসন' ফিরে এসেছে। পাঠকদের বলা হয়েছে বামপন্থী, জিহাদি ও তৃণমূলের অবশিষ্টাংশের হাত থেকে এই 'যোগক্ষেম' রক্ষা করতে।"
-   },
-   {
-    "theme": "The Left as violent and to be eliminated",
-    "line": "The CPIM's 34 years were 'red terror', and the Left must now be wiped out of Bengal.",
-    "how": "It cites Marichjhapi, Sainbari, Bijon Setu, Nandigram and attacks on swayamsevaks in Bengal and Kerala. The rhetoric escalates to calls for 'eradication', a 'Left-free' state and threats against named student activists.",
-    "refs": [
-     {
-      "issue": "20260202",
-      "page": 35,
-      "heading": "কমিউনিস্টদের বিশ্বাসঘাতকতা মরিচঝাঁপির গণহত্যা"
-     },
-     {
-      "issue": "20260216",
-      "page": 18,
-      "heading": "সিপিআই(এম) গণতন্ত্রের বুলি আওড়ায়, অথচ ওরাই আমায় পঙ্গু করে দিয়েছে : সদানন্দন মাস্টার"
-     },
-     {
-      "issue": "20260413",
-      "page": 35,
-      "heading": "বঙ্গের ঐতিহ্য ও সংস্কৃতি ধ্বংসকারী বামপন্থীদের চিরতরে নির্মূল করতে হবে"
-     },
-     {
-      "issue": "20260608",
-      "page": 10,
-      "heading": "শয়তানেরা ঘুমায় না, শয়তানির মূল্য মৃত্যু"
-     }
-    ],
-    "theme_bn": "বামপন্থীরা হিংসাত্মক এবং তাদের নির্মূল করা উচিত",
-    "line_bn": "সিপিআই(এম)-এর ৩৪ বছর ছিল 'লাল সন্ত্রাস', এবং এখন বামপন্থীদের বাংলা থেকে নিশ্চিহ্ন করতে হবে।",
-    "how_bn": "এতে মরিচঝাঁপি, সাঁইবাড়ি, বিজন সেতু, নন্দীগ্রাম এবং বাংলা ও কেরলে স্বয়ংসেবকদের উপর হামলার উল্লেখ আছে। বক্তব্য ক্রমশ চড়ে গিয়ে 'নির্মূল'-এর ডাক, 'বামমুক্ত' রাজ্য এবং নাম উল্লেখ করা ছাত্র কর্মীদের বিরুদ্ধে হুমকিতে পৌঁছেছে।"
-   },
-   {
-    "theme": "Left–Islamist nexus",
-    "line": "The Left and Islamic fundamentalism are two sides of the same coin.",
-    "how": "The paper says the CPIM pioneered Muslim vote-bank politics, marched for Iran for the 'ummah' and is reviving itself through Muslim votes and ISF.",
-    "refs": [
-     {
-      "issue": "20260420",
-      "page": 36,
-      "heading": "বাম ও ইসলামি কট্টরপন্থা একই মুদ্রার এপিঠ-ওপিঠ"
-     },
-     {
-      "issue": "20260330",
-      "page": 15,
-      "heading": "ভারসাম্যপূর্ণ মধ্যপ্রাচ্য নীতি : ভারতের শক্তিশালী কূটনৈতিক অবস্থানের পরিচয় বহন করছে"
-     },
-     {
-      "issue": "20260518",
-      "page": 3,
-      "heading": "মুসলমান ভোটে প্রাণ স্পন্দন শুরু হয়েছে সিপিএমের"
-     }
-    ],
-    "theme_bn": "বাম–ইসলামপন্থী আঁতাত",
-    "line_bn": "বামপন্থী ও ইসলামি মৌলবাদ একই মুদ্রার দুই পিঠ।",
-    "how_bn": "পত্রিকার বক্তব্য, সিপিআই(এম) মুসলিম ভোটব্যাঙ্ক রাজনীতির পথিকৃৎ, 'উম্মাহ'র জন্য ইরানের সমর্থনে মিছিল করেছে এবং মুসলিম ভোট ও আইএসএফের মাধ্যমে নিজেকে পুনরুজ্জীবিত করছে।"
+    "theme_bn": "বাংলার সর্বনাশের মূলে বামপন্থা",
+    "line_bn": "৩৪ বছরের সিপিআই(এম)-এর 'লাল সন্ত্রাস' বাংলার নৈরাজ্যের সূচনা করেছিল, আর তৃণমূল ছিল তারই ধারাবাহিকতা মাত্র।",
+    "how_bn": "পত্রিকাটি বারবার মরিচঝাঁপি, বিজন সেতু, সাঁইবাড়ি ও নন্দীগ্রামের কথা তুলেছে, সঙ্গে তৃণমূল যে 'হার্মাদ' ক্যাডারদের আত্মসাৎ করেছে বলে তারা বলেছে, তাদের কথাও। বামপন্থীদের তারা ভোটব্যাঙ্ক রাজনীতি ও শিল্প ধ্বংসের উদ্‌গাতা হিসেবে চিত্রিত করেছে।"
    },
    {
     "theme": "Communists as historical traitors",
-    "line": "Communists betrayed the freedom struggle by smearing Netaji, opposing Quit India, backing Pakistan and siding with China in 1962.",
-    "how": "History pieces cite People's War cartoons, the Joshi–Maxwell pact and the Adhikari Thesis. Marxist historians are said to have hidden all this, along with '800 years of Islamic oppression'.",
+    "line": "Communists slandered Netaji, betrayed Quit India, backed Pakistan and sided with China in 1962.",
+    "how": "Historical essays, including a Puja-issue polemic on the Adhikari Thesis and the Joshi-Maxwell pact, argue that Marxist historians hid this record. They call for history to be rewritten, set against the RSS's claimed role in the freedom struggle.",
     "refs": [
      {
       "issue": "20260119",
@@ -591,73 +523,163 @@ window.HINDUTVA = {
      }
     ],
     "theme_bn": "ঐতিহাসিক বিশ্বাসঘাতক হিসেবে কমিউনিস্টরা",
-    "line_bn": "কমিউনিস্টরা নেতাজিকে কলঙ্কিত করে, ভারত ছাড়ো আন্দোলনের বিরোধিতা করে, পাকিস্তানকে সমর্থন করে এবং ১৯৬২ সালে চিনের পক্ষ নিয়ে স্বাধীনতা সংগ্রামের সঙ্গে বিশ্বাসঘাতকতা করেছে।",
-    "how_bn": "ইতিহাসবিষয়ক লেখাগুলিতে 'পিপলস ওয়ার' কার্টুন, জোশী–ম্যাক্সওয়েল চুক্তি ও অধিকারী থিসিসের উল্লেখ আছে। বলা হয়েছে, মার্কসবাদী ঐতিহাসিকরা '৮০০ বছরের ইসলামি নিপীড়ন'-সহ এই সবকিছু চেপে গেছেন।"
+    "line_bn": "কমিউনিস্টরা নেতাজির নামে কুৎসা করেছে, ভারত ছাড়ো আন্দোলনের সঙ্গে বিশ্বাসঘাতকতা করেছে, পাকিস্তানকে সমর্থন করেছে এবং ১৯৬২ সালে চিনের পক্ষ নিয়েছে।",
+    "how_bn": "ঐতিহাসিক প্রবন্ধগুলিতে, পূজা সংখ্যার অধিকারী থিসিস ও জোশী-ম্যাক্সওয়েল চুক্তি নিয়ে একটি বিতর্কমূলক লেখা-সহ, দাবি করা হয়েছে যে মার্ক্সবাদী ঐতিহাসিকরা এই নথি লুকিয়ে রেখেছিলেন। স্বাধীনতা সংগ্রামে আরএসএসের কথিত ভূমিকার বিপরীতে ইতিহাস নতুন করে লেখার আহ্বান জানানো হয়েছে।"
    },
    {
-    "theme": "West Bengal as a 'Hindu homeland'",
-    "line": "Syama Prasad Mukherjee created West Bengal as a refuge for Bengali Hindus, and the goal now is to establish a Hindu homeland.",
-    "how": "The paper blames Congress, the Left and TMC for erasing him, demands an official 20 June 'Paschimbanga Dibas', and cites 1946 Calcutta and Noakhali as proof partition was needed.",
+    "theme": "Left equals Islamism; Left violence against swayamsevaks",
+    "line": "The Left and Islamic fundamentalism are two sides of one coin, and the CPIM has blood of swayamsevaks on its hands.",
+    "how": "The paper pointed to the maiming of Sadanandan Master and the killing of Prasanta Mandal to show Left violence. It said the CPIM's after-poll revival depended on Muslim votes, pairing the Left with the 'jihadi' enemy.",
     "refs": [
      {
-      "issue": "20260615",
-      "page": 14,
-      "heading": "বাঙ্গালি হিন্দুর অস্তিত্ব রক্ষার ভূমি পশ্চিমবঙ্গ এবং ড. শ্যামাপ্রসাদ মুখোপাধ্যায়ের অবদান"
+      "issue": "20260420",
+      "page": 36,
+      "heading": "বাম ও ইসলামি কট্টরপন্থা একই মুদ্রার এপিঠ-ওপিঠ"
      },
      {
-      "issue": "20260615",
-      "page": 16,
-      "heading": "২০ জুন “পশ্চিমবঙ্গ দিবস” সরকারি ভাবে রাজ্য সরকারকে ঘোষণা করতে হবে"
+      "issue": "20260216",
+      "page": 18,
+      "heading": "সিপিআই(এম) গণতন্ত্রের বুলি আওড়ায়, অথচ ওরাই আমায় পঙ্গু করে দিয়েছে : সদানন্দন মাস্টার"
      },
      {
-      "issue": "20260706",
-      "page": 6,
-      "heading": "অপ্রাসঙ্গিক হিন্দু বিরোধিতার তোয়াক্কা না করে ‘হিন্দু হোমল্যান্ড’ প্রতিষ্ঠাই এখন লক্ষ্য : বঙ্গভূমি ত্বয়া হিন্দুভূমে"
+      "issue": "20260223",
+      "page": 27,
+      "heading": "মুরারীপুরে হুতাত্মা স্বয়ংসেবক প্রশান্ত মণ্ডলের স্মৃতিতর্পণ"
      },
      {
-      "issue": "20260706",
-      "page": 5,
-      "heading": "শ্যামাপ্রসাদ শাশ্বত, চির অম্লান"
+      "issue": "20260518",
+      "page": 3,
+      "heading": "মুসলমান ভোটে প্রাণ স্পন্দন শুরু হয়েছে সিপিএমের"
      }
     ],
-    "theme_bn": "'হিন্দু বাসভূমি' হিসেবে পশ্চিমবঙ্গ",
-    "line_bn": "শ্যামাপ্রসাদ মুখোপাধ্যায় বাঙালি হিন্দুদের আশ্রয়স্থল হিসেবে পশ্চিমবঙ্গ গড়েছিলেন, এবং এখন লক্ষ্য হিন্দু বাসভূমি প্রতিষ্ঠা করা।",
-    "how_bn": "পত্রিকার অভিযোগ, কংগ্রেস, বামপন্থী ও তৃণমূল তাঁকে মুছে দিয়েছে; তারা ২০ জুনকে সরকারি 'পশ্চিমবঙ্গ দিবস' করার দাবি জানিয়েছে এবং ১৯৪৬ সালের কলকাতা ও নোয়াখালিকে দেশভাগের প্রয়োজনীয়তার প্রমাণ হিসেবে উল্লেখ করেছে।"
+    "theme_bn": "বামপন্থা মানে ইসলামপন্থা; স্বয়ংসেবকদের বিরুদ্ধে বামপন্থীদের সহিংসতা",
+    "line_bn": "বামপন্থী ও ইসলামি মৌলবাদ একই মুদ্রার দুই পিঠ, এবং সিপিআই(এম)-এর হাতে স্বয়ংসেবকদের রক্ত লেগে আছে।",
+    "how_bn": "পত্রিকাটি বামপন্থী হিংসার প্রমাণ হিসেবে সদানন্দন মাস্টারকে পঙ্গু করা এবং প্রশান্ত মণ্ডলের হত্যার কথা উল্লেখ করেছে। তাদের বক্তব্য, ভোটের পর সিপিআই(এম)-এর পুনরুজ্জীবন মুসলিম ভোটের উপর নির্ভরশীল, এভাবে তারা বামপন্থীদের 'জেহাদি' শত্রুর সঙ্গে জুড়ে দিয়েছে।"
    },
    {
-    "theme": "Reclaiming Bengali identity as Hindu",
-    "line": "Bengali culture is Hindu at its root, and Communists, 'secularists' and Mughal attribution stole it.",
-    "how": "The paper argues that Shashanka, not Akbar, founded the Bengali era; that Holi is not 'non-Bengali'; that Ram worship is native to Bengal; and that Tagore was a 'Bharat-rishi' of Hindu nationhood.",
+    "theme": "Purge the campuses of 'Dimagi Naxals'",
+    "line": "Universities, especially Jadavpur, are 'red forts' of anti-national 'urban Naxals' that must be cleared for a 'Left-free' Bengal.",
+    "how": "Post-election articles named Left student figures, threatened 'death' or a 'final destination', and demanded ABVP access and renaming. The state's crackdown was presented as the rightful answer.",
     "refs": [
+     {
+      "issue": "20260608",
+      "page": 10,
+      "heading": "শয়তানেরা ঘুমায় না, শয়তানির মূল্য মৃত্যু"
+     },
+     {
+      "issue": "20260831",
+      "page": 5,
+      "heading": "চাই “বাম মুক্ত” রাজ্য, তাই তার কুপাঠ ধ্বংস করতে হবে : “যারে তুমি পিছে ফেল”"
+     },
+     {
+      "issue": "20260907",
+      "page": 11,
+      "heading": "দিমাগি নকশাল : জাতির জীবনের ক্যানসার"
+     },
+     {
+      "issue": "20260907",
+      "page": 43,
+      "heading": "যাদবপুর বিশ্ববিদ্যালয় : জাতীয়তাবোধের পুণ্যভূমি থেকে বাম-অতিবামপন্থী নৈরাজ্যের রক্তাক্ত বিবর্তন ইতিহাস ও আদর্শের মহাসংকট"
+     }
+    ],
+    "theme_bn": "ক্যাম্পাস থেকে 'দিমাগি নকশাল'দের বিতাড়ন করো",
+    "line_bn": "বিশ্ববিদ্যালয়গুলি, বিশেষ করে যাদবপুর, দেশবিরোধী 'শহুরে নকশাল'দের 'লাল দুর্গ', 'বামমুক্ত' বাংলার জন্য যা সাফ করতে হবে।",
+    "how_bn": "নির্বাচনোত্তর প্রবন্ধগুলিতে বামপন্থী ছাত্র নেতাদের নাম উল্লেখ করা হয়েছে, 'মৃত্যু' বা 'শেষ গন্তব্য'-র হুমকি দেওয়া হয়েছে এবং এবিভিপি-র প্রবেশাধিকার ও নাম পরিবর্তনের দাবি তোলা হয়েছে। রাজ্যের কড়া ব্যবস্থাকে যথার্থ জবাব হিসেবে তুলে ধরা হয়েছে।"
+   },
+   {
+    "theme": "Bangladesh as Bengal's warning",
+    "line": "The killing of Hindus in Bangladesh shows what awaits West Bengal's Hindus if they do not unite.",
+    "how": "The paper documented lynchings, temple attacks and the jailing of Chinmoy Krishna Das, and accused the Left, TMC and secular intellectuals of silence. It continued the theme after the poll and in dystopian Puja fiction.",
+    "refs": [
+     {
+      "issue": "20260105",
+      "page": 9,
+      "heading": "নরক যন্ত্রণায় বাংলাদেশের ধর্মীয় সংখ্যালঘুরা"
+     },
+     {
+      "issue": "20260112",
+      "page": 38,
+      "heading": "বাংলাদেশে হিন্দু নিধন কি ঘুম ভাঙাবে এদেশের হিন্দুদের?"
+     },
+     {
+      "issue": "20260309",
+      "page": 5,
+      "heading": "সততার প্রমাণ রাখিতে হইবে"
+     },
+     {
+      "issue": "20260817",
+      "page": 35,
+      "heading": "বাংলাদেশে গত ছ'মাসের সাম্প্রদায়িক হিংসার তথ্য প্রকাশ করেছে ঐক্য পরিষদ"
+     }
+    ],
+    "theme_bn": "বাংলার জন্য সতর্কবার্তা হিসেবে বাংলাদেশ",
+    "line_bn": "বাংলাদেশে হিন্দুদের হত্যা দেখিয়ে দিচ্ছে, ঐক্যবদ্ধ না হলে পশ্চিমবঙ্গের হিন্দুদের কপালে কী অপেক্ষা করছে।",
+    "how_bn": "পত্রিকাটি গণপিটুনিতে হত্যা, মন্দিরে হামলা এবং চিন্ময় কৃষ্ণ দাসের কারাবাসের নথিভুক্ত বিবরণ দিয়েছে এবং বামপন্থী, তৃণমূল ও ধর্মনিরপেক্ষ বুদ্ধিজীবীদের নীরবতার অভিযোগ তুলেছে। ভোটের পরেও এবং পূজা সংখ্যার ডিস্টোপিয়ান কথাসাহিত্যে এই বিষয়টি চলতে থেকেছে।"
+   },
+   {
+    "theme": "Bengali identity as Hindu identity",
+    "line": "West Bengal is a Hindu homeland created by Syama Prasad Mookerjee, and Bengali heritage, from Shashanka's calendar onwards, was stolen by Congress and Communists.",
+    "how": "The paper credited Shashanka, not Akbar, with the Bengali era and promoted 20 June as the state's day. The lead article on Mookerjee openly set 'Hindu homeland' as the goal.",
+    "refs": [
+     {
+      "issue": "20260413",
+      "page": 5,
+      "heading": "সম্পাদকীয়"
+     },
      {
       "issue": "20260413",
       "page": 34,
       "heading": "বঙ্গাব্দের প্রবর্তক বঙ্গের প্রথম স্বাধীন ও সার্বভৌম সম্রাট মহারাজা শশাঙ্ক"
      },
      {
-      "issue": "20260323",
-      "page": 23,
-      "heading": "শ্রীরাম এক জীবনবোধ — ভারতের বিশ্বজনীন ইতিহাস"
+      "issue": "20260615",
+      "page": 14,
+      "heading": "বাঙ্গালি হিন্দুর অস্তিত্ব রক্ষার ভূমি পশ্চিমবঙ্গ এবং ড. শ্যামাপ্রসাদ মুখোপাধ্যায়ের অবদান"
      },
      {
-      "issue": "20260504",
-      "page": 5,
-      "heading": "ভারতঋষি রবীন্দ্রনাথ"
-     },
-     {
-      "issue": "20260420",
-      "page": 39,
-      "heading": "বাঙ্গালিয়ানা কাম্য কিন্তু ভারতীয়ত্বকে অস্বীকার করে নয়"
+      "issue": "20260706",
+      "page": 6,
+      "heading": "অপ্রাসঙ্গিক হিন্দু বিরোধিতার তোয়াক্কা না করে ‘হিন্দু হোমল্যান্ড’ প্রতিষ্ঠাই এখন লক্ষ্য : বঙ্গভূমি ত্বয়া হিন্দুভূমে"
      }
     ],
-    "theme_bn": "হিন্দু হিসেবে বাঙালি পরিচয়ের পুনরুদ্ধার",
-    "line_bn": "বাঙালি সংস্কৃতি মূলে হিন্দু, আর কমিউনিস্ট, 'ধর্মনিরপেক্ষতাবাদী' ও মুঘল কৃতিত্ব আরোপ তা চুরি করেছে।",
-    "how_bn": "পত্রিকার যুক্তি, বাংলা সনের প্রবর্তক আকবর নন, শশাঙ্ক; দোল 'অবাঙালি' নয়; রাম-উপাসনা বাংলার নিজস্ব; এবং রবীন্দ্রনাথ ছিলেন হিন্দু জাতীয়তার এক 'ভারত-ঋষি'।"
+    "theme_bn": "হিন্দু পরিচয় হিসেবে বাঙালি পরিচয়",
+    "line_bn": "পশ্চিমবঙ্গ শ্যামাপ্রসাদ মুখোপাধ্যায়ের সৃষ্ট এক হিন্দু বাসভূমি, আর শশাঙ্কের পঞ্জিকা থেকে শুরু করে বাঙালির ঐতিহ্য কংগ্রেস ও কমিউনিস্টরা চুরি করেছে।",
+    "how_bn": "পত্রিকাটি বঙ্গাব্দ প্রবর্তনের কৃতিত্ব আকবরকে নয়, শশাঙ্ককে দিয়েছে এবং ২০ জুনকে রাজ্যের দিবস হিসেবে প্রচার করেছে। মুখোপাধ্যায়কে নিয়ে প্রধান নিবন্ধে খোলাখুলিভাবে 'হিন্দু homeland'-কে লক্ষ্য হিসেবে স্থির করা হয়েছে।"
    },
    {
-    "theme": "Foreign 'deep state' and campus 'urban Naxals'",
-    "line": "Foreign powers, NGOs and the opposition are using student agitations to stage 'regime change' against patriotic governments.",
-    "how": "The 'Cockroach' movement and FCRA protests are tied to Gulf funding, Maoists and Pakistani handles. Jadavpur is branded a nest of 'Dimagi Naxals', a 'cancer' on the nation.",
+    "theme": "Victory as Hindu awakening and Sangh vindication",
+    "line": "The BJP win is a victory of Hindutva, a 'second independence' and the fruit of decades of RSS work.",
+    "how": "The paper said Hindus voted together for the first time and that Hindu rule returned after more than 800 years. It told Hindus to guard this 'yogakshem' against the defeated forces.",
+    "refs": [
+     {
+      "issue": "20260511",
+      "page": 12,
+      "heading": "রাজ্যের বিধানসভা নির্বাচনে জেহাদি শক্তির রমরমা ঘুচে গেল"
+     },
+     {
+      "issue": "20260518",
+      "page": 18,
+      "heading": "ভোট : ২০২৬ (ভেঙ্গেছে দুয়ার এসেছো জ্যোতির্ময় তোমারই হউক জয়)"
+     },
+     {
+      "issue": "20260525",
+      "page": 47,
+      "heading": "এবারের নির্বাচনে বিজেপির জয় হিন্দুত্বের জয়"
+     },
+     {
+      "issue": "20260608",
+      "page": 5,
+      "heading": "এই “যোগক্ষেম” রক্ষা করিতেই হইবে (সম্পাদকীয়)"
+     }
+    ],
+    "theme_bn": "হিন্দু জাগরণ ও সঙ্ঘের যথার্থতা প্রতিপাদন হিসেবে জয়",
+    "line_bn": "বিজেপির জয় হিন্দুত্বের জয়, 'দ্বিতীয় স্বাধীনতা' এবং আরএসএসের কয়েক দশকের কাজের ফল।",
+    "how_bn": "পত্রিকাটি বলেছে, হিন্দুরা এই প্রথম একসঙ্গে ভোট দিয়েছে এবং ৮০০ বছরেরও বেশি সময় পরে হিন্দু শাসন ফিরে এসেছে। তারা হিন্দুদের বলেছে, পরাজিত শক্তিগুলির হাত থেকে এই 'যোগক্ষেম' রক্ষা করতে।"
+   },
+   {
+    "theme": "Foreign 'deep state' and regime change",
+    "line": "Opposition protests are foreign-funded 'regime change' plots run through NGOs, the Left and jihadi networks.",
+    "how": "The paper said the 'Cockroach' student movement and the anti-FCRA agitation drew on Gulf, Western and Jamaat money and compared them to Sri Lanka, Nepal and Bangladesh. It used this to justify the FCRA bill.",
     "refs": [
      {
       "issue": "20260817",
@@ -671,23 +693,23 @@ window.HINDUTVA = {
      },
      {
       "issue": "20260831",
-      "page": 3,
-      "heading": "এফসিআরএ (সংশোধনী) বিল পেশ হওয়ার পর গড়ে ওঠা “আন্দোলন আরশোলাদের চরিত্র সম্পূর্ণ উন্মোচন করেছে"
+      "page": 11,
+      "heading": "বিদেশি অনুদান (সংশোধনী) বিল ২০২৬ : সার্বভৌমত্বের পাঁচিল"
      },
      {
-      "issue": "20260907",
-      "page": 11,
-      "heading": "দিমাগি নকশাল : জাতির জীবনের ক্যানসার"
+      "issue": "20261109",
+      "page": 14,
+      "heading": "জনমত হারিয়ে রেজিম চেঞ্জের ভরসায় এখন রাজনৈতিক বিরোধীরা"
      }
     ],
-    "theme_bn": "বিদেশি 'ডিপ স্টেট' ও ক্যাম্পাসের 'আরবান নকশাল'",
-    "line_bn": "বিদেশি শক্তি, এনজিও ও বিরোধীরা দেশপ্রেমী সরকারগুলির বিরুদ্ধে 'শাসন-পরিবর্তন' ঘটাতে ছাত্র আন্দোলনকে ব্যবহার করছে।",
-    "how_bn": "'ককরোচ' আন্দোলন ও এফসিআরএ-বিরোধী বিক্ষোভকে উপসাগরীয় অর্থায়ন, মাওবাদী ও পাকিস্তানি হ্যান্ডলের সঙ্গে যুক্ত করা হয়েছে। যাদবপুরকে 'দিমাগি নকশাল'দের আস্তানা এবং দেশের পক্ষে 'ক্যানসার' বলে আখ্যা দেওয়া হয়েছে।"
+    "theme_bn": "বিদেশি 'ডিপ স্টেট' ও শাসন পরিবর্তন",
+    "line_bn": "বিরোধীদের বিক্ষোভ বিদেশি অর্থে পরিচালিত 'শাসন পরিবর্তনের' চক্রান্ত, যা এনজিও, বামপন্থী ও জিহাদি নেটওয়ার্কের মাধ্যমে চালানো হয়।",
+    "how_bn": "পত্রিকাটি বলেছে, 'ককরোচ' ছাত্র আন্দোলন ও এফসিআরএ-বিরোধী আন্দোলনে উপসাগরীয়, পশ্চিমী ও জামায়াতের অর্থ এসেছে, এবং এগুলিকে শ্রীলঙ্কা, নেপাল ও বাংলাদেশের সঙ্গে তুলনা করেছে। এফসিআরএ বিলকে যুক্তিসঙ্গত প্রমাণ করতে তারা এটি ব্যবহার করেছে।"
    },
    {
-    "theme": "Conversion and 'love jihad'",
-    "line": "Hindu girls and tribals are targets of 'love jihad' and foreign-funded conversion, which secularism ignores.",
-    "how": "The paper runs a 'love jihad' cover story and attacks secularism for ignoring Hindu girls. It backs the Supreme Court ruling on Gram Sabha bans on missionaries, demands that converted tribals lose ST status, and supports the FCRA amendment against conversion funding.",
+    "theme": "'Love jihad' and conversion",
+    "line": "Hindu girls and tribals are targets of 'love jihad' and missionary conversion that secularists ignore.",
+    "how": "A cover story treated 'love jihad' as real. Other pieces denounced secularism for ignoring Hindu girls, backed curbs on missionaries and demanded that converted tribals lose ST status.",
     "refs": [
      {
       "issue": "20260406",
@@ -705,93 +727,600 @@ window.HINDUTVA = {
       "heading": "ধর্মান্তরিতদের বিশেষ সুবিধা নয়"
      },
      {
-      "issue": "20260831",
-      "page": 11,
-      "heading": "বিদেশি অনুদান (সংশোধনী) বিল ২০২৬ : সার্বভৌমত্বের পাঁচিল"
+      "issue": "20260105",
+      "page": 36,
+      "heading": "কলকাতা বক্তৃতামালা – প্রশ্নোত্তর"
      }
     ],
-    "theme_bn": "ধর্মান্তরণ ও 'লাভ জিহাদ'",
-    "line_bn": "হিন্দু মেয়েরা ও আদিবাসীরা 'লাভ জিহাদ' ও বিদেশি অর্থে ধর্মান্তরণের লক্ষ্যবস্তু, যা ধর্মনিরপেক্ষতা উপেক্ষা করে।",
-    "how_bn": "পত্রিকা 'লাভ জেহাদ' নিয়ে প্রচ্ছদ কাহিনি করেছে এবং হিন্দু মেয়েদের উপেক্ষা করার জন্য ধর্মনিরপেক্ষতার সমালোচনা করেছে। গ্রামসভার মিশনারি-নিষেধাজ্ঞা নিয়ে সুপ্রিম কোর্টের রায়কে সমর্থন করেছে, ধর্মান্তরিত আদিবাসীদের তফসিলি উপজাতি মর্যাদা হারানোর দাবি জানিয়েছে এবং ধর্মান্তরের অর্থায়নের বিরুদ্ধে এফসিআরএ সংশোধনীকে সমর্থন করেছে।"
+    "theme_bn": "'লাভ জিহাদ' ও ধর্মান্তরকরণ",
+    "line_bn": "হিন্দু মেয়ে ও আদিবাসীরা 'লাভ জিহাদ' ও ধর্মান্তরকরণের লক্ষ্যবস্তু, যা ধর্মনিরপেক্ষতাবাদীরা উপেক্ষা করেন।",
+    "how_bn": "একটি প্রচ্ছদ কাহিনিতে 'লাভ জিহাদ'-কে বাস্তব হিসেবে দেখানো হয়েছে। অন্য লেখাগুলিতে হিন্দু মেয়েদের অবহেলা করার জন্য ধর্মনিরপেক্ষতার নিন্দা করা হয়েছে, মিশনারিদের উপর নিয়ন্ত্রণ আরোপের সমর্থন জানানো হয়েছে এবং ধর্মান্তরিত আদিবাসীদের তফসিলি উপজাতির মর্যাদা হারানোর দাবি তোলা হয়েছে।"
    }
   ],
   "timeline": [
    {
     "month": "January 2026",
-    "highlights": "Victory-lap coverage of Bhagwat's Bengal tour and of Bangladesh Hindu persecution protests (20260105). There is a Netaji special attacking Congress and the Communists (20260119) and a Republic Day issue on Congress 'abusing' the Constitution, framing 2026 as a vote against Muslim appeasement (20260126).",
+    "highlights": "The paper hailed Bhagwat's Bengal tour, launched centenary Hindu Sammelans and pressed the Dipu Chandra Das case and SIR support. It ran Netaji and Republic Day issues attacking Congress and the Communists (20260105, 20260119, 20260126).",
     "month_bn": "জানুয়ারি ২০২৬",
-    "highlights_bn": "ভাগবতের বঙ্গ সফর এবং বাংলাদেশে হিন্দু নির্যাতনের বিরুদ্ধে বিক্ষোভের বিজয়োল্লাসমূলক প্রতিবেদন (২০২৬-০১-০৫ সংখ্যা)। কংগ্রেস ও কমিউনিস্টদের আক্রমণ করে নেতাজি বিশেষ সংখ্যা (১৯ জানুয়ারি সংখ্যা) এবং সংবিধানকে কংগ্রেসের 'অবমাননা' নিয়ে প্রজাতন্ত্র দিবসের সংখ্যা, যেখানে ২০২৬-কে মুসলিম তোষণের বিরুদ্ধে ভোট হিসেবে তুলে ধরা হয়েছে (২৬ জানুয়ারি সংখ্যা)।"
+    "highlights_bn": "পত্রিকাটি ভাগবতের বঙ্গ সফরকে স্বাগত জানিয়েছে, শতবর্ষের হিন্দু সম্মেলন শুরু করেছে এবং দীপু চন্দ্র দাসের মামলা ও এসআইআর সমর্থনে জোর দিয়েছে। নেতাজি ও প্রজাতন্ত্র দিবসের সংখ্যায় কংগ্রেস ও কমিউনিস্টদের আক্রমণ করেছে (৫ জানুয়ারি সংখ্যা, ১৯ জানুয়ারি সংখ্যা, ২৬ জানুয়ারি সংখ্যা)।"
    },
    {
     "month": "February 2026",
-    "highlights": "Centenary Hindu Sammelans and distinguished-citizens' meets spread across districts. The paper presses the SIR line against TMC 'anarchy' (20260202) and attacks the CPIM through Marichjhapi and Sadanandan Master (20260202, 20260216), alongside Union Budget praise (20260209).",
+    "highlights": "It praised the Union Budget, published Sadanandan Master's account and attacks on the madrasa budget, and continued Mahashivratri and centenary sammelans. It called TMC rule 'anarchy' over SIR (20260202, 20260209, 20260216).",
     "month_bn": "ফেব্রুয়ারি ২০২৬",
-    "highlights_bn": "বিভিন্ন জেলায় শতবর্ষ হিন্দু সম্মেলন ও বিশিষ্ট নাগরিকদের সভা ছড়িয়ে পড়ে। পত্রিকা তৃণমূলের 'অরাজকতা'র বিরুদ্ধে এসআইআর-এর পক্ষে সওয়াল করে (২ ফেব্রুয়ারি সংখ্যা) এবং মরিচঝাঁপি ও সদানন্দ মাস্টারের প্রসঙ্গ তুলে সিপিআই(এম)-কে আক্রমণ করে (২ ফেব্রুয়ারি, ১৬ ফেব্রুয়ারি সংখ্যা); পাশাপাশি কেন্দ্রীয় বাজেটের প্রশংসাও রয়েছে (৯ ফেব্রুয়ারি সংখ্যা)।"
+    "highlights_bn": "পত্রিকাটি কেন্দ্রীয় বাজেটের প্রশংসা করে, সদানন্দন মাস্টারের বিবরণ ও মাদ্রাসা বাজেটের বিরুদ্ধে আক্রমণ প্রকাশ করে এবং মহাশিবরাত্রি ও শতবর্ষের সম্মেলন চালিয়ে যায়। এসআইআর নিয়ে তৃণমূলের শাসনকে 'নৈরাজ্য' বলে অভিহিত করে (২ ফেব্রুয়ারি সংখ্যা, ৯ ফেব্রুয়ারি সংখ্যা, ১৬ ফেব্রুয়ারি সংখ্যা)।"
    },
    {
     "month": "March 2026",
-    "highlights": "Coverage turns to Bangladesh's post-election BNP government and the SIR deletions (20260309, 20260316). Then the BJP Parivartan Sankalp Yatra and Brigade rally, 'Mini Pakistan' warnings, the RSS Pratinidhi Sabha report, and the election framed as an escape from a Hindu 'existential crisis' with Suvendu as 'the face of Bengal' (20260323, 20260330).",
+    "highlights": "It defended SIR and its 60 lakh deletions and covered the BJP's Parivartan Sankalp Yatra and Brigade rally. It also reported the RSS Pratinidhi Sabha and the Ram Navami build-up (20260316, 20260323, 20260330).",
     "month_bn": "২০২৬ সালের মার্চ",
-    "highlights_bn": "আলোচনা ঘুরে যায় নির্বাচনের পর বাংলাদেশের বিএনপি সরকার এবং এসআইআর-এ নাম বাদ পড়ার প্রসঙ্গে (২০ মার্চ... "
+    "highlights_bn": "পত্রিকাটি এসআইআর ও তার ৬০ লক্ষ বাদ পড়ার সমর্থন করে এবং বিজেপির পরিবর্তন সংকল্প যাত্রা ও ব্রিগেড সমাবেশের খবর করে। আরএসএসের প্রতিনিধি সভা ও রামনবমীর প্রস্তুতির খবরও দেয় (১৬ মার্চ সংখ্যা, ২৩ মার্চ সংখ্যা, ৩০ মার্চ সংখ্যা)।"
    },
    {
     "month": "April 2026",
-    "highlights": "Pre-election specials: 'save Hindu society' and 100% voting (20260406), and an explicit call to vote BJP and 'eradicate' the Left (20260413). Also Sri Ram Mahotsav with about 4,000 processions (20260413), and 'Left = Islamic extremism' plus 'last train' rhetoric (20260420, 20260427).",
+    "highlights": "In the peak pre-poll issues it called the election one of 'Hindu existence', ran the 'love jihad' cover and claimed the 3-crore Ram Mahotsav. It equated the Left with Islamism ahead of the 23 and 29 April polling (20260406, 20260413, 20260420, 20260427).",
     "month_bn": "এপ্রিল ২০২৬",
-    "highlights_bn": "নির্বাচনপূর্ব বিশেষ সংখ্যা: 'হিন্দু সমাজকে বাঁচান' ও ১০০ শতাংশ ভোটদান (৬ এপ্রিল সংখ্যা), এবং বিজেপিকে ভোট দেওয়া ও বামপন্থীদের 'নির্মূল' করার স্পষ্ট আহ্বান (১৩ এপ্রিল সংখ্যা)। এছাড়া প্রায় ৪,০০০ শোভাযাত্রাসহ শ্রীরাম মহোৎসব (১৩ এপ্রিল সংখ্যা), এবং 'বামপন্থা = ইসলামি উগ্রপন্থা' ও 'শেষ ট্রেন' বাগাড়ম্বর (২০ এপ্রিল সংখ্যা, ২৭ এপ্রিল সংখ্যা)।"
+    "highlights_bn": "নির্বাচনের আগের সবচেয়ে গুরুত্বপূর্ণ সংখ্যাগুলিতে পত্রিকাটি নির্বাচনকে 'হিন্দু অস্তিত্বের' লড়াই বলে অভিহিত করে, 'লাভ জিহাদ' নিয়ে প্রচ্ছদ প্রকাশ করে এবং ৩ কোটির রাম মহোৎসবের দাবি করে। ২৩ ও ২৯ এপ্রিলের ভোটের আগে তারা বামপন্থীদের ইসলামপন্থার সঙ্গে এক করে দেখায় (৬ এপ্রিল সংখ্যা, ১৩ এপ্রিল সংখ্যা, ২০ এপ্রিল সংখ্যা, ২৭ এপ্রিল সংখ্যা)।"
    },
    {
     "month": "May 2026",
-    "highlights": "The BJP win (207 seats) is hailed as a 'second independence' and a Hindu 'dharmayuddha', with the Election Commission as 'man of the series' (20260511). Suvendu Adhikari is sworn in, and the paper says the Hindu awakening began in North Bengal and calls Kerala the next target (20260518, 20260525).",
+    "highlights": "It celebrated the BJP win as a 'second independence' and covered Suvendu Adhikari's swearing-in and first cabinet decisions. It named Kerala as the next target (20260504, 20260511, 20260518, 20260525).",
     "month_bn": "২০২৬ সালের মে",
-    "highlights_bn": "বিজেপির জয়কে (২০৭ আসন) 'দ্বিতীয় স্বাধীনতা' ও হিন্দুর 'ধর্মযুদ্ধ' বলে অভিনন্দন জানানো হয়েছে এবং নির্বাচন কমিশনকে 'ম্যান অফ দ্য সিরিজ' বলা হয়েছে (১১ মে সংখ্যা)। শুভেন্দু অধিকারী শপথ নিয়েছেন; পত্রিকার মতে হিন্দু জাগরণ উত্তরবঙ্গ থেকে শুরু হয়েছে এবং কেরলকে পরবর্তী লক্ষ্য বলা হয়েছে (১৮ মে সংখ্যা, ২৫ মে সংখ্যা)।"
+    "highlights_bn": "পত্রিকাটি বিজেপির জয়কে 'দ্বিতীয় স্বাধীনতা' বলে উদযাপন করে এবং শুভেন্দু অধিকারীর শপথগ্রহণ ও প্রথম মন্ত্রিসভার সিদ্ধান্তের খবর করে। কেরলকে পরবর্তী লক্ষ্য বলে উল্লেখ করে (৪ মে সংখ্যা, ১১ মে সংখ্যা, ১৮ মে সংখ্যা, ২৫ মে সংখ্যা)।"
    },
    {
     "month": "June 2026",
-    "highlights": "A Savarkar special and Sangh Shiksha Vargs (20260601) are followed by calls to purge the Left from campuses (20260608). Then the Paschimbanga Dibas campaign (20260615), Shivaji 'Hindu Samrajya' framing with demography-committee vindication (20260622), and Yoga Day in Kolkata (20260629).",
+    "highlights": "It ran a Savarkar special, a Paschimbanga Dibas campaign and a Shivaji coronation package, and reported Sangh Shiksha Vargs. It also printed campus-purge rhetoric against the Left (20260601, 20260608, 20260615, 20260622, 20260629).",
     "month_bn": "জুন ২০২৬",
-    "highlights_bn": "একটি সাভারকর বিশেষ সংখ্যা ও সঙ্ঘ শিক্ষা বর্গ (১ জুন সংখ্যা)-এর পর ক্যাম্পাস থেকে বামপন্থীদের বিতাড়নের ডাক (৮ জুন সংখ্যা)। তারপর পশ্চিমবঙ্গ দিবস প্রচার (১৫ জুন সংখ্যা), শিবাজির 'হিন্দু সাম্রাজ্য' ভাবনা ও জনবিন্যাস কমিটির যথার্থতা প্রতিপাদন (২২ জুন সংখ্যা), এবং কলকাতায় যোগ দিবস (২৯ জুন সংখ্যা)।"
+    "highlights_bn": "পত্রিকাটি সাভারকর বিশেষ সংখ্যা, পশ্চিমবঙ্গ দিবস প্রচার ও শিবাজীর রাজ্যাভিষেক প্যাকেজ প্রকাশ করে এবং সঙ্ঘ শিক্ষা বর্গের খবর দেয়। বামপন্থীদের বিরুদ্ধে ক্যাম্পাস শুদ্ধিকরণের বক্তব্যও ছাপে (১ জুন সংখ্যা, ৮ জুন সংখ্যা, ১৫ জুন সংখ্যা, ২২ জুন সংখ্যা, ২৯ জুন সংখ্যা)।"
    },
    {
     "month": "July 2026",
-    "highlights": "A Syama Prasad 'Hindu homeland' special (20260706) and Rath Yatra issue with demands to strip converted tribals of ST status (20260713). The paper praises the Gunda Daman law and calls for a UCC (20260720), and runs Guru Purnima and Panch Parivartan pieces (20260727).",
+    "highlights": "It ran the Syama Prasad 'Hindu homeland' special and backed the Gunda Daman law and UCC calls. It published Guru Purnima pieces on samarpan to the nation (20260706, 20260713, 20260720, 20260727).",
     "month_bn": "জুলাই ২০২৬",
-    "highlights_bn": "শ্যামাপ্রসাদের 'হিন্দু homeland' বিশেষ সংখ্যা (৬ জুলাই) এবং রথযাত্রা সংখ্যা, যেখানে ধর্মান্তরিত আদিবাসীদের তফসিলি উপজাতি মর্যাদা কেড়ে নেওয়ার দাবি তোলা হয়েছে (১৩ জুলাই)। পত্রিকাটি গুন্ডা দমন আইনের প্রশংসা করেছে এবং অভিন্ন দেওয়ানি বিধির দাবি জানিয়েছে (২০ জুলাই), আর গুরু পূর্ণিমা ও পঞ্চ পরিবর্তন বিষয়ক লেখা ছাপিয়েছে (২৭ জুলাই)।"
+    "highlights_bn": "পত্রিকাটি শ্যামাপ্রসাদের 'হিন্দু বাসভূমি' বিশেষ সংখ্যা প্রকাশ করে এবং গুন্ডা দমন আইন ও অভিন্ন দেওয়ানি বিধির দাবিকে সমর্থন করে। দেশের প্রতি সমর্পণ নিয়ে গুরু পূর্ণিমার লেখা প্রকাশ করে (৬ জুলাই সংখ্যা, ১৩ জুলাই সংখ্যা, ২০ জুলাই সংখ্যা, ২৭ জুলাই সংখ্যা)।"
    },
    {
     "month": "August 2026",
-    "highlights": "Churka Murmu martyr cult (20260803) and Akhand Bharat and anti-Communist history on Independence Day (20260810). Then the 'deep state'/'Cockroach' conspiracy line (20260817), Loktantra Senani honours and state-backed Raksha Bandhan (20260824), and FCRA and Jadavpur attacks (20260831).",
+    "highlights": "It ran a Churka Murmu special and an Akhand Bharat-themed Independence issue, framed the 'Cockroach' and FCRA protests as foreign plots, and covered the state's Loktantra Senani honours and Rakhi sponsorship (20260803, 20260810, 20260817, 20260824, 20260831).",
     "month_bn": "আগস্ট ২০২৬",
-    "highlights_bn": "চুরকা মুর্মুর শহিদ-আরাধনা (৩ আগস্ট সংখ্যা) এবং স্বাধীনতা দিবসে অখণ্ড ভারত ও কমিউনিস্ট-বিরোধী ইতিহাস (১০ আগস্ট সংখ্যা)। এরপর 'ডিপ স্টেট'/'ককরোচ' ষড়যন্ত্র তত্ত্ব (১৭ আগস্ট সংখ্যা), লোকতন্ত্র সেনানী সম্মাননা ও রাজ্য সরকার-সমর্থিত রাখিবন্ধন (২৪ আগস্ট সংখ্যা) এবং এফসিআরএ ও যাদবপুরে হামলা (৩১ আগস্ট সংখ্যা)।"
+    "highlights_bn": "পত্রিকাটি চুড়কা মুর্মু বিশেষ সংখ্যা এবং অখণ্ড ভারত-ভাবনার স্বাধীনতা সংখ্যা প্রকাশ করে, 'কক্রোচ' ও এফসিআরএ বিক্ষোভকে বিদেশি চক্রান্ত বলে উপস্থাপন করে এবং রাজ্যের লোকতন্ত্র সেনানী সম্মান ও রাখি পৃষ্ঠপোষকতার খবর করে (৩ আগস্ট সংখ্যা, ১০ আগস্ট সংখ্যা, ১৭ আগস্ট সংখ্যা, ২৪ আগস্ট সংখ্যা, ৩১ আগস্ট সংখ্যা)।"
    },
    {
     "month": "September 2026",
-    "highlights": "An editorial demands Jadavpur be renamed 'Sri Aurobindo University' (20260907). The 100-days special celebrates the government, including the CM-led Vande Mataram and Gerua Samman Yatra at Jadavpur (20260921), and the paper praises Modi's BRICS summit (20260928).",
+    "highlights": "It campaigned against Jadavpur University and demanded it be renamed, and covered the CM-led Vande Mataram and saffron marches. It published a 100-days special praising the government and Modi's BRICS summit (20260907, 20260914, 20260921, 20260928).",
     "month_bn": "সেপ্টেম্বর ২০২৬",
-    "highlights_bn": "একটি সম্পাদকীয়তে যাদবপুরের নাম 'শ্রী অরবিন্দ বিশ্ববিদ্যালয়' রাখার দাবি জানানো হয়েছে (৭ সেপ্টেম্বর সংখ্যা)। ১০০ দিনের বিশেষ সংখ্যায় সরকারের উদযাপন করা হয়েছে, যার মধ্যে যাদবপুরে মুখ্যমন্ত্রীর নেতৃত্বে বন্দে মাতরম ও গেরুয়া সম্মান যাত্রা রয়েছে (২১ সেপ্টেম্বর সংখ্যা), এবং পত্রিকাটি মোদির ব্রিকস সম্মেলনের প্রশংসা করেছে (২৮ সেপ্টেম্বর সংখ্যা)।"
+    "highlights_bn": "পত্রিকাটি যাদবপুর বিশ্ববিদ্যালয়ের বিরুদ্ধে প্রচার চালায়, তার নাম বদলের দাবি তোলে এবং মুখ্যমন্ত্রীর নেতৃত্বে বন্দে মাতরম ও গেরুয়া মিছিলের খবর করে। সরকারের প্রশংসা করে ১০০ দিনের বিশেষ সংখ্যা এবং মোদীর ব্রিকস সম্মেলন প্রকাশ করে (৭ সেপ্টেম্বর সংখ্যা, ১৪ সেপ্টেম্বর সংখ্যা, ২১ সেপ্টেম্বর সংখ্যা, ২৮ সেপ্টেম্বর সংখ্যা)।"
    },
    {
     "month": "October 2026",
-    "highlights": "Durga Puja specials mix devotion with Bharat Mata theology, Bangladesh persecution fiction, an 'East Khorasan' dystopia with a 'containment and rollback' call, and anti-Communist history (puja2026a, puja2026c, puja2026d).",
+    "highlights": "Its Puja specials mixed devotion with anti-Communist polemic and Bangladesh dystopia fiction, and credited the government with 'shastric' Durga Puja (puja2026, puja2026d, 20261012).",
     "month_bn": "অক্টোবর ২০২৬",
-    "highlights_bn": "দুর্গাপূজার বিশেষ সংখ্যাগুলিতে ভক্তির সঙ্গে ভারতমাতা-তত্ত্ব, বাংলাদেশে নির্যাতনের কাল্পনিক কাহিনি, 'পূর্ব খোরাসান' নামে একটি ডিসটোপিয়া ও 'কন্টেইনমেন্ট ও রোলব্যাক'-এর ডাক এবং কমিউনিস্ট-বিরোধী ইতিহাস মিশিয়ে দেওয়া হয়েছে (পূজা সংখ্যা ক, পূজা সংখ্যা গ, পূজা সংখ্যা ঘ)।"
+    "highlights_bn": "পূজা বিশেষ সংখ্যাগুলিতে ভক্তির সঙ্গে কমিউনিস্ট-বিরোধী বিতর্ক ও বাংলাদেশ নিয়ে ডিস্টোপিয়া কথাসাহিত্য মেশানো হয়েছিল, এবং সরকারকে 'শাস্ত্রসম্মত' দুর্গাপূজার কৃতিত্ব দেওয়া হয় (পূজা সংখ্যা, পূজা সংখ্যা ঘ, ১২ অক্টোবর সংখ্যা)।"
    },
    {
     "month": "November 2026",
-    "highlights": "The Diwali issue reports the CM at the RSS Keshab Smriti Bhavan opening and Swastika's own event, endorses backlash against Left book stalls, and carries Bhagwat's Vijayadashami address closing the centenary year (20261102).",
+    "highlights": "It reported the Keshab Smriti Bhavan opening with the CM, Bhagwat's address closing the centenary and a Deendayal special. It also covered the Ashok Singhal centenary sammelan's Kashi-Mathura pledge (20261102, 20261109, 20261116).",
     "month_bn": "নভেম্বর ২০২৬",
-    "highlights_bn": "দীপাবলি সংখ্যায় আরএসএসের কেশব স্মৃতি ভবনের উদ্বোধনে এবং স্বস্তিকার নিজস্ব অনুষ্ঠানে মুখ্যমন্ত্রীর উপস্থিতির খবর রয়েছে, বামপন্থী বইয়ের স্টলের বিরুদ্ধে প্রতিক্রিয়াকে সমর্থন করা হয়েছে, এবং শতবর্ষ সমাপ্তির বিজয়াদশমী ভাষণে ভাগবতের বক্তব্য ছাপা হয়েছে (২ নভেম্বর সংখ্যা)।"
+    "highlights_bn": "পত্রিকাটি মুখ্যমন্ত্রীর উপস্থিতিতে কেশব স্মৃতি ভবনের উদ্বোধন, শতবর্ষ সমাপনী ভাষণে ভাগবতের বক্তব্য এবং দীনদয়াল বিশেষ সংখ্যার খবর দেয়। অশোক সিংঘলের শতবর্ষ সম্মেলনে কাশী-মথুরা সংকল্পের খবরও করে (২ নভেম্বর সংখ্যা, ৯ নভেম্বর সংখ্যা, ১৬ নভেম্বর সংখ্যা)।"
    }
   ],
   "summary_bn": [
-   "স্বস্তিকার ২০২৬ সালের সংখ্যাগুলিতে পশ্চিমবঙ্গে আরএসএসের শতবর্ষের বছরের বিবরণ রয়েছে। বছরের শুরুতেই সরসঙ্ঘচালক মোহন ভাগবতের ২০২৫ সালের ১৮–২১ ডিসেম্বরের বঙ্গ সফর: শিলিগুড়িতে প্রায় ৭,৫০০ জনের যুব সম্মেলন এবং সায়েন্স সিটিতে ১,৬০০-র বেশি আমন্ত্রিতের জন্য 'বিশিষ্ট নাগরিক' বক্তৃতামালা। পত্রিকার ভাষায় তিনি বাংলায় 'এলেন, দেখলেন, জয় করলেন' (৫ জানুয়ারি সংখ্যা, পৃ. ৫, ২৩, ২৮–২৯)। সারা বছর ধরে শতবর্ষের নানা কর্মসূচির ধারাবাহিক খবর প্রকাশিত হয়েছে। এর মধ্যে রয়েছে বিরাটি, রামপুরহাট, মালদহ, গাজোল, পাটুলি, শিবপুর, চন্দ্রকোনা রোড ও বেলেঘাটায় হিন্দু সম্মেলন (২ ফেব্রুয়ারি সংখ্যা, পৃ. ২৩; ৯ ফেব্রুয়ারি সংখ্যা, পৃ. ২৪, ২৭; ১৬ ফেব্রুয়ারি সংখ্যা, পৃ. ২৪–২৬; ৯ মার্চ সংখ্যা, পৃ. ২৭)। বর্ধমান, শ্রীরামপুর, চুঁচুড়া, সিমলাগড় ও পুরুলিয়ায় বিশিষ্ট নাগরিকদের সম্মেলনও হয়েছে (৯ ফেব্রুয়ারি সংখ্যা, পৃ. ২৩; ৯ মার্চ সংখ্যা, পৃ. ২৮–২৯), এবং পাঁচ দফা 'পঞ্চ পরিবর্তন' কর্মসূচি বারবার তুলে ধরা হয়েছে (৫ জানুয়ারি সংখ্যা, পৃ. ৩১; ২০ এপ্রিল সংখ্যা, পৃ. ৮; ২৭ জুলাই সংখ্যা, পৃ. ৪৭)। সর্বভারতীয় চিত্র পাওয়া যায় প্রতিনিধি সভার প্রতিবেদনে: গৃহ সম্পর্ক কর্মসূচিতে ৩.৮৯ লক্ষ গ্রামের ১০ কোটিরও বেশি পরিবারে পৌঁছানো এবং প্রায় ২৩,১৪৩টি গ্রামীণ ও ১৩,৯০৫টি শহুরে হিন্দু সম্মেলন (৩০ মার্চ সংখ্যা, পৃ. ৩৭)। ভাগবতের বিজয়াদশমীর ভাষণের মাধ্যমে শতবর্ষের বছর শেষ হয়, যেখানে জন সম্পর্কের হিসাব দেওয়া হয়েছে: ৪,৬১,৫২৭টি গ্রাম, ৩৪,১৮৭টি মণ্ডল হিন্দু সম্মেলন এবং প্রায় ৩৯ লক্ষ যুবকের কাছে পৌঁছানো (২ নভেম্বর সংখ্যা, পৃ. ৪৩–৪৪)।",
-   "জানুয়ারি থেকে মার্চের গোড়া পর্যন্ত সময়টি নির্বাচনের প্রস্তুতিপর্ব, যা পরস্পর যুক্ত তিনটি ধারায় গড়া। প্রথমটি বাংলাদেশে হিন্দু নিপীড়ন, যার কেন্দ্রে দীপু চন্দ্র দাসের গণপিটুনিতে মৃত্যু। পত্রিকা হিন্দু জাগরণ মঞ্চ ও বিশ্ব হিন্দু পরিষদের পথ-প্রতিবাদের খবর দিয়েছে এবং সাধুদের উপর কলকাতা পুলিশের লাঠিচার্জের নিন্দা করেছে (৫ জানুয়ারি সংখ্যা, পৃ. ৯, ৪৪–৪৫)। তাদের যুক্তি, তৃণমূলের 'তুষ্টিকরণ'-এর ফলে পশ্চিমবঙ্গের হিন্দুদেরও একই পরিণতি হবে (১২ জানুয়ারি সংখ্যা, পৃ. ৫, ৩৮)। দ্বিতীয়টি নির্বাচন কমিশনের এসআইআর ভোটার তালিকা সংশোধনের জোরালো সমর্থন, যাকে অবৈধ বাংলাদেশি ও রোহিঙ্গা ভোটার বাদ দেওয়ার প্রক্রিয়া হিসেবে তুলে ধরা হয়েছে। পত্রিকার দাবি, প্রায় ৬০ লক্ষ বাদের বেশিরভাগই মালদা ও মুর্শিদাবাদ থেকে (৫ জানুয়ারি সংখ্যা, পৃ. ৬; ২ মার্চ সংখ্যা, পৃ. ৯, ১১; ১৬ মার্চ সংখ্যা, পৃ. ৫)। তৃতীয়টি কংগ্রেস ও কমিউনিস্টদের বিরুদ্ধে ইতিহাসনির্ভর আক্রমণ, যার ভিত্তি: কমিউনিস্টদের নেতাজিকে 'কুইসলিং' বলা (১৯ জানুয়ারি সংখ্যা, পৃ. ৫), নেহরু, সোমনাথ ও জরুরি অবস্থার সময়কার ৪২তম সংশোধনী (২৬ জানুয়ারি সংখ্যা, পৃ. ৫, ৯, ৪৫), মরিচঝাঁপি (২ ফেব্রুয়ারি সংখ্যা, পৃ. ৩৫) এবং কেরলের সাংসদ সদানন্দন মাস্টারের পা সিপিআই(এম) কর্মীদের হাতে কাটা যাওয়া (১৬ ফেব্রুয়ারি সংখ্যা, পৃ. ১৮)। এর পাশাপাশি রয়েছে কেন্দ্রীয় বাজেট নিয়ে মোদী সরকারের প্রশংসাসূচক লেখা (৯ ফেব্রুয়ারি সংখ্যা, পৃ. ৫) এবং মাদ্রাসা বরাদ্দ নিয়ে তৃণমূলের বাজেটের সমালোচনা, যেখানে সিপিআই(এম)-কে মুসলিম ভোটব্যাঙ্ক রাজনীতির সূচনাকারী বলা হয়েছে (১৬ ফেব্রুয়ারি সংখ্যা, পৃ. ৯)।",
-   "মার্চের মাঝামাঝি থেকে এপ্রিল পর্যন্ত পত্রিকাটি প্রচারের মুখপত্র হয়ে ওঠে। এটি বিজেপির পরিবর্তন সংকল্প যাত্রা কভার করে এবং দাবি করে মোদীর ব্রিগেড সমাবেশে ১০ লক্ষের বেশি মানুষ এসেছিলেন (২৩ মার্চ সংখ্যা, পৃ. ৭)। এটি কলকাতার 'মিনি পাকিস্তান' হয়ে ওঠার বিষয়ে সতর্ক করে (২৩ মার্চ সংখ্যা, পৃ. ৩) এবং নির্বাচনকে হিন্দু সমাজকে 'অস্তিত্বের সংকট' থেকে মুক্ত বা রক্ষা করার নির্বাচন বলে অভিহিত করে (৩০ মার্চ সংখ্যা, পৃ. ১৭; ৬ এপ্রিল সংখ্যা, পৃ. ৫)। এটি শুভেন্দু অধিকারীকে 'পশ্চিমবঙ্গের মুখ' হিসেবে তুলে ধরে (৩০ মার্চ সংখ্যা, পৃ. ১৯), একটি 'লাভ জেহাদ' প্রচ্ছদ কাহিনি ছাপে (৬ এপ্রিল সংখ্যা, পৃ. ১৭) এবং ১০০% ভোটদানের আহ্বান জানায়। বাংলা নববর্ষ সংখ্যা বাঙালি পরিচয়কে হিন্দু পরিচয় হিসেবে নতুন করে উপস্থাপন করে: কথিত কমিউনিস্ট-আরোপিত আকবরের কৃতিত্বের বিপরীতে রাজা শশাঙ্ককে বঙ্গাব্দের প্রতিষ্ঠাতা বলা হয়। একই সংখ্যা খোলাখুলি ভোটারদের শ্যামাপ্রসাদের জনসংঘের উত্তরসূরি হিসেবে বিজেপিকে বেছে নিতে বলে এবং বামপন্থীদের 'চিরতরে উচ্ছেদ' করার আহ্বান জানায় (১৩ এপ্রিল সংখ্যা, পৃ. ৫, ১৬, ৩৪–৩৫)। এর রামনবমী কভারেজ ৩ কোটি অংশগ্রহণকারী ও প্রায় ৪,০০০ শোভাযাত্রার দাবি করে, যেখানে বিজেপি প্রার্থীরাও যোগ দেন, এবং 'জেহাদিদের' হামলার খবর দেয় (১৩ এপ্রিল সংখ্যা, পৃ. ২৪–২৮)। ভোটগ্রহণের ঠিক আগে এটি বামপন্থীদের ইসলামি উগ্রপন্থার সমতুল্য করে (২০ এপ্রিল সংখ্যা, পৃ. ৩৬) এবং ভোটকে হিন্দুদের জন্য 'শেষ ট্রেন' ও 'ধর্মযুদ্ধ' হিসেবে উপস্থাপন করে (২৭ এপ্রিল সংখ্যা, পৃ. ২৭)।",
-   "বিজেপির জয়ের পর পত্রিকাটি ফলাফলকে বাংলার 'দ্বিতীয় স্বাধীনতা' বলে অভিহিত করেছে। পত্রিকার ভাষায়, এর মধ্য দিয়ে ৩৪ বছরের বামশাসন ও ১৫ বছরের তৃণমূলের কুশাসনের অবসান ঘটল (২০ মে সংখ্যা নয়, ১১ মে সংখ্যা, পৃ. ৫)। পত্রিকাটি একে এক 'ধর্মযুদ্ধ' হিসেবেও তুলে ধরেছে, যেখানে প্রথমবার ৭০% হিন্দু একজোট হয়ে ভোট দিয়েছেন, যা ৮৫ বছরের সংঘ-কাজের ফল (১১ মে সংখ্যা, পৃ. ১২)। প্রায় ৯০.৬ লক্ষ নাম বাদ দেওয়া এসআইআর-এর জন্য নির্বাচন কমিশনকে 'সিরিজের সেরা' আখ্যা দেওয়া হয়েছে (১১ মে সংখ্যা, পৃ. ১৩), এবং তৃণমূলের ৪০.৮০% ভোটের বিপরীতে ২০৭টি আসন ও ৪৫.৮৪% ভোটের হিস্যার কথা জানানো হয়েছে (১৮ মে সংখ্যা, পৃ. ১৮)। সুর দ্রুত কঠোর হয়ে ওঠে এবং সংহতি ও প্রতিশোধের দিকে যায়। একটি লেখায় বিশ্ববিদ্যালয় ক্যাম্পাসগুলিকে বামেদের 'অভয়ারণ্য' বলা হয়েছে, যা সাফ করতে হবে, এবং বামপন্থী ছাত্রনেতাদের 'মৃত্যু' বা 'শেষ গন্তব্য'-এর হুমকি দেওয়া হয়েছে (৮ জুন সংখ্যা, পৃ. ১০)। পত্রিকাটি সাভারকর ও শিবাজির 'হিন্দু সাম্রাজ্য' বিশেষ সংখ্যা প্রকাশ করেছে (১ জুন সংখ্যা, পৃ. ৫; ২২ জুন সংখ্যা, পৃ. ৫, ১১–১৪)। তারা ২০ জুনকে 'পশ্চিমবঙ্গ দিবস' হিসেবে পালনের প্রচারও চালিয়েছে, যা শ্যামাপ্রসাদ মুখোপাধ্যায়ের 'হিন্দু homeland'-কে স্মরণ করায় (১৫ জুন সংখ্যা, পৃ. ৫, ১৪, ১৬; ৬ জুলাই সংখ্যা, পৃ. ৬), এবং কেন্দ্র জনবিন্যাস কমিটি গঠন করলে নিজেদের দাবি প্রমাণিত হয়েছে বলে দাবি করেছে (২২ জুন সংখ্যা, পৃ. ৮)।",
-   "জুলাই থেকে পত্রিকাটি মুখ্যমন্ত্রী শুভেন্দু অধিকারীর সরকারের আদর্শগত সহযোগীর মতো পাঠ হয়। এটি গুন্ডা দমন আইনের প্রশংসা করে (২০ জুলাই সংখ্যা, পৃ. ৫, ৪৪), জরুরি অবস্থার সময়কার 'লোকতন্ত্র সেনানী'-দের রাজ্য-সম্মান—যাঁদের বেশিরভাগই স্বয়ংসেবক বলে বর্ণিত—সমর্থন করে (২৪ আগস্ট সংখ্যা, পৃ. ২৩, ৩৬) এবং রাজ্য-পৃষ্ঠপোষকতায় রক্ষাবন্ধনের প্রশংসা করে (২৪ আগস্ট সংখ্যা, পৃ. ৫)। স্কুল ও মাদ্রাসায় সম্পূর্ণ বন্দে মাতরম বাধ্যতামূলক করা, একটি রাস্তা থেকে সুরাবর্দির নাম সরানো এবং ইসকনের মিড-ডে মিল পরিচালনাকেও এটি স্বাগত জানায় (২১ সেপ্টেম্বর সংখ্যা, পৃ. ২৩)। নতুন শত্রুও আকার নেয়: বিদেশি 'ডিপ স্টেট' ও 'ককরোচ' যুব আন্দোলন (১৭ আগস্ট সংখ্যা, পৃ. ৫, ১২, ৪৭) এবং ধর্মান্তরের সঙ্গে যুক্ত এফসিআরএ-বিরোধীরা (৩১ আগস্ট সংখ্যা, পৃ. ৫, ১১)। সবার ওপরে, যাদবপুর বিশ্ববিদ্যালয়কে 'শ্রী অরবিন্দ বিশ্ববিদ্যালয়' নামকরণের দাবিতে একটি সম্পাদকীয় প্রকাশিত হয় (৭ সেপ্টেম্বর সংখ্যা, পৃ. ৫)। এরপর মুখ্যমন্ত্রী সেখানে ১০,০০০ কণ্ঠের বন্দে মাতরম অনুষ্ঠান ও 'গেরুয়া সম্মান যাত্রা'-র নেতৃত্ব দেন (২১ সেপ্টেম্বর সংখ্যা, পৃ. ৪৭–৪৮)। মুখ্যমন্ত্রী আরএসএসের কেশব স্মৃতি ভবনের উদ্বোধনে উপস্থিত ছিলেন এবং স্বস্তিকার নিজস্ব অনুষ্ঠানে তাকে সম্মানিত করেন (২ নভেম্বর সংখ্যা, পৃ. ২৪, ২৮)। পূজা সংখ্যাগুলি এই অবস্থানকে আরও এগিয়ে নিয়ে যায়—'পূর্ব খোরাসান' হিসেবে বাংলাদেশের এক ডিস্টোপিয়া এবং হিন্দুদের 'কন্টেইনমেন্ট ও রোলব্যাক'-এর আহ্বান পর্যন্ত (পূজা সংখ্যা গ, পৃ. ৪)।"
+   "স্বস্তিকার ২০২৬ সালের খণ্ডে একটি একক ধারা লক্ষ করা যায়: আরএসএসের শতবর্ষ, পশ্চিমবঙ্গ বিধানসভা নির্বাচন এবং একটি বিজেপি রাজ্য সরকারের সুসংহতকরণ, যাকে পত্রিকাটি সংঘের নিজস্ব সাফল্য হিসেবে দেখেছে। জানুয়ারি ও ফেব্রুয়ারিতে পত্রিকাটি শতবর্ষের জনসংযোগে গুরুত্ব দিয়েছে। এতে মোহন ভাগবতের ২০২৫ সালের ডিসেম্বরে বাংলা সফর, প্রায় ৭,৫০০ যুবকের শিলিগুড়ি যুব সম্মেলন এবং ১,৬০০-র বেশি আমন্ত্রিত নাগরিকের জন্য সায়েন্স সিটির বক্তৃতামালার কথা জানানো হয়েছে (২০২৬-এর ৫ জানুয়ারি সংখ্যা, পৃ. ২৩, ২৯)। পাশাপাশি দত্তাত্রেয় হোসবালে ও অরুণ কুমারের সঙ্গে বিশিষ্ট নাগরিকদের বৈঠক (৯ ফেব্রুয়ারি সংখ্যা, পৃ. ২৩; ৯ মার্চ সংখ্যা, পৃ. ২৯) এবং জেলায় জেলায় শতবর্ষের হিন্দু সম্মেলনের ঘন ধারাবাহিকতাও প্রকাশিত হয়েছে, যেমন রামপুরহাটে প্রায় দশ হাজার মানুষের সমাবেশ (৯ ফেব্রুয়ারি সংখ্যা, পৃ. ২৪)। এ সবই 'পঞ্চ পরিবর্তন'-এর পাঁচ দফা কর্মসূচিকে ঘিরে সাজানো হয়েছিল (৫ জানুয়ারি সংখ্যা, পৃ. ৩১)। এর পাশাপাশি দুটি ধারা চলেছে। প্রথমটি বাংলাদেশে হিন্দু নির্যাতনের ধারাবাহিক প্রতিবেদন, যার কেন্দ্রে ছিল দীপু চন্দ্র দাসের পিটিয়ে হত্যা (৫ জানুয়ারি সংখ্যা, পৃ. ৯; ১২ জানুয়ারি সংখ্যা, পৃ. ৫)। দ্বিতীয়টি নির্বাচন কমিশনের ভোটার তালিকা সংশোধন এসআইআর-কে প্রাথমিক সমর্থন (৫ জানুয়ারি সংখ্যা, পৃ. ৬)। তৃণমূলের 'তোষণ'-এর অধীনে বাংলাদেশকে বাংলার ভবিষ্যৎ হিসেবে তুলে ধরা হয়েছে (১২ জানুয়ারি সংখ্যা, পৃ. ৫)।",
+   "ফেব্রুয়ারি ও মার্চ জুড়ে পত্রিকাটি স্পষ্টতই নির্বাচনী প্রস্তুতির মেজাজে চলে যায়। তার সম্পাদকীয়তে তৃণমূল শাসনকে 'মাৎস্যন্যায়' (অরাজকতা) বলে বর্ণনা করা হয় এবং মুখ্যমন্ত্রীকে বামপন্থীদের 'সেরা ছাত্র' বলা হয় (২ ফেব্রুয়ারি সংখ্যা, পৃ. ৫)। অন্তর্বর্তী রাজ্য বাজেটে মাদ্রাসা খাতে বরাদ্দকে ভোটব্যাঙ্ক তোষণ বলে আক্রমণ করা হয়, যার সূচনা প্রথমে সিপিআই(এম)-ই করেছিল বলে দাবি (১৬ ফেব্রুয়ারি সংখ্যা, পৃ. ৯)। এসআইআর-কে অবৈধ বাংলাদেশি ও রোহিঙ্গা ভোটার ছাঁটাইয়ের প্রক্রিয়া বলে সমর্থন করা হয়, এবং বলা হয় ৬০ লক্ষ বাদের বেশিরভাগই মালদা ও মুর্শিদাবাদ থেকে (১৬ মার্চ সংখ্যা, পৃ. ৫)। কমিউনিস্ট-বিরোধী ইতিহাস ব্যাপকভাবে ব্যবহার করা হয়: মরিচঝাঁপি (২ ফেব্রুয়ারি সংখ্যা, পৃ. ৩৫), কেরলে ১৯৯৪ সালে সদানন্দন মাস্টারের পা কেটে দেওয়া (১৬ ফেব্রুয়ারি সংখ্যা, পৃ. ১৮), ১৯৮৪ সালে স্বয়ংসেবক প্রশান্ত মণ্ডলের হত্যা (২৩ ফেব্রুয়ারি সংখ্যা, পৃ. ২৭) এবং নেতাজির বিরুদ্ধে কমিউনিস্টদের কুৎসা (১৯ জানুয়ারি সংখ্যা, পৃ. ৫)। পত্রিকাটি মোদী সরকারের ২০২৬-২৭ সালের কেন্দ্রীয় বাজেটকে 'বিকশিত ভারত'-এর দলিল বলেও প্রচার করে (৯ ফেব্রুয়ারি সংখ্যা, পৃ. ৫)। এতে বিজেপির পরিবর্তন সংকল্প যাত্রা এবং ১৪ মার্চের ব্রিগেড সমাবেশের খবর ছাপা হয়, যেখানে ১০ লক্ষের বেশি মানুষ এসেছিলেন বলে দাবি করা হয় (২৩ মার্চ সংখ্যা, পৃ. ৭)। আরএসএসের অখিল ভারতীয় প্রতিনিধি সভার প্রতিবেদনও ছাপা হয়, যেখানে ১০ কোটিরও বেশি পরিবারের কাছে পৌঁছানোর দাবি করা হয় (৩০ মার্চ সংখ্যা, পৃ. ৩৬-৩৭)।",
+   "এপ্রিল মাসের সংখ্যাগুলি ছিল বছরের মধ্যে সবচেয়ে প্রকাশ্যে সংগঠিত করার ডাকে ভরা। পত্রিকাটি ভোটকে হিন্দু সমাজের অস্তিত্ব রক্ষার নির্বাচন বলে অভিহিত করে এবং ১০০ শতাংশ ভোটদানের আহ্বান জানায় (৬ এপ্রিল সংখ্যা, পৃ. ৫)। এতে 'লাভ জিহাদ' নিয়ে প্রচ্ছদ কাহিনি ছাপা হয় (৬ এপ্রিল সংখ্যা, পৃ. ১৭) এবং দাবি করা হয় যে ভারতে হিন্দুরা সংখ্যালঘু হওয়ার দিকে এগোচ্ছে (২০ এপ্রিল সংখ্যা, পৃ. ৪৭)। বামপন্থীদের ইসলামি উগ্রবাদের সমতুল্য বলা হয় (২০ এপ্রিল সংখ্যা, পৃ. ৩৬) এবং ভারত সেবাশ্রম সঙ্ঘের এক সন্ন্যাসীকে উদ্ধৃত করা হয়, যিনি হিন্দুদের বলেছেন 'ধর্মযুদ্ধ'-এর আগে এটাই 'শেষ ট্রেন' (২৭ এপ্রিল সংখ্যা, পৃ. ২৭)। রাজ্যজুড়ে শ্রীরাম মহোৎসবকে সবচেয়ে বড় রাস্তার জমায়েত হিসেবে প্রতিবেদন করা হয়, যেখানে ৩ কোটি অংশগ্রহণকারী ও প্রায় ৪,০০০ মিছিলের দাবি করা হয়। বিজেপি প্রার্থীরা, শুভেন্দু অধিকারী, বিশ্ব হিন্দু পরিষদ, বজরং দল, এবিভিপি ও আরএসএসের বস্তিগুলি সকলেই এতে অংশ নেয় (১৩ এপ্রিল সংখ্যা, পৃ. ২৪-২৮)। বাংলা নববর্ষের সংখ্যায় রাজা শশাঙ্ক ও শ্যামাপ্রসাদ মুখোপাধ্যায়কে ঘিরে 'বাঙালি পরিচয়' নতুন করে গড়া হয়। এতে জনসঙ্ঘের উত্তরসূরি হিসেবে বিজেপিকে ভোট দেওয়ার স্পষ্ট আহ্বান জানানো হয় এবং বামপন্থীদের 'চিরতরে নির্মূল' করার ডাক দেওয়া হয় (১৩ এপ্রিল সংখ্যা, পৃ. ৫, ১৬, ৩৫)।",
+   "ফলাফলের পর, মে থেকে জুলাই, সুর হয়ে ওঠে বিজয়োল্লাসের। বিজেপির জয় (২০৭ আসন, ৪৫.৮৪ শতাংশ, তৃণমূলের ৪০.৮০ শতাংশের বিপরীতে) বাংলার 'দ্বিতীয় স্বাধীনতা' এবং এমন এক 'ধর্মযুদ্ধ' বলে অভিহিত হয়, যাতে হিন্দুরা প্রথমবার একজোট হয়ে ভোট দিয়েছে (১১ মে সংখ্যা পৃ. ৫, ১২; ১৮ মে সংখ্যা পৃ. ১৮)। পত্রিকা নির্বাচন কমিশন এবং এসআইআর-এ প্রায় ৯০.৬ লক্ষ নাম বাদ পড়ার কৃতিত্ব দেয় (১১ মে সংখ্যা পৃ. ১৩) এবং আরএসএসের ৮৫ বছরের কাজকেও কৃতিত্ব দেয় (১১ মে সংখ্যা পৃ. ১২)। এরপর পত্রিকা প্রতীকী পুনর্নির্মাণের কর্মসূচির দিকে যায়: সাভারকর বিশেষ সংখ্যা (১ জুন সংখ্যা পৃ. ৫), ২০ জুনকে সরকারিভাবে 'পশ্চিমবঙ্গ দিবস' ঘোষণার প্রচার (১৫ জুন সংখ্যা পৃ. ১৬), শিবাজীর রাজ্যাভিষেক নিয়ে বিশেষ আয়োজন (২২ জুন সংখ্যা পৃ. ৫), মোদীর উপস্থিতিতে কলকাতায় যোগ দিবস (২৯ জুন সংখ্যা পৃ. ৫) এবং শ্যামাপ্রসাদ বিশেষ সংখ্যা, যার প্রধান নিবন্ধে 'হিন্দু homeland'-কে লক্ষ্য হিসেবে স্থির করা হয় (৬ জুলাই সংখ্যা পৃ. ৬)। পত্রিকা নতুন সরকারের সীমান্তে কাঁটাতার, বিএনএস এবং অভিন্ন দেওয়ানি বিধির প্রতিশ্রুতি-সংক্রান্ত মন্ত্রিসভার সিদ্ধান্তকে স্বাগত জানায় (১৮ মে সংখ্যা পৃ. ৫) এবং সরকারের 'গুন্ডা দমন' প্রতিরোধমূলক আটক আইনকেও স্বাগত জানায় (২০ জুলাই সংখ্যা পৃ. ৫, ৪৪)। পাশাপাশি পত্রিকা ক্যাম্পাস থেকে বামপন্থী প্রভাব উপড়ে ফেলার ডাক দিতে শুরু করে, এমন ভাষায় যা বিরোধীদের 'মৃত্যু'-র হুমকি দেয় (৮ জুন সংখ্যা পৃ. ১০)।",
+   "আগস্ট থেকে নভেম্বর পর্যন্ত পত্রিকাটি সঙ্ঘ ও রাজ্য সরকারকে অংশীদার হিসেবে তুলে ধরেছে। মুখ্যমন্ত্রী শুভেন্দু অধিকারী জরুরি অবস্থার সময়কার 'লোকতন্ত্র সেনানী'দের, যাঁদের অধিকাংশই স্বয়ংসেবক, সম্মান জানান (২৪ আগস্ট সংখ্যা, পৃ. ২৩, ৪৮) এবং রাখি বন্ধনকে রাজ্য-পৃষ্ঠপোষকতায় উৎসবে পরিণত করেন (২৪ আগস্ট সংখ্যা, পৃ. ৫)। তিনি 'দশ হাজার কণ্ঠে বন্দে মাতরম' অনুষ্ঠানের নেতৃত্ব দেন এবং যাদবপুর বিশ্ববিদ্যালয়ের বিরুদ্ধে 'গেরুয়া সম্মান যাত্রা'য় অংশ নেন। পত্রিকাটি দাবি তুলেছিল বিশ্ববিদ্যালয়টির নাম পাল্টে 'শ্রী অরবিন্দ বিশ্ববিদ্যালয়' রাখা হোক এবং একে 'দিমাগি নকশাল'দের আখড়া বলে চিহ্নিত করেছিল (৭ সেপ্টেম্বর সংখ্যা, পৃ. ৫, ১১; ২১ সেপ্টেম্বর সংখ্যা, পৃ. ৪৭-৪৮)। 'তেলাপোকা' আন্দোলন ও এফসিআরএ সংশোধনের বিরুদ্ধে আন্দোলনসহ বিরোধী ও ছাত্র বিক্ষোভকে বিদেশি অর্থে পরিচালিত 'শাসন পরিবর্তন'-এর চক্রান্ত হিসেবে দেখানো হয় (১৭ আগস্ট সংখ্যা, পৃ. ১২, ৪৭; ৩১ আগস্ট সংখ্যা, পৃ. ১১; ৯ নভেম্বর সংখ্যা, পৃ. ১৪)। মুখ্যমন্ত্রী আরএসএসের কেশব স্মৃতি ভবনের উদ্বোধনে উপস্থিত ছিলেন, স্বস্তিকার প্রচ্ছদশিল্পীকে সম্মান জানান এবং বলেন তিনি চান সাপ্তাহিকটি দৈনিক হোক (২ নভেম্বর সংখ্যা, পৃ. ২৪, ২৮)। বিশ্ব হিন্দু পরিষদের অশোক সিংহল জন্মশতবার্ষিকী সম্মেলনে তিনি পশ্চিমবঙ্গকে হিন্দুত্বের পীঠস্থান করার অঙ্গীকারও করেন, যেখানে বক্তারা বলেন কাশী ও মথুরা 'মুক্ত' করা হবে (১৬ নভেম্বর সংখ্যা, পৃ. ২৪)। ভাগবতের বিজয়াদশমীর ভাষণ শতবর্ষ উদ্যাপনের সমাপ্তি টানে এবং গণসংযোগের পরিসংখ্যান উল্লেখ করে (২ নভেম্বর সংখ্যা, পৃ. ৪৩-৪৫)।",
+   "বছরজুড়ে শত্রুর রূপ বদলেছে। নির্বাচনের আগে তৃণমূলের 'তোষণ' ও অনুপ্রবেশ ছিল প্রধান লক্ষ্য, আর বামপন্থীদের দেখানো হয়েছিল বাংলার ধ্বংসের ঐতিহাসিক মূল কারণ হিসেবে। তৃণমূলের পতনের পর বামপন্থী, বামপন্থী ছাত্র এবং 'আরবান নকশাল'-রা হয়ে ওঠে প্রধান লক্ষ্য, সঙ্গে ছিল 'ডিপ স্টেট' ষড়যন্ত্রের অভিযোগ, আর বাংলাদেশে নির্যাতন থেকে যায় নিরন্তর সতর্কবার্তা হিসেবে (২০ আগস্ট... ) (১৭ আগস্ট সংখ্যা পৃ. ৩৫; ২৮ সেপ্টেম্বর সংখ্যা পৃ. ১৩)। ধারাবাহিক বিষয়গুলি ছিল 'গল্পকথায় ডাক্তারজী' শীর্ষক ধারাবাহিক হেডগেওয়ার-কাহিনি, শ্যামাপ্রসাদ মুখোপাধ্যায়ের 'হিন্দু homeland' কাহিনি এবং বন্দে মাতরমের ১৫০তম বার্ষিকী। সব মিলিয়ে এগুলি বাঙালি পরিচয়কে হিন্দু পরিচয় হিসেবে নতুন করে উপস্থাপন করেছে এবং ২০২৬ সালের ফলকে '৮২০ বছরের' হিন্দু শাসনবিচ্ছেদের অবসান হিসেবে তুলে ধরেছে।"
   ]
  },
  "issues": [
+  {
+   "issue": "20261116",
+   "date": "2026-11-16",
+   "pdf": "20261116.pdf",
+   "label": "",
+   "summary": "The 16 November 2026 issue (29 Kartik 1433) is built around the Oscar Klein Medal awarded to theoretical physicist Dr. Ashok Sen, presented as national pride and tied to ancient Vedic and Indian science. Its political pieces attack the opposition and the Left: one article says communist bookstalls at Durga Puja exist to spread propaganda against Hindus and Hinduism, and another discusses Rahul Gandhi. A report from Dhaka frames beef-eating in front of temples during Puja as a message from Islamic jihadis. The organisational pages report VHP and Sangh events. These are the Ashok Singhal birth-centenary Hindu Sammelan in Kolkata, with Chief Minister Suvendu Adhikari present and promising state support for 'nationalist' programmes. They also cover the Ram-Sharad Kothari commemoration with RSS Sarkaryavah Dattatreya Hosabale, and a VHP sadhu-sant meeting in Siliguri. The issue also carries Durga and Jagaddhatri devotional features, a Kashmir article on the abrogation of Article 370, and a promotion of the next issue on Rajnarayan Basu.",
+   "programs": [
+    {
+     "title": "Ashok Singhal birth-centenary Hindu Sammelan, Kolkata",
+     "org": "VHP",
+     "type": "sammelan/conference",
+     "where": "Kolkata (Uttirna Sabhagriha), South Bengal",
+     "when": "4 October",
+     "page": 24,
+     "detail": "About 5,000 workers and citizens from the South Bengal districts and Kolkata/Howrah attended. VHP central president Alok Kumar was the main speaker and CM Suvendu Adhikari attended. Speakers said Kashi and Mathura would be freed, and the CM pledged to make West Bengal a seat of Hindutva and nationalism. The event ended with Vande Mataram.",
+     "title_bn": "অশোক সিঙ্ঘলের জন্মশতবর্ষ উপলক্ষে হিন্দু সম্মেলন, কলকাতা",
+     "org_bn": "বিশ্ব হিন্দু পরিষদ",
+     "type_bn": "সম্মেলন",
+     "where_bn": "কলকাতা (উত্তীর্ণ সভাগৃহ), দক্ষিণবঙ্গ",
+     "when_bn": "৪ অক্টোবর",
+     "detail_bn": "দক্ষিণবঙ্গের জেলাগুলি এবং কলকাতা/হাওড়া থেকে প্রায় ৫,০০০ কর্মী ও নাগরিক উপস্থিত ছিলেন। বিশ্ব হিন্দু পরিষদের কেন্দ্রীয় সভাপতি আলোক কুমার ছিলেন প্রধান বক্তা এবং মুখ্যমন্ত্রী শুভেন্দু অধিকারী উপস্থিত ছিলেন। বক্তারা বলেন কাশী ও মথুরা মুক্ত করা হবে, আর মুখ্যমন্ত্রী পশ্চিমবঙ্গকে হিন্দুত্ব ও জাতীয়তাবাদের পীঠস্থান করে তোলার অঙ্গীকার করেন। অনুষ্ঠান শেষ হয় বন্দে মাতরম দিয়ে।"
+    },
+    {
+     "title": "Ram-Sharad Kothari Smriti Sangh commemoration and Pratibha Samman 2026",
+     "org": "other: Ram-Sharad Kothari Smriti Sangh, Kolkata",
+     "type": "education/culture",
+     "where": "Kolkata",
+     "when": "26 September",
+     "page": 29,
+     "detail": "The event remembered the Kothari brothers, kar sevaks killed in the 1990 Ayodhya Ram Janmabhoomi movement. RSS Sarkaryavah Dattatreya Hosabale was the main speaker and CM Suvendu Adhikari the chief guest. The CM announced a road in Kolkata would be named after the brothers and that colleges and universities would honour them. Awards went to Ishwar Chandra Hembram, Dhyan Foundation and an Odisha environmental worker.",
+     "title_bn": "রাম-শরদ কোঠারি স্মৃতি সংঘের স্মরণ অনুষ্ঠান ও প্রতিভা সম্মান ২০২৬",
+     "org_bn": "অন্যান্য: রাম-শারদ কোঠারি স্মৃতি সঙ্ঘ, কলকাতা",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "কলকাতা",
+     "when_bn": "২৬ সেপ্টেম্বর",
+     "detail_bn": "অনুষ্ঠানে কোঠারি ভাইদের স্মরণ করা হয়, যাঁরা ১৯৯০ সালের অযোধ্যা রামজন্মভূমি আন্দোলনে নিহত কারসেবক ছিলেন। আরএসএসের সরকার্যবাহ দত্তাত্রেয় হোসাবলে ছিলেন প্রধান বক্তা এবং মুখ্যমন্ত্রী শুভেন্দু অধিকারী প্রধান অতিথি। মুখ্যমন্ত্রী ঘোষণা করেন, কলকাতার একটি রাস্তার নাম কোঠারি ভাইদের নামে রাখা হবে এবং কলেজ ও বিশ্ববিদ্যালয়গুলি তাঁদের সম্মান জানাবে। ঈশ্বরচন্দ্র হেমব্রম, ধ্যান ফাউন্ডেশন এবং ওড়িশার এক পরিবেশকর্মীকে পুরস্কার দেওয়া হয়।"
+    },
+    {
+     "title": "VHP North Bengal Margadarshak Mandali meeting",
+     "org": "VHP",
+     "type": "sammelan/conference",
+     "where": "Siliguri (ISKCON Radha Madhav Sundar temple), North Bengal",
+     "when": "22 August",
+     "page": 23,
+     "detail": "More than 100 sadhus, mohants and dharmacharyas from across North Bengal attended. Resolutions covered reviving the gurukul system, restoring gaushalas and cow service, a village-level Satsang Saptah for 'dharma jagaran', and marking Ravidas's 650th birth anniversary. The meeting also resolved to observe Janmashtami as VHP's foundation day.",
+     "title_bn": "বিশ্ব হিন্দু পরিষদ উত্তরবঙ্গ মার্গদর্শক মণ্ডলীর বৈঠক",
+     "org_bn": "বিশ্ব হিন্দু পরিষদ",
+     "type_bn": "সম্মেলন",
+     "where_bn": "শিলিগুড়ি (ইসকনের রাধা মাধব সুন্দর মন্দির), উত্তরবঙ্গ",
+     "when_bn": "২২ আগস্ট",
+     "detail_bn": "উত্তরবঙ্গের বিভিন্ন প্রান্ত থেকে ১০০-র বেশি সাধু, মোহন্ত ও ধর্মাচার্য উপস্থিত ছিলেন। গুরুকুল ব্যবস্থার পুনরুজ্জীবন, গোশালা পুনঃপ্রতিষ্ঠা ও গোসেবা, 'ধর্ম জাগরণ'-এর জন্য গ্রামস্তরে সৎসঙ্গ সপ্তাহ এবং রবিদাসের ৬৫০তম জন্মবার্ষিকী পালনের প্রস্তাব নেওয়া হয়। সভায় জন্মাষ্টমীকে বিশ্ব হিন্দু পরিষদের প্রতিষ্ঠা দিবস হিসেবে পালনেরও সিদ্ধান্ত হয়।"
+    },
+    {
+     "title": "Planned Santa Sammelan for Ashok Singhal centenary, Siliguri",
+     "org": "VHP",
+     "type": "sammelan/conference",
+     "where": "Siliguri, North Bengal",
+     "when": "27 September (announced)",
+     "page": 23,
+     "detail": "The Siliguri meeting announced a large Sant Sammelan for the Ashok Singhal birth centenary.",
+     "title_bn": "অশোক সিংঘলের জন্মশতবর্ষ উপলক্ষে শিলিগুড়িতে প্রস্তাবিত সন্ত সম্মেলন",
+     "org_bn": "বিশ্ব হিন্দু পরিষদ",
+     "type_bn": "সম্মেলন",
+     "where_bn": "শিলিগুড়ি, উত্তরবঙ্গ",
+     "when_bn": "২৭ সেপ্টেম্বর (ঘোষিত)",
+     "detail_bn": "শিলিগুড়ির বৈঠকে অশোক সিংঘলের জন্মশতবর্ষ উপলক্ষে একটি বড় সন্ত সম্মেলনের ঘোষণা করা হয়েছে।"
+    },
+    {
+     "title": "Rajnarayan Basu bicentenary special issue (announcement)",
+     "org": "other: Swastika weekly",
+     "type": "education/culture",
+     "where": "",
+     "when": "23 November 2026",
+     "page": 4,
+     "detail": "The next issue will honour Rajnarayan Basu, called the grandfather of Indian nationalism, on his 200th birth anniversary.",
+     "title_bn": "রাজনারায়ণ বসুর দ্বিশতবর্ষ বিশেষ সংখ্যা (ঘোষণা)",
+     "org_bn": "অন্যান্য: স্বস্তিকা সাপ্তাহিক",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "",
+     "when_bn": "২৩ নভেম্বর ২০২৬",
+     "detail_bn": "পরবর্তী সংখ্যায় ভারতীয় জাতীয়তাবাদের পিতামহ বলে পরিচিত রাজনারায়ণ বসুকে তাঁর ২০০তম জন্মবার্ষিকীতে শ্রদ্ধা জানানো হবে।"
+    },
+    {
+     "title": "Swastika lifetime and ten-year membership drive",
+     "org": "other: Swastika weekly",
+     "type": "other",
+     "where": "",
+     "when": "",
+     "page": 4,
+     "detail": "The weekly opened lifetime membership at Rs 25,000 and ten-year membership at Rs 10,000, with bulk dispatch of issues each month.",
+     "title_bn": "স্বস্তিকার আজীবন ও দশ বছরের সদস্যপদ অভিযান",
+     "org_bn": "অন্যান্য: স্বস্তিকা সাপ্তাহিক",
+     "type_bn": "অন্যান্য",
+     "where_bn": "",
+     "when_bn": "",
+     "detail_bn": "সাপ্তাহিকটি ২৫,০০০ টাকায় আজীবন সদস্যতা এবং ১০,০০০ টাকায় দশ বছরের সদস্যতা চালু করেছে, সঙ্গে প্রতি মাসে একসঙ্গে বহু সংখ্যা পাঠানোর ব্যবস্থাও রয়েছে।"
+    },
+    {
+     "title": "ABVP new unit at JB Roy College",
+     "org": "ABVP",
+     "type": "education/culture",
+     "where": "Kolkata (JB Roy College)",
+     "when": "",
+     "page": 30,
+     "detail": "Page 30 carries a headline that ABVP has formed a new unit at JB Roy College and pledged constructive work for student interests. Only the heading is visible in the digest.",
+     "title_bn": "জে বি রায় কলেজে এবিভিপি-র নতুন ইউনিট",
+     "org_bn": "এবিভিপি",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "কলকাতা (জে বি রায় কলেজ)",
+     "when_bn": "",
+     "detail_bn": "৩০ পৃষ্ঠায় একটি শিরোনামে বলা হয়েছে যে এবিভিপি জে বি রায় কলেজে নতুন ইউনিট গঠন করেছে এবং শিক্ষার্থীদের স্বার্থে গঠনমূলক কাজের অঙ্গীকার করেছে। ডাইজেস্টে কেবল শিরোনামটি দেখা যাচ্ছে।"
+    }
+   ],
+   "narratives": [
+    {
+     "theme": "anti-Left/CPIM",
+     "target": "Communists and Left bookstalls at Durga Puja",
+     "claim": "The real purpose of communist bookstalls at Puja pandals is to spread propaganda against Hindus and Hinduism, insult Hindu gods and distort Indian culture.",
+     "heading": "কমিউনিস্টদের বুকস্টলের আসল উদ্দেশ্য হিন্দু ও হিন্দুধর্মের অপপ্রচার",
+     "page": 11,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "দুর্গাপুজোয় কমিউনিস্ট ও বামপন্থীদের বইয়ের স্টল",
+     "claim_bn": "পূজা মণ্ডপে কমিউনিস্টদের বইয়ের স্টলের আসল উদ্দেশ্য হিন্দু ও হিন্দুধর্মের বিরুদ্ধে প্রচার ছড়ানো, হিন্দু দেবদেবীদের অপমান করা এবং ভারতীয় সংস্কৃতিকে বিকৃত করা।"
+    },
+    {
+     "theme": "Bangladesh & Hindu persecution",
+     "target": "Islamic jihadis in Bangladesh",
+     "claim": "Beef-eating in front of temples during Puja in Bangladesh is a deliberate message from Islamic jihadis to remind the 8% minority of the 92% Muslim majority.",
+     "heading": "বাংলাদেশে পূজায় মন্দিরের সামনে গোমাংস ভক্ষণ, ইসলামি জেহাদিরা কী নতুন বার্তা দিল?",
+     "page": 46,
+     "theme_bn": "বাংলাদেশ ও হিন্দু নির্যাতন",
+     "target_bn": "বাংলাদেশের ইসলামি জিহাদিরা",
+     "claim_bn": "বাংলাদেশে পুজোর সময় মন্দিরের সামনে গোমাংস খাওয়া ইসলামি জিহাদিদের সচেতন বার্তা, যা ৯২ শতাংশ মুসলমান সংখ্যাগরিষ্ঠতার কথা ৮ শতাংশ সংখ্যালঘুকে মনে করিয়ে দেওয়ার জন্য।"
+    },
+    {
+     "theme": "Hindu unity & identity",
+     "target": "Hindu society; praise for Ashok Singhal and the VHP",
+     "claim": "The Singhal centenary Hindu Sammelan presents Kashi and Mathura as to be freed and West Bengal as a seat of Hindutva and nationalism, with state backing.",
+     "heading": "অশোক সিঙ্ঘলজীর জন্মশতবর্ষ উপলক্ষ্যে কলকাতায় হিন্দু সম্মেলন",
+     "page": 24,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "হিন্দু সমাজ; অশোক সিংঘল ও বিশ্ব হিন্দু পরিষদের প্রশংসা",
+     "claim_bn": "সিংঘল জন্মশতবর্ষের হিন্দু সম্মেলনে কাশী ও মথুরাকে মুক্ত করার কথা এবং পশ্চিমবঙ্গকে রাজ্য সরকারের সমর্থনসহ হিন্দুত্ব ও জাতীয়তাবাদের কেন্দ্র হিসেবে তুলে ধরা হয়েছে।"
+    },
+    {
+     "theme": "West Bengal elections",
+     "target": "West Bengal government under CM Suvendu Adhikari (praised); opposition (criticised)",
+     "claim": "The state government is shown as a partner of Sangh programmes, and the editorial says opposition parties are making a fuss over the municipal polls.",
+     "heading": "দুর্জনদের নির্ধারিত স্থানে পৌঁছে দিতে পারলেই জনগণের প্রতি প্রতিশ্রুতি পালন হবে : 'আইনের শাসন'",
+     "page": 6,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "মুখ্যমন্ত্রী শুভেন্দু অধিকারীর নেতৃত্বাধীন পশ্চিমবঙ্গ সরকার (প্রশংসিত); বিরোধীরা (সমালোচিত)",
+     "claim_bn": "রাজ্য সরকারকে সঙ্ঘের কর্মসূচির অংশীদার হিসেবে দেখানো হয়েছে, আর সম্পাদকীয়তে বলা হয়েছে, পুরসভা নির্বাচন নিয়ে বিরোধী দলগুলি হইচই করছে।"
+    },
+    {
+     "theme": "history & icons",
+     "target": "Ram-Sharad Kothari and the Ayodhya kar sevaks (praised)",
+     "claim": "The Kothari brothers are honoured as martyrs of the 1990 Ayodhya movement, with state recognition promised through a road name and university honours.",
+     "heading": "রাম-শরদ কোঠারী স্মৃতি সঙ্ঘ, কলকাতা: প্রতিভা সম্মান-২০২৬ (heading as reported in the sangh news pages)",
+     "page": 29,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "রাম-শরদ কোঠারি ও অযোধ্যার কারসেবকরা (প্রশংসিত)",
+     "claim_bn": "কোঠারি ভাইদের ১৯৯০ সালের অযোধ্যা আন্দোলনের শহিদ হিসেবে সম্মান জানানো হয়েছে, এবং একটি রাস্তার নামকরণ ও বিশ্ববিদ্যালয়ের সম্মানের মাধ্যমে রাজ্যের স্বীকৃতির প্রতিশ্রুতি দেওয়া হয়েছে।"
+    },
+    {
+     "theme": "culture/religion",
+     "target": "Indian science and Vedic tradition (praised)",
+     "claim": "Ashok Sen's Oscar Klein Medal is shown as a continuation of Vedic and ancient Indian physics, and he is called a worthy heir to Bose, Saha and Ray.",
+     "heading": "ভারতের গর্ব বিজ্ঞানী ড. অশোক সেন",
+     "page": 5,
+     "theme_bn": "সংস্কৃতি/ধর্ম",
+     "target_bn": "ভারতীয় বিজ্ঞান ও বৈদিক ঐতিহ্য (প্রশংসিত)",
+     "claim_bn": "অশোক সেনের অস্কার ক্লাইন পদককে বৈদিক ও প্রাচীন ভারতীয় পদার্থবিদ্যার ধারাবাহিকতা হিসেবে দেখানো হয়েছে এবং তাঁকে বসু, saha ও রায়ের যোগ্য উত্তরসূরি বলা হয়েছে।"
+    },
+    {
+     "theme": "culture/religion",
+     "target": "Hindu devotional tradition",
+     "claim": "The issue carries long features on Goddess Jagaddhatri's origin and iconography, linking the Puja season to Shakti worship and Hindu identity.",
+     "heading": "জগৎ ধারিণী জগদ্ধাত্রী",
+     "page": 32,
+     "theme_bn": "সংস্কৃতি/ধর্ম",
+     "target_bn": "হিন্দু ভক্তি ঐতিহ্য",
+     "claim_bn": "সংখ্যাটিতে দেবী জগদ্ধাত্রীর উৎপত্তি ও মূর্তিতত্ত্ব নিয়ে দীর্ঘ লেখা রয়েছে, যা পুজোর মরসুমকে শক্তি আরাধনা ও হিন্দু পরিচয়ের সঙ্গে যুক্ত করেছে।"
+    },
+    {
+     "theme": "nationalism/army/Pakistan",
+     "target": "Article 370 and Kashmir",
+     "claim": "A travel account contrasts Kashmir before and after the abrogation of Article 370 in August 2019, implying it opened the Valley.",
+     "heading": "কাশ্মীর ভ্রমণ : ৩৭০ ধারা বিলোপের আগে ও পরে",
+     "page": 48,
+     "theme_bn": "জাতীয়তাবাদ/সেনা/পাকিস্তান",
+     "target_bn": "৩৭০ ধারা ও কাশ্মীর",
+     "claim_bn": "একটি ভ্রমণ-বিবরণে ২০১৯ সালের আগস্টে ৩৭০ ধারা বাতিলের আগে ও পরের কাশ্মীরের তুলনা করা হয়েছে, এবং ইঙ্গিত দেওয়া হয়েছে যে এর ফলে উপত্যকা উন্মুক্ত হয়েছে।"
+    },
+    {
+     "theme": "Hindu unity & identity",
+     "target": "Indian education policy",
+     "claim": "NEP 2020's Panchakosha approach is presented as consistent with Deendayal Upadhyaya's Integral Humanism.",
+     "heading": "ভারতীয় শিক্ষানীতি ২০২০-তে অনুসৃত পঞ্চকোষ পদ্ধতি এবং পণ্ডিত দীনদয়াল উপাধ্যায়ের একাত্ম মানবদর্শন",
+     "page": 18,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "ভারতীয় শিক্ষানীতি",
+     "claim_bn": "জাতীয় শিক্ষানীতি ২০২০-এর পঞ্চকোষ ধারণাকে দীনদয়াল উপাধ্যায়ের একাত্ম মানবদর্শনের সঙ্গে সঙ্গতিপূর্ণ হিসেবে তুলে ধরা হয়েছে।"
+    }
+   ],
+   "label_bn": "",
+   "summary_bn": "২০২৬ সালের ১৬ নভেম্বর সংখ্যাটি (২৯ কার্তিক ১৪৩৩) তাত্ত্বিক পদার্থবিজ্ঞানী ড. অশোক সেনের অস্কার ক্লাইন পদকপ্রাপ্তিকে কেন্দ্র করে সাজানো হয়েছে। একে জাতীয় গৌরব হিসেবে তুলে ধরা হয়েছে এবং প্রাচীন বৈদিক ও ভারতীয় বিজ্ঞানের সঙ্গে যুক্ত করা হয়েছে। রাজনৈতিক লেখাগুলিতে বিরোধী ও বামপন্থীদের আক্রমণ করা হয়েছে। একটি নিবন্ধে বলা হয়েছে, দুর্গাপুজোয় কমিউনিস্টদের বইয়ের স্টল হিন্দু ও হিন্দুধর্মের বিরুদ্ধে প্রচার ছড়ানোর জন্যই, আর অন্যটিতে রাহুল গান্ধী নিয়ে আলোচনা করা হয়েছে। ঢাকার একটি প্রতিবেদনে পুজোর সময় মন্দিরের সামনে গোমাংস খাওয়াকে ইসলামি জিহাদিদের বার্তা হিসেবে উপস্থাপন করা হয়েছে। সাংগঠনিক পাতায় বিশ্ব হিন্দু পরিষদ ও সঙ্ঘের অনুষ্ঠানের খবর রয়েছে। এগুলি হল কলকাতায় অশোক সিংঘল জন্মশতবর্ষ উপলক্ষে হিন্দু সম্মেলন, যেখানে মুখ্যমন্ত্রী শুভেন্দু অধিকারী উপস্থিত ছিলেন এবং 'জাতীয়তাবাদী' কর্মসূচিতে রাজ্যের সহায়তার প্রতিশ্রুতি দেন। এছাড়া আরএসএসের সরকার্যবাহ দত্তাত্রেয় হোসাবলের উপস্থিতিতে রাম-শরৎ কোঠারি স্মরণ অনুষ্ঠান এবং শিলিগুড়িতে বিশ্ব হিন্দু পরিষদের সাধু-সন্ত বৈঠকের খবরও আছে। সংখ্যাটিতে দুর্গা ও জগদ্ধাত্রী বিষয়ক ভক্তিমূলক লেখা, ৩৭০ ধারা বাতিল নিয়ে কাশ্মীরের একটি নিবন্ধ এবং রাজনারায়ণ বসুকে নিয়ে পরবর্তী সংখ্যার প্রচারও রয়েছে।"
+  },
+  {
+   "issue": "20261109",
+   "date": "2026-11-09",
+   "pdf": "20261109.pdf",
+   "label": "",
+   "summary": "This 9 November 2026 issue is a Deendayal Upadhyaya special, built around his birth anniversary and his philosophy of Integral Humanism (Ekatma Manavdarshan), which it presents as the basis of India's politics and governance. It also attacks the Left/CPIM, the Congress-led opposition and Mamata Banerjee's TMC. It frames opposition protests such as the 'Cockroach' movement and the SIR row as 'regime change' plots backed by infiltrators, jihadi forces and Bangladesh's Jamaat. It praises the BJP-run state government as having passed its 'half-yearly exam', and it promotes Hindutva, the Ramayana and Sangh Centenary programmes.",
+   "programs": [
+    {
+     "title": "Sangh Shatabdi 'Amar Gram, Amar Shakha' village shakha expansion",
+     "org": "RSS",
+     "type": "centenary",
+     "where": "West Bengal",
+     "when": "",
+     "page": 19,
+     "detail": "A reader's letter says 7 programmes were planned for the Sangh centenary, of which 6 are complete. The seventh is 'Amar Gram', a plan to start a shakha in every village.",
+     "title_bn": "সংঘ শতবর্ষ 'আমার গ্রাম, আমার শাখা' গ্রামীণ শাখা সম্প্রসারণ",
+     "org_bn": "আরএসএস",
+     "type_bn": "শতবর্ষ",
+     "where_bn": "পশ্চিমবঙ্গ",
+     "when_bn": "",
+     "detail_bn": "একজন পাঠকের চিঠিতে বলা হয়েছে, সঙ্ঘের শতবর্ষ উপলক্ষে ৭টি কর্মসূচি পরিকল্পিত ছিল, যার ৬টি সম্পূর্ণ হয়েছে। সপ্তমটি হল 'আমার গ্রাম', অর্থাৎ প্রতিটি গ্রামে শাখা শুরু করার পরিকল্পনা।"
+    },
+    {
+     "title": "Deendayal Upadhyaya 110th birth anniversary celebration",
+     "org": "BMS",
+     "type": "education/culture",
+     "where": "Kalyani University, Nadia",
+     "when": "25 September",
+     "page": 27,
+     "detail": "Organised jointly by the BMS-affiliated West Bengal University Karmachari Sangha and ABVP. Garlanding of his portrait and talks on the relevance of Ekatma Manavdarshan.",
+     "title_bn": "দীনদয়াল উপাধ্যায়ের ১১০তম জন্মবার্ষিকী উদ্যাপন",
+     "org_bn": "বিএমএস",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "কল্যাণী বিশ্ববিদ্যালয়, নদিয়া",
+     "when_bn": "২৫ সেপ্টেম্বর",
+     "detail_bn": "বিএমএস-অনুমোদিত পশ্চিমবঙ্গ বিশ্ববিদ্যালয় কর্মচারী সংঘ ও এবিভিপি যৌথভাবে এর আয়োজন করে। তাঁর প্রতিকৃতিতে মাল্যদান এবং একাত্ম মানবদর্শনের প্রাসঙ্গিকতা নিয়ে আলোচনা হয়।"
+    },
+    {
+     "title": "150 years of Vande Mataram seminar",
+     "org": "other: Lokaprajna Madhyabanga Trust, Indian Knowledge System cell",
+     "type": "education/culture",
+     "where": "Kalyani University, Nadia",
+     "when": "10 September",
+     "page": 26,
+     "detail": "Academic seminar on 'National Awakening, Indian Knowledge Tradition and Civilisational Consciousness'. Speakers included Pragya Pravah's Dr Sadananda Sapre. It ended with the full Vande Mataram and Jana Gana Mana.",
+     "title_bn": "বন্দে মাতরমের ১৫০ বছর উপলক্ষে আলোচনাসভা",
+     "org_bn": "অন্যান্য: লোকপ্রজ্ঞা মধ্যবঙ্গ ট্রাস্ট, ভারতীয় জ্ঞান ব্যবস্থা শাখা",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "কল্যাণী বিশ্ববিদ্যালয়, নদিয়া",
+     "when_bn": "১০ সেপ্টেম্বর",
+     "detail_bn": "'জাতীয় জাগরণ, ভারতীয় জ্ঞান পরম্পরা ও সভ্যতাগত চেতনা' বিষয়ে একাডেমিক আলোচনাসভা। বক্তাদের মধ্যে ছিলেন প্রজ্ঞা প্রবাহের ডঃ সদানন্দ সাপ্রে। অনুষ্ঠান শেষ হয় সম্পূর্ণ বন্দে মাতরম ও জন গণ মন গেয়ে।"
+    },
+    {
+     "title": "Arogya Bharati youth discussion on a healthy, drug-free society",
+     "org": "other: Arogya Bharati",
+     "type": "seva/relief",
+     "where": "Gaighata, North 24 Parganas",
+     "when": "13 September",
+     "page": 28,
+     "detail": "Discussion with young people on healthy lifestyle, addiction and media influence, at the Jagannath ashram in Rajapur.",
+     "title_bn": "সুস্থ, মাদকমুক্ত সমাজ নিয়ে আরোগ্য ভারতীর যুব আলোচনা",
+     "org_bn": "অন্যান্য: আরোগ্য ভারতী",
+     "type_bn": "সেবা/ত্রাণ",
+     "where_bn": "গাইঘাটা, উত্তর ২৪ পরগনা",
+     "when_bn": "১৩ সেপ্টেম্বর",
+     "detail_bn": "রাজাপুরের জগন্নাথ আশ্রমে সুস্থ জীবনযাত্রা, নেশা ও গণমাধ্যমের প্রভাব নিয়ে তরুণদের সঙ্গে আলোচনা।"
+    },
+    {
+     "title": "Arogya Bharati South Bengal organisational meeting",
+     "org": "other: Arogya Bharati",
+     "type": "sammelan/conference",
+     "where": "Keshab Bhavan, Kolkata",
+     "when": "18 September",
+     "page": 28,
+     "detail": "Review of district work, attended by RSS All-India Executive member Sunilpad Goswami.",
+     "title_bn": "আরোগ্য ভারতী দক্ষিণবঙ্গের সাংগঠনিক সভা",
+     "org_bn": "অন্যান্য: আরোগ্য ভারতী",
+     "type_bn": "সম্মেলন",
+     "where_bn": "কেশব ভবন, কলকাতা",
+     "when_bn": "১৮ সেপ্টেম্বর",
+     "detail_bn": "জেলার কাজের পর্যালোচনা, উপস্থিত ছিলেন আরএসএসের অখিল ভারতীয় কার্যকারিণী সদস্য সুনীলপদ গোস্বামী।"
+    },
+    {
+     "title": "Vivekananda Pathchakra 56th annual general meeting",
+     "org": "other: Vivekananda Pathchakra",
+     "type": "sammelan/conference",
+     "where": "North Kolkata",
+     "when": "20 September",
+     "page": 27,
+     "detail": "AGM with 80 attendees. Swastika sub-editor Sukesh Chandra Mandal spoke, and 'Sangathanabrati' honours were given for 50 years of service.",
+     "title_bn": "বিবেকানন্দ পাঠচক্রের ৫৬তম বার্ষিক সাধারণ সভা",
+     "org_bn": "অন্যান্য: বিবেকানন্দ পাঠচক্র",
+     "type_bn": "সম্মেলন",
+     "where_bn": "উত্তর কলকাতা",
+     "when_bn": "২০ সেপ্টেম্বর",
+     "detail_bn": "৮০ জন উপস্থিতিসহ বার্ষিক সাধারণ সভা। স্বস্তিকার সহ-সম্পাদক সুকেশ চন্দ্র মণ্ডল বক্তব্য রাখেন এবং ৫০ বছরের সেবার জন্য 'সংগঠনব্রতী' সম্মাননা দেওয়া হয়।"
+    },
+    {
+     "title": "ABRSM programme at Barasat (death of Barasat district sanghachalak Sukumar Nath)",
+     "org": "RSS",
+     "type": "other",
+     "where": "Barasat, North 24 Parganas",
+     "when": "29 October",
+     "page": 10,
+     "detail": "Sukumar Nath, RSS Barasat district sanghachalak, died of a heart attack while an ABRSM programme was under way. Another obituary, for the father of a Kolkata city karyavah, is on the same page.",
+     "title_bn": "বারাসাতে অখিল ভারতীয় রাষ্ট্রীয় সেবা... কর্মসূচি (বারাসাত জেলা সঙ্ঘচালক সুকুমার নাথের মৃত্যু)",
+     "org_bn": "আরএসএস",
+     "type_bn": "অন্যান্য",
+     "where_bn": "বারাসাত, উত্তর ২৪ পরগনা",
+     "when_bn": "২৯ অক্টোবর",
+     "detail_bn": "আরএসএসের বারাসত জেলা সঙ্ঘচালক সুকুমার নাথ এবিআরএসএম-এর একটি অনুষ্ঠান চলাকালীন হৃদরোগে আক্রান্ত হয়ে মারা যান। একই পৃষ্ঠায় কলকাতা মহানগর কার্যবাহের বাবার মৃত্যুসংবাদও রয়েছে।"
+    },
+    {
+     "title": "Bengal Shooting Ball Championship",
+     "org": "other: Krida Bharati",
+     "type": "education/culture",
+     "where": "Pichaaru, Howrah",
+     "when": "19-20 September",
+     "page": 23,
+     "detail": "Sports event organised by Krida Bharati Howrah district with the Bengal Shooting Ball Association.",
+     "title_bn": "বেঙ্গল শুটিং বল চ্যাম্পিয়নশিপ",
+     "org_bn": "অন্যান্য: ক্রীড়া ভারতী",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "পিছারু, হাওড়া",
+     "when_bn": "১৯-২০ সেপ্টেম্বর",
+     "detail_bn": "হাওড়া জেলা ক্রীড়া ভারতী বেঙ্গল শুটিং বল অ্যাসোসিয়েশনের সঙ্গে যৌথভাবে একটি ক্রীড়া অনুষ্ঠানের আয়োজন করেছিল।"
+    },
+    {
+     "title": "Vishwakarma Sammanana ceremony",
+     "org": "other: Desher Mati Kalyan Mandir",
+     "type": "festival/religious",
+     "where": "Tapan Theatre, Kolkata",
+     "when": "19 September",
+     "page": 24,
+     "detail": "Event honouring craftsmen on the occasion of Vishwakarma Puja, presented as upholding Sanatan tradition.",
+     "title_bn": "বিশ্বকর্মা সম্মাননা অনুষ্ঠান",
+     "org_bn": "অন্যান্য: দেশের মাটি কল্যাণ মন্দির",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "তপন থিয়েটার, কলকাতা",
+     "when_bn": "১৯ সেপ্টেম্বর",
+     "detail_bn": "বিশ্বকর্মা পুজো উপলক্ষে কারিগরদের সম্মাননা অনুষ্ঠান, যা সনাতন ঐতিহ্য রক্ষা হিসেবে উপস্থাপিত।"
+    },
+    {
+     "title": "Revolutionary Jatindranath Das 98th martyrdom day",
+     "org": "other: local organisers",
+     "type": "education/culture",
+     "where": "West Bengal",
+     "when": "13 September",
+     "page": 29,
+     "detail": "Commemoration of the revolutionary who died after a 63-day hunger strike in Lahore jail in 1929.",
+     "title_bn": "বিপ্লবী যতীন্দ্রনাথ দাসের ৯৮তম আত্মবলিদান দিবস",
+     "org_bn": "অন্যান্য: স্থানীয় উদ্যোক্তারা",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "পশ্চিমবঙ্গ",
+     "when_bn": "১৩ সেপ্টেম্বর",
+     "detail_bn": "১৯২৯ সালে লাহোর জেলে ৬৩ দিনের অনশনের পর মৃত্যুবরণকারী বিপ্লবীর স্মরণ।"
+    },
+    {
+     "title": "Panchanan Barma commemoration",
+     "org": "other: Panchanan Barma celebration committee",
+     "type": "education/culture",
+     "where": "North Bengal",
+     "when": "",
+     "page": 25,
+     "detail": "Event with university registrar Dr Madhab Chandra Adhikari, the central committee president and Panchanan Barma's grandson in attendance.",
+     "title_bn": "পঞ্চানন বর্মা স্মরণ অনুষ্ঠান",
+     "org_bn": "অন্যান্য: পঞ্চানন বর্মা উদযাপন কমিটি",
+     "type_bn": "শিক্ষা/সংস্কৃতি",
+     "where_bn": "উত্তরবঙ্গ",
+     "when_bn": "",
+     "detail_bn": "বিশ্ববিদ্যালয়ের রেজিস্ট্রার ডঃ মাধব চন্দ্র অধিকারী, কেন্দ্রীয় কমিটির সভাপতি এবং পঞ্চানন বর্মার নাতির উপস্থিতিতে অনুষ্ঠান।"
+    }
+   ],
+   "narratives": [
+    {
+     "theme": "anti-Left/CPIM",
+     "target": "Left/CPIM, communists",
+     "claim": "The red flag is still a flag of shame, and the paper argues that old criticism of communism still stands.",
+     "heading": "তোরা কবি গাইবি আর পয়সা নিবি তোষামোদির কী কারণ! লাল পতাকা আজও লজ্জার পতাকা?",
+     "page": 6,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "বামপন্থী/সিপিআই(এম), কমিউনিস্টরা",
+     "claim_bn": "লাল পতাকা আজও লজ্জার পতাকা, আর পত্রিকাটির যুক্তি, কমিউনিজমের বিরুদ্ধে পুরনো সমালোচনা আজও প্রাসঙ্গিক।"
+    },
+    {
+     "theme": "anti-Left/CPIM",
+     "target": "Communists / Left",
+     "claim": "The Left clashed with Deendayal Upadhyaya, killed Sangh swayamsevaks from Kerala to Naxalbari, and is now headed for political and intellectual extinction.",
+     "heading": "কমিউনিস্ট ষড়যন্ত্রের কণ্টকাকীর্ণ মার্গ পেরিয়ে আন্ত্যোদয়ের লক্ষ্যে ধাবমান একাত্ম মানবদর্শন",
+     "page": 44,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "কমিউনিস্ট / বামপন্থী",
+     "claim_bn": "বামপন্থীরা দীনদয়াল উপাধ্যায়ের সঙ্গে সংঘাতে জড়িয়েছে, কেরল থেকে নকশালবাড়ি পর্যন্ত সঙ্ঘের স্বয়ংসেবকদের হত্যা করেছে, এবং এখন রাজনৈতিক ও বৌদ্ধিক বিলুপ্তির পথে।"
+    },
+    {
+     "theme": "anti-TMC/state govt",
+     "target": "Mamata Banerjee / TMC",
+     "claim": "Mamata's party took to the streets of Kolkata to shield illegal voters from the SIR, and the paper mocks 'Didi's' ties with the Gandhis.",
+     "heading": "জনমত হারিয়ে রেজিম চেঞ্জের ভরসায় এখন রাজনৈতিক বিরোধীরা / এত প্রেম কেন গো দিদি!",
+     "page": 14,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "মমতা বন্দ্যোপাধ্যায় / তৃণমূল",
+     "claim_bn": "এসআইআর থেকে অবৈধ ভোটারদের রক্ষা করতে মমতার দল কলকাতার রাস্তায় নামে, আর পত্রিকাটি গান্ধীদের সঙ্গে 'দিদি'র সম্পর্ক নিয়ে ব্যঙ্গ করে।"
+    },
+    {
+     "theme": "infiltration/demography",
+     "target": "Opposition, illegal immigrants",
+     "claim": "The opposition is shielding illegal immigrants as voters against the SIR, and open-border immigration has wrecked France and Italy, so India must not follow.",
+     "heading": "ফ্রান্সের বর্তমান সংকট এবং ভারতের ভাবনা",
+     "page": 14,
+     "theme_bn": "অনুপ্রবেশ/জনবিন্যাস",
+     "target_bn": "বিরোধী, অবৈধ অভিবাসী",
+     "claim_bn": "বিরোধীরা এসআইআর-এর বিরুদ্ধে অবৈধ অনুপ্রবেশকারীদের ভোটার হিসেবে আড়াল করছে, আর উন্মুক্ত সীমান্তের অভিবাসন ফ্রান্স ও ইতালিকে বিপর্যস্ত করেছে, তাই ভারতের এই পথে হাঁটা উচিত নয়।"
+    },
+    {
+     "theme": "Bangladesh & Hindu persecution",
+     "target": "Bangladesh's Jamaat, opposition",
+     "claim": "Pakistan-leaning Jamaat forces back efforts to create Bangladesh/Nepal-style chaos in India, but India's democratic setting is different.",
+     "heading": "জনমত হারিয়ে রেজিম চেঞ্জের ভরসায় এখন রাজনৈতিক বিরোধীরা",
+     "page": 13,
+     "theme_bn": "বাংলাদেশ ও হিন্দু নির্যাতন",
+     "target_bn": "বাংলাদেশের জামাত, বিরোধী পক্ষ",
+     "claim_bn": "পাকিস্তানপন্থী জামায়াত শক্তিগুলি ভারতে বাংলাদেশ/নেপাল-ধাঁচের অস্থিরতা সৃষ্টির প্রচেষ্টাকে সমর্থন করছে, কিন্তু ভারতের গণতান্ত্রিক পরিসর ভিন্ন।"
+    },
+    {
+     "theme": "Hindu unity & identity",
+     "target": "Rahul Gandhi, Samajwadi Party, Congress",
+     "claim": "Opposition leaders demean the 'larger Sanatani society', including a Samajwadi Party oath of 'not accepting Hindu gods', and will vanish politically like the communists.",
+     "heading": "জনমত হারিয়ে রেজিম চেঞ্জের ভরসায় এখন রাজনৈতিক বিরোধীরা",
+     "page": 13,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "রাহুল গান্ধী, সমাজবাদী পার্টি, কংগ্রেস",
+     "claim_bn": "বিরোধী নেতারা 'বৃহত্তর সনাতনী সমাজ'কে হেয় করেন, যার মধ্যে সমাজবাদী পার্টির 'হিন্দু দেবতাদের না মানার' শপথও রয়েছে, এবং কমিউনিস্টদের মতো তাঁরাও রাজনৈতিকভাবে বিলীন হয়ে যাবেন।"
+    },
+    {
+     "theme": "history & icons",
+     "target": "Deendayal Upadhyaya, Congress",
+     "claim": "Integral Humanism is an Indian alternative to Western capitalism and socialism, and Deendayal's death in 1968 followed a political conspiracy.",
+     "heading": "দীনদয়াল উপাধ্যায় : জীবন, কর্ম ও একাত্ম মানবদর্শন",
+     "page": 15,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "দীনদয়াল উপাধ্যায়, কংগ্রেস",
+     "claim_bn": "একাত্ম মানবদর্শন পাশ্চাত্যের পুঁজিবাদ ও সমাজতন্ত্রের ভারতীয় বিকল্প, এবং ১৯৬৮ সালে দীনদয়ালের মৃত্যু একটি রাজনৈতিক ষড়যন্ত্রের ফল।"
+    },
+    {
+     "theme": "history & icons",
+     "target": "Congress, Deendayal Upadhyaya",
+     "claim": "Congress's long rule produced an un-Indian outlook that neglected Sanatani culture, while Sangh swayamsevaks backed the Congress government in the 1962, 1965 and 1971 wars. Anti-national thought killed Syama Prasad Mookerjee and Deendayal.",
+     "heading": "পণ্ডিত দীনদয়ালজীর রাজনৈতিক দর্শন",
+     "page": 36,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "কংগ্রেস, দীনদয়াল উপাধ্যায়",
+     "claim_bn": "কংগ্রেসের দীর্ঘ শাসন এমন এক অভারতীয় দৃষ্টিভঙ্গি তৈরি করেছিল যা সনাতনী সংস্কৃতিকে উপেক্ষা করেছে, অথচ সঙ্ঘের স্বয়ংসেবকরা ১৯৬২, ১৯৬৫ ও ১৯৭১ সালের যুদ্ধে কংগ্রেস সরকারকে সমর্থন করেছিলেন। জাতীয়তাবিরোধী চিন্তাধারা শ্যামাপ্রসাদ মুখোপাধ্যায় ও দীনদয়ালকে হত্যা করেছে।"
+    },
+    {
+     "theme": "culture/religion",
+     "target": "Hindutva",
+     "claim": "Hindutva is the eternal way of life of Sanatani India, and 'dharma' is not equivalent to 'religion'.",
+     "heading": "হিন্দুত্ব : সনাতনী ভারতবর্ষের জীবনচর্যা",
+     "page": 17,
+     "theme_bn": "সংস্কৃতি/ধর্ম",
+     "target_bn": "হিন্দুত্ব",
+     "claim_bn": "হিন্দুত্ব সনাতনী ভারতের শাশ্বত জীবনধারা, আর 'ধর্ম' মানে 'রিলিজিয়ন' নয়।"
+    },
+    {
+     "theme": "West Bengal elections",
+     "target": "BJP-run state government",
+     "claim": "The BJP-led state government has passed its 'half-yearly exam' with honours, restoring rule of law and peace.",
+     "heading": "রাজ্যের বিজেপি পরিচালিত সরকার ষান্মাসিক পরীক্ষায় সসম্মানে উত্তীর্ণ",
+     "page": 20,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "বিজেপি-শাসিত রাজ্য সরকার",
+     "claim_bn": "বিজেপি-নেতৃত্বাধীন রাজ্য সরকার আইনের শাসন ও শান্তি ফিরিয়ে এনে তার 'অর্ধবার্ষিক পরীক্ষা'য় কৃতিত্বের সঙ্গে উত্তীর্ণ হয়েছে।"
+    },
+    {
+     "theme": "nationalism/army/Pakistan",
+     "target": "Opposition, anti-national forces",
+     "claim": "The 'Cockroach' agitation is questioned as an opposition-linked movement, and the paper cites Union Education Minister Dharmendra Pradhan's resignation in that context.",
+     "heading": "ককরোচ পার্টি, আন্দোলন ও কিছু প্রশ্ন",
+     "page": 18,
+     "theme_bn": "জাতীয়তাবাদ/সেনা/পাকিস্তান",
+     "target_bn": "বিরোধী ও দেশবিরোধী শক্তি",
+     "claim_bn": "'আরশোলা' আন্দোলনকে বিরোধী-সংশ্লিষ্ট আন্দোলন হিসেবে প্রশ্নবিদ্ধ করা হয়েছে এবং এই প্রসঙ্গে পত্রিকাটি কেন্দ্রীয় শিক্ষামন্ত্রী ধর্মেন্দ্র প্রধানের পদত্যাগের উল্লেখ করেছে।"
+    },
+    {
+     "theme": "culture/religion",
+     "target": "Ramayana, governance",
+     "claim": "The Ramayana is offered as a model of administration and good governance, and 'Ram Rajya' as the ideal polity.",
+     "heading": "রামায়ণ, প্রশাসন ও সুশাসন",
+     "page": 33,
+     "theme_bn": "সংস্কৃতি/ধর্ম",
+     "target_bn": "রামায়ণ, শাসনব্যবস্থা",
+     "claim_bn": "রামায়ণকে প্রশাসন ও সুশাসনের আদর্শ হিসেবে এবং 'রামরাজ্য'কে আদর্শ রাষ্ট্রব্যবস্থা হিসেবে উপস্থাপন করা হয়েছে।"
+    }
+   ],
+   "label_bn": "",
+   "summary_bn": "২০২৬ সালের ৯ নভেম্বরের এই সংখ্যাটি একটি দীনদয়াল উপাধ্যায় বিশেষ সংখ্যা, যা তাঁর জন্মবার্ষিকী এবং তাঁর একাত্ম মানবদর্শন (Ekatma Manavdarshan) তত্ত্বকে ঘিরে রচিত, যাকে ভারতের রাজনীতি ও শাসনের ভিত্তি হিসেবে উপস্থাপন করা হয়েছে। এতে বামপন্থী/সিপিআই(এম), কংগ্রেস-নেতৃত্বাধীন বিরোধী শিবির এবং মমতা বন্দ্যোপাধ্যায়ের তৃণমূলকেও আক্রমণ করা হয়েছে। 'ককরোচ' আন্দোলন ও এসআইআর বিতর্কের মতো বিরোধী বিক্ষোভকে অনুপ্রবেশকারী, জেহাদি শক্তি ও বাংলাদেশের জামায়াতের মদতপুষ্ট 'শাসন পরিবর্তনের' চক্রান্ত হিসেবে দেখানো হয়েছে। রাজ্যের বিজেপি-শাসিত সরকার তার 'ষান্মাসিক পরীক্ষায়' উত্তীর্ণ হয়েছে বলে প্রশংসা করা হয়েছে, এবং হিন্দুত্ব, রামায়ণ ও সঙ্ঘ শতবর্ষের কর্মসূচির প্রচার করা হয়েছে."
+  },
   {
    "issue": "20261102",
    "date": "2026-11-02",
@@ -1034,6 +1563,394 @@ window.HINDUTVA = {
    ],
    "label_bn": "",
    "summary_bn": "এই দীপাবলি বিশেষ সংখ্যায় (২ নভেম্বর ২০২৬) উৎসব ও সাংস্কৃতিক বিষয়বস্তুর (দীপাবলি, কালীপুজো, শাক্ত পদাবলি, ভগিনী নিবেদিতা) সঙ্গে পশ্চিমবঙ্গে বিজেপির ক্ষমতায় আসার পর জোরালো রাজনৈতিক বার্তা মিশে আছে। এতে বামপন্থীদের (মার্ক্সবাদীদের) হিন্দুবিরোধী, ভারতবিরোধী এবং স্বয়ংসেবকদের প্রতি হিংসাত্মক বলে আক্রমণ করা হয়েছে এবং মুখ্যমন্ত্রী শুভেন্দু অধিকারীর খাদ্য-নিরাপত্তা অভিযানের প্রশংসা করা হয়েছে। এতে নিউ টাউনে আরএসএসের নতুন কেশব স্মৃতি ভবনের উদ্বোধনের খবর রয়েছে, যেখানে মুখ্যমন্ত্রী উপস্থিত ছিলেন, এবং পত্রিকাটিকে সম্মান জানাতে 'মুখ্যমন্ত্রীর উদ্দেশে নিবেদিত' স্বস্তিকা অনুষ্ঠানের কথাও আছে। এছাড়া সঙ্ঘের শতবর্ষ সমাপ্তি উপলক্ষে আরএসএস প্রধান মোহন ভাগবতের বিজয়াদশমীর ভাষণ প্রকাশিত হয়েছে।"
+  },
+  {
+   "issue": "20261012",
+   "date": "2026-10-12",
+   "pdf": "20261012.pdf",
+   "label": "",
+   "summary": "This 12 October 2026 issue is a Durga Puja special that frames the festival as Bengali cultural revival and self-strengthening. The editorial credits the new BJP-led West Bengal government for restoring 'shastric' Durga Puja and defeating the earlier TMC rule. Other pieces defend Bageshwar Dham's Dhirendra Krishna Shastri against 'outsider' charges, attack the media and the Left, and praise Sangh leader Ashok Singhal. There are also pieces on Congress-versus-BJP foreign policy, the BRICS summit, Jadavpur University and Netaji, along with the Hedgewar serial and obituaries of swayamsevaks.",
+   "programs": [
+    {
+     "title": "Obituary and tribute: Apurba Kamal Barma (Dulal Barma), Malda swayamsevak",
+     "org": "RSS",
+     "type": "other",
+     "where": "Malda / Jalpaiguri, West Bengal",
+     "when": "27 September 2026",
+     "page": 49,
+     "detail": "Obituary of Malda Seva Pramukh Apurba Kamal Barma, an RSS swayamsevak from Jalpaiguri. It records his founding of Kishore Bharati Parishad, the installation of a Vivekananda bust at Mangalbari, and his role in the Vivekananda Shishu Mandir.",
+     "title_bn": "শোকসংবাদ ও শ্রদ্ধাঞ্জলি: অপূর্ব কমল বর্মা (দুলাল বর্মা), মালদার স্বয়ংসেবক",
+     "org_bn": "আরএসএস",
+     "type_bn": "অন্যান্য",
+     "where_bn": "মালদা/জলপাইগুড়ি, পশ্চিমবঙ্গ",
+     "when_bn": "২৭ সেপ্টেম্বর ২০২৬",
+     "detail_bn": "মালদার সেবা প্রমুখ অপূর্ব কমল বর্মার শোকসংবাদ; তিনি জলপাইগুড়ির আরএসএস স্বয়ংসেবক ছিলেন। এতে কিশোর ভারতী পরিষদ প্রতিষ্ঠা, মঙ্গলবাড়িতে বিবেকানন্দের আবক্ষ মূর্তি স্থাপন এবং বিবেকানন্দ শিশু মন্দিরে তাঁর ভূমিকার কথা লেখা আছে।"
+    },
+    {
+     "title": "Obituary: Shankar Kumar, Chhatatar shakha swayamsevak",
+     "org": "RSS",
+     "type": "other",
+     "where": "Baghmundi, Purulia",
+     "when": "20 September",
+     "page": 9,
+     "detail": "Death notice for a swayamsevak of the Chhatatar shakha in Baghmundi khanda, Purulia, aged 62.",
+     "title_bn": "শোকসংবাদ: শংকর কুমার, ছাতাতার শাখার স্বয়ংসেবক",
+     "org_bn": "আরএসএস",
+     "type_bn": "অন্যান্য",
+     "where_bn": "বাগমুণ্ডি, পুরুলিয়া",
+     "when_bn": "২০ সেপ্টেম্বর",
+     "detail_bn": "পুরুলিয়ার বাগমুণ্ডি খণ্ডের ছাতাতর শাখার ৬২ বছর বয়সি এক স্বয়ংসেবকের মৃত্যুসংবাদ।"
+    },
+    {
+     "title": "Obituary: Biswanath Pramanik (father of Kolkata Rani Rashmoni basti pramukh)",
+     "org": "RSS",
+     "type": "other",
+     "where": "Kolkata",
+     "when": "22 September",
+     "page": 49,
+     "detail": "Death notice for the father of Shrikanta Pramanik, an RSS Rani Rashmoni basti pramukh in Kolkata.",
+     "title_bn": "শোকসংবাদ: বিশ্বনাথ প্রামাণিক (কলকাতার রানি রাসমণি বস্তি প্রমুখের পিতা)",
+     "org_bn": "আরএসএস",
+     "type_bn": "অন্যান্য",
+     "where_bn": "কলকাতা",
+     "when_bn": "২২ সেপ্টেম্বর",
+     "detail_bn": "কলকাতার আরএসএসের রানি রাসমণি বস্তি প্রমুখ শ্রীকান্ত প্রামাণিকের পিতার মৃত্যুসংবাদ।"
+    },
+    {
+     "title": "Vivekananda statue and road naming at Bulbuli Mor, Mangalbari (historical)",
+     "org": "RSS",
+     "type": "other",
+     "where": "Malda, West Bengal",
+     "when": "1980s",
+     "page": 49,
+     "detail": "Recalled in the obituary: the bust installed over opposition from the Left and Congress, and the road renamed 'Vivekananda Road'.",
+     "title_bn": "বুলবুলি মোড়, মঙ্গলবাড়িতে বিবেকানন্দের মূর্তি ও সড়কের নামকরণ (ঐতিহাসিক)",
+     "org_bn": "আরএসএস",
+     "type_bn": "অন্যান্য",
+     "where_bn": "মালদা, পশ্চিমবঙ্গ",
+     "when_bn": "১৯৮০-র দশক",
+     "detail_bn": "মৃত্যুসংবাদে স্মরণ করা হয়েছে: বাম ও কংগ্রেসের বিরোধিতা সত্ত্বেও আবক্ষ মূর্তি স্থাপন এবং রাস্তার নাম পাল্টে 'বিবেকানন্দ রোড' রাখা।"
+    },
+    {
+     "title": "Dr Hedgewar's death and funeral procession (serialised history)",
+     "org": "RSS",
+     "type": "centenary",
+     "where": "Nagpur",
+     "when": "20-21 June 1940",
+     "page": 50,
+     "detail": "Final part of the Sangh centenary tribute series 'Golpokathay Doctorji'. It narrates Hedgewar's death and the funeral procession with thousands of swayamsevaks.",
+     "title_bn": "ডাঃ হেডগেওয়ারের মৃত্যু ও শবযাত্রা (ধারাবাহিক ইতিহাস)",
+     "org_bn": "আরএসএস",
+     "type_bn": "শতবর্ষ",
+     "where_bn": "নাগপুর",
+     "when_bn": "২০-২১ জুন ১৯৪০",
+     "detail_bn": "সঙ্ঘের শতবর্ষ শ্রদ্ধার্ঘ্য ধারাবাহিক 'গল্পকথায় ডাক্তারজী'-র শেষ কিস্তি। এতে হেডগেওয়ারের মৃত্যু এবং হাজার হাজার স্বয়ংসেবকের অংশগ্রহণে শবযাত্রার বিবরণ রয়েছে।"
+    },
+    {
+     "title": "Virat Hindu Sammelan, Delhi (historical, led by Ashok Singhal)",
+     "org": "VHP",
+     "type": "sammelan/conference",
+     "where": "Delhi",
+     "when": "after the Meenakshipuram conversions",
+     "page": 8,
+     "detail": "Recalled in the Hosabale tribute: Singhal organised the Virat Hindu Sammelan in Delhi in response to the conversions and was then given VHP responsibilities.",
+     "title_bn": "বিরাট হিন্দু সম্মেলন, দিল্লি (ঐতিহাসিক, অশোক সিংহলের নেতৃত্বে)",
+     "org_bn": "বিশ্ব হিন্দু পরিষদ",
+     "type_bn": "সম্মেলন",
+     "where_bn": "দিল্লি",
+     "when_bn": "মীনাক্ষীপুরমের ধর্মান্তরণের পর",
+     "detail_bn": "হোসবালের শ্রদ্ধাঞ্জলিতে স্মরণ করা হয়েছে: ধর্মান্তরণের প্রতিক্রিয়ায় সিংঘল দিল্লিতে বিরাট হিন্দু সম্মেলন করেছিলেন এবং তারপর তাঁকে বিশ্ব হিন্দু পরিষদের দায়িত্ব দেওয়া হয়।"
+    },
+    {
+     "title": "Ram Janmabhoomi movement programmes (historical: Ram-Janaki rath yatra, shila pujan, Ram Jyoti, kar seva)",
+     "org": "VHP",
+     "type": "political campaign",
+     "where": "Ayodhya / India",
+     "when": "1980s-1990, 9 Nov 1989",
+     "page": 9,
+     "detail": "Singhal's role is recounted, including the 1989 foundation-stone laying with Kameshwar Chaupal and the 2024 Ram Lalla consecration.",
+     "title_bn": "রামজন্মভূমি আন্দোলনের কর্মসূচি (ঐতিহাসিক: রাম-জানকী রথযাত্রা, শিলাপূজন, রামজ্যোতি, কারসেবা)",
+     "org_bn": "বিশ্ব হিন্দু পরিষদ",
+     "type_bn": "রাজনৈতিক প্রচার",
+     "where_bn": "অযোধ্যা / ভারত",
+     "when_bn": "১৯৮০-র দশক থেকে ১৯৯০, ৯ নভেম্বর ১৯৮৯",
+     "detail_bn": "সিংঘলের ভূমিকা বর্ণনা করা হয়েছে, যার মধ্যে রয়েছে কামেশ্বর চৌপালের সঙ্গে ১৯৮৯ সালের শিলান্যাস এবং ২০২৪ সালের রামলালার প্রাণপ্রতিষ্ঠা।"
+    },
+    {
+     "title": "Samarasata (social harmony) efforts against untouchability (historical)",
+     "org": "VHP",
+     "type": "seva/relief",
+     "where": "Varanasi / Ayodhya",
+     "when": "",
+     "page": 9,
+     "detail": "Saints visited Scheduled Caste settlements and ate at the Dom Raja's house in Varanasi, presented as examples of social harmony.",
+     "title_bn": "অস্পৃশ্যতার বিরুদ্ধে সমরসতা (সামাজিক সম্প্রীতি) প্রয়াস (ঐতিহাসিক)",
+     "org_bn": "বিশ্ব হিন্দু পরিষদ",
+     "type_bn": "সেবা/ত্রাণ",
+     "where_bn": "বারাণসী / অযোধ্যা",
+     "when_bn": "",
+     "detail_bn": "সাধুসন্তরা তফসিলি জাতি অধ্যুষিত বসতিতে গিয়েছিলেন এবং বারাণসীতে ডোম রাজার বাড়িতে আহার করেছিলেন, যা সামাজিক সম্প্রীতির দৃষ্টান্ত হিসেবে তুলে ধরা হয়েছে।"
+    },
+    {
+     "title": "Bageshwar Dham event in Howrah",
+     "org": "other: Bageshwar Dham (Dhirendra Krishna Shastri)",
+     "type": "festival/religious",
+     "where": "Howrah, West Bengal",
+     "when": "recent",
+     "page": 10,
+     "detail": "The young saint spoke at an event in Howrah about 'sattvik' Durga Puja and was then branded an 'outsider baba' by a Bengali media group.",
+     "title_bn": "হাওড়ায় বাগেশ্বর ধামের অনুষ্ঠান",
+     "org_bn": "অন্যান্য: বাগেশ্বর ধাম (ধীরেন্দ্র কৃষ্ণ শাস্ত্রী)",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "হাওড়া, পশ্চিমবঙ্গ",
+     "when_bn": "সাম্প্রতিক",
+     "detail_bn": "তরুণ সন্ন্যাসী হাওড়ার একটি অনুষ্ঠানে 'সাত্ত্বিক' দুর্গাপুজো নিয়ে বক্তব্য রাখেন, এবং তার পর একটি বাংলা সংবাদমাধ্যম গোষ্ঠী তাঁকে 'বহিরাগত বাবা' বলে দেগে দেয়।"
+    },
+    {
+     "title": "Pre-Pitrapaksha Durga Puja inauguration ban / sattvik shastric Durga Puja policy",
+     "org": "BJP",
+     "type": "political campaign",
+     "where": "West Bengal",
+     "when": "2026 Durga Puja",
+     "page": 5,
+     "detail": "The editorial says the BJP chief minister ruled that Durga Puja cannot be inaugurated during Pitrapaksha and that insults to Hindu culture or sadhus will not be tolerated.",
+     "title_bn": "পিতৃপক্ষের আগে দুর্গাপুজোর উদ্বোধনে নিষেধাজ্ঞা / সাত্ত্বিক শাস্ত্রীয় দুর্গাপুজো নীতি",
+     "org_bn": "বিজেপি",
+     "type_bn": "রাজনৈতিক প্রচার",
+     "where_bn": "পশ্চিমবঙ্গ",
+     "when_bn": "২০২৬ সালের দুর্গাপূজা",
+     "detail_bn": "সম্পাদকীয়তে বলা হয়েছে, বিজেপির মুখ্যমন্ত্রী নির্দেশ দিয়েছেন পিতৃপক্ষে দুর্গাপুজোর উদ্বোধন করা যাবে না এবং হিন্দু সংস্কৃতি বা সাধুদের অপমান বরদাস্ত করা হবে না।"
+    },
+    {
+     "title": "Birbashtami and Durga Puja revival of martial spirit (historical Bagbazar/Sarala Devi)",
+     "org": "other: Bagbazar Sarbojanin Durgotsav",
+     "type": "festival/religious",
+     "where": "Kolkata",
+     "when": "Mahashtami",
+     "page": 19,
+     "detail": "The Bagbazar Sarbojanin Durgotsav is presented as carrying a swadeshi and revolutionary heritage, including Birbashtami, linked to Pulin Behari Das and Netaji.",
+     "title_bn": "বীরাষ্টমী এবং দুর্গাপুজোর মাধ্যমে মার্শাল চেতনার পুনর্জাগরণ (ঐতিহাসিক বাগবাজার/সরলা দেবী)",
+     "org_bn": "অন্যান্য: বাগবাজার সার্বজনীন দুর্গোৎসব",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "কলকাতা",
+     "when_bn": "মহাষ্টমী",
+     "detail_bn": "বাগবাজার সার্বজনীন দুর্গোৎসবকে স্বদেশি ও বৈপ্লবিক ঐতিহ্যের বাহক হিসেবে তুলে ধরা হয়েছে, যার মধ্যে বীরাষ্টমীও রয়েছে এবং যা পুলিন বিহারী দাস ও নেতাজির সঙ্গে যুক্ত।"
+    },
+    {
+     "title": "125th year of Manicktala Sadhukhan family Durga Puja",
+     "org": "other: family puja",
+     "type": "festival/religious",
+     "where": "Manicktala, Kolkata",
+     "when": "2026",
+     "page": 22,
+     "detail": "Feature on the family puja entering its 125th year, with its Vaishnava rites and kumari puja.",
+     "title_bn": "মানিকতলা সাধুখাঁ পরিবারের দুর্গাপূজার ১২৫তম বছর",
+     "org_bn": "অন্যান্য: পারিবারিক পুজো",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "মানিকতলা, কলকাতা",
+     "when_bn": "2026",
+     "detail_bn": "১২৫তম বছরে পা দেওয়া পারিবারিক পুজো নিয়ে প্রতিবেদন, যার বৈষ্ণব রীতি ও কুমারী পুজো রয়েছে।"
+    },
+    {
+     "title": "Panchthupi Durga Puja (Murshidabad)",
+     "org": "other: family/village puja",
+     "type": "festival/religious",
+     "where": "Panchthupi, Kandi, Murshidabad",
+     "when": "2026",
+     "page": 24,
+     "detail": "Feature on a 500-year-old tradition of goat and buffalo sacrifice, 'gram phera' and a Harisadhan Dasgupta documentary.",
+     "title_bn": "পাঁচথুপী দুর্গাপুজো (মুর্শিদাবাদ)",
+     "org_bn": "অন্যান্য: পারিবারিক/গ্রামের পুজো",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "পাঁচথুপী, কান্দি, মুর্শিদাবাদ",
+     "when_bn": "2026",
+     "detail_bn": "৫০০ বছরের পুরোনো ছাগ ও মহিষ বলির ঐতিহ্য, 'গ্রাম ফেরা' এবং হরিসাধন দাশগুপ্তের একটি তথ্যচিত্র নিয়ে প্রতিবেদন।"
+    },
+    {
+     "title": "Soyai Mukherjee family Durga Puja",
+     "org": "other: family puja",
+     "type": "festival/religious",
+     "where": "Soyai, near Panagarh, Purba Bardhaman",
+     "when": "2026",
+     "page": 26,
+     "detail": "Feature on the Mukherjee family puja, with sacrifice rituals and a 'shastra and shastra' defence-of-faith narrative.",
+     "title_bn": "সৈয়াই মুখোপাধ্যায় পরিবারের দুর্গাপুজো",
+     "org_bn": "অন্যান্য: পারিবারিক পুজো",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "সৈয়াই, পানাগড়ের কাছে, পূর্ব বর্ধমান",
+     "when_bn": "2026",
+     "detail_bn": "মুখোপাধ্যায় পরিবারের পুজো নিয়ে প্রতিবেদন, যেখানে বলির আচার এবং 'শাস্ত্র ও শস্ত্র' ধর্মরক্ষার আখ্যান রয়েছে।"
+    },
+    {
+     "title": "Bardhaman Rajbari Durga Puja",
+     "org": "other: royal-family puja",
+     "type": "festival/religious",
+     "where": "Bardhaman",
+     "when": "2026",
+     "page": 28,
+     "detail": "The author recalls the Lakshmi Narayan Jiu temple, which once hosted RSS Sri Krishna Prabhat, Damodar Sayam and Damodar Ratri shakhas.",
+     "title_bn": "বর্ধমান রাজবাড়ির দুর্গাপুজো",
+     "org_bn": "অন্যান্য: রাজপরিবারের পুজো",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "বর্ধমান",
+     "when_bn": "2026",
+     "detail_bn": "লেখক লক্ষ্মীনারায়ণ জিউ মন্দিরের কথা স্মরণ করেছেন, যেখানে একসময় আরএসএসের শ্রীকৃষ্ণ প্রভাত, দামোদর সায়ম ও দামোদর রাত্রি শাখা বসত।"
+    },
+    {
+     "title": "Belur Math first Durga Puja (historical, 1901)",
+     "org": "other: Ramakrishna Math",
+     "type": "festival/religious",
+     "where": "Belur, Howrah",
+     "when": "1901",
+     "page": 12,
+     "detail": "Account of Vivekananda starting Durga Puja at Belur Math, including kumari puja and the replacement of animal sacrifice with bananas.",
+     "title_bn": "বেলুড় মঠের প্রথম দুর্গাপুজো (ঐতিহাসিক, ১৯০১)",
+     "org_bn": "অন্যান্য: রামকৃষ্ণ মঠ",
+     "type_bn": "উৎসব/ধর্মীয়",
+     "where_bn": "বেলুড়, হাওড়া",
+     "when_bn": "1901",
+     "detail_bn": "বেলুড় মঠে বিবেকানন্দের দুর্গাপূজা শুরুর বিবরণ, যার মধ্যে কুমারী পূজা এবং পশুবলির পরিবর্তে কলা উৎসর্গের প্রসঙ্গও রয়েছে।"
+    },
+    {
+     "title": "Swastika Diwali special issue and life-membership drive",
+     "org": "other: Swastika weekly",
+     "type": "other",
+     "where": "Kolkata",
+     "when": "2 November 2026",
+     "page": 4,
+     "detail": "The magazine announces a puja break and a Diwali special issue. It also announces lifetime memberships at ₹25,000 and 10-year memberships at ₹10,000.",
+     "title_bn": "স্বস্তিকা দীপাবলি বিশেষ সংখ্যা ও আজীবন সদস্য সংগ্রহ অভিযান",
+     "org_bn": "অন্যান্য: স্বস্তিকা সাপ্তাহিক",
+     "type_bn": "অন্যান্য",
+     "where_bn": "কলকাতা",
+     "when_bn": "২ নভেম্বর ২০২৬",
+     "detail_bn": "পত্রিকাটি পূজার ছুটি এবং একটি দীপাবলি বিশেষ সংখ্যার ঘোষণা দিয়েছে। পাশাপাশি ২৫,০০০ টাকায় আজীবন সদস্যতা এবং ১০,০০০ টাকায় ১০ বছরের সদস্যতার কথাও জানিয়েছে।"
+    }
+   ],
+   "narratives": [
+    {
+     "theme": "West Bengal elections",
+     "target": "Previous TMC government and Mamata Banerjee (praise for the new BJP government)",
+     "claim": "The BJP-led government now ensures Durga Puja is held according to shastra, the previous rulers insulted Hindu culture and were rightly removed, and Durga has ended the Bengalis' misery.",
+     "heading": "বাঙ্গালির দুর্গতি নাশ",
+     "page": 5,
+     "theme_bn": "পশ্চিমবঙ্গের নির্বাচন",
+     "target_bn": "পূর্বতন তৃণমূল সরকার ও মমতা বন্দ্যোপাধ্যায় (নতুন বিজেপি সরকারের প্রশংসা)",
+     "claim_bn": "বিজেপি-নেতৃত্বাধীন সরকার এখন নিশ্চিত করছে যে দুর্গাপুজো শাস্ত্র অনুযায়ী অনুষ্ঠিত হবে, আগের শাসকরা হিন্দু সংস্কৃতির অপমান করেছিল এবং ঠিকই তাদের সরানো হয়েছে, আর দুর্গা বাঙালির দুর্দশার অবসান ঘটিয়েছেন।"
+    },
+    {
+     "theme": "anti-Left/CPIM",
+     "target": "Communists",
+     "claim": "Communists oppose puja and religion yet shamelessly set up book stalls in puja pandals, and three decades of 'alien' rule tried to make Bengalis forget their religion.",
+     "heading": "বাঙ্গালির দুর্গতি নাশ",
+     "page": 5,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "কমিউনিস্টরা",
+     "claim_bn": "কমিউনিস্টরা পুজো ও ধর্মের বিরোধিতা করেও নির্লজ্জভাবে পুজোমণ্ডপে বইয়ের স্টল বসায়, আর তিন দশকের 'বিজাতীয়' শাসন বাঙালিকে তার ধর্ম ভুলিয়ে দেওয়ার চেষ্টা করেছে।"
+    },
+    {
+     "theme": "anti-TMC/state govt",
+     "target": "Mamata Banerjee and the TMC",
+     "claim": "After the BJP-run government took office, some people and media falsely cry that all is lost; courtesy mistaken for weakness would only invite calls for an opposition-free state.",
+     "heading": "ভদ্রতাকে দুর্বলতা ভাবলে বিরোধীশুন্যতার ভাবনা মান্যতা পাবেই — ভদ্রতা ও দুর্বলতা",
+     "page": 6,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "মমতা বন্দ্যোপাধ্যায় ও তৃণমূল",
+     "claim_bn": "বিজেপি-চালিত সরকার ক্ষমতায় আসার পর কিছু মানুষ ও গণমাধ্যম মিথ্যে করে চিৎকার করছে যে সব শেষ হয়ে গেছে; সৌজন্যকে দুর্বলতা ভাবলে তা কেবল বিরোধীমুক্ত রাজ্যের দাবিকেই ডেকে আনবে।"
+    },
+    {
+     "theme": "anti-TMC/state govt",
+     "target": "Mamata Banerjee ('Didi')",
+     "claim": "Didi has lost power, party and symbol, and her acting skills have now cost her even the best-actress award.",
+     "heading": "দিদি গো! সেরা অভিনেত্রী পুরস্কার হাতছাড়া",
+     "page": 7,
+     "theme_bn": "তৃণমূল/রাজ্য সরকার-বিরোধী",
+     "target_bn": "মমতা বন্দ্যোপাধ্যায় ('দিদি')",
+     "claim_bn": "দিদি ক্ষমতা, দল ও প্রতীক হারিয়েছেন, আর এবার অভিনয়ের দক্ষতার জন্য সেরা অভিনেত্রীর পুরস্কারটাও খোয়ালেন।"
+    },
+    {
+     "theme": "Hindu unity & identity",
+     "target": "Bengali media group and its TV channel (attacked); Dhirendra Krishna Shastri (defended)",
+     "claim": "A market-driven media group is lying about Durga Puja and calling Bageshwar Dham's Dhirendra Shastri an 'outsider baba' because of its anti-Hindu bias, while ignoring jihadi threats and Muslim practices.",
+     "heading": "দুর্গাপূজার বিষয়ে মিথ্যে ন্যারেটিভ ফেরি করার পিছনে বাজারি সংবাদমাধ্যমের কায়েমি স্বার্থ রয়েছে?",
+     "page": 10,
+     "theme_bn": "হিন্দু ঐক্য ও পরিচয়",
+     "target_bn": "একটি বাংলা সংবাদমাধ্যম গোষ্ঠী ও তার টিভি চ্যানেল (আক্রান্ত); ধীরেন্দ্র কৃষ্ণ শাস্ত্রী (সমর্থিত)",
+     "claim_bn": "একটি বাজার-চালিত গণমাধ্যম গোষ্ঠী হিন্দুবিদ্বেষী মনোভাবের কারণে দুর্গাপূজা নিয়ে মিথ্যা বলছে এবং বাগেশ্বর ধামের ধীরেন্দ্র শাস্ত্রীকে 'বহিরাগত বাবা' বলছে, অথচ জিহাদি হুমকি ও মুসলমানদের রীতিনীতি উপেক্ষা করছে।"
+    },
+    {
+     "theme": "infiltration/demography",
+     "target": "Muslims and the earlier TMC regime",
+     "claim": "The article says West Bengal tops the country in child marriage because of its large Muslim population. It also says that had the 'jihadi-thief' party won, Durga Puja would be banned in places.",
+     "heading": "দুর্গাপূজার বিষয়ে মিথ্যে ন্যারেটিভ ফেরি করার পিছনে বাজারি সংবাদমাধ্যমের কায়েমি স্বার্থ রয়েছে?",
+     "page": 10,
+     "theme_bn": "অনুপ্রবেশ/জনবিন্যাস",
+     "target_bn": "মুসলমান ও আগের তৃণমূল শাসন",
+     "claim_bn": "নিবন্ধটিতে বলা হয়েছে, মুসলিম জনসংখ্যা বেশি হওয়ায় বাল্যবিবাহে পশ্চিমবঙ্গ দেশে শীর্ষে। আরও বলা হয়েছে, 'জিহাদি-চোর' দল জিতলে কোথাও কোথাও দুর্গাপুজো নিষিদ্ধ হয়ে যেত।"
+    },
+    {
+     "theme": "history & icons",
+     "target": "Ashok Singhal (praised); the Hindu revival movement",
+     "claim": "Singhal is portrayed as a karmayogi who led the Ram Janmabhoomi movement, the Virat Hindu Sammelan and the VHP's mobilisation against conversion, awakening Hindu self-confidence.",
+     "heading": "অশোক সিঙ্ঘলজী : এক কর্মযোগী",
+     "page": 8,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "অশোক সিঙ্ঘল (প্রশংসিত); হিন্দু পুনরুজ্জীবন আন্দোলন",
+     "claim_bn": "সিংঘলকে কর্মযোগী হিসেবে তুলে ধরা হয়েছে, যিনি রামজন্মভূমি আন্দোলন, বিরাট হিন্দু সম্মেলন এবং ধর্মান্তরণের বিরুদ্ধে বিশ্ব হিন্দু পরিষদের সংগঠিত কর্মসূচির নেতৃত্ব দিয়ে হিন্দুদের আত্মবিশ্বাস জাগিয়েছেন।"
+    },
+    {
+     "theme": "history & icons",
+     "target": "Communists (attacked); Netaji (praised)",
+     "claim": "The Communists' hostility to Netaji was born of their character, and Netaji worshipped Durga as Bharat Mata in Mandalay jail.",
+     "heading": "মা দুর্গা যখন ভারতমাতা — নেতাজী সুভাষচন্দ্র বসুর মহাশক্তির আরাধনা",
+     "page": 37,
+     "theme_bn": "ইতিহাস ও আদর্শ ব্যক্তিত্ব",
+     "target_bn": "কমিউনিস্টরা (আক্রান্ত); নেতাজি (প্রশংসিত)",
+     "claim_bn": "নেতাজির প্রতি কমিউনিস্টদের শত্রুতা তাদের চরিত্র থেকেই জন্ম নিয়েছে, এবং নেতাজি মান্দালয় জেলে ভারতমাতা রূপে দুর্গার পুজো করতেন।"
+    },
+    {
+     "theme": "nationalism/army/Pakistan",
+     "target": "Congress (attacked); BJP government (praised)",
+     "claim": "A comparative analysis claims the BJP's foreign policy has been more direct, assertive and beneficial for India than the Congress era's.",
+     "heading": "ভারতীয় পররাষ্ট্রনীতিতে যুগের বিবর্তন : কংগ্রেস বনাম বিজেপি শাসনকালের তুলনামূলক বিশ্লেষণ",
+     "page": 40,
+     "theme_bn": "জাতীয়তাবাদ/সেনা/পাকিস্তান",
+     "target_bn": "কংগ্রেস (আক্রান্ত); বিজেপি সরকার (প্রশংসিত)",
+     "claim_bn": "একটি তুলনামূলক বিশ্লেষণে দাবি করা হয়েছে, কংগ্রেস আমলের তুলনায় বিজেপির বিদেশনীতি ভারতের পক্ষে আরও সরাসরি, দৃঢ় ও লাভজনক হয়েছে।"
+    },
+    {
+     "theme": "Modi govt achievements",
+     "target": "Modi government",
+     "claim": "The BRICS summit is presented as a major gain for India, helping to build a multipolar order centred on the Global South.",
+     "heading": "ব্রিকস্ সম্মেলন এবং ভারতের প্রভূত প্রাপ্তি",
+     "page": 43,
+     "theme_bn": "মোদী সরকারের কৃতিত্ব",
+     "target_bn": "মোদী সরকার",
+     "claim_bn": "ব্রিকস শীর্ষ সম্মেলনকে ভারতের বড় প্রাপ্তি হিসেবে তুলে ধরা হয়েছে, যা গ্লোবাল সাউথকে কেন্দ্র করে বহুমেরু বিশ্বব্যবস্থা গড়তে সহায়তা করছে।"
+    },
+    {
+     "theme": "anti-Left/CPIM",
+     "target": "INDI alliance and the opposition",
+     "claim": "The INDI alliance is accused of weaving false narratives to hide the truth, based on a newspaper report of 23 September.",
+     "heading": "সত্যকে লুকোতে মিথ্যা ন্যারেটিভের জাল বোনা",
+     "page": 46,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "ইন্ডিয়া জোট ও বিরোধী পক্ষ",
+     "claim_bn": "ইন্ডি জোটের বিরুদ্ধে সত্য আড়াল করতে মিথ্যা আখ্যান বোনার অভিযোগ আনা হয়েছে, যা ২৩ সেপ্টেম্বরের একটি সংবাদপত্র প্রতিবেদনের ভিত্তিতে।"
+    },
+    {
+     "theme": "anti-Left/CPIM",
+     "target": "Left, ultra-Left and radical groups at Jadavpur University",
+     "claim": "The article says Left, ultra-Left and radical elements are fuelling controversy at Jadavpur University, and the government must take a firm stand.",
+     "heading": "যাদবপুর বিশ্ববিদ্যালয়ের সাম্প্রতিক ঘটনাবলী : সরকারের কঠোর অবস্থান জরুরি",
+     "page": 47,
+     "theme_bn": "বাম/সিপিআই(এম)-বিরোধী",
+     "target_bn": "যাদবপুর বিশ্ববিদ্যালয়ে বামপন্থী, অতিবামপন্থী ও চরমপন্থী গোষ্ঠী",
+     "claim_bn": "নিবন্ধটিতে বলা হয়েছে, বামপন্থী, অতি-বামপন্থী ও উগ্রপন্থী শক্তি যাদবপুর বিশ্ববিদ্যালয়ে বিতর্কে ইন্ধন দিচ্ছে, এবং সরকারকে কঠোর অবস্থান নিতে হবে।"
+    }
+   ],
+   "label_bn": "",
+   "summary_bn": "২০২৬ সালের ১২ অক্টোবরের এই সংখ্যাটি একটি দুর্গাপূজা বিশেষ সংখ্যা, যেখানে উৎসবটিকে বাঙালির সাংস্কৃতিক পুনরুজ্জীবন ও আত্মশক্তি বৃদ্ধি হিসেবে তুলে ধরা হয়েছে। সম্পাদকীয়তে বিজেপি-নেতৃত্বাধীন নতুন পশ্চিমবঙ্গ সরকারকে 'শাস্ত্রীয়' দুর্গাপূজা ফিরিয়ে আনা এবং আগের তৃণমূল শাসনকে পরাস্ত করার কৃতিত্ব দেওয়া হয়েছে। অন্যান্য লেখায় 'বহিরাগত' অভিযোগের বিরুদ্ধে বাগেশ্বর ধামের ধীরেন্দ্র কৃষ্ণ শাস্ত্রীর পক্ষে সওয়াল করা হয়েছে, সংবাদমাধ্যম ও বামপন্থীদের আক্রমণ করা হয়েছে এবং সঙ্ঘ নেতা অশোক সিঙ্ঘলের প্রশংসা করা হয়েছে। এ ছাড়া রয়েছে কংগ্রেস বনাম বিজেপির পররাষ্ট্রনীতি, ব্রিকস শীর্ষ সম্মেলন, যাদবপুর বিশ্ববিদ্যালয় ও নেতাজিকে নিয়ে লেখা, সঙ্গে হেডগেওয়ার ধারাবাহিক ও স্বয়ংসেবকদের মৃত্যু-সংবাদ।"
   },
   {
    "issue": "20260928",
